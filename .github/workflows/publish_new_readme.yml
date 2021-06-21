@@ -1,0 +1,37 @@
+name: README Build
+on:
+  push:
+    branches: [ main ]
+
+  workflow_dispatch:
+  schedule:
+    - cron: "* */6 * * *"
+
+jobs:
+  build:
+    name: Fully Update Readme
+    runs-on: ubuntu-latest
+    steps:
+        - name: checkout
+          uses: actions/checkout@v2
+        
+        - name: Make virtual environment
+          run: python3 -m venv .venv
+
+        - name: Activate virtual environment
+          run: source .venv/bin/activate
+        
+        - name: Install requirements
+          run: pip install -r requirements.txt
+
+        - name: Generate README file
+          env:
+            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
+            OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
+            LOCATION: ${{ secrets.LOCATION }}
+          run: python main.py
+
+        - name: Push new README.md
+          uses: mikeal/publish-to-github-action@master
+          env:
+            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
