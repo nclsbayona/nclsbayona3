@@ -247,7 +247,7 @@ if __name__ == '__main__':
     async def main(open_weather_query, open_weather_key,
                waka_time_api_key, format):
         await updateFile(open_weather_query=open_weather_query, open_weather_key=open_weather_key,
-               waka_time_api_key=waka_api_key, format=format)
+               waka_time_api_key=waka_time_api_key, format=format)
 
     waka_api_key = environ["WAKATIME_API_KEY"]
     open_weather_key = environ["OPEN_WEATHER_MAP_KEY"]
