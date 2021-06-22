@@ -9,7 +9,7 @@ on:
 
 jobs:
   build:
-    name: Fully Update Readme
+    name: Update README without activity
     runs-on: ubuntu-latest
     steps:
         - name: checkout
@@ -35,7 +35,10 @@ jobs:
           uses: mikeal/publish-to-github-action@master
           env:
             GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
-        
+  build_2:
+    name: Update Activity part
+    runs-on: ubuntu-latest
+    steps:
         - name: Update with Latest Activity
           uses: jamesgeorge007/github-activity-readme@master
           env:
