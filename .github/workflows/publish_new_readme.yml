@@ -30,7 +30,7 @@ jobs:
             OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
             LOCATION: ${{ secrets.LOCATION }}
           run: python main.py
-
+        
         - name: Push new README.md
           uses: mikeal/publish-to-github-action@master
           env:
