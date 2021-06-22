@@ -15,7 +15,7 @@ on:
 
   workflow_dispatch:
   schedule:
-    - cron: '15 1 * * 0'
+    - cron: '15 3 * * 0'
 
 jobs:
   analyze:
@@ -39,6 +39,7 @@ jobs:
       uses: github/codeql-action/init@v1
       with:
         languages: ${{ matrix.language }}
+        queries: security-and-quality
 
     - name: Perform CodeQL Analysis
       uses: github/codeql-action/analyze@v1
