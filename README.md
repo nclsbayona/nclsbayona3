@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'A fool sees himself as another, but a wise man sees others as himself.' was translated to huttese language, and the result is: 'Do stupa sees himself as andoba,  but do wise nek sees others as himself.'
+            The text 'Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.' was translated to oldenglish language, and the result is: ' {Meaning} {is} wiht êow hladan inne êower blâwung. {You} hladan hit hê ûphladan râd êower behealdan beleorendlic, ûte orgilde êower hreðer tôêacan and {loyalties}, ûte orgilde ðone as wîsdôm orgilde {humankind} swilce man {is} {passed} âbûtan to êower. {You} ârweorðian sê singales wuldorful ðætte canne oferniman ðâs endemest sb ðe ân−feald figure landriht 'land−right lôgian cûðe êower brêost nm.'
         </h5>
-        <img src="https://vignette.wikia.nocookie.net/starwarslanguages/images/b/b1/Review_jabba_1-1-.jpg/revision/latest?cb=20091224205111" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/eaag491504367543.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bellini
+                Name: Almeria
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour peach purée into chilled flute, add sparkling wine. Stir gently.
+                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
             </font>
         </h4>        
     </div>
@@ -82,15 +86,15 @@
                 General GitHub Stats 🌀
             </font>
         </h4>
-        <!--h5>
+        <h5>
             <font color="#679000">
                 😃 General Overview
             </font>
         </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats"-->
+        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
         <h5>
             <font color="#679000">
-                😃 Life-Time Stats Overview
+                Life-Time Stats Overview 😃
             </font>
         </h5>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
@@ -136,8 +140,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                28.71°C, 
-                <i>broken clouds</i>
+                28.66°C, 
+                <i>overcast clouds</i>
             .
             Min. temperature: 27.77°C
             Max. temperature: 29.45°C
@@ -223,7 +227,13 @@
         </div>
     </div>
 </div>
+<h3>
+    <font color="#679000">
+        😃 Activity
+    </font>
+</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
-
