@@ -65,15 +65,15 @@
                 General GitHub Stats 🌀
             </font>
         </h4>
-        <!--h5>
+        <h5>
             <font color="#679000">
                 😃 General Overview
             </font>
         </h5>
-        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats"-->
+        <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight"alt="nclsbayona's Github General Stats">
         <h5>
             <font color="#679000">
-                😃 Life-Time Stats Overview
+                Life-Time Stats Overview 😃
             </font>
         </h5>
         <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
@@ -148,7 +148,13 @@
         </div>
     </div>
 </div>
+<h3>
+    <font color="#679000">
+        😃 Activity
+    </font>
+</h3>
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
 <a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
     <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
 </a>
-
