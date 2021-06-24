@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Your success will not be determined by your gender or your ethnicity, but only on the scope of your dreams and your hard work to achieve them.' was translated to minion language, and the result is: 'tu giesag sama non be refwry bey tu gender sif tu ethnicity, pelo solo lib ta qua mud tu dibweb yee tu ow traba da nampip vus.'
+            The text 'Life is just the same as learning to swim. Do not be afraid of making mistakes, for there is no other way of learning how to live!' was translated to vulcan language, and the result is: 'Ha'kiv nam-tor aishan wuh ka u' learning tor mahal-tor. Ri tor nam-tor kwes t' tor lafosh,  na' tra' nam-tor rai vath yut t' learning uf tor ha-tor!'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rdvqmh1503563512.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/tqyrpw1439905311.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Radioactive Long Island Iced Tea
+                Name: Strawberry Margarita
             </font>
         </h4>
         <h4>
@@ -42,35 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -78,7 +66,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients over ice in a very tall glass. Sip cautiously.
+                Instructions: Rub rim of cocktail glass with lemon juice and dip rim in salt. Shake schnapps, tequila, triple sec, lemon juice, and strawberries with ice, strain into the salt-rimmed glass, and serve.
             </font>
         </h4>        
     </div>
@@ -160,11 +148,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                28.4°C, 
+                28.22°C, 
                 <i>overcast clouds</i>
             .
             Min. temperature: 26.67°C
-            Max. temperature: 29.45°C
+            Max. temperature: 29.99°C
         </p>
     </div>
     <div id="wakatime">
