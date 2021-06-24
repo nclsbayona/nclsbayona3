@@ -1,7 +1,9 @@
 name: README Build
 on:
   push:
-    branches: [ main ]
+    branches: [ master ]
+    paths:
+      - '*.py'
 
   workflow_dispatch:
   schedule:
