@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Life is not just the passing of time. Life is the collection of experiences and their intensity.' was translated to dothraki language, and the result is: 'Atthirar is vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) disse the passing ki kashi. Atthirar is the yanqokh ki experiences ma their intensity.'
+            The text 'The most important thing is to enjoy your life, to be happy, it's all that matters.' was translated to huttese language, and the result is: 'Doe most important thing sa tah panwa do life,  tah be happy,  soong all da matters.'
         </h5>
-        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
+        <img src="https://vignette.wikia.nocookie.net/starwarslanguages/images/b/b1/Review_jabba_1-1-.jpg/revision/latest?cb=20091224205111" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/0wt4uo1503565321.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Owen's Grandmother's Revenge
+                Name: Herbal flame
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,27 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Damn</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup crushed </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">very sweet </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add ingredients and mix in blender.
+                Instructions: Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.
             </font>
         </h4>        
     </div>
@@ -144,11 +136,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                25.48°C, 
+                25.54°C, 
                 <i>heavy intensity rain</i>
             .
             Min. temperature: 23.01°C
-            Max. temperature: 27.22°C
+            Max. temperature: 27.01°C
         </p>
     </div>
     <div id="wakatime">
