@@ -9,6 +9,8 @@ updates:
     directory: "/"
     schedule:
       interval: "daily"
+    allow:
+      - dependency-type: "direct"
     assignees:
       - "nclsbayona"
     commit-message:
