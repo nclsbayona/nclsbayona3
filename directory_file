@@ -1,3 +1,5 @@
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <div id="full-page" style="background-color:#000011;" align="center">
     <div id="greetings" align="center">
         <h2>👋 Hey there 👋</h2> 
@@ -148,6 +150,3 @@
         </div>
     </div>
 </div>
-<a align="center" href="https://www.medium.com/@nclsbayona" target="_blank">
-    <img alt="Medium" src="https://img.shields.io/badge/-MEDIUM-black?&style=for-the-badge&logo=medium&logoColor=white">
-</a>
