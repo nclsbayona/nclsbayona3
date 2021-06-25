@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Struggling means you're learning' was translated to ferblatin language, and the result is: 'truggling-Serb eans-merb you're earning-lerb '
+            The text 'One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.' was translated to pirate language, and the result is: 'One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change th' world.  Your voice can change th' world.'
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/bry4qh1582751040.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Blue Margarita
+                Name: French Negroni
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,27 +42,29 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coarse </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub rim of cocktail glass with lime juice. Dip rim in coarse salt. Shake tequila, blue curacao, and lime juice with ice, strain into the salt-rimmed glass, and serve.
+                Instructions: Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
             </font>
         </h4>        
     </div>
@@ -144,11 +146,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                27.67°C, 
+                27.79°C, 
                 <i>haze</i>
             .
-            Min. temperature: 25°C
-            Max. temperature: 29.45°C
+            Min. temperature: 25.55°C
+            Max. temperature: 30.01°C
         </p>
     </div>
     <div id="wakatime">
