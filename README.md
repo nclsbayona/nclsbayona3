@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Your neighbor is the man who needs you.' was translated to pirate language, and the result is: 'Your neighbor be th' lubber who needs ye.'
+            The text 'We have a choice everyday regarding the attitude we will embrace for that day.' was translated to vulcan language, and the result is: 'Etek ma wuh dvel everyday fundauik wuh attitude etek dungi nartaya na' ik gad.'
         </h5>
-        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Avalanche
+                Name: Absolutely Fabulous
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk / Float / Shake
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix in highball glass over ice, shake well.
+                Instructions: Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.
             </font>
         </h4>        
     </div>
@@ -140,11 +140,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                30.07°C, 
+                29.94°C, 
                 <i>broken clouds</i>
             .
             Min. temperature: 28.33°C
-            Max. temperature: 32.01°C
+            Max. temperature: 31.12°C
         </p>
     </div>
     <div id="wakatime">
