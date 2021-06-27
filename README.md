@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.' was translated to klingon language, and the result is: 'Tlhih gotta commit. Tlhih've gotta jah out pa' 'ej degh 'ej tlhih've gotta qu' completely unafraid to mi' nagh. Tlhih've got to qu' able to sud to mi' nagh. 'ej tlhih ghaj to mi' nagh lots. Tlhih ghaj to mi' nagh hoch the poh.'
+            The text 'You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.' was translated to valyrian language, and the result is: 'Ao gotta commit. Ao've gotta jikagon hen konīr se improvise se ao've gotta sagon completely unafraid naejot morghūljagon. Ao've jiōraton naejot sagon able naejot gūrogon nykeā chance naejot morghūljagon. Se ao emagon naejot morghūljagon lots. Ao emagon naejot morghūljagon ry se jēda.'
         </h5>
-        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
+        <img src="https://i.kinja-img.com/gawker-media/image/upload/s--oY79jygD--/c_fill,f_auto,fl_progressive,g_center,h_264,pg_1,q_80,w_470/q8vern8v3ow3g7u6bu6i.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/j9evx11504373665.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Spritz
+                Name: Porto flip
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">9 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">splash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg Yolk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Build into glass over ice, garnish and serve.
+                Instructions: Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.
             </font>
         </h4>        
     </div>
@@ -140,7 +140,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                31.02°C, 
+                30.94°C, 
                 <i>broken clouds</i>
             .
             Min. temperature: 29.43°C
