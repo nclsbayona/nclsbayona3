@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/09yd5f1493069852.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A True Amaretto Sour
+                Name: Apple Slammer
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,19 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 jigger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-Up</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good &quot;frosted&quot; rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.
+                Instructions: pour into a shot glass and present to consumer, they are expected to cover the top of the shotglass with thier palm, raise the glass, slam it on the bar and the swallow quickly.
             </font>
         </h4>        
     </div>
@@ -136,11 +136,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                25.52°C, 
+                25.36°C, 
                 <i>broken clouds</i>
             .
             Min. temperature: 23.88°C
-            Max. temperature: 27.23°C
+            Max. temperature: 27.77°C
         </p>
     </div>
     <div id="wakatime">
