@@ -18,6 +18,7 @@ on:
   # On request
   workflow_dispatch:
     # Remove the line above to run when pushing to master
+  push:
   pull_request:
     branches: [master]
 
