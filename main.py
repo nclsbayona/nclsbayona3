@@ -23,8 +23,8 @@ async def getDrink(format="string") -> Dict[str, str]:
         drink["drink_category"] = the_response["strCategory"]
         drink["drink_instructions"] = the_response["strInstructions"]
         drink["drink_image"] = the_response["strDrinkThumb"]
-        ingredients = list()
-        quantities = list()
+        ingredients: List[str] = list()
+        quantities: List[str] = list()
         for key in the_response:
             if the_response[key] != None:
                 if key.count("Ingredient") > 0:
