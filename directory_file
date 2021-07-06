@@ -140,7 +140,6 @@
             </h5>
         </p>
         <div id="tables">
-        <hr>
             {{{ languages }}}
         <hr>
             {{{ coded_on_os }}}
