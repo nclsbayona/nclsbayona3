@@ -162,7 +162,7 @@ async def getAffirmation() -> Dict[str, str]:
         elif translate_to == "huttese":
             new_dictionary[
                 "affirmation_image"
-            ] = "https://static.wikia.nocookie.net/disney/images/d/df/Profile_-_Jabba_the_Hutt.jpg/revision/latest?cb=20190728025948"
+            ] = "https://rb.gy/vu0j2o"
 
         return new_dictionary
 
