@@ -7,7 +7,6 @@ from os import environ
 from base64 import b64encode
 from chevron.renderer import render
 from prettytable import PrettyTable
-from os import environ
 from asyncio import get_event_loop
 
 
@@ -26,7 +25,7 @@ async def getDrink(format="string") -> Dict[str, str]:
         ingredients: List[str] = list()
         quantities: List[str] = list()
         for key in the_response:
-            if the_response[key] != None:
+            if the_response[key] is not None:
                 if key.count("Ingredient") > 0:
                     ingredients.append(the_response[key])
 
@@ -53,7 +52,7 @@ async def getDrink(format="string") -> Dict[str, str]:
 
 
 async def getAffirmation() -> Dict[str, str]:
-    """Gets a translated text from an afirmattion from affirmations.dev to a random pop character language from funtranslations.com API"""
+    """Gets a translated text from an quote to a random pop character language from funtranslations API"""
     try:
         characters: List[str] = [
             "pirate",
