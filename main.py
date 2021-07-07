@@ -203,6 +203,7 @@ async def getWakaStats(waka_key: str = None, format: str = "string") -> Dict[str
             "https://wakatime.com/api/v1/users/current/stats/last_7_days",
             headers={"Authorization": f"Basic {encoded_key}"},
         ).json()
+
         # Tables
         table_languages: PrettyTable = PrettyTable(["Language name", "Time spent"])
         temp_list: List[str] = list()
@@ -222,7 +223,6 @@ async def getWakaStats(waka_key: str = None, format: str = "string") -> Dict[str
             temp_list.append("{hours} hours and {minutes} minutes".format(**os))
             table_os.add_row(temp_list.copy())
 
-        #
         if format == "string":
             dictionary["languages"] = table_languages.get_string(format=True)
             dictionary["coded_on_os"] = table_os.get_string(format=True)
