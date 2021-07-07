@@ -132,7 +132,7 @@ async def getAffirmation() -> Dict[str, str]:
         elif translate_to == "valyrian":
             new_dictionary[
                 "affirmation_image"
-            ] = "https://i.kinja-img.com/gawker-media/image/upload/s--oY79jygD--/c_fill,f_auto,fl_progressive,g_center,h_264,pg_1,q_80,w_470/q8vern8v3ow3g7u6bu6i.png"
+            ] = "https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app"
         elif translate_to == "vulcan":
             new_dictionary[
                 "affirmation_image"
@@ -162,7 +162,7 @@ async def getAffirmation() -> Dict[str, str]:
         elif translate_to == "huttese":
             new_dictionary[
                 "affirmation_image"
-            ] = "https://vignette.wikia.nocookie.net/starwarslanguages/images/b/b1/Review_jabba_1-1-.jpg/revision/latest?cb=20091224205111"
+            ] = "https://static.wikia.nocookie.net/disney/images/d/df/Profile_-_Jabba_the_Hutt.jpg/revision/latest?cb=20190728025948"
 
         return new_dictionary
 
