@@ -160,9 +160,7 @@ async def getAffirmation() -> Dict[str, str]:
                 "affirmation_image"
             ] = "https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png"
         elif translate_to == "huttese":
-            new_dictionary[
-                "affirmation_image"
-            ] = "https://rb.gy/vu0j2o"
+            new_dictionary["affirmation_image"] = "https://rb.gy/vu0j2o"
 
         return new_dictionary
 
