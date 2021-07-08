@@ -15,8 +15,4 @@ jobs:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
             LOCATION: ${{ secrets.LOCATION }}
-
-        - name: Push new README.md
-          uses: mikeal/publish-to-github-action@master
-          env:
-            GITHUB_TOKEN: ${{ secrets.GH_TOKEN }}
+            GH_TOKEN: ${{ secrets.GH_TOKEN }}
