@@ -8,7 +8,9 @@ from base64 import b64encode
 from chevron.renderer import render
 from prettytable import PrettyTable
 from asyncio import get_event_loop
-#nclsbayona
+
+# nclsbayona
+
 
 async def getDrink(format="string") -> Dict[str, str]:
     """Gets a random drink information from The Cocktail DB API"""
