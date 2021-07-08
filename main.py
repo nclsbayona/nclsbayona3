@@ -1,13 +1,14 @@
 # coding: utf-8
-from requests import get
-from requests.models import Response
+from asyncio import get_event_loop
+from base64 import b64encode
+from os import environ
 from random import choice, randint
 from typing import Dict, List
-from os import environ
-from base64 import b64encode
+
 from chevron.renderer import render
 from prettytable import PrettyTable
-from asyncio import get_event_loop
+from requests import get
+from requests.models import Response
 
 # nclsbayona
 
@@ -15,19 +16,21 @@ from asyncio import get_event_loop
 async def getDrink(format="string") -> Dict[str, str]:
     """Gets a random drink information from The Cocktail DB API"""
     try:
-        the_response = get("https://www.thecocktaildb.com/api/json/v1/1/random.php")
+        the_response: Response = get(
+            "https://www.thecocktaildb.com/api/json/v1/1/random.php"
+        )
         table_drink: PrettyTable = PrettyTable(["Ingredient", "Measure"])
-        the_response: Dict[str, str] = the_response.json().get("drinks")[0]
+        response: Dict[str, str] = the_response.json().get("drinks")[0]
         drink: Dict[str, str] = dict()
-        drink["drink_name"] = the_response["strDrink"]
-        drink["drink_alcoholic_category"] = the_response["strAlcoholic"]
-        drink["drink_category"] = the_response["strCategory"]
-        drink["drink_instructions"] = the_response["strInstructions"]
-        drink["drink_image"] = the_response["strDrinkThumb"]
+        drink["drink_name"] = response["strDrink"]
+        drink["drink_alcoholic_category"] = response["strAlcoholic"]
+        drink["drink_category"] = response["strCategory"]
+        drink["drink_instructions"] = response["strInstructions"]
+        drink["drink_image"] = response["strDrinkThumb"]
         ingredients: List[str] = list()
         quantities: List[str] = list()
-        for key in the_response:
-            if the_response[key] is not None:
+        for key in response:
+            if response[key] is not None:
                 if key.count("Ingredient") > 0:
                     ingredients.append(the_response[key])
 
