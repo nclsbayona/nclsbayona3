@@ -32,10 +32,10 @@ async def getDrink(format="string") -> Dict[str, str]:
         for key in response:
             if response[key] is not None:
                 if key.count("Ingredient") > 0:
-                    ingredients.append(the_response[key])
+                    ingredients.append(response[key])
 
                 elif key.count("Measure") > 0:
-                    quantities.append(the_response[key])
+                    quantities.append(response[key])
 
         tot: int = len(quantities)
         for i in range(tot):
@@ -81,17 +81,19 @@ async def getAffirmation() -> Dict[str, str]:
         translate_to: str = choice(characters)
         #
         choices: int = randint(1, 3)
+        response: Response = None
+        affirmation: str = None
         if choices == 1:
-            response: Response = get("https://affirmations.dev")
-            affirmation: str = (response.json()).get("affirmation")
+            response = get("https://affirmations.dev")
+            affirmation = (response.json()).get("affirmation")
 
         elif choices == 2:
-            response: Response = get("https://zenquotes.io/api/random")
-            affirmation: str = (response.json())[0].get("q")
+            response = get("https://zenquotes.io/api/random")
+            affirmation = (response.json())[0].get("q")
 
         elif choices == 3:
-            response: Response = get("https://quotes.rest/qod.json?language=en")
-            affirmation: str = (
+            response = get("https://quotes.rest/qod.json?language=en")
+            affirmation = (
                 (response.json()).get("contents").get("quotes")[0].get("quote")
             )
 
@@ -181,14 +183,14 @@ async def getWeather(query: str = None, key: str = None) -> Dict[str, str]:
         response = get(
             f"https://api.openweathermap.org/data/2.5/weather?q={query}&appid={key}&units=metric"
         )
-        response: Dict[str, str] = response.json()
+        the_response: Dict[str, str] = response.json()
         dictionary: Dict[str, str] = dict()
-        dictionary["city_temperature"] = str(response["main"]["temp"])
-        dictionary["city_min_temperature"] = str(response["main"]["temp_min"]) + "°C"
-        dictionary["city_max_temperature"] = str(response["main"]["temp_max"]) + "°C"
-        dictionary["city_termic_sensation"] = str(response["main"]["feels_like"]) + "°C"
-        dictionary["city_pressure"] = str(response["main"]["pressure"]) + "Pa"
-        dictionary["city_weather"] = response["weather"][0]["description"]
+        dictionary["city_temperature"] = str(the_response["main"]["temp"])
+        dictionary["city_min_temperature"] = str(the_response["main"]["temp_min"]) + "°C"
+        dictionary["city_max_temperature"] = str(the_response["main"]["temp_max"]) + "°C"
+        dictionary["city_termic_sensation"] = str(the_response["main"]["feels_like"]) + "°C"
+        dictionary["city_pressure"] = str(the_response["main"]["pressure"]) + "Pa"
+        dictionary["city_weather"] = the_response["weather"][0]["description"]
 
         return dictionary
 
