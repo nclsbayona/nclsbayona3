@@ -6,27 +6,16 @@ on:
 
 jobs:
   build:
-    name: Update README without activity
+    name: Update README
     runs-on: ubuntu-latest
     steps:
-        - name: checkout
-          uses: actions/checkout@v2
-        
-        - name: Make virtual environment
-          run: python3 -m venv .venv
-
-        - name: Activate virtual environment
-          run: source .venv/bin/activate
-        
-        - name: Install requirements
-          run: pip install -r requirements.txt
-
+        - uses: actions/checkout@v2
         - name: Generate README file
+          uses: nclsbayona/nclsbayona-readme-action@v1
           env:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
             LOCATION: ${{ secrets.LOCATION }}
-          run: python main.py
 
         - name: Push new README.md
           uses: mikeal/publish-to-github-action@master
