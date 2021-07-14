@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/91oule1513702624.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Danbooka
+                Name: The Last Word
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee / Tea
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: pour it in and mix it.
+                Instructions: Shake with ice and strain into a cocktail glass.
             </font>
         </h4>        
     </div>
@@ -167,7 +171,7 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Python</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 22 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 44 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -182,15 +186,15 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 24 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 6 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Text</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 3 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Git Config</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
         </tr>
     </tbody>
@@ -206,7 +210,7 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Linux</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 14 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 hours and 30 minutes</td>
         </tr>
     </tbody>
 </table>
