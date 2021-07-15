@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.' was translated to mandalorian language, and the result is: 'Gar gotta commit. Gar've gotta slanar dayn ogir bal improvise bal gar've gotta cuyir completely unafraid brokar ramaanar. Gar've got brokar cuyir liser hiibir a chance brokar ramaanar. Bal gar ganar brokar ramaanar lots. Gar ganar brokar ramaanar an te ca'nara.'
+            The text 'You gotta commit. You've gotta go out there and improvise and you've gotta be completely unafraid to die. You've got to be able to take a chance to die. And you have to die lots. You have to die all the time.' was translated to cheunh language, and the result is: 'Vah gotta k'ir. Vah've gotta ch'pae out there vim ect'suzepah vim vah've gotta vacosehn ttan'ah unafraid ch'at ch'uscah. Vah've got ch'at vacosehn able ch'at tsan'ah ch'a vipisbi ch'at ch'uscah. Vim vah csah ch'at ch'uscah lots. Vah csah ch'at ch'uscah all ch'at csact'i.'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/dbtylp1493067262.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/8xnyke1504352207.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arizona Antifreeze
+                Name: Screwdriver
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -43,22 +43,14 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients into shot glass and slam !!!!
+                Instructions: Mix in a highball glass with ice. Garnish and serve.
             </font>
         </h4>        
     </div>
@@ -140,11 +132,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                8.34°C, however it feels like 8.34°C, climate is
-                <i>broken clouds</i>
+                8.15°C, however it feels like 8.15°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 8.34°C
-            Max. temperature: 8.34°C
+            Min. temperature: 8.15°C
+            Max. temperature: 8.15°C
         </p>
     </div>
     <div id="wakatime">
