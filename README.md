@@ -5,7 +5,7 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You must be willing to do what others won't do, to have what others won't have.' was translated to minion language, and the result is: 'to miklo be koaegg da batooay Whaaat, yikai? . madlex lib't batooay, da kaylay Whaaat, yikai? . madlex lib't kaylay.'
+            The text 'Know the rules well, so you can break them effectively.' was translated to minion language, and the result is: 'cono ta qua lam, act to pudum ich vus paxtea.'
         </h5>
         <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
     </div>
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/q7w4xu1487603180.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rrstxv1441246184.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Chocolate Drink
+                Name: Herbal flame
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,19 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">125 gr</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Damn</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 L </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">very sweet </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Melt the bar in a small amount of boiling water. Add milk. Cook over low heat, whipping gently (with a whisk, i would assume) until heated well. Don't let it boil! Serve in coffee mug.
+                Instructions: Pour Hot Damn 100 in bottom of a jar or regular glass. Fill the rest of the glass with sweet tea. Stir with spoon, straw, or better yet a cinnamon stick and leave it in.
             </font>
         </h4>        
     </div>
