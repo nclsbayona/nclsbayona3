@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You are a capable human' was translated to minion language, and the result is: 'to nama a refass ohs'
+            The text 'Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.' was translated to valyrian language, and the result is: 'Successful people appear naejot sagon traveling along mēre continual,  successful geralbar. Skoros iksos daor apparent iksos se perseverance ziry takes following each defeat naejot lua ao va bona geralbar. Daorys nyke gīmigon hen emagon mirre experienced mēre success tolī another mijegon defeats,  failures,  disappointments,  se frustrations galore along se ñuhoso. Learning naejot overcome lī jēdi hen agony iksos skoros separates se winners hen se losers.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pure Passion
+                Name: Zorro
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,39 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">40 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Creme de Menthe</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.
+                Instructions: add all and pour black coffee and add whipped cream on top.
             </font>
         </h4>        
     </div>
