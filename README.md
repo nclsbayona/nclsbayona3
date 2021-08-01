@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You'll find a way' was translated to oldenglish language, and the result is: ' {You'll} beran tîma færeld'
+            The text 'Reflect upon your present blessings of which every man has many - not on your past misfortunes, of which all men have some.' was translated to dothraki language, and the result is: 'Reflect she yeri present blessings ki which ei mahrazh has san - vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) she yeri past misfortunes,  ki which ei men hash loy.'
         </h5>
-        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
+        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/hnuod91587851576.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/1xhjk91504783763.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: White Wine Sangria
+                Name: Butter Baby
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Milk / Float / Shake
             </font>
         </h4>
         <h4>
@@ -42,39 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla Ice-Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">full glass </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 shots</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Chop the Lemon, Lime and other fruits into large chunks. Fill the Pitcher with the white wine and mix in the Apple Brandy. Top to taste with soda water.
+                Instructions: Blend together in a blender. Serve in a chilled Beer mug with Fresh Blueberries and caramel for topping.
             </font>
         </h4>        
     </div>
