@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Mistakes don't make you less capable' was translated to ferblatin language, and the result is: 'istakes-Merb don't ake-merb ou-yerb ess-lerb apable-cerb '
+            The text 'You are a capable human' was translated to pig-latin language, and the result is: 'ou-Yay are-way a-way apable-cay uman-hay '
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/iloasq1587661955.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Aperol Spritz
+                Name: Pure Passion
             </font>
         </h4>
         <h4>
@@ -42,28 +42,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">100 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">40 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">150 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
@@ -74,7 +74,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put a couple of cubes of ice into 2 glasses and add a 50 ml measure of Aperol to each. Divide the prosecco between the glasses and then top up with soda, if you like.
+                Instructions: Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.
             </font>
         </h4>        
     </div>
@@ -156,7 +156,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                9.73°C, however it feels like 9.3°C, climate is
+                9.73°C, however it feels like 8.46°C, climate is
                 <i>scattered clouds</i>
             .
             Min. temperature: 9.73°C
