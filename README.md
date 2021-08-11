@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Meaning is something you build into your life. You build it out of your own past, out of your affections and loyalties, out of the experience of humankind as it is passed on to you... You are the only one who can put them together into that unique pattern that will be your life.' was translated to cheunh language, and the result is: 'Rehn'eki carcir ei vah vun'rcsa can (bah accusative) your vez. Vah vun'rcsa hah out bah your tsut'r carcen'co,  out bah your affections vim loyalties,  out bah ch'at ran'cah bah humankind veah hah carcir passed ror ch'at vah. Vah are ch'at nor in'a vea can ch'at etah von can (bah accusative) csei rut ch'ubat csei csarcican't vacosehn your vez.'
+            The text 'Blessed is he who expects nothing, for he shall never be disappointed.' was translated to pig-latin language, and the result is: 'essed-Blay is-way e-hay o-whay expects-way othing-nay, or-fay e-hay all-shay ever-nay e-bay isappointed-day. '
         </h5>
-        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
+        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/yqstxr1479209367.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Cream Soda
+                Name: Apple Cider Punch
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Optional alcohol
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,15 +42,43 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Spiced rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 qt </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Allspice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp ground </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 sticks </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour 1oz of Spiced Rum into a highball glass with ice. Fill with Ginger Ale.
+                Instructions: If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.
             </font>
         </h4>        
     </div>
