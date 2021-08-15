@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Struggling is part of learning' was translated to yoda language, and the result is: 'Part of learning,  struggling is'
+            The text 'Feeling grateful to or appreciative of someone or something in your life actually attracts more of the things that you appreciate and value into your life.' was translated to ferblatin language, and the result is: 'eeling-Ferb rateful-gerb to or ppreciative-aerb of omeone-serb or omething-serb in our-yerb ife-lerb ctually-aerb ttracts-aerb ore-merb of he-terb hings-terb hat-terb ou-yerb ppreciate-aerb nd-aerb alue-verb nto-ierb our-yerb life. '
         </h5>
-        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/hc9b1a1521853096.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Penicillin
+                Name: Boozy Snickers Milkshake
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Milk / Float / Shake
             </font>
         </h4>
         <h4>
@@ -42,31 +42,39 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla Ice-Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Godiva liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">for topping</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Islay single malt Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">caramel sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tablespoons<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">chocolate sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tablespoons<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mini-snickers bars</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15<br></td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake blended Scotch, lemon juice, honey syrup and ginger syrup with ice. Strain over large ice in chilled rocks glass. Float smoky Scotch on top (be sure to use a smoky Scotch such as an Islay single malt). Garnish with candied ginger.
+                Instructions: Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.
             </font>
         </h4>        
     </div>
