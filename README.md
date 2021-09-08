@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'I keep asking myself these three questions.. What do you have? What do you want? What will you give up?' was translated to oldenglish language, and the result is: ' ic pro weardian æsce {myself} {these} ðrîe {questions}. {What} faran êow {have?} {What} cwylmian êower {want?} {What} fordêman êow gieldan {up?}'
+            The text 'Some changes look negative on the surface but you will soon realize that space is being created in your life for something new to emerge.' was translated to valyrian language, and the result is: 'Mirri changes jurnegon negative va se surface yn ao jāhor aderī realize bona space iksos being mazvēttan isse aōha glaeson syt mirros arlie naejot emerge.'
         </h5>
-        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rsvtrr1472668201.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wxqpyw1468877677.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A Splash of Nash
+                Name: 3 Wise Men
             </font>
         </h4>
         <h4>
@@ -42,27 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jack Daniels</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Johnnie Walker</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.5 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Banane</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jim Beam</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Drop shot glass with banana &amp; melon liquers into a 9 oz hi- ball glass containing soda water and cranberry juice. Drink in one shot.
+                Instructions: put them them in a glass... and slam it to tha head.
             </font>
         </h4>        
     </div>
