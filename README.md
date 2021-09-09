@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.' was translated to ferblatin language, and the result is: 'ne-Oerb achine-merb an-cerb do he-terb ork-werb of ifty-ferb rdinary-oerb men. No achine-merb an-cerb do he-terb ork-werb of ne-oerb xtraordinary-eerb man. '
+            The text 'I think it is often easier to make progress on mega-ambitious dreams. Since no one else is crazy enough to do it, you have little competition. In fact, there are so few people this crazy that I feel like I know them all by first name.' was translated to gungan language, and the result is: 'Mesa think isa often easier to maken progress on mega-ambitious dreams. Since nosa una else is nutsen enough to do it,  yousa have little competition. In fact,  dalee are so few people disa nutsen dat mesa feel like mesa know them-sa all by first name.'
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/yswuwp1469090992.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Ipamena
+                Name: Black &amp; Tan
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Beer
             </font>
         </h4>
         <h4>
@@ -42,31 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">½</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ale</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part Bass pale </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up with</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">fill</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guinness stout</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Cut half a lime into pieces, place in a shaker, add the sugar and crush. Measure the passion fruit juice, add it to the shaker and fill up with ice cubes. Close the shaker and shake vigorously. Pour the liquid into a glass, top up with ginger ale, stir with a teaspoon and then garnish the rim of the glass with a slice of lime
+                Instructions: Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black &amp; Tan.
             </font>
         </h4>        
     </div>
@@ -148,11 +136,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14.13°C, however it feels like 13.4°C, climate is
-                <i>few clouds</i>
+                12.73°C, however it feels like 12.2°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 14.13°C
-            Max. temperature: 14.13°C
+            Min. temperature: 12.73°C
+            Max. temperature: 12.73°C
         </p>
     </div>
     <div id="wakatime">
