@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Surrender to what is. Let go of what was. Have faith in what will be.' was translated to mandalorian language, and the result is: 'Surrender brokar me'ven? Is. Let slanar be me'ven? Was. Ganar faith o'r me'ven? Will cuyir.'
+            The text 'Silence is a source of great strength.' was translated to sindarin language, and the result is: 'Dain na- a celu -o beleg polod.'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/h1e0e51510136907.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Downshift
+                Name: Bombay Cassis
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,27 +42,38 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit punch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fresh Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Float Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">75 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 long strip</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.
+                Instructions: Add the Bombay Sapphire, Crème de Cassis and lime juice to a balloon glass and swirl well to mix.
+Fill the glass with good quality cubed ice.
+Top up with chilled and freshly opened Fever-Tree Ginger Beer.
+Gently stir to combine, top with a gently squeezed lime wedge and finish with a fresh ginger slice.
             </font>
         </h4>        
     </div>
@@ -144,11 +155,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15.73°C, however it feels like 15.11°C, climate is
-                <i>light intensity drizzle</i>
+                18.15°C, however it feels like 17.56°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 15.73°C
-            Max. temperature: 15.73°C
+            Min. temperature: 18.15°C
+            Max. temperature: 18.15°C
         </p>
     </div>
     <div id="wakatime">
