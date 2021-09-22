@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Winning is nice if you don't lose your integrity in the process.' was translated to klingon language, and the result is: 'Winning is nice if tlhih don't luj your integrity in the process.'
+            The text 'We should not look back unless it is to derive useful lessons from past errors.' was translated to cheunh language, and the result is: 'Nah bazor nah ch'ean'i back carsat'cen'cah vah hah carcir ch'at bazan iceto lessons from carcen'co errors.'
         </h5>
-        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
+        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Abbey Martini
+                Name: Absinthe #2
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Homemade Liqueur
             </font>
         </h4>
         <h4>
@@ -42,27 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 gr </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anise</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml pure </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Licorice root</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wormwood</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.
+                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
             </font>
         </h4>        
     </div>
@@ -145,7 +149,7 @@
         <p>
             <b> 
                 17.73°C, however it feels like 16.92°C, climate is
-                <i>broken clouds</i>
+                <i>light rain</i>
             .
             Min. temperature: 17.73°C
             Max. temperature: 17.73°C
