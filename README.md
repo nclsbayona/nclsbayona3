@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Winning is nice if you don't lose your integrity in the process.' was translated to mandalorian language, and the result is: 'Winning is nice meh gar don't lose gar integrity o'r te process.'
+            The text 'Winning is nice if you don't lose your integrity in the process.' was translated to sith language, and the result is: 'Dujozimas kash grazus ar tu virt'ne lose tu'iea integrity kash tave process.'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/wyrrwv1441207432.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vdp2do1487603520.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Arise My Love
+                Name: Mango Orange Smoothie
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,19 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chilled </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put creme de menthe into a champagne flute. Fill with chilled champagne and serve.
+                Instructions: Throw everything into a blender and liquify.
             </font>
         </h4>        
     </div>
@@ -136,11 +136,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14.73°C, however it feels like 14.56°C, climate is
-                <i>broken clouds</i>
+                13.73°C, however it feels like 13.61°C, climate is
+                <i>thunderstorm with rain</i>
             .
-            Min. temperature: 14.73°C
-            Max. temperature: 14.73°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
