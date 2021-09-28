@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Deliberately seek the company of people who influence you to think and act on building the life you desire.' was translated to cheunh language, and the result is: 'Deliberately rass'ah ch'at vuct'can'ah bah vucum vea en'kta vah ch'at tan'rah vim ch'ahah ror building ch'at vez vah baper.'
+            The text 'We are all works in progress' was translated to huttese language, and the result is: 'Jee-jee are all works noleeya progress'
         </h5>
-        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
+        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/lmj2yt1504820500.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ypsrqp1469091726.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Vodka And Tonic
+                Name: Ice Pick
             </font>
         </h4>
         <h4>
@@ -43,14 +43,22 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Iced tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to taste<br></td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour vodka into a highball glass over ice cubes. Fill with tonic water, stir, and serve.
+                Instructions: Put Vodka in glass fill with iced tea. Stir in lemon to taste.
             </font>
         </h4>        
     </div>
@@ -132,11 +140,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                10.73°C, however it feels like 10.29°C, climate is
-                <i>few clouds</i>
+                9.73°C, however it feels like 9.73°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 10.73°C
-            Max. temperature: 10.73°C
+            Min. temperature: 9.73°C
+            Max. temperature: 9.73°C
         </p>
     </div>
     <div id="wakatime">
