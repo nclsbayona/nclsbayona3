@@ -5,7 +5,7 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Time doesn't heal emotional pain, you need to learn how to let go.' was translated to oldenglish language, and the result is: ' {Time} {doesn't} begîming iersigendlic hearm, êower winn st¯ælan ongietan  âîeðan forfaran gêanhworfennes.'
+            The text '10x engineers are a myth' was translated to oldenglish language, and the result is: ' {10x} {engineers} weorðlicnes a {myth}'
         </h5>
         <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
     </div>
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/hyztmx1598719265.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Raspberry Julep
+                Name: Sol Y Sombra
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,39 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raspberry syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anisette</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Softly muddle the mint leaves and raspberry syrup in the bottom of the cup. Add crushed ice and Bourbon to the cup and then stir. Top with more ice, garnish with a mint sprig.
+                Instructions: Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you'll understand why. Thanks, Kirby.)
             </font>
         </h4>        
     </div>
@@ -156,11 +136,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11.29°C, however it feels like 10.88°C, climate is
+                9.52°C, however it feels like 8.99°C, climate is
                 <i>overcast clouds</i>
             .
-            Min. temperature: 11.29°C
-            Max. temperature: 11.29°C
+            Min. temperature: 9.52°C
+            Max. temperature: 9.52°C
         </p>
     </div>
     <div id="wakatime">
