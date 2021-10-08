@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Keep on going and the chances are you will stumble on something, perhaps when you are least expecting it. I have never heard of anyone stumbling on something sitting down.' was translated to sindarin language, and the result is: 'Cheb- bo going a i chances are cin will stumble bo something,  perhaps ir cin are least expecting ha. Im gar- never heard -o anyone stumbling bo something sitting dad.'
+            The text 'It's not a mistake, it's a learning opportunity' was translated to minion language, and the result is: 'pik's non a leh ji, pik's a rahrap eweump'
         </h5>
-        <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
+        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ssqpyw1472719844.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lunch Box
+                Name: Absolut limousine
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,23 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top it up with </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.
+                Instructions: Fill Absolut into a glass. Add Lime juice. Add Ice and lime wedges.
             </font>
         </h4>        
     </div>
@@ -140,11 +144,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.73°C, however it feels like 12.36°C, climate is
-                <i>broken clouds</i>
+                9.64°C, however it feels like 9.64°C, climate is
+                <i>overcast clouds</i>
             .
-            Min. temperature: 12.73°C
-            Max. temperature: 12.73°C
+            Min. temperature: 9.64°C
+            Max. temperature: 9.64°C
         </p>
     </div>
     <div id="wakatime">
