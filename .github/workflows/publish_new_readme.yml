@@ -10,7 +10,7 @@ jobs:
     runs-on: ubuntu-latest
     steps:
         - name: Generate README file
-          uses: nclsbayona/nclsbayona-readme-action@v1
+          uses: nclsbayona/nclsbayona-readme-action@master
           env:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             OPEN_WEATHER_MAP_KEY: ${{ secrets.OPEN_WEATHER_MAP_KEY }}
