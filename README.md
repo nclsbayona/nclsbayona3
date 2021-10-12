@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Care about what other people think and you will always be their prisoner.' was translated to minion language, and the result is: 'mibo cama Whaaat?  orto huma pensa yee to sama adtut be tus tamne.'
+            The text 'Men are anxious to improve their circumstances but are unwilling to improve themselves; they therefore remain bound.' was translated to ferblatin language, and the result is: 'en-Merb re-aerb nxious-aerb to mprove-ierb heir-terb ircumstances-cerb ut-berb re-aerb nwilling-uerb to mprove-ierb themselves; hey-terb herefore-terb emain-rerb bound. '
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/wqrptx1472668622.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/5yhd3n1571687385.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Apple Grande
+                Name: Bloody Punch
             </font>
         </h4>
         <h4>
@@ -42,19 +42,51 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 shots</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raisins</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blueberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Chill both ingredients!! Mix in a tumbler and enjoy!
+                Instructions: Place the thawed strawberries in a large bowl. Mash them with a fork to ensure no large chunks.
+
+Step
+2
+
+ 
+In a punch bowl or pitcher, combine mashed strawberries, lime pulp and soda. Mix well.
+
+Step
+3
+
+ 
+Add blueberries and raisins. They will float and look like bugs in the punch.
             </font>
         </h4>        
     </div>
@@ -140,7 +172,7 @@
         <p>
             <b> 
                 17.73°C, however it feels like 17.1°C, climate is
-                <i>light rain</i>
+                <i>broken clouds</i>
             .
             Min. temperature: 17.73°C
             Max. temperature: 17.73°C
