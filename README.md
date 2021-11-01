@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.' was translated to vulcan language, and the result is: 'Du fai-tor ra ish-veh's spo' tor wake abru svi' wuh svitan t' wuh mu-yor k' wuh vivid sahr-tor? Heh du fai-tor ik kuv du ri tor ma wuh hish heh math k' wuh sar-tak,  ish-veh dungi nam-tor completely hal-tor k' wuh thurai asal. Sometimes ish-veh's yauluhk tor wake abru heh pehkaya dreaming. Lu wuh really lo'uk sahr-tor gluvau abru,  runem ish-veh.'
+            The text 'You know what it's like to wake up in the middle of the night with a vivid dream? And you know that if you don't have a pencil and pad by the bed, it will be completely gone by the next morning. Sometimes it's important to wake up and stop dreaming. When a really great dream shows up, grab it.' was translated to sith language, and the result is: 'Tu zenoti kam zhol's kais kia vesuo xok kash tave middle iv tave naktis su zo vivid dream? Ir tu zenoti anas ar tu virt'ne zinot zo pencil ir pad by tave bed,  zhol valia buti completely kaire by tave kitas ausra. Sometimes zhol's orus kia vesuo xok ir akida dreaming. Tikazi zo fashita zavus dream shows xok,  grab zhol.'
         </h5>
-        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/wfqmgm1630406820.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mango Mojito
+                Name: Diesel
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Beer
             </font>
         </h4>
         <h4>
@@ -42,41 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Fresh</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprig</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">200 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackcurrant cordial</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Squeeze the juice from 1½ limes and blend with the mango to give a smooth purée.
-Cut the rest of the limes into quarters, and then cut each wedge in half again. Put 2 pieces of lime in a highball glass for each person and add 1 teaspoon of caster sugar and 5-6 mint leaves to each glass. Squish everything together with a muddler or the end of a rolling pin to release all the flavours from the lime and mint.
-Divide the mango purée between the glasses and add 30ml white rum and a handful of crushed ice to each one, stirring well to mix everything together. Top up with soda water to serve and garnish with extra mint, if you like.
+                Instructions: Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.
             </font>
         </h4>        
     </div>
