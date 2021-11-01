@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'It'll feel magical when it's working' was translated to yoda language, and the result is: 'Magical when it's working,  it'll feel'
+            The text 'Go for it now. The future is promised to no one.' was translated to vulcan language, and the result is: 'Hal-tor na' ish-veh i'. Wuh fa-wak nam-tor ugau tor kling.'
         </h5>
-        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Strawberry Lemonade
+                Name: Yoghurt Cooler
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,19 +42,11 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8-10 ripe </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
     </tbody>
@@ -62,7 +54,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and mix until fairly smooth. Serve over ice.
+                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.
             </font>
         </h4>        
     </div>
