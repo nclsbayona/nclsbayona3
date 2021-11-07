@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.' was translated to pirate language, and the result is: 'th' thin's ye learn in maturity aren't simple thin's such as acquirin' information and skills.  ye learn not t' engage in self-destructive behavior, pass the grog!  ye learn not t' burn up energy in anxiety, to be sure.  ye discover how t' manage yer tensions.  ye learn that self-pity and resentment be among th' most toxic o' drugs.  ye find that th' world loves talent but pays off on character.'
+            The text 'The things you learn in maturity aren't simple things such as acquiring information and skills. You learn not to engage in self-destructive behavior. You learn not to burn up energy in anxiety. You discover how to manage your tensions. You learn that self-pity and resentment are among the most toxic of drugs. You find that the world loves talent but pays off on character.' was translated to ferblatin language, and the result is: 'he-Terb hings-terb ou-yerb earn-lerb in aturity-merb aren't imple-serb hings-terb uch-serb as cquiring-aerb nformation-ierb nd-aerb skills. ou-Yerb earn-lerb ot-nerb to ngage-eerb in self-destructive behavior. ou-Yerb earn-lerb ot-nerb to urn-berb up nergy-eerb in anxiety. ou-Yerb iscover-derb ow-herb to anage-merb our-yerb tensions. ou-Yerb earn-lerb hat-terb self-pity nd-aerb esentment-rerb re-aerb mong-aerb he-terb ost-merb oxic-terb of drugs. ou-Yerb ind-ferb hat-terb he-terb orld-werb oves-lerb alent-terb ut-berb ays-perb ff-oerb on character. '
         </h5>
-        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/125w0o1630407389.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vrwquq1478252802.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lemon Elderflower Spritzer
+                Name: Old Fashioned
             </font>
         </h4>
         <h4>
@@ -42,40 +42,30 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Elderflower cordial</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cL</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 cup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cube</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fresh Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">dash</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients over ice, stir and enjoy!
+                Instructions: Place sugar cube in old fashioned glass and saturate with bitters, add a dash of plain water. Muddle until dissolved.
+Fill the glass with ice cubes and add whiskey.
 
+Garnish with orange twist, and a cocktail cherry.
             </font>
         </h4>        
     </div>
@@ -160,11 +150,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20.73°C, however it feels like 19.82°C, climate is
-                <i>few clouds</i>
+                20.11°C, however it feels like 19.35°C, climate is
+                <i>overcast clouds</i>
             .
-            Min. temperature: 20.73°C
-            Max. temperature: 20.73°C
+            Min. temperature: 20.11°C
+            Max. temperature: 20.11°C
         </p>
     </div>
     <div id="wakatime">
