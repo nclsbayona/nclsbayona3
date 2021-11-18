@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Time and health are two precious assets that we don't recognize and appreciate until they have been depleted. ' was translated to cheunh language, and the result is: 'Csact'i vim rin are ba ch'otcavurt assets csei nah don't csavun vim lit her etah csah been depleted.'
+            The text 'What is the one sentence summary of how you change the world? Always work hard on something uncomfortably exciting!' was translated to ferblatin language, and the result is: 'hat-Werb is he-terb ne-oerb entence-serb ummary-serb of ow-herb ou-yerb hange-cerb he-terb orld-werb? lways-Aerb ork-werb ard-herb on omething-serb ncomfortably-uerb xciting-eerb! '
         </h5>
-        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/j6rq6h1503563821.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sweet Tooth
+                Name: Lone Tree Cooler
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk / Float / Shake
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -41,16 +41,12 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Godiva liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
-        </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put 2 shots Godiva Liquour into a glass, add as much or as little milk as you would like.
+                Instructions: Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.
             </font>
         </h4>        
     </div>
