@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'The past does not equal the future' was translated to dothraki language, and the result is: 'The past does vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) equal the future'
+            The text 'Go confidently in the direction of your dreams! Live the life you've imagined.' was translated to oldenglish language, and the result is: ' {Go} îsîðes fullan sê teohhung of êower {dreams}! {Live} dôð ðanc {you've} {imagined}.'
         </h5>
-        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/qzs5d11504365962.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rosemary Blue
+                Name: Boston Sidecar
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,29 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">100 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosemary</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
-2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
-3) Gently fold with a bar spoon to mix.
+                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
