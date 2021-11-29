@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Don't be tempted to break momentum-work through it.' was translated to minion language, and the result is: 'domo be tempted da ich piuhit-traba thru pik.'
+            The text 'Where violence reigns, reason is weak.' was translated to huttese language, and the result is: 'Konchee violence reigns,  reason sa weak.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/3s6mlr1509551211.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/qwc5f91512406543.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Salted Toffee Martini
+                Name: Rosemary Blue
             </font>
         </h4>
         <h4>
@@ -43,32 +43,28 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate Sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">100 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salted Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grated</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosemary</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add ice, toffee gin, chocolate liqueur and Amaretto to a cocktail shaker and shake vigorously. 
-Pour the chocolate syrup into a saucer and dip the top of a martini glass into the sauce. Grate some of the Willie\'s sea salt chocolate into another saucer and dip the coated glass, so the flakes stick to the sauce, creating a chocolate rim!
-Pour the contents of the shaker into your chocolatey glass and sprinkle with more grated chocolate - enjoy!  
+                Instructions: 1) Add the Bombay Sapphire, Blue Curacao, rosemary sprig and gently squeezed lemon wedge to a balloon glass. Swirl well to combine.
+2) Fill with cubed ice and top with the Fever-Tree Light Tonic Water.
+3) Gently fold with a bar spoon to mix.
             </font>
         </h4>        
     </div>
@@ -153,11 +149,11 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.91°C, however it feels like 16.67°C, climate is
-                <i>broken clouds</i>
+                17.73°C, however it feels like 17.1°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 16.91°C
-            Max. temperature: 16.91°C
+            Min. temperature: 17.73°C
+            Max. temperature: 17.73°C
         </p>
     </div>
     <div id="wakatime">
