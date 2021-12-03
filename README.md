@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Charms strike the sight, but merit wins the soul.' was translated to gungan language, and the result is: 'Charms strike dha sight,  but merit wins dha soul.'
+            The text 'Limitations are like mirages created by your own mind. When you realise that limitation do not exist, those around you will also feel it and allow you inside their space.' was translated to klingon language, and the result is: 'Limitations are parha' mirages created by your own yab. Ghorgh tlhih realise 'e' limitation do not exist,  those around tlhih will vabdot hot 'oh 'ej chaw' tlhih qod their logh.'
         </h5>
-        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/apictz1493069760.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/jls02c1493069441.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Sunset
+                Name: Almond Chocolate Coffee
             </font>
         </h4>
         <h4>
@@ -42,27 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 jigger </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake ingredients in bartender's mixer quickly, just 5 shakes. Strain out ice, serve in glass immediately with a slice of orange.
+                Instructions: Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
             </font>
         </h4>        
     </div>
