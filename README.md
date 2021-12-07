@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Do you have the patience to wait until your mud settles and the water is clear?' was translated to oldenglish language, and the result is: ' {Do} êower besittan ðone as ðyld to lettan nêah êower clâm {settles} for ðâm ðe duguð hwearfian {is} {clear?}'
+            The text 'It isn't what you have, or who you are, or where you are, or what you are doing that makes you happy or unhappy. It is what you think about.' was translated to gungan language, and the result is: 'It isn't what yousa have,  or who yousa,  or where yousa,  or what yousa do dat maken yousa smilin or unhappy. Isa what yousa think about.'
         </h5>
-        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
+        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rysb3r1513706985.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/opxjzh1604179528.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bijou
+                Name: The Strange Weaver
             </font>
         </h4>
         <h4>
@@ -42,11 +42,7 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light Rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
@@ -55,15 +51,30 @@
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orgeat Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir in mixing glass with ice and strain
-
+                Instructions: Mix ingredients slowly in a glass with ice, garnish with orange slice
             </font>
         </h4>        
     </div>
@@ -148,11 +159,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                8.73°C, however it feels like 7.66°C, climate is
+                9.73°C, however it feels like 8.46°C, climate is
                 <i>overcast clouds</i>
             .
-            Min. temperature: 8.73°C
-            Max. temperature: 8.73°C
+            Min. temperature: 9.73°C
+            Max. temperature: 9.73°C
         </p>
     </div>
     <div id="wakatime">
