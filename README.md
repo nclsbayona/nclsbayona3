@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.' was translated to pirate language, and the result is: 'Successful people appear t' be travelin' along one continual, successful sea.  What be not apparent be th' perseverance it takes followin' each defeat t' keep ye on that sea, and a bucket o' chum.  Nay one I be knowin' o' has e'er experienced one success aft another without defeats, failures, disappointments, and frustrations galore along th' way.  Learnin' t' overcome those times o' agony be what separates th' winners from th' losers.'
+            The text 'Numbing the pain for a while will only make it worse when you finally feel it.' was translated to valyrian language, and the result is: 'Numbing se ōdres syt nykeā while jāhor mērī mazverdagon ziry worse skori ao finally feel ziry.'
         </h5>
-        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/urpvvv1441249549.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rptuxy1472669372.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Jamaica Kiss
+                Name: A True Amaretto Sour
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Milk / Float / Shake
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,23 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 jigger </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot Jamaican </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.
+                Instructions: Rub the rim of an old fashioned glass with lemon, and dip repeatedly into granulated sugar until it has a good &quot;frosted&quot; rim. Shake a jigger of Amaretto with the juice of 1/2 a lemon. Strain into glass and add ice. Garnish with a Marachino Cherry.
             </font>
         </h4>        
     </div>
