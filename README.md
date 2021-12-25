@@ -5,7 +5,7 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Climb the mountains and get their good tidings. Nature's peace will flow into you as sunshine flows into trees. The winds will blow their own freshness into you, and the storms their energy, while cares will drop away from you like the leaves of Autumn.' was translated to sindarin language, and the result is: 'Climb i mountains a get their man siniath. Nature's sídh will dui into cin sui sunshine flows into trees. I winds will blow their own freshness into cin,  a i storms their energui,  ir cares will drop awaui o cin like i golas -o iavas.'
+            The text 'The opposite of courage in our society is not cowardice... it is conformity' was translated to sindarin language, and the result is: 'I opposite -o huor in mín societui na- ú- cowardice. Ha na- conformitui'
         </h5>
         <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
     </div>
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rywtwy1468924758.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/2rzfer1487602699.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sunny Holiday Punch
+                Name: Surf City Lifesaver
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Optional alcohol
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,35 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">46 oz chilled </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ouzo</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">28 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Berries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 part </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients in a punch bowl.
+                Instructions: Lots of ice and soda top up in tall glass with cherry and a grin.
             </font>
         </h4>        
     </div>
