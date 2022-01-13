@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Oatmeal Cookie
+                Name: Russian Spring Punch
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,34 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bailey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jagermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Just mix it all together.
-It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.
+                Instructions: Pour the ingredients into an highball glass, top with Sparkling wine.
             </font>
         </h4>        
     </div>
@@ -154,7 +147,7 @@ Tastes like an oatmeal cookie.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                10.73°C, however it feels like 10.47°C, climate is
+                10.73°C, however it feels like 10.29°C, climate is
                 <i>light intensity drizzle</i>
             .
             Min. temperature: 10.73°C
