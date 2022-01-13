@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/tyb4a41515793339.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Snake Bite (UK)
+                Name: Bahama Mama
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,19 +42,41 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint sweet or dry </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and Sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour ingredients into a pint glass. Drink. Fall over.
+                Instructions: Add 2 parts club soda or more or less to taste.
+
+Mix it all together and pour over a bunch of ice. Drink with a straw.
             </font>
         </h4>        
     </div>
