@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wwuvxv1472668899.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Dirty Nipple
+                Name: Black and Brown
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Beer
             </font>
         </h4>
         <h4>
@@ -41,12 +41,20 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guinness stout</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+        </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: This is a layered shot - the Bailey's must be on top
+                Instructions: CAREFULLY to avoid explosive head formation: Pour Beer glass half full of favorite rootbeer and top off with Guinness.
             </font>
         </h4>        
     </div>
@@ -131,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 13.17°C, climate is
-                <i>broken clouds</i>
+                12.73°C, however it feels like 12.36°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 12.73°C
+            Max. temperature: 12.73°C
         </p>
     </div>
     <div id="wakatime">
