@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/zaqa381504368758.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/cpf4j51504371346.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: French Connection
+                Name: Pina Colada
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cognac</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 tblsp </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
+                Instructions: Mix with crushed ice in blender until smooth. Pour into chilled glass, garnish and serve.
             </font>
         </h4>        
     </div>
@@ -139,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14.73°C, however it feels like 14.27°C, climate is
+                12.73°C, however it feels like 12.36°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 14.73°C
-            Max. temperature: 14.73°C
+            Min. temperature: 12.73°C
+            Max. temperature: 12.73°C
         </p>
     </div>
     <div id="wakatime">
