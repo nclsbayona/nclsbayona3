@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Nothing ever happened in the past that can prevent you from being present now; and if the past cannot prevent you from being present now, what power does it have?' was translated to valyrian language, and the result is: 'Daorun mirre massitas isse se past bona kostagon prevent ao hen being rudhy sir; se lo se past daor prevent ao hen being rudhy sir,  skoros power does ziry emagon?'
+            The text 'The last time doesn't exist. It's only this time. And everything is going to be different this time. There's only now.' was translated to ferblatin language, and the result is: 'he-Terb ast-lerb ime-terb doesn't exist. It's nly-oerb his-terb time. nd-Aerb verything-eerb is oing-gerb to be ifferent-derb his-terb time. There's nly-oerb now. '
         </h5>
-        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/wtkqgb1485621155.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ujoh9x1504882987.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Zorbatini
+                Name: Hawaiian Cocktail
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 oz Stoli </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ouzo</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Prepare like a Martini. Garnish with a green olive.
+                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -139,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.81°C, however it feels like 12.37°C, climate is
-                <i>overcast clouds</i>
+                13.73°C, however it feels like 13.3°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 12.81°C
-            Max. temperature: 12.81°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
