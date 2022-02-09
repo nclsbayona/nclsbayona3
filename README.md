@@ -5,7 +5,7 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Everything has cracks - that's how the light gets in' was translated to valyrian language, and the result is: 'Everything emagon cracks - bona's skorkydoso se ōños gets isse'
+            The text 'An earned compliment costs nothing, but its returns are immeasurable. Very humanly, when we are complimented, when our efforts are appreciated, most of us will usually strive to perform even better down the line. What a return on the investment of delivering a few earned words of praise!' was translated to valyrian language, and the result is: 'Nykeā earned compliment costs daorun,  yn its returns issi immeasurable. Olvie humanly,  skori īlon issi complimented,  skori īlva efforts issi appreciated,  olvie hen īlva jāhor usually strive naejot perform gīda sȳrkta ilagon se qogron. Skoros nykeā return va se investment hen delivering nykeā dorolvie earned udra hen rijagon!'
         </h5>
         <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Negroni
+                Name: Bellini Martini
             </font>
         </h4>
         <h4>
@@ -42,23 +42,37 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 cubes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach nectar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir into glass over ice, garnish and serve.
+                Instructions: Add ice cubes to shaker.
+Add vodka.
+Add peach schnapps.
+Add peach nectar.
+Shake.
+Strain into glass.
+Add lemon twist peel.
             </font>
         </h4>        
     </div>
@@ -144,7 +158,7 @@
         <p>
             <b> 
                 18.73°C, however it feels like 17.91°C, climate is
-                <i>scattered clouds</i>
+                <i>broken clouds</i>
             .
             Min. temperature: 18.73°C
             Max. temperature: 18.73°C
