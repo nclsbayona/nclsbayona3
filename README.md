@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to minion language, and the result is: 'Dare da BeWhen a daga dia nunfun, dare da loo gratefully.  yeh bada tis darkness, dare da be ta prima da shine a luz.  yeh bada tis injustice, dare da be ta prima da condemn pik.  yeh torute eat yapdey, dare da batooay pik xihub, yikai. . yeh levo eat da ava to koop, dare da fipe bok.  yeh bada eat da be no leg, dare da awa tem.  yeh to're ellabs rim, dare da tenga pata, yikai. . yeh fet nama hat, dare da be hajfad, Yi kai yai yai, Yi kai yai yai! yeh ern hurts to, dare da ern unama.  yeh mimo tis hurting, dare da hep vus heal.  yeh muggey tis gum, dare da hep vus awa ta piu.  yeh a migo cot, dare da be ta prima da aagay a na.  yeh to croco fug wat muggey, dare da haga vus loo.  yeh to mara gopa, dare da hep mimo eko mara gopa mop, yikai. . yeh ta dia hego moc, dare da mara sim to've pin tu obe, Yi kai yai yai!  Dare da be ta obe to pudum, Yi kai yai yai!  ka tadda fet, Dare da be!'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to pig-latin language, and the result is: 'are-Day o-tay eWhen-Bay a-way ew-nay ay-day egins-bay, are-day o-tay ile-smay atefully-gray. en-Whay ere-thay is-way arkness-day, are-day o-tay e-bay e-thay irst-fay o-tay ine-shay a-way ight-lay. en-Whay ere-thay is-way injustice-way, are-day o-tay e-bay e-thay irst-fay o-tay ondemn-cay it-way. en-Whay omething-say eems-say ifficult-day, are-day o-tay o-day it-way anyway-way. en-Whay ife-lay eems-say o-tay eat-bay ou-yay own-day, are-day o-tay ight-fay ack-bay. en-Whay ere-thay eems-say o-tay e-bay o-nay ope-hay, are-day o-tay ind-fay ome-say. en-Whay you're eeling-fay ired-tay, are-day o-tay eep-kay oing-gay. en-Whay imes-tay are-way ough-tay, are-day o-tay e-bay ougher-tay. en-Whay ove-lay urts-hay ou-yay, are-day o-tay ove-lay again-way. en-Whay omeone-say is-way urting-hay, are-day o-tay elp-hay em-thay eal-hay. en-Whay another-way is-way ost-lay, are-day o-tay elp-hay em-thay ind-fay e-thay ay-way. en-Whay a-way iend-fray alls-fay, are-day o-tay e-bay e-thay irst-fay o-tay extend-way a-way and-hay. en-Whay ou-yay oss-cray aths-pay ith-way another-way, are-day o-tay ake-may em-thay ile-smay. en-Whay ou-yay eel-fay eat-gray, are-day o-tay elp-hay omeone-say else-way eel-fay eat-gray oo-tay. en-Whay e-thay ay-day as-hay ended-way, are-day o-tay eel-fay as-way you've one-day our-yay est-bay. are-Day o-tay e-bay e-thay est-bay ou-yay an-cay. At-way all-way imes-tay, are-Day o-tay e-bay! '
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Grasshopper
+                Name: Pineapple Gingerale Smoothie
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,23 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 inch </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz white </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.
+                Instructions: Throw everything into a blender and liquify.
             </font>
         </h4>        
     </div>
