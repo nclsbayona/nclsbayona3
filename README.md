@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to pig-latin language, and the result is: 'are-Day o-tay eWhen-Bay a-way ew-nay ay-day egins-bay, are-day o-tay ile-smay atefully-gray. en-Whay ere-thay is-way arkness-day, are-day o-tay e-bay e-thay irst-fay o-tay ine-shay a-way ight-lay. en-Whay ere-thay is-way injustice-way, are-day o-tay e-bay e-thay irst-fay o-tay ondemn-cay it-way. en-Whay omething-say eems-say ifficult-day, are-day o-tay o-day it-way anyway-way. en-Whay ife-lay eems-say o-tay eat-bay ou-yay own-day, are-day o-tay ight-fay ack-bay. en-Whay ere-thay eems-say o-tay e-bay o-nay ope-hay, are-day o-tay ind-fay ome-say. en-Whay you're eeling-fay ired-tay, are-day o-tay eep-kay oing-gay. en-Whay imes-tay are-way ough-tay, are-day o-tay e-bay ougher-tay. en-Whay ove-lay urts-hay ou-yay, are-day o-tay ove-lay again-way. en-Whay omeone-say is-way urting-hay, are-day o-tay elp-hay em-thay eal-hay. en-Whay another-way is-way ost-lay, are-day o-tay elp-hay em-thay ind-fay e-thay ay-way. en-Whay a-way iend-fray alls-fay, are-day o-tay e-bay e-thay irst-fay o-tay extend-way a-way and-hay. en-Whay ou-yay oss-cray aths-pay ith-way another-way, are-day o-tay ake-may em-thay ile-smay. en-Whay ou-yay eel-fay eat-gray, are-day o-tay elp-hay omeone-say else-way eel-fay eat-gray oo-tay. en-Whay e-thay ay-day as-hay ended-way, are-day o-tay eel-fay as-way you've one-day our-yay est-bay. are-Day o-tay e-bay e-thay est-bay ou-yay an-cay. At-way all-way imes-tay, are-Day o-tay e-bay! '
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to sith language, and the result is: 'Rixik kia BeWhen zo kitok diena begins,  rixik kia smile gratefully. Tikazi antai kash jena'tes,  rixik kia buti tave karuvis kia shine zo irus. Tikazi antai kash injustice,  rixik kia buti tave karuvis kia condemn zhol. Tikazi kaienas seems difficult,  rixik kia isar zhol anyway. Tikazi natura seems kia beat tu kalv,  rixik kia fight atgal. Tikazi antai seems kia buti nie lausk,  rixik kia xauti kair. Tikazi tu're lytetija alsija,  rixik kia kaer bukle. Tikazi times aras tough,  rixik kia buti tougher. Tikazi nulis hurts tu,  rixik kia nulis darval. Tikazi kaiefas kash hurting,  rixik kia tarnas savimi akti. Tikazi another kash sesie,  rixik kia tarnas savimi xauti tave qo. Tikazi zo draugas falls,  rixik kia buti tave karuvis kia extend zo raka. Tikazi tu cross paths su another,  rixik kia fasona savimi smile. Tikazi tu lyteti zavus,  rixik kia tarnas kaiefas kitur lyteti zavus kian. Tikazi tave diena uud qorej,  rixik kia lyteti vi tu've dinora tu'iea best. Rixik kia buti tave best tu gal. Sso visa times,  rixik kia buti!'
         </h5>
-        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/eg9i1d1487603469.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Gingerale Smoothie
+                Name: Danbooka
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other/Unknown
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,19 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 inch </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and liquify.
+                Instructions: pour it in and mix it.
             </font>
         </h4>        
     </div>
