@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to klingon language, and the result is: 'Ngil to BeWhen a new jaj begins,  ngil to mon gratefully. Ghorgh pa' is darkness,  ngil to qu' the wa'dich to boch a wovmohwi'. Ghorgh pa' is injustice,  ngil to qu' the wa'dich to qich 'oh. Ghorgh vay' seems difficult,  ngil to ruch anyway. Ghorgh yin seems to moq tlhih down,  ngil to vay dub. Ghorgh pa' seems to qu' qo' tul,  ngil to tu' 'op. Ghorgh tlhih're feeling tired,  ngil to pol going. Ghorgh times are tough,  ngil to qu' tougher. Ghorgh parmaq hurts tlhih,  ngil to parmaq again. Ghorgh vay' is hurting,  ngil to qah chah heal. Ghorgh another is lost,  ngil to qah chah tu' the way. Ghorgh a jup falls,  ngil to qu' the wa'dich to extend a ghop. Ghorgh tlhih cross paths with another,  ngil to vut chah mon. Ghorgh tlhih hot qu',  ngil to qah vay' else hot qu' je. Ghorgh the jaj has ended,  ngil to hot as tlhih've pitlh your best. Ngil to qu' the best tlhih can. At hoch times,  ngil to qu'!'
+            The text 'You're resourceful and clever' was translated to vulcan language, and the result is: 'Du're resourceful heh clever'
         </h5>
-        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/5xgu591582580586.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: White Russian
+                Name: Brandy Cobbler
             </font>
         </h4>
         <h4>
@@ -42,19 +42,35 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.
+                Instructions: In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.
             </font>
         </h4>        
     </div>
@@ -139,11 +155,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 13.46°C, climate is
-                <i>broken clouds</i>
+                14.16°C, however it feels like 13.69°C, climate is
+                <i>overcast clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 14.16°C
+            Max. temperature: 14.16°C
         </p>
     </div>
     <div id="wakatime">
