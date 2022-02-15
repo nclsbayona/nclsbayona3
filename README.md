@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to dothraki language, and the result is: 'Dare to BeWhen a sash asshekh begins,  dare to eme gratefully. Kash rekke is darkness,  dare to be the atte to shine a shekhikh. Kash rekke is injustice,  dare to be the atte to condemn anna. Kash ato seems difficult,  dare to hash anna anyway. Kash atthirar seems to oqo yeri zohhe,  dare to fight save. Kash rekke seems to be vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) athzalar,  dare to find loy. Kash yeri're feeling haqe,  dare to keep going. Kash times are tough,  dare to be tougher. Kash athfiezar hurts yeri,  dare to athfiezar save. Kash someone is hurting,  dare to rhellaya them heal. Kash eshna is lei,  dare to rhellaya them find the way. Kash a okeo falls,  dare to be the atte to extend a qora. Kash yeri cross paths ma eshna,  dare to make them eme. Kash yeri feel vezhven,  dare to rhellaya someone else feel vezhven akka. Kash the asshekh has ended,  dare to feel ven yeri've done yeri best. Dare to be the best yeri laz. At ei times,  Dare to be!'
+            The text 'Every experience is a lesson. Every loss is a gain.' was translated to valyrian language, and the result is: 'Tolvie experience iksos nykeā lesson. Tolvie loss iksos nykeā gain.'
         </h5>
-        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Scooter
+                Name: Queen Charlotte
             </font>
         </h4>
         <h4>
@@ -42,15 +42,11 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -58,7 +54,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
+                Instructions: Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
             </font>
         </h4>        
     </div>
