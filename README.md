@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to sith language, and the result is: 'Rixik kia BeWhen zo kitok diena begins,  rixik kia smile gratefully. Tikazi antai kash jena'tes,  rixik kia buti tave karuvis kia shine zo irus. Tikazi antai kash injustice,  rixik kia buti tave karuvis kia condemn zhol. Tikazi kaienas seems difficult,  rixik kia isar zhol anyway. Tikazi natura seems kia beat tu kalv,  rixik kia fight atgal. Tikazi antai seems kia buti nie lausk,  rixik kia xauti kair. Tikazi tu're lytetija alsija,  rixik kia kaer bukle. Tikazi times aras tough,  rixik kia buti tougher. Tikazi nulis hurts tu,  rixik kia nulis darval. Tikazi kaiefas kash hurting,  rixik kia tarnas savimi akti. Tikazi another kash sesie,  rixik kia tarnas savimi xauti tave qo. Tikazi zo draugas falls,  rixik kia buti tave karuvis kia extend zo raka. Tikazi tu cross paths su another,  rixik kia fasona savimi smile. Tikazi tu lyteti zavus,  rixik kia tarnas kaiefas kitur lyteti zavus kian. Tikazi tave diena uud qorej,  rixik kia lyteti vi tu've dinora tu'iea best. Rixik kia buti tave best tu gal. Sso visa times,  rixik kia buti!'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to minion language, and the result is: 'Dare da BeWhen a daga dia nunfun, dare da loo gratefully.  yeh bada tis darkness, dare da be ta prima da shine a luz.  yeh bada tis injustice, dare da be ta prima da condemn pik.  yeh torute eat yapdey, dare da batooay pik xihub, yikai. . yeh levo eat da ava to koop, dare da fipe bok.  yeh bada eat da be no leg, dare da awa tem.  yeh to're ellabs rim, dare da tenga pata, yikai. . yeh fet nama hat, dare da be hajfad, Yi kai yai yai, Yi kai yai yai! yeh ern hurts to, dare da ern unama.  yeh mimo tis hurting, dare da hep vus heal.  yeh muggey tis gum, dare da hep vus awa ta piu.  yeh a migo cot, dare da be ta prima da aagay a na.  yeh to croco fug wat muggey, dare da haga vus loo.  yeh to mara gopa, dare da hep mimo eko mara gopa mop, yikai. . yeh ta dia hego moc, dare da mara sim to've pin tu obe, Yi kai yai yai!  Dare da be ta obe to pudum, Yi kai yai yai!  ka tadda fet, Dare da be!'
         </h5>
-        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
+        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/aqm9el1504369613.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Whisky Mac
+                Name: Grasshopper
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Creme de Menthe</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz white </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour both of the ingredients into a wine goblet with no ice.
+                Instructions: Pour ingredients into a cocktail shaker with ice. Shake briskly and then strain into a chilled cocktail glass.
             </font>
         </h4>        
     </div>
