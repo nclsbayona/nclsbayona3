@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to cheunh language, and the result is: 'Vosihn ch'at BeWhen ch'a nuz csihn begins,  vosihn ch'at csebat gratefully. Veo there carcir ch'ittocasi,  vosihn ch'at vacosehn ch'at can'a ch'at bsetah ch'a tohn. Veo there carcir ch'itmorcas,  vosihn ch'at vacosehn ch'at can'a ch'at vun'bicn hah. Veo ei seems difficult,  vosihn ch'at k'ir hah anyway. Veo vez seems ch'at bit vah rcin'i'ohn,  vosihn ch'at bicit back. Veo there seems ch'at vacosehn nah cart'ar,  vosihn ch'at cssuzah vatvo. Veo vah're ran'ci tis,  vosihn ch'at csan going. Veo times are ch'itcuto,  vosihn ch'at vacosehn tougher. Veo ch'acah hurts vah,  vosihn ch'at ch'acah csaah. Veo ea carcir hurting,  vosihn ch'at vatt'ah etah vosis. Veo another carcir lost,  vosihn ch'at vatt'ah etah cssuzah ch'at way. Veo ch'a ch'acevi falls,  vosihn ch'at vacosehn ch'at can'a ch'at cacan'b ch'a ch'can. Veo vah vsosi paths bah another,  vosihn ch'at k'ir etah csebat. Veo vah ran'cah hsin'b,  vosihn ch'at vatt'ah ea ch'atah ran'cah hsin'b too. Veo ch'at csihn has ended,  vosihn ch'at ran'cah veah vah've done your best. Vosihn ch'at vacosehn ch'at best vah can. Mah all times,  vosihn ch'at vacosehn!'
+            The text 'You must live in the present, launch yourself on every wave, find your eternity in each moment. Fools stand on their island of opportunities and look toward another land. There is no other land; there is no other life but this.' was translated to valyrian language, and the result is: 'Ao līs glaesagon isse se rudhy,  launch aōla va tolvie pelar,  find aōha eternity isse each moment. Fools nykeōragon va pōja island hen opportunities se jurnegon toward another tegon. Konīr iksos daor tolie tegon; konīr iksos daor tolie glaeson yn bisa.'
         </h5>
-        <img src="https://www.thathashtagshow.com/wp-content/uploads/2019/07/steadfast-1024x655.jpg" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/0lrmjp1487603166.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/acvf171561574403.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Hot Chocolate to Die for
+                Name: Espresso Rumtini
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,31 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz fine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butter</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Espresso</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Half-and-half</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Marshmallows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">mini </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Melt the chocolate, butter and vanilla in a double boiler. When just smooth stir in the cream.
+                Instructions: Mix together in a cocktail glass. Garnish with some choclate powder and coffee beans
             </font>
         </h4>        
     </div>
