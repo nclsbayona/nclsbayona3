@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Every drop in the ocean counts. ' was translated to mandalorian language, and the result is: 'Anay drop o'r te sho'cye counts.'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to valyrian language, and the result is: 'Dare naejot bewhen nykeā arlie tubis rhaenagon,  dare naejot līrinon gratefully. Skori konīr iksos darkness,  dare naejot sagon se ēlī naejot jehikagon nykeā ōños. Skori konīr iksos injustice,  dare naejot sagon se ēlī naejot condemn ziry. Skori mirros vestragon qopsa,  dare naejot gaomagon ziry anyway. Skori glaeson vestragon naejot pyghagon ao ilagon,  dare naejot vīlībagon arlī. Skori konīr vestragon naejot sagon daor hope,  dare naejot find mirri. Skori ao sagon feeling ēdrugī,  dare naejot lua going. Skori jēdi issi tough,  dare naejot sagon tougher. Skori jorrāelagon hurts ao,  dare naejot jorrāelagon arlī. Skori someone iksos hurting,  dare naejot dohaeragon zirȳ giēñagon. Skori another iksos ojūdan,  dare naejot dohaeragon zirȳ find se ñuhoso. Skori nykeā raqiros ropagon,  dare naejot sagon se ēlī naejot extend nykeā ondos. Skori ao cross paths rūsīr another,  dare naejot mazverdagon zirȳ līrinon. Skori ao feel rōvēgrie,  dare naejot dohaeragon someone else feel rōvēgrie tolī. Skori se tubis emagon keliton,  dare naejot feel hae ao've gaomagon aōha sȳrje. Dare naejot sagon se sȳrje ao kostagon. Rȳ ry jēdi,  dare naejot sagon!'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/pg8iw31593351601.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/l0smzo1504884904.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Pineapple Paloma
+                Name: Jello shots
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,42 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jello</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 packages </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fresh Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepper</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rimmed</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Rub the rim of each glass with lime slice and dip into salt.
-Add ice, tequila, grapefruit juice, lime juice and top with pineapple soda.
-Give it a quick stir.
-Garnish with fresh pineapple or lime.
+                Instructions: Boil 3 cups of water then add jello. Mix jello and water until jello is completely disolved. Add the two cups of vodka and mix together. Pour mixture into plastic shot glasses and chill until firm. Then, eat away...
             </font>
         </h4>        
     </div>
