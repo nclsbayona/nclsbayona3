@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to klingon language, and the result is: 'Ngil to BeWhen a new jaj begins,  ngil to mon gratefully. Ghorgh pa' is darkness,  ngil to qu' the wa'dich to boch a wovmohwi'. Ghorgh pa' is injustice,  ngil to qu' the wa'dich to qich 'oh. Ghorgh vay' seems difficult,  ngil to ruch anyway. Ghorgh yin seems to moq tlhih down,  ngil to vay dub. Ghorgh pa' seems to qu' qo' tul,  ngil to tu' 'op. Ghorgh tlhih're feeling tired,  ngil to pol going. Ghorgh times are tough,  ngil to qu' tougher. Ghorgh parmaq hurts tlhih,  ngil to parmaq again. Ghorgh vay' is hurting,  ngil to qah chah heal. Ghorgh another is lost,  ngil to qah chah tu' the way. Ghorgh a jup falls,  ngil to qu' the wa'dich to extend a ghop. Ghorgh tlhih cross paths with another,  ngil to vut chah mon. Ghorgh tlhih hot qu',  ngil to qah vay' else hot qu' je. Ghorgh the jaj has ended,  ngil to hot as tlhih've pitlh your best. Ngil to qu' the best tlhih can. At hoch times,  ngil to qu'!'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to sith language, and the result is: 'Rixik kia BeWhen zo kitok diena begins,  rixik kia smile gratefully. Tikazi antai kash jena'tes,  rixik kia buti tave karuvis kia shine zo irus. Tikazi antai kash injustice,  rixik kia buti tave karuvis kia condemn zhol. Tikazi kaienas seems difficult,  rixik kia isar zhol anyway. Tikazi natura seems kia beat tu kalv,  rixik kia fight atgal. Tikazi antai seems kia buti nie lausk,  rixik kia xauti kair. Tikazi tu're lytetija alsija,  rixik kia kaer bukle. Tikazi times aras tough,  rixik kia buti tougher. Tikazi nulis hurts tu,  rixik kia nulis darval. Tikazi kaiefas kash hurting,  rixik kia tarnas savimi akti. Tikazi another kash sesie,  rixik kia tarnas savimi xauti tave qo. Tikazi zo draugas falls,  rixik kia buti tave karuvis kia extend zo raka. Tikazi tu cross paths su another,  rixik kia fasona savimi smile. Tikazi tu lyteti zavus,  rixik kia tarnas kaiefas kitur lyteti zavus kian. Tikazi tave diena uud qorej,  rixik kia lyteti vi tu've dinora tu'iea best. Rixik kia buti tave best tu gal. Sso visa times,  rixik kia buti!'
         </h5>
-        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/tuppuq1461866798.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/869qr81487603278.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Freddy Kruger
+                Name: Tomato Tang
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Celery salt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: make it an ample size shot!!
+                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
             </font>
         </h4>        
     </div>
@@ -143,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15.73°C, however it feels like 15.11°C, climate is
+                14.73°C, however it feels like 14.27°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 15.73°C
-            Max. temperature: 15.73°C
+            Min. temperature: 14.73°C
+            Max. temperature: 14.73°C
         </p>
     </div>
     <div id="wakatime">
