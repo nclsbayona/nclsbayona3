@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You are a capable human' was translated to minion language, and the result is: 'to nama a refass ohs'
+            The text 'By failing to prepare, you are preparing to fail.' was translated to mandalorian language, and the result is: 'De failing brokar tsikador,  gar are preparing brokar trattok'or.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/trttrv1441254466.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bobby Burns Cocktail
+                Name: Yoghurt Cooler
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,27 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
+                Instructions: Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up. Note: Use lots of ice in this one - great on hot days! To add ice: Remove the center of the cover while the blender is on - drop 3 or 4 ice cubs and blend until they're completely crushed.
             </font>
         </h4>        
     </div>
@@ -181,16 +173,20 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 9 minutes</td>
         </tr>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">C++</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 3 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JavaScript</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 25 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 31 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 4 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 11 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 53 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Markdown</td>
@@ -198,11 +194,11 @@
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 13 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 18 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">CSS</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 17 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Groovy</td>
@@ -237,11 +233,11 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 hours and 47 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 hours and 48 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Linux</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 9 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 37 minutes</td>
         </tr>
     </tbody>
 </table>
