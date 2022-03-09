@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'If the plan doesn't work, change the plan, but never the goal.' was translated to mandalorian language, and the result is: 'Meh te dajunar doesn't borarir,  am te dajunar,  al draar te goal.'
+            The text 'If you haven't the strength to impose your own terms upon life, then you must accept the terms it offers you.' was translated to sith language, and the result is: 'Ar tu zinoui tave ty kia impose tu'iea savas terms sh'jatau natura,  then tu must accept tave terms zhol offers tu.'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -151,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                7.73°C, however it feels like 7.73°C, climate is
-                <i>scattered clouds</i>
+                3.73°C, however it feels like 1.82°C, climate is
+                <i>fog</i>
             .
-            Min. temperature: 7.73°C
-            Max. temperature: 7.73°C
+            Min. temperature: 3.73°C
+            Max. temperature: 3.73°C
         </p>
     </div>
     <div id="wakatime">
