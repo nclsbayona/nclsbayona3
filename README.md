@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'It ain't where you start in life, it's where you end up, and what you did along the way.' was translated to pig-latin language, and the result is: 'It-way ain't ere-whay ou-yay art-stay in-way ife-lay, it's ere-whay ou-yay end-way up-way, and-way at-whay ou-yay id-day along-way e-thay ay-way. '
+            The text 'If you cannot do great things, do small things in a great way.' was translated to dothraki language, and the result is: 'If yeri cannot hash vezhven things,  hash naqis things she a vezhven way.'
         </h5>
-        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Adam
+                Name: Amaretto Tea
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz hot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chilled </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+                Instructions: Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.
             </font>
         </h4>        
     </div>
@@ -143,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                10.73°C, however it feels like 10.29°C, climate is
+                9.73°C, however it feels like 9.3°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 10.73°C
-            Max. temperature: 10.73°C
+            Min. temperature: 9.73°C
+            Max. temperature: 9.73°C
         </p>
     </div>
     <div id="wakatime">
