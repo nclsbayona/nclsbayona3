@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Though no one can go back and make a brand new start, anyone can start from now and make a brand new ending.' was translated to ferblatin language, and the result is: 'hough-Terb no ne-oerb an-cerb go ack-berb nd-aerb ake-merb a rand-berb ew-nerb tart-serb, nyone-aerb an-cerb tart-serb rom-ferb ow-nerb nd-aerb ake-merb a rand-berb ew-nerb ending. '
+            The text 'Your overnight success story is always a result of everything you have done in your life until that moment.' was translated to sith language, and the result is: 'Tu'iea overnight klotis story kash xisad zo result iv viskas tu zinot dinora kash tu'iea natura until anas moment.'
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rytuex1598719770.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/jbqrhv1487603186.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Lazy Coconut Paloma
+                Name: Chocolate Beverage
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Cocoa
             </font>
         </h4>
         <h4>
@@ -42,39 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut Liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">75 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz Mexican </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp powdered </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix the coconut liqueur (preferably tequila) with the grapefruit juice and top with soda water. Garnish with a large grapefruit slice against the inside of the glass.
+                Instructions: Boil milk in the top of a deep double boiler five minutes. Remove from fire and add chocolate, mixed with the cinnamon, a little at a time, beating with molinillo or egg beater after each addition. When the chocolate is thoroughly blended, heat to the boiling point. Place over bottom of double boiler and add eggs, whipping constantly, until they are thoroughly blended and the mixture is frothing. Serve in coffee mug. Serves eight.
             </font>
         </h4>        
     </div>
