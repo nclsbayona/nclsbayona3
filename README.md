@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/3jm41q1493069578.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Rose
+                Name: Amaretto And Cream
             </font>
         </h4>
         <h4>
@@ -46,15 +46,15 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.
+                Instructions: Shake well with cracked ice, strain contents into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -140,7 +140,7 @@
         <p>
             <b> 
                 16.73°C, however it feels like 16.34°C, climate is
-                <i>scattered clouds</i>
+                <i>broken clouds</i>
             .
             Min. temperature: 16.73°C
             Max. temperature: 16.73°C
