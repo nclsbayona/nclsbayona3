@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/jfcvps1504369888.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Hemingway Special
+                Name: New York Lemonade
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,27 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweetened </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour all ingredients into a shaker with ice. Shake.
+                Instructions: Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.
             </font>
         </h4>        
     </div>
@@ -147,11 +147,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 16.47°C, climate is
-                <i>scattered clouds</i>
+                12.8°C, however it feels like 12.54°C, climate is
+                <i>overcast clouds</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 12.8°C
+            Max. temperature: 12.8°C
         </p>
     </div>
     <div id="wakatime">
