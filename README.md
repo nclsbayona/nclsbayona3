@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/sp8hkp1596017787.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: The Philosopher
+                Name: Brain Fart
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,39 +42,35 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Melon Liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth Smirnoff red label </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mountain Dew</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 L </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 L </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 small bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add all the spirits in a shaker (best to use Hendricks gin) as well as the orange bitters and lemon juice. Strain into a Margarita glass, top with Prosecco.
+                Instructions: Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.
             </font>
         </h4>        
     </div>
@@ -159,11 +155,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.73°C, however it feels like 12.2°C, climate is
+                13.52°C, however it feels like 13.07°C, climate is
                 <i>overcast clouds</i>
             .
-            Min. temperature: 12.73°C
-            Max. temperature: 12.73°C
+            Min. temperature: 13.52°C
+            Max. temperature: 13.52°C
         </p>
     </div>
     <div id="wakatime">
