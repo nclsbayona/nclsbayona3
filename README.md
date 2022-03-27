@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.' was translated to huttese language, and the result is: 'Ignition (n): doe motivational process da occurs whao do identity becomes linked tah do long-term vision of do future. Triggers significant amounts of unconscious energy; usually marked by doe realization: da sa coo mee naga tah be.'
+            The text 'Ignition (n): The motivational process that occurs when your identity becomes linked to a long-term vision of your future. Triggers significant amounts of unconscious energy; usually marked by the realization: That is who I want to be.' was translated to vulcan language, and the result is: 'Yonan (n): wuh motivational torek ik paresh-tor lu ish-veh sha'es shetau punaf-tor tor wuh wu-zhil vision t' ish-veh fa-wak. Ozh-gonaf significant nosahp t' unconscious tepul; usually pu'ulidau k' wuh realization: ik nam-tor vi i aitlun tor nam-tor.'
         </h5>
-        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vvop4w1493069934.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absinthe #2
+                Name: Amaretto Stinger
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,31 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 gr </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anise</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml pure </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Licorice root</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wormwood</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Creme de Menthe</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
+                Instructions: Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -151,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.8°C, however it feels like 12.62°C, climate is
-                <i>overcast clouds</i>
+                15.73°C, however it feels like 14.9°C, climate is
+                <i>moderate rain</i>
             .
-            Min. temperature: 12.8°C
-            Max. temperature: 12.8°C
+            Min. temperature: 15.73°C
+            Max. temperature: 15.73°C
         </p>
     </div>
     <div id="wakatime">
