@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.' was translated to huttese language, and the result is: 'Stop creating do life da u need do vacation tuta. Instead doopee tah konchee u naga tah live,  do choy? U naga tah do,  start choy? U naga tah start um create doe life u naga today. This isn't rehearsal people. This sa do life.'
+            The text 'Stop creating a life that you need a vacation from. Instead move to where you want to live, do what you want to do, start what you want to start and create the life you want today. This isn't rehearsal people. This is YOUR life.' was translated to valyrian language, and the result is: 'Keligon creating nykeā glaeson bona ao jorrāelagon nykeā vacation hen. Instead dīnagon naejot skoriot ao jaelagon naejot glaesagon,  gaomagon skoros ao jaelagon naejot gaomagon,  rhaenagon skoros ao jaelagon naejot rhaenagon se mazverdagon se glaeson ao jaelagon tubī. Bisa isn't rehearsal people. Bisa iksos aōha glaeson.'
         </h5>
-        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Sangria
+                Name: Barracuda
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,27 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> 1 dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.
+                Instructions: Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
             </font>
         </h4>        
     </div>
@@ -147,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11.73°C, however it feels like 11.41°C, climate is
+                12.73°C, however it feels like 12.2°C, climate is
                 <i>light rain</i>
             .
-            Min. temperature: 11.73°C
-            Max. temperature: 11.73°C
+            Min. temperature: 12.73°C
+            Max. temperature: 12.73°C
         </p>
     </div>
     <div id="wakatime">
