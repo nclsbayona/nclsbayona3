@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/urpyqs1439907531.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/1q7coh1504736227.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Mississippi Planters Punch
+                Name: Scotch Cobbler
             </font>
         </h4>
         <h4>
@@ -42,31 +42,31 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 dashes </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 dashes </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a collins glass over ice cubes. Fill with carbonated water, stir, and serve.
+                Instructions: Pour scotch, brandy, and curacao over ice in an old-fashioned glass. Add the orange slice, top with the mint sprig, and serve.
             </font>
         </h4>        
     </div>
@@ -151,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11.73°C, however it feels like 11.41°C, climate is
-                <i>light intensity drizzle</i>
+                11.05°C, however it feels like 10.77°C, climate is
+                <i>overcast clouds</i>
             .
-            Min. temperature: 11.73°C
-            Max. temperature: 11.73°C
+            Min. temperature: 11.05°C
+            Max. temperature: 11.05°C
         </p>
     </div>
     <div id="wakatime">
