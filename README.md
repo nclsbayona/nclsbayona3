@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Life is love and love is life.' was translated to oldenglish language, and the result is: ' {Life} {is} m¯æglufu hwæðere lofian {is} môdsefa.'
+            The text 'Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.' was translated to yoda language, and the result is: 'Don't use all-or-nothing thinking.Each day as its own day,  take,About it if you mess up one day,  and don't worry.Is just get back up on the horse,  the most important thing you can do.'
         </h5>
-        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
+        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/k2r7wv1582481454.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Adonis Cocktail
+                Name: Gentleman's Club
             </font>
         </h4>
         <h4>
@@ -42,23 +42,27 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz dry </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
+                Instructions: In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.
             </font>
         </h4>        
     </div>
@@ -143,11 +147,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11.73°C, however it feels like 11.41°C, climate is
-                <i>overcast clouds</i>
+                10.73°C, however it feels like 10.47°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 11.73°C
-            Max. temperature: 11.73°C
+            Min. temperature: 10.73°C
+            Max. temperature: 10.73°C
         </p>
     </div>
     <div id="wakatime">
