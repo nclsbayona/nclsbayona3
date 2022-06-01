@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            An error ocurred please try again later
+            The text 'You have power over your mind - not outside events. Realize this, and you will find strength.' was translated to valyrian language, and the result is: 'Ao emagon power toliot aōha mind - daor outside events. Realize bisa,  se ao jāhor find kustikāne.'
         </h5>
-        <img src="" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/b7qzo21493070167.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/3jm41q1493069578.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Tea
+                Name: Amaretto Rose
             </font>
         </h4>
         <h4>
@@ -42,23 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz hot </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chilled </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour hot tea into a pousse-cafe glass, using a spoon in glass to prevent cracking. Add amaretto, but do not stir. Top with chilled whipped cream and serve.
+                Instructions: Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.
             </font>
         </h4>        
     </div>
@@ -143,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                10.73°C, however it feels like 10.29°C, climate is
+                10.67°C, however it feels like 10.25°C, climate is
                 <i>overcast clouds</i>
             .
-            Min. temperature: 10.73°C
-            Max. temperature: 10.73°C
+            Min. temperature: 10.67°C
+            Max. temperature: 10.67°C
         </p>
     </div>
     <div id="wakatime">
@@ -177,35 +173,23 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 11 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">C</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 40 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dart</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 29 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 28 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Go</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Text</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">CSS</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -221,7 +205,11 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Linux</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 34 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 46 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 50 minutes</td>
         </tr>
     </tbody>
 </table>
