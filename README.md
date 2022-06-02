@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Life is a long lesson in humility. ' was translated to ferblatin language, and the result is: 'ife-Lerb is a ong-lerb esson-lerb in humility.  '
+            The text 'Successful people ask better questions, and as a result, they get better answers.' was translated to vulcan language, and the result is: 'Successful sutra ya'akash weh-rom deshkau,  heh u' wuh result,  au prah weh-rom kilko-srashiv.'
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xrqxuv1454513218.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Cranberry Cordial
+                Name: Apple Cider Punch
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Optional alcohol
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,23 +42,43 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 kg chopped </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 qt </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 L </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 L </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Allspice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 whole </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp ground </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 sticks </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.
+                Instructions: If you use the whole all spice and cloves, tie them in cheesecloth. Heat the mixture. Stir occasionally. If you want an alcoholic drink, rum would be nice.
             </font>
         </h4>        
     </div>
@@ -143,11 +163,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 16°C, climate is
-                <i>scattered clouds</i>
+                17.73°C, however it feels like 16.66°C, climate is
+                <i>few clouds</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 17.73°C
+            Max. temperature: 17.73°C
         </p>
     </div>
     <div id="wakatime">
