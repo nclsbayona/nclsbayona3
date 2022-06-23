@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.' was translated to minion language, and the result is: 'cwm nama les disembodied levo moo, feila domo kaylay a forma, pelo feila kaylay a sama.  tadda feila quer tis da be mobla manifest.  asa to pudum godhit da mac aka tu consciousness da nan tut mud ehkit een a globo mud abundance, awa to pudum tilten pak, binal, cwm nama yaphug da awa ohs collaborators.'
+            The text 'Ideas are these disembodied life forms, they don't have a form, but they have a will. All they want is to be made manifest. If you can manage to open up your consciousness to an idea of living in a world of abundance, then you can believe that, constantly, ideas are trying to find human collaborators.' was translated to mandalorian language, and the result is: 'Ideas are these disembodied life forms,  val don't ganar a form,  al val ganar a will. An val want is brokar cuyir gotal manifest. Meh gar liser manage brokar tenn laam gar consciousness brokar eyn idea be oya'la o'r a world be abundance,  then gar liser urmankalar megin,  constantly,  ideas are trying brokar find human collaborators.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/bsvmlg1515792693.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Oatmeal Cookie
+                Name: Mother's Milk
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,34 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jagermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Just mix it all together.
-It's meant to be a shot, but it works just fine as a proper adult-sized drink over lots of ice.
-
-Tastes like an oatmeal cookie.
+                Instructions: Shake over ice, strain. Serves two.
             </font>
         </h4>        
     </div>
@@ -154,11 +143,11 @@ Tastes like an oatmeal cookie.
         Currently, the weather in my location is: 
         <p>
             <b> 
-                9.73°C, however it feels like 9.73°C, climate is
-                <i>broken clouds</i>
+                7.73°C, however it feels like 7.01°C, climate is
+                <i>fog</i>
             .
-            Min. temperature: 9.73°C
-            Max. temperature: 9.73°C
+            Min. temperature: 7.73°C
+            Max. temperature: 7.73°C
         </p>
     </div>
     <div id="wakatime">
