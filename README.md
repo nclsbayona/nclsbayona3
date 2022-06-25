@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/ywxwqs1461867097.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/x894cs1504388670.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 501 Blue
+                Name: Screaming Orgasm
             </font>
         </h4>
         <h4>
@@ -41,12 +41,24 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix equal amounts into a glass with ice.
+                Instructions: Pour first vodka, then Bailey's, then Kahlua into a cocktail glass over crushed ice. Stir. Caution: use only high quality vodka. Cheap vodka can cause the Bailey's to curdle. Test your brand of vodka by mixing 1 Tsp each of vodka and Bailey's first.
             </font>
         </h4>        
     </div>
@@ -132,7 +144,7 @@
         <p>
             <b> 
                 8.73°C, however it feels like 8.73°C, climate is
-                <i>few clouds</i>
+                <i>fog</i>
             .
             Min. temperature: 8.73°C
             Max. temperature: 8.73°C
