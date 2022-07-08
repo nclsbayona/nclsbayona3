@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid' was translated to pirate language, and the result is: 'Whenever we’re afraid, it’s because we don’t be knowin' enough.  If we understood enough, we would ne'er be afraid'
+            The text 'Do the hard jobs first. The easy jobs will take care of themselves.' was translated to valyrian language, and the result is: 'Gaomagon se qopsa jobs ēlī. Se easy jobs jāhor gūrogon care hen pōntāla.'
         </h5>
-        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/3s6mlr1509551211.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Caribbean Orange Liqueur
+                Name: Salted Toffee Martini
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Homemade Liqueur
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,23 +42,33 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 large </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/3 cup superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salted Chocolate</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grated</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.
+                Instructions: Add ice, toffee gin, chocolate liqueur and Amaretto to a cocktail shaker and shake vigorously. 
+Pour the chocolate syrup into a saucer and dip the top of a martini glass into the sauce. Grate some of the Willie\'s sea salt chocolate into another saucer and dip the coated glass, so the flakes stick to the sauce, creating a chocolate rim!
+Pour the contents of the shaker into your chocolatey glass and sprinkle with more grated chocolate - enjoy!  
             </font>
         </h4>        
     </div>
@@ -143,11 +153,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.08°C, however it feels like 12.69°C, climate is
-                <i>light rain</i>
+                13.73°C, however it feels like 13.3°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 13.08°C
-            Max. temperature: 13.08°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
