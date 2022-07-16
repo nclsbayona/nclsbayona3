@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.' was translated to oldenglish language, and the result is: ' {All} {courses} orgilde framscîpe forerynel {risky}, adverbial phrases glêawnes {is} nâteðæshwôn oððæt {avoiding} frêcennes {(it's} {impossible)}, tôêacan and {calculating} pleoh plêos ðêana {acting} {decisively}. {Make} {mistakes} orgilde rîceter wislic nealles {mistakes} orgilde lætnes. {Develop} sê trumnes to libban de ðrîstiglic {things}, nâ dôð strangnes of wyrcan.'
+            The text 'All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.' was translated to ferblatin language, and the result is: 'll-Aerb ourses-cerb of ction-aerb re-aerb isky-rerb, so rudence-perb is ot-nerb in voiding-aerb anger-derb (it's impossible), ut-berb alculating-cerb isk-rerb nd-aerb cting-aerb decisively. ake-Merb istakes-merb of mbition-aerb nd-aerb ot-nerb istakes-merb of sloth. evelop-Derb he-terb trength-serb to do old-berb hings-terb, ot-nerb he-terb trength-serb to suffer. '
         </h5>
-        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/trvwpu1441245568.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Spanish chocolate
+                Name: Thai Iced Tea
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocoa
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,27 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup Thai </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweet </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup boiling </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Condensed milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp sweetened </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 beaten </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">garnish</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
+                Instructions: Combine Thai tea (i.e., the powder), boiling water, and sweetened condensed milk, stir until blended. Pour into 2 tall glasses filled with ice cubes. Garnish with mint leaves. Makes 2 servings.
             </font>
         </h4>        
     </div>
@@ -147,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.22°C, however it feels like 12.4°C, climate is
-                <i>clear sky</i>
+                13.73°C, however it feels like 13.3°C, climate is
+                <i>haze</i>
             .
-            Min. temperature: 13.22°C
-            Max. temperature: 13.22°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
