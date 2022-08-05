@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Remembering that you are going to die is the best way I know to avoid the trap of thinking you have something to lose.' was translated to minion language, and the result is: 'Remembering pak to nama pata da shh tis ta obe piu ka cono da sum ta bro mud awnyok to kaylay torute da bed.'
+            The text 'Many of life's failures are experienced by people who did not realize how close they were to success when they gave up.' was translated to klingon language, and the result is: 'Many of yin's failures are experienced by people 'iv did not tlhoj chay' soqmoh chah were to qapla' ghorgh chah gave up.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vdp2do1487603520.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Black Forest Shake
+                Name: Mango Orange Smoothie
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shake
+                Category: Other/Unknown
             </font>
         </h4>
         <h4>
@@ -42,15 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mango</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
+                Instructions: Throw everything into a blender and liquify.
             </font>
         </h4>        
     </div>
@@ -135,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                9.73°C, however it feels like 9.73°C, climate is
-                <i>light intensity drizzle</i>
+                8.73°C, however it feels like 8.73°C, climate is
+                <i>scattered clouds</i>
             .
-            Min. temperature: 9.73°C
-            Max. temperature: 9.73°C
+            Min. temperature: 8.73°C
+            Max. temperature: 8.73°C
         </p>
     </div>
     <div id="wakatime">
