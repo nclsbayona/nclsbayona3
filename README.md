@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'The seasons do not push one another; neither do clouds race the wind across the sky. All things happen in their own good time.' was translated to pig-latin language, and the result is: 'e-Thay easons-say o-day ot-nay ush-pay one-way another; either-nay o-day ouds-clay ace-ray e-thay ind-way across-way e-thay y-skay. All-way ings-thay appen-hay in-way eir-thay own-way ood-gay ime-tay. '
+            The text 'All courses of action are risky, so prudence is not in avoiding danger (it's impossible), but calculating risk and acting decisively. Make mistakes of ambition and not mistakes of sloth. Develop the strength to do bold things, not the strength to suffer.' was translated to pirate language, and the result is: 'All courses o' action be risky, so prudence be not in avoidin' danger ('tis impossible), but calculatin' risk and actin' decisively.  And hoist the mainsail!  Make mistakes o' ambition and not mistakes o' sloth, with a chest full of booty.  Develop th' strength t' do bold thin's, not th' strength t' suffer.'
         </h5>
-        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/of1rj41504348346.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Scooter
+                Name: Between The Sheets
             </font>
         </h4>
         <h4>
@@ -46,11 +46,15 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -58,7 +62,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
+                Instructions: Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.
             </font>
         </h4>        
     </div>
@@ -144,7 +148,7 @@
         <p>
             <b> 
                 15.73°C, however it feels like 14.9°C, climate is
-                <i>moderate rain</i>
+                <i>light rain</i>
             .
             Min. temperature: 15.73°C
             Max. temperature: 15.73°C
