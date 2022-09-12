@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'If you're changing the world, you're working on important things. You're excited to get up in the morning.' was translated to vulcan language, and the result is: 'Kuv du're rubai wuh panu,  du're working fi' yauluhk vel. Du're teporilau tor prah abru svi' wuh asal.'
+            The text 'People acting together as a group can accomplish things which no individual acting alone could ever hope to bring about.' was translated to ferblatin language, and the result is: 'eople-Perb cting-aerb ogether-terb as a roup-gerb an-cerb ccomplish-aerb hings-terb hich-werb no ndividual-ierb cting-aerb lone-aerb ould-cerb ver-eerb ope-herb to ring-berb about. '
         </h5>
-        <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,57 +16,28 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/8cl9sm1582581761.jpg">
+        <img src="">
         <h4>
             <font color="#F0A0FF">
-                Name: Gin Sling
+                Name: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: 
             </font>
         </h4>
         <h4>
-            <table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Twist of </td>
-        </tr>
-    </tbody>
-</table>
+            
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Dissolve powdered sugar in mixture of water and juice of lemon. Add gin. Pour into an old-fashioned glass over ice cubes and stir. Add the twist of orange peel and serve.
+                Instructions: 
             </font>
         </h4>        
     </div>
@@ -151,11 +122,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17.73°C, however it feels like 17.33°C, climate is
+                16.73°C, however it feels like 16.21°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 17.73°C
-            Max. temperature: 17.73°C
+            Min. temperature: 16.73°C
+            Max. temperature: 16.73°C
         </p>
     </div>
     <div id="wakatime">
