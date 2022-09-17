@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'I admire you for taking this on' was translated to minion language, and the result is: 'ka admire to nunu batnus ba lib'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to yoda language, and the result is: 'To bewhen a new day begins,  dare,To smile gratefully,  dare.Darkness,  when there is,To be the first to shine a light,  dare.Injustice,  when there is,To be the first to condemn it,  dare.Difficult,  when something seems,To do it anyway,  dare.To beat you down,  when life seems,To fight back,  dare.To be no hope,  when there seems,To find some,  dare.When you're feeling tired,To keep going,  dare.Tough,  when times are,To be tougher,  dare.You,  when love hurts,To love again,  dare.Hurting,  when someone is,To help them heal,  dare.Lost,  when another is,To help them find the way,  dare.When a friend falls,To be the first to extend a hand,  dare.Paths with another,  when you cross,To make them smile,  dare.Great,  when you feel,To help someone else feel great too,  dare.Ended,  when the day has,To feel as you've done your best,  dare.To be the best you can,  dare.At all times,To be,  dare!'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/svsxsv1454511666.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Caribbean Boilermaker
+                Name: 252
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,19 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Corona</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot Bacardi </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the Corona into an 18oz beer glass pour the rum into the beer.
+                Instructions: Add both ingredients to shot glass, shoot, and get drunk quick
             </font>
         </h4>        
     </div>
@@ -139,8 +139,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14.73°C, however it feels like 14.27°C, climate is
-                <i>light intensity drizzle</i>
+                14.73°C, however it feels like 14.14°C, climate is
+                <i>scattered clouds</i>
             .
             Min. temperature: 14.73°C
             Max. temperature: 14.73°C
