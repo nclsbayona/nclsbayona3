@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to sindarin language, and the result is: 'Berth- na BeWhen a siniath aur begins,  berth- na smile gratefullui. Ir ennas na- fuin,  berth- na n- i erui na mír- a galad. Ir ennas na- injustice,  berth- na n- i erui na condemn ha. Ir something seems difficult,  berth- na ceri- ha anywaui. Ir cuil seems na dring- cin dad,  berth- na cost back. Ir ennas seems na n- baw estel,  berth- na rad- some. Ir cin're feeling tired,  berth- na cheb- going. Ir times are tarag,  berth- na n- tougher. Ir mel hurts cin,  berth- na mel ad-. Ir someone na- hurting,  berth- na help hain heal. Ir another na- lost,  berth- na help hain rad- i té. Ir a mellon falls,  berth- na n- i erui na extend a bor. Ir cin athrad- paths with another,  berth- na ech- hain smile. Ir cin feel beleg,  berth- na help someone else feel beleg too. Ir i aur has ended,  berth- na feel sui cin've done cín best. Berth- na n- i best cin tur-. At all times,  berth- na n-!'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to oldenglish language, and the result is: ' {Dare} from− {BeWhen} bêgra ednîwe ofernôn {begins}, nêðan wîte smearcian {gratefully}. {When} {there} {is} hoðma, nêðan besettan bêon sê frymð−lic of blîcan a forswelan. {When} {there} {is} unriht,  dorston forniman sîn wægn frymð−lic wiðtêon hierwan hê. {When} edwihte {seems} earfoðlic, nêðan settan timbran hîe {anyway}. {When} ingyte {seems} from− swipian êow dûn dûna, dyrstl¯æcan hêan flânðracu onbæc. {When} {there} {seems} âlecgan ðurhwunian n¯ænig pro hycgan, wrîgian oð  tôhwega and. {When} {you're} myne mêðig, wrîgian furðor further hafenian gang. {When} {times} mæstling tôh, ðrîstian âsettan faran {tougher}. {When} brôðorscipe {hurts} êower, dyrstigian fyllan frêogan ednîwinga. {When} {someone} {is} {hurting}, wrîgian ongen¯æman bôt ðâs begîming. {When} {another} {is} {lost}, wrîgian âstellan fultum ðæge pro full−gân 3 dôð stîg. {When} bêgra nêodfrêond {falls}, wrîgian fyllan bêon duguð ærest from− spr¯ædan bêga tilia. {When} êow wulfhêafodtrêo {paths} mid {another},  dorston wîte scêadan ðâs smearcian. {When} êow handlian trum,  dorston ±unnen and thing âhelpan {someone} hwergen frêdan hrôr for ðý ðe. {When} duguð dæghwîl {has} {ended},  dorston ðanon frêdan samðe in phrase samðsamð {you've} {done} êower best. {Dare} wîte cunnon wægn fyrmest su of forma êow canne. {At} {all} {times}, {Dare} ætniman bêo!'
         </h5>
-        <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rtpxqw1468877562.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 252
+                Name: Shot-gun
             </font>
         </h4>
         <h4>
@@ -42,19 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jim Beam</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jack Daniels</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Add both ingredients to shot glass, shoot, and get drunk quick
+                Instructions: Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.
             </font>
         </h4>        
     </div>
