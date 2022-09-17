@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to mandalorian language, and the result is: 'Dare brokar BeWhen a evaar'la tuur begins,  dare brokar smile gratefully. Tion'tuur ogir is werde,  dare brokar cuyir te sol'yc brokar shine a light. Tion'tuur ogir is injustice,  dare brokar cuyir te sol'yc brokar condemn bic. Tion'tuur something seems urakto,  dare brokar vaabir bic anyway. Tion'tuur life seems brokar brokar gar daab,  dare brokar akaanir norac. Tion'tuur ogir seems brokar cuyir nayc hope,  dare brokar find some. Tion'tuur gar're feeling haryc,  dare brokar taylir going. Tion'tuur times are atin'la,  dare brokar cuyir tougher. Tion'tuur kar'taylir darasuum hurts gar,  dare brokar kar'taylir darasuum tug'yc. Tion'tuur someone is hurting,  dare brokar gaa'taylir them heal. Tion'tuur another is echoy'la,  dare brokar gaa'taylir them find te way. Tion'tuur a burc'ya falls,  dare brokar cuyir te sol'yc brokar extend a gaan. Tion'tuur gar doslanir paths ti another,  dare brokar gotal'ur them smile. Tion'tuur gar aalar great,  dare brokar gaa'taylir ash'ad aalar great too. Tion'tuur te tuur has ended,  dare brokar aalar as. As gar've done gar jatne. Dare brokar cuyir te jatne gar liser. Shal an times,  Dare brokar cuyir!'
+            The text 'Dare to BeWhen a new day begins, dare to smile gratefully. When there is darkness, dare to be the first to shine a light. When there is injustice, dare to be the first to condemn it. When something seems difficult, dare to do it anyway. When life seems to beat you down, dare to fight back. When there seems to be no hope, dare to find some. When you're feeling tired, dare to keep going. When times are tough, dare to be tougher. When love hurts you, dare to love again. When someone is hurting, dare to help them heal. When another is lost, dare to help them find the way. When a friend falls, dare to be the first to extend a hand. When you cross paths with another, dare to make them smile. When you feel great, dare to help someone else feel great too. When the day has ended, dare to feel as you've done your best. Dare to be the best you can. At all times, Dare to be!' was translated to gungan language, and the result is: 'Dare to bewhen a new day begins,  dare to smile gratefully. When dalee is darkness,  dare besa dha first to shine a light. When dalee is injustice,  dare besa dha first to condemn it. When someth seems difficult,  dare to do it anyway. When life seems to beat yousa neb,  dare to fight back. When dalee seems besa nosa hope,  dare to find some. When yousa're feel tired,  dare to keep goen. When times are tough,  dare besa tougher. When shu hurts yousa,  dare to shu again. When someone is hurt,  dare to hep them-sa heal. When another is lost,  dare to hep them-sa find dha way. When a friend falls,  dare besa dha first to extend a hand. When yousa cross paths with another,  dare to maken them-sa smile. When yousa feel bombad,  dare to hep someone else feel bombad too. When dha day has ended,  dare to feel as yousa've done yous best. Dare besa dha best yousa can. At all times,  dare besa!'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/ruxuvp1472669600.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vprxqv1478963533.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: A.D.M. (After Dinner Mint)
+                Name: Quick-sand
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,27 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Black Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 250 ml </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: shake vigorously
+                Instructions: Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!
             </font>
         </h4>        
     </div>
