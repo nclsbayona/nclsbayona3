@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'It is not because things are difficult that we do not dare; it is because we do not dare that things are difficult.  ' was translated to dothraki language, and the result is: 'Anna is vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) hajinaan things are difficult ki kisha hash vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) dare; anna is hajinaan kisha hash vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) dare ki things are difficult.'
+            The text 'You're doing a great job' was translated to pirate language, and the result is: 'ye're doin' a great job'
         </h5>
-        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
+        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -147,11 +147,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19.02°C, however it feels like 18.44°C, climate is
+                19.36°C, however it feels like 18.81°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 19.02°C
-            Max. temperature: 19.02°C
+            Min. temperature: 19.36°C
+            Max. temperature: 19.36°C
         </p>
     </div>
     <div id="wakatime">
