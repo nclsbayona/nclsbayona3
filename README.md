@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qrot6j1504369425.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/37vzv11504884831.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Golden dream
+                Name: Japanese Fizz
             </font>
         </h4>
         <h4>
@@ -42,27 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake with cracked ice. Strain into glass and serve.
+                Instructions: Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
             </font>
         </h4>        
     </div>
