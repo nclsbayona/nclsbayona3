@@ -5,9 +5,9 @@
         <!--Old One><img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark"-->
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'I never dwell on what happened. You can't change it. Move forward.' was translated to mandalorian language, and the result is: 'Ni draar dwell bat me'ven? Happened. Gar liser't am bic. Shaadlar forward.'
+            The text 'You know more than you think' was translated to huttese language, and the result is: 'U know more than u tinka'
         </h5>
-        <img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Black Forest Shake
+                Name: Bumble Bee
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shake
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,15 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
+                Instructions: This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!
             </font>
         </h4>        
     </div>
@@ -136,7 +144,7 @@
         <p>
             <b> 
                 16.73°C, however it feels like 16.1°C, climate is
-                <i>scattered clouds</i>
+                <i>few clouds</i>
             .
             Min. temperature: 16.73°C
             Max. temperature: 16.73°C
