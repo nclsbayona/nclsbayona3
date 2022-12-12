@@ -2,7 +2,7 @@ name: README Build
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/50 */2 * * *"
+    - cron: "50 * * * *"
 
 jobs:
   build:
