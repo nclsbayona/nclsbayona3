@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Procrastination is attitude's natural assassin. There's nothing so fatiguing as an uncompleted task.' was translated to gungan language, and the result is: 'Procrastination is attitude's natural assassin. Dalee's noth so fatigu as an uncompleted task.'
+            The text 'One voice can change a room, and if one voice can change a room, then it can change a city, and if it can change a city, it can change a state, and if it change a state, it can change a nation, and if it can change a nation, it can change the world. Your voice can change the world.' was translated to valyrian language, and the result is: 'Mēre elēni kostagon arlinnon nykeā tistākēlio,  se lo mēre elēni kostagon arlinnon nykeā tistākēlio,  pār ziry kostagon arlinnon nykeā oktion,  se lo ziry kostagon arlinnon nykeā oktion,  ziry kostagon arlinnon nykeā state,  se lo ziry arlinnon nykeā state,  ziry kostagon arlinnon nykeā nation,  se lo ziry kostagon arlinnon nykeā nation,  ziry kostagon arlinnon se vys. Aōha elēni kostagon arlinnon se vys.'
         </h5>
-        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+        <img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Balmoral
+                Name: Banana Strawberry Shake
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shake
             </font>
         </h4>
         <h4>
@@ -42,27 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 lb frozen </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 frozen </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup plain </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to taste<br></td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.
+                Instructions: Blend all together in a blender until smooth.
             </font>
         </h4>        
     </div>
@@ -147,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 13.3°C, climate is
+                14.73°C, however it feels like 14.27°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 14.73°C
+            Max. temperature: 14.73°C
         </p>
     </div>
     <div id="wakatime">
