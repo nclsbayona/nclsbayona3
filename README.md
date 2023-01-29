@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.' was translated to minion language, and the result is: 'gosof huma zapvum da be bomig ghi da continual, gosof cala, yikai. . Whaaat?  tis non badid tis ta perseverance pik ol oarhag seeko amutog da tenga to lib pak cala.  no da ka cono mud hego rib aahwae da giesag temer muggey ratpun defeats, rotvee, disappointments, yee frustrations galore ghi ta piu.  rahrap da nabick be fet mud agony tis Whaaat?  separates ta gyprax da ta nixnap.'
+            The text 'Successful people appear to be traveling along one continual, successful road. What is not apparent is the perseverance it takes following each defeat to keep you on that road. No one I know of has ever experienced one success after another without defeats, failures, disappointments, and frustrations galore along the way. Learning to overcome those times of agony is what separates the winners from the losers.' was translated to dothraki language, and the result is: 'Successful people appear to be traveling vi ato continual,  successful os. Fini is vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) apparent is the perseverance anna takes following each athohharar to keep yeri she ki os. Vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) ato anha know ki has ever experienced ato success irge eshna oma defeats,  failures,  disappointments,  ma frustrations galore vi the way. Learning to overcome those times ki agony is fini separates the winners ha the losers.'
         </h5>
-        <img src="https://4.bp.blogspot.com/-kLGmroF-doI/VeJhCJlpeyI/AAAAAAAASK4/TRvjlSKu4nk/s1600/13.jpeg" alt="Affirmation image">
+        <img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/fs6kiq1513708455.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rum Runner
+                Name: Martinez 2
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,31 +42,29 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix all ingredients in glass &amp; add ice.
+                Instructions: Add all ingredients to a mixing glass and fill with ice.
+
+Stir until chilled, and strain into a chilled coupe glass.
             </font>
         </h4>        
     </div>
@@ -151,11 +149,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17.73°C, however it feels like 16.66°C, climate is
+                18.73°C, however it feels like 17.62°C, climate is
                 <i>few clouds</i>
             .
-            Min. temperature: 17.73°C
-            Max. temperature: 17.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
