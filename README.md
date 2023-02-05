@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Do you have the patience to wait until your mud settles and the water is clear?' was translated to ferblatin language, and the result is: 'Do ou-yerb ave-herb he-terb atience-perb to ait-werb ntil-uerb our-yerb ud-merb ettles-serb nd-aerb he-terb ater-werb is lear-cerb? '
+            The text 'Don't use all-or-nothing thinking. Take each day as its own day, and don't worry about it if you mess up one day. The most important thing you can do is just get back up on the horse.' was translated to yoda language, and the result is: 'Don't use all-or-nothing thinking.Each day as its own day,  take,About it if you mess up one day,  and don't worry.Is just get back up on the horse,  the most important thing you can do.'
         </h5>
-        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
+        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/8kxbvq1504371462.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rose
+                Name: Jelly Bean
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,31 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake together in a cocktail shaker, then strain into chilled glass. Garnish and serve.
+                Instructions: mix equal parts in pony glass-tastes just like a jelly bean!
             </font>
         </h4>        
     </div>
@@ -151,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                14.73°C, however it feels like 14.14°C, climate is
-                <i>scattered clouds</i>
+                13.73°C, however it feels like 13.04°C, climate is
+                <i>few clouds</i>
             .
-            Min. temperature: 14.73°C
-            Max. temperature: 14.73°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
