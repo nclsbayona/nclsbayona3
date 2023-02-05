@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You're doing a great job' was translated to pirate language, and the result is: 'ye're doin' a great job'
+            The text 'To find yourself, think for yourself.' was translated to gungan language, and the result is: 'To find yourself,  think for yourself.'
         </h5>
-        <img src="https://image.flaticon.com/icons/png/512/287/287744.png" alt="Affirmation image">
+        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,15 +16,15 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Black Forest Shake
+                Name: Banana Milk Shake
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
@@ -42,15 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl cold </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
+                Instructions: Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
             </font>
         </h4>        
     </div>
@@ -135,11 +147,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 15.79°C, climate is
+                18.73°C, however it feels like 17.83°C, climate is
                 <i>few clouds</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
