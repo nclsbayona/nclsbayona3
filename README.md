@@ -5,7 +5,7 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You make a difference in the world by simply existing in it' was translated to vulcan language, and the result is: 'Du tor wuh natyan svi' wuh panu k' veling existing svi' ish-veh'
+            The text 'I give myself permission to do what is right for me' was translated to vulcan language, and the result is: 'I mazhiv-kur-tor myself permission tor tor ra nam-tor gas'rak na' me'
         </h5>
         <img src="https://geneticliteracyproject.org/wp-content/uploads/2017/01/Leonard-Nimoy.png" alt="Affirmation image">
     </div>
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/ojsezf1582477277.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/8189p51504735581.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Brooklyn
+                Name: Tequila Surprise
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,31 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye Whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">full glass </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">About 8 drops </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine ingredients with ice and stir until well-chilled. Strain into a chilled cocktail glass.
+                Instructions: Fill shot glass with Tequila. Add drops of Tobasco sauce.
             </font>
         </h4>        
     </div>
@@ -151,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 13.3°C, climate is
+                14.73°C, however it feels like 14.27°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 14.73°C
+            Max. temperature: 14.73°C
         </p>
     </div>
     <div id="wakatime">
