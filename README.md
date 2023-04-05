@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rj55pl1582476101.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Hot Creamy Bush
+                Name: Munich Mule
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee / Tea
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,23 +42,34 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz hot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cucumber</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chopped</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chopped</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients in glass
+                Instructions: Fill glass with ice
+Pour Gin and Lime Juice
+Fill glass with Ginger Beer
+Garnish with Cucumer and Lime slice
             </font>
         </h4>        
     </div>
@@ -143,7 +154,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18.73°C, however it feels like 18.3°C, climate is
+                18.73°C, however it feels like 18.2°C, climate is
                 <i>broken clouds</i>
             .
             Min. temperature: 18.73°C
