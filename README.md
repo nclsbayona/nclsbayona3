@@ -16,28 +16,81 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wpspsy1468875747.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 
+                Name: Egg Nog #4
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: 
+                Alcoholic category: Optional alcohol
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: 
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
-            
+            <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipping cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ground </td>
+        </tr>
+    </tbody>
+</table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
+                Instructions: In a small mixer bowl beat egg yolks till blended. Gradually add 1/4 cup sugar, beating at high speed till thick and lemon colored. Stir in milk, stir in rum, bourbon, vanilla, and salt. Chill thoroughly. Whip cream. Wash beaters well. In a large mixer bowl beat egg whites till soft peaks form. Gradually add remaining 1/4 cup sugar, beating to stiff peaks. Fold yolk mixture and whipped cream into egg whites. Serve immediately. Sprinkle nutmeg over each serving. Serve in a punch bowl or another big bowl. NOTE: For a nonalcoholic eggnog, prepare Eggnog as above, except omit the bourbon and rum and increase the milk to 3 cups.
             </font>
         </h4>        
     </div>
