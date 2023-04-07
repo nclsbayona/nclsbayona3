@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/6ty09d1504366461.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/tuxxtp1472668667.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Brandy Flip
+                Name: Apricot punch
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,31 +42,31 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 qt </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 fifth </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-Up</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 L </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 gal </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the brandy, egg, sugar, and cream. Shake well. Strain into a sour glass and garnish with the nutmeg.
+                Instructions: Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.
             </font>
         </h4>        
     </div>
@@ -151,11 +151,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15.73°C, however it feels like 15.24°C, climate is
+                17.73°C, however it feels like 17.33°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 15.73°C
-            Max. temperature: 15.73°C
+            Min. temperature: 17.73°C
+            Max. temperature: 17.73°C
         </p>
     </div>
     <div id="wakatime">
