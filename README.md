@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rvuswq1461867714.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/w64lqm1504888810.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Thriller
+                Name: Rum Milk Punch
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+                Instructions: Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve.
             </font>
         </h4>        
     </div>
@@ -143,8 +143,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.73°C, however it feels like 12.51°C, climate is
-                <i>broken clouds</i>
+                12.73°C, however it feels like 12.36°C, climate is
+                <i>few clouds</i>
             .
             Min. temperature: 12.73°C
             Max. temperature: 12.73°C
