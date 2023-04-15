@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/jogv4w1487603571.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/678xt11582481163.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Kiwi Papaya Smoothie
+                Name: Gin Cooler
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Other / Unknown
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,19 +42,15 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Papaya</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Throw everything into a blender and liquify.
+                Instructions: Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.
             </font>
         </h4>        
     </div>
@@ -139,11 +135,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19.73°C, however it feels like 18.93°C, climate is
+                18.73°C, however it feels like 18.02°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 19.73°C
-            Max. temperature: 19.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
