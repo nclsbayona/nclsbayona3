@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/kvvd4z1485621283.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ck6d0p1504388696.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Zorro
+                Name: Cuba Libra
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Coffee / Tea
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Squeeze </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: add all and pour black coffee and add whipped cream on top.
+                Instructions: Fill tall glass with ice cubes. Add rum. Rub cut edge of lime on rim of glass then squeeze juice into glass. Fill with Coca-Cola. Garnish with lime slice. Enjoy!
             </font>
         </h4>        
     </div>
@@ -143,7 +143,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                7.73°C, however it feels like 7.01°C, climate is
+                7.73°C, however it feels like 7.73°C, climate is
                 <i>few clouds</i>
             .
             Min. temperature: 7.73°C
