@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'For the things we have to learn before we can do them, we learn by doing them.' was translated to pig-latin language, and the result is: 'or-Fay e-thay ings-thay e-way ave-hay o-tay earn-lay efore-bay e-way an-cay o-day em-thay, e-way earn-lay y-bay oing-day em-thay. '
+            The text 'All you need is the plan, the roadmap, and the courage to press on to your destination' was translated to ferblatin language, and the result is: 'll-Aerb ou-yerb eed-nerb is he-terb lan-perb, he-terb oadmap-rerb, nd-aerb he-terb ourage-cerb to ress-perb on to our-yerb estination-derb '
         </h5>
-        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+        <img src="https://i.ytimg.com/vi/I3nAGsT2skc/maxresdefault.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/tysssx1473344692.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rum Runner
+                Name: Fahrenheit 5000
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,31 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Firewater</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Peppar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix all ingredients in glass &amp; add ice.
+                Instructions: Cover bottom of shot glass with Tabasco Sauce and then fill with half Firewater and half Absolut Peppar.
             </font>
         </h4>        
     </div>
@@ -151,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                12.73°C, however it feels like 12.36°C, climate is
+                11.73°C, however it feels like 11.41°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 12.73°C
-            Max. temperature: 12.73°C
+            Min. temperature: 11.73°C
+            Max. temperature: 11.73°C
         </p>
     </div>
     <div id="wakatime">
