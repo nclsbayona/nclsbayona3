@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rum Screwdriver
+                Name: Artillery Punch
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,19 +42,43 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart black </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint Jamaican </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.
+                Instructions: Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.
             </font>
         </h4>        
     </div>
@@ -139,8 +163,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                8.73°C, however it feels like 7.66°C, climate is
-                <i>scattered clouds</i>
+                8.73°C, however it feels like 8.16°C, climate is
+                <i>broken clouds</i>
             .
             Min. temperature: 8.73°C
             Max. temperature: 8.73°C
