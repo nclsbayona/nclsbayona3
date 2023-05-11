@@ -122,11 +122,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                20.73°C, however it feels like 20.14°C, climate is
+                19.73°C, however it feels like 19.12°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 20.73°C
-            Max. temperature: 20.73°C
+            Min. temperature: 19.73°C
+            Max. temperature: 19.73°C
         </p>
     </div>
     <div id="wakatime">
