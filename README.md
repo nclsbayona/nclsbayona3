@@ -16,60 +16,28 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/vcyvpq1485083300.jpg">
+        <img src="">
         <h4>
             <font color="#F0A0FF">
-                Name: Dirty Martini
+                Name: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: 
             </font>
         </h4>
         <h4>
-            <table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">70ml/2fl oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tbsp</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive Brine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tbsp</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 wedge</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
-        </tr>
-    </tbody>
-</table>
+            
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour the vodka, dry vermouth and olive brine into a cocktail shaker with a handful of ice and shake well.
-Rub the rim of a martini glass with the wedge of lemon.
-Strain the contents of the cocktail shaker into the glass and add the olive.
-A dirty Martini contains a splash of olive brine or olive juice and is typically garnished with an olive.
+                Instructions: 
             </font>
         </h4>        
     </div>
@@ -154,11 +122,11 @@ A dirty Martini contains a splash of olive brine or olive juice and is typically
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17.73°C, however it feels like 17.2°C, climate is
-                <i>few clouds</i>
+                18.73°C, however it feels like 18.02°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 17.73°C
-            Max. temperature: 17.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
