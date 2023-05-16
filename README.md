@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rsxuyr1472719526.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xtrvtx1472668436.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: California Root Beer
+                Name: Absolut Sex
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Soft Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,23 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Kurant</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Put Kahlua and Galliano in highball glass fill with soda
+                Instructions: Shake Absolut Kurant, Midori, and Cranberry juice in shaker with ice: Strain into rocks glass: Splash of seven on top.Absolut Sex.
             </font>
         </h4>        
     </div>
@@ -143,7 +147,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                18.73°C, however it feels like 18.02°C, climate is
+                18.73°C, however it feels like 18.09°C, climate is
                 <i>broken clouds</i>
             .
             Min. temperature: 18.73°C
