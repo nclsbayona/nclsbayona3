@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Happiness is the absence of the striving for happiness.' was translated to pig-latin language, and the result is: 'appiness-Hay is-way e-thay absence-way of-way e-thay iving-stray or-fay appiness-hay. '
+            An error ocurred please try again later
         </h5>
-        <img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+        <img src="" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/n433t21504348259.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Bacardi Cocktail
+                Name: Kurant Tea
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Coffee / Tea
             </font>
         </h4>
         <h4>
@@ -42,27 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 3/4 oz Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Kurant</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Turkish apple </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (if needed)<br></td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake together with ice. Strain into glass and serve.
+                Instructions: Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!
             </font>
         </h4>        
     </div>
@@ -148,7 +144,7 @@
         <p>
             <b> 
                 10.73°C, however it feels like 10.29°C, climate is
-                <i>few clouds</i>
+                <i>overcast clouds</i>
             .
             Min. temperature: 10.73°C
             Max. temperature: 10.73°C
@@ -178,15 +174,15 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 hours and 21 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">22 hours and 19 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 16 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 15 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JavaScript</td>
@@ -225,7 +221,7 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">16 hours and 16 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">23 hours and 19 minutes</td>
         </tr>
     </tbody>
 </table>
