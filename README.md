@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/q53l911582482518.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Shake
+                Name: Flying Scotchman
             </font>
         </h4>
         <h4>
@@ -42,23 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate ice-cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.
+                Instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -144,7 +148,7 @@
         <p>
             <b> 
                 15.73°C, however it feels like 15.11°C, climate is
-                <i>few clouds</i>
+                <i>broken clouds</i>
             .
             Min. temperature: 15.73°C
             Max. temperature: 15.73°C
