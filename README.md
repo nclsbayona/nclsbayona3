@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/678xt11582481163.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Adonis Cocktail
+                Name: Gin Cooler
             </font>
         </h4>
         <h4>
@@ -42,23 +42,15 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz dry </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
+                Instructions: Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice and add gin. Fill with carbonated water and stir. Add the lemon peel and the orange spiral so that the end of the orange spiral dangles over rim of glass.
             </font>
         </h4>        
     </div>
@@ -144,7 +136,7 @@
         <p>
             <b> 
                 17.73°C, however it feels like 17.1°C, climate is
-                <i>broken clouds</i>
+                <i>scattered clouds</i>
             .
             Min. temperature: 17.73°C
             Max. temperature: 17.73°C
