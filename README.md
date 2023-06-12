@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qyvprp1473891585.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/mr30ob1582479875.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Grass Skirt
+                Name: Abbey Cocktail
             </font>
         </h4>
         <h4>
@@ -46,19 +46,15 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/4 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
@@ -66,7 +62,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine the gin, triple sec, pineapple juice, and grenadine. Shake well. Pour into an old-fashioned glass and garnish with the pineapple slice.
+                Instructions: Shake all ingredients (except for the cherry) with ice and strain into a cocktail glass. Top with the cherry and serve.
             </font>
         </h4>        
     </div>
@@ -151,11 +147,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                17.73°C, however it feels like 16.99°C, climate is
-                <i>scattered clouds</i>
+                18.73°C, however it feels like 18.02°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 17.73°C
-            Max. temperature: 17.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
