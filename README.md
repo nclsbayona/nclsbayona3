@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/iixv4l1485620014.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Green Goblin
+                Name: Zinger
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Beer
+                Category: Soft Drink
             </font>
         </h4>
         <h4>
@@ -42,23 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint hard </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peachtree schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 shots </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Cider First, Lager then Curacao
+                Instructions: Get a shot glass and pour in three shots of the schnapps. Do the same with the Surge Cola. Then down it like Scheetz would.
             </font>
         </h4>        
     </div>
@@ -143,7 +139,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                19.73°C, however it feels like 19.04°C, climate is
+                19.73°C, however it feels like 19.12°C, climate is
                 <i>broken clouds</i>
             .
             Min. temperature: 19.73°C
