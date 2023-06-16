@@ -16,28 +16,49 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="">
+        <img src="https://www.thecocktaildb.com/images/media/drink/uwqpvv1461866378.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 
+                Name: Bumble Bee
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: 
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: 
+                Category: Shot
             </font>
         </h4>
         <h4>
-            
+            <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+        </tr>
+    </tbody>
+</table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
+                Instructions: This is a layered shot. First pour the Bailey's into the shot glass. Then take an upside down spoon and touch it to the inside wall of the glass. Carefully add the Kahlua. Repeat this process for the Sambuca. If done properly, the alcohol will stay separated and resemble a bumble bee. Enjoy!!!
             </font>
         </h4>        
     </div>
@@ -122,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 16.1°C, climate is
+                15.73°C, however it feels like 15.11°C, climate is
                 <i>broken clouds</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 15.73°C
+            Max. temperature: 15.73°C
         </p>
     </div>
     <div id="wakatime">
