@@ -16,28 +16,49 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xspxyr1472719185.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 
+                Name: Brandon and Will's Coke Float
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: 
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: 
+                Category: Soft Drink
             </font>
         </h4>
         <h4>
-            
+            <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla ice-cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 can </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+    </tbody>
+</table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
+                Instructions: Scoop two large scoops of vanilla ice-cream into frosted beer mug. Next, add 2 ounces Maker's Mark. Then, pour in coke. Gently stir and enjoy.
             </font>
         </h4>        
     </div>
@@ -123,7 +144,7 @@
         <p>
             <b> 
                 11.73°C, however it feels like 11.1°C, climate is
-                <i>broken clouds</i>
+                <i>light rain</i>
             .
             Min. temperature: 11.73°C
             Max. temperature: 11.73°C
