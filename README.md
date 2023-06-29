@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/y36z8c1503563911.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/qruprq1441553976.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Downshift
+                Name: Port Wine Cocktail
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Punch / Party Drink
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,27 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit punch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Float Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Start with the Sprite. Next comes the tequila. After that, add the Minute Maid Fruit Punch, then float the 151. Rocks optional.
+                Instructions: Stir ingredients with ice, strain into a cocktail glass, and serve.
             </font>
         </h4>        
     </div>
@@ -147,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                15.73°C, however it feels like 15.37°C, climate is
-                <i>scattered clouds</i>
+                13.73°C, however it feels like 13.3°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 15.73°C
-            Max. temperature: 15.73°C
+            Min. temperature: 13.73°C
+            Max. temperature: 13.73°C
         </p>
     </div>
     <div id="wakatime">
