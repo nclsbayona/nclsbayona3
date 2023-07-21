@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'You make a difference in the world by simply existing in it' was translated to yoda language, and the result is: 'A difference in the world by simply existing in it,  you make'
+            The text 'You can do it' was translated to huttese language, and the result is: 'U can do it'
         </h5>
-        <img src="https://tukaramatthews.com/wp-content/uploads/2015/03/FullSizeRender.jpg" alt="Affirmation image">
+        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/wxuqvr1472720408.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Blind Russian
+                Name: Orangeade
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shake
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,31 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Godiva liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to fill<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 cl </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Fill glass with ice. Add all liquers. Add milk. shake.
+                Instructions: Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
             </font>
         </h4>        
     </div>
@@ -152,7 +144,7 @@
         <p>
             <b> 
                 14.73°C, however it feels like 14.01°C, climate is
-                <i>few clouds</i>
+                <i>scattered clouds</i>
             .
             Min. temperature: 14.73°C
             Max. temperature: 14.73°C
