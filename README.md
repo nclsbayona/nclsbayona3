@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'The key to immortality is first living a life worth remembering. ' was translated to gungan language, and the result is: 'Dha key to immortality is first liv a life worth remember.'
+            The text 'Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid' was translated to oldenglish language, and the result is: ' {Whenever} {we’re} forhtlic, {it’s} fullan we {don’t} becnâwan +nðh. {If} we {understood} +nðh, attraction with pron ðe ic {would} nânne licgan forhtlic'
         </h5>
-        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/21833494/r/il/7e76dd/2140080884/il_570xN.2140080884_ikw0.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/k6v97f1487602550.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/n0sx531504372951.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Grizzly Bear
+                Name: Espresso Martini
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Cocktail
             </font>
         </h4>
         <h4>
@@ -42,27 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Served over ice. Sounds nasty, but tastes great.
+                Instructions: Pour ingredients into shaker filled with ice, shake vigorously, and strain into chilled martini glass
             </font>
         </h4>        
     </div>
@@ -147,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                11.73°C, however it feels like 11.41°C, climate is
-                <i>scattered clouds</i>
+                10.73°C, however it feels like 10.47°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 11.73°C
-            Max. temperature: 11.73°C
+            Min. temperature: 10.73°C
+            Max. temperature: 10.73°C
         </p>
     </div>
     <div id="wakatime">
@@ -178,15 +174,19 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 42 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 43 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 9 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Markdown</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -201,7 +201,7 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 50 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 54 minutes</td>
         </tr>
     </tbody>
 </table>
