@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/rwsyyu1483388181.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Almeria
+                Name: Aloha Fruit punch
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: Non alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Punch / Party Drink
             </font>
         </h4>
         <h4>
@@ -42,23 +42,39 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guava juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 cups </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+                Instructions: Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.
             </font>
         </h4>        
     </div>
@@ -143,11 +159,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 16.21°C, climate is
-                <i>scattered clouds</i>
+                15.73°C, however it feels like 15.11°C, climate is
+                <i>drizzle</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 15.73°C
+            Max. temperature: 15.73°C
         </p>
     </div>
     <div id="wakatime">
