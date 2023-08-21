@@ -16,28 +16,45 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="">
+        <img src="https://www.thecocktaildb.com/images/media/drink/vsrupw1472405732.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 
+                Name: White Russian
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: 
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: 
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
-            
+            <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+    </tbody>
+</table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: 
+                Instructions: Pour vodka and coffee liqueur over ice cubes in an old-fashioned glass. Fill with light cream and serve.
             </font>
         </h4>        
     </div>
@@ -122,11 +139,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                16.73°C, however it feels like 16.21°C, climate is
-                <i>scattered clouds</i>
+                18.73°C, however it feels like 18.09°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 16.73°C
-            Max. temperature: 16.73°C
+            Min. temperature: 18.73°C
+            Max. temperature: 18.73°C
         </p>
     </div>
     <div id="wakatime">
