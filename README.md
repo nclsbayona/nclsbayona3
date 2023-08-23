@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xxsxqy1472668106.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/xwxyux1441254243.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: 747
+                Name: Vodka Fizz
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Shot
+                Category: Other / Unknown
             </font>
         </h4>
         <h4>
@@ -42,23 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Half-and-half</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Limeade</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: pour kaluha, then Baileys, then Frangelico not chilled and not layered -- SERVE!!!
+                Instructions: Blend all ingredients, save nutmeg. Pour into large white wine glass and sprinkle nutmeg on top.
             </font>
         </h4>        
     </div>
@@ -143,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 13.04°C, climate is
-                <i>scattered clouds</i>
+                14.73°C, however it feels like 14.01°C, climate is
+                <i>broken clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 14.73°C
+            Max. temperature: 14.73°C
         </p>
     </div>
     <div id="wakatime">
