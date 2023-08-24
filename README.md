@@ -16,41 +16,28 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg">
+        <img src="">
         <h4>
             <font color="#F0A0FF">
-                Name: Zoksel
+                Name: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Alcoholic
+                Alcoholic category: 
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Soft Drink
+                Category: 
             </font>
         </h4>
         <h4>
-            <table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> slice<br></td>
-        </tr>
-    </tbody>
-</table>
+            
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.
+                Instructions: 
             </font>
         </h4>        
     </div>
@@ -135,11 +122,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                13.73°C, however it feels like 12.91°C, climate is
+                11.73°C, however it feels like 11.1°C, climate is
                 <i>scattered clouds</i>
             .
-            Min. temperature: 13.73°C
-            Max. temperature: 13.73°C
+            Min. temperature: 11.73°C
+            Max. temperature: 11.73°C
         </p>
     </div>
     <div id="wakatime">
