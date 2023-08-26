@@ -5,9 +5,9 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/7ce0e5f2-a9ae-4ea5-a5fa-714282618ed8/dej05ux-cc9a89a1-a6d1-44d2-a5e4-b64511d65cfe.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcLzdjZTBlNWYyLWE5YWUtNGVhNS1hNWZhLTcxNDI4MjYxOGVkOFwvZGVqMDV1eC1jYzlhODlhMS1hNmQxLTQ0ZDItYTVlNC1iNjQ1MTFkNjVjZmUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.B5VWu7Rk4_gRrQIVsLAElC-IIJNxLZksubJAEu1ejL4">
         <h5>
-            The text 'Everything has cracks - that's how the light gets in' was translated to gungan language, and the result is: 'Everyth has cracks - dat's how dha light gets in'
+            The text 'Anyone who dreams of an uncommon life eventually discovers there is no choice but to seek an uncommon approach to living it.' was translated to sith language, and the result is: 'Kamz kuris dreams iv jri uncommon natura eventually discovers antai kash nie siurk kad kia iezkon jri uncommon approach kia living zhol.'
         </h5>
-        <img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+        <img src="https://i.redd.it/ra6s480wfi701.jpg" alt="Affirmation image">
     </div>
     <hr>
     <div id="drink">
@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/1wifuv1485619797.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: New York Sour
+                Name: Zima Blaster
             </font>
         </h4>
         <h4>
@@ -42,27 +42,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Zima</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (Claret)<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.
+                Instructions: Fill glass with ice. Pour in Chambord, then fill with Zima. Mix and enjoy.
             </font>
         </h4>        
     </div>
@@ -147,7 +139,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                21.73°C, however it feels like 20.64°C, climate is
+                21.73°C, however it feels like 20.59°C, climate is
                 <i>light rain</i>
             .
             Min. temperature: 21.73°C
