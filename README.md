@@ -16,20 +16,20 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Rail Splitter
+                Name: Harvey Wallbanger
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Alcoholic category: Non alcoholic
+                Alcoholic category: Alcoholic
             </font>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Cocktail
+                Category: Ordinary Drink
             </font>
         </h4>
         <h4>
@@ -42,15 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
+                Instructions: Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.
             </font>
         </h4>        
     </div>
@@ -135,7 +143,7 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                7.73°C, however it feels like 6.49°C, climate is
+                7.73°C, however it feels like 6.08°C, climate is
                 <i>few clouds</i>
             .
             Min. temperature: 7.73°C
