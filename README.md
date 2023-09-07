@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/3jm41q1493069578.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/rrqrst1477140664.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Amaretto Rose
+                Name: Bob Marley
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shot
             </font>
         </h4>
         <h4>
@@ -42,11 +42,15 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
@@ -54,7 +58,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Pour amaretto and lime juice over ice in a collins glass. Fill with club soda and serve.
+                Instructions: Layer in a 2 oz shot glass or pony glass
             </font>
         </h4>        
     </div>
@@ -139,11 +143,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                21.95°C, however it feels like 21.9°C, climate is
+                17.73°C, however it feels like 16.92°C, climate is
                 <i>broken clouds</i>
             .
             Min. temperature: 17.73°C
-            Max. temperature: 21.95°C
+            Max. temperature: 17.73°C
         </p>
     </div>
     <div id="wakatime">
