@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/0dnb6k1504890436.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/il9e0r1582478841.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Scotch Sour
+                Name: Acapulco
             </font>
         </h4>
         <h4>
@@ -42,23 +42,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
@@ -66,7 +70,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Shake scotch, juice of lime, and powdered sugar with ice and strain into a whiskey sour glass. Decorate with 1/2 slice lemon, top with the cherry, and serve.
+                Instructions: Combine and shake all ingredients (except mint) with ice and strain into an old-fashioned glass over ice cubes. Add the sprig of mint and serve.
             </font>
         </h4>        
     </div>
@@ -151,11 +155,11 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                8.73°C, however it feels like 7.66°C, climate is
+                7.73°C, however it feels like 5.43°C, climate is
                 <i>few clouds</i>
             .
-            Min. temperature: 8.73°C
-            Max. temperature: 8.73°C
+            Min. temperature: 7.73°C
+            Max. temperature: 7.73°C
         </p>
     </div>
     <div id="wakatime">
