@@ -16,10 +16,10 @@
                 A drink before we start
             </font>
         </h5>
-        <img src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg">
+        <img src="https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg">
         <h4>
             <font color="#F0A0FF">
-                Name: Absolut Stress #2
+                Name: Baby Eskimo
             </font>
         </h4>
         <h4>
@@ -29,7 +29,7 @@
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Category: Ordinary Drink
+                Category: Shake
             </font>
         </h4>
         <h4>
@@ -42,31 +42,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla ice-cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
         </tr>
     </tbody>
 </table>
         </h4>
         <h4>
             <font color="#F0A0FF">
-                Instructions: Mix well. Garnish with Orange and Cherry. Enjoy
+                Instructions: Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.
             </font>
         </h4>        
     </div>
@@ -151,8 +143,8 @@
         Currently, the weather in my location is: 
         <p>
             <b> 
-                9.73°C, however it feels like 9.73°C, climate is
-                <i>scattered clouds</i>
+                9.73°C, however it feels like 8.83°C, climate is
+                <i>light rain</i>
             .
             Min. temperature: 9.73°C
             Max. temperature: 9.73°C
