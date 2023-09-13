@@ -4,13 +4,11 @@
 
 <h3 align="center">I'm really grateful that you came here 😎</h3>
 
-![Logo](logo.png)
+<img align="center" src="logo.png" alt="Logo">
 
-<h5 align="center">The text 'When you say yes to change, you are choosing to navigate that path peacefully and happily and see where it takes you.' was translated to valyrian language, and the result is: 'Skori ao vestragon kessa naejot arlinnon,  ao issi choosing naejot navigate bona path peacefully se happily se ūndegon skoriot ziry takes ao.'</h5>
+<h5 align="center">The text 'Optimism is the one quality more associated with success and happiness than any other.' was translated to gungan language, and the result is: 'Optimism is dha una quality more associated with success and happiness than any other.'</h5>
 
-![Affirmation Image](https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app)
-
-
+<img align="center" src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
 
 ----
 
@@ -18,39 +16,18 @@
 <summary>Maybe a drink? 🍹</summary>
 
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg)
+![Drink image]()
 
-#### Name: **Applecar**
+#### Name: ****
  
-#### Alcoholic category: **Alcoholic**
+#### Alcoholic category: ****
  
-#### Category: **Ordinary Drink**
+#### Category: ****
  
-<table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-    </tbody>
-</table>
 
 
-#### Preparation instructions: Shake all ingredients with ice, strain into a cocktail glass, and serve.
+
+#### Preparation instructions: 
 
 
 ----
@@ -170,4 +147,5 @@
 ![Snake-SVG](https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg)
 
 <h3 align="center">Visit my webpage 🛸</h3>
+
 ![QR](QR.png)
