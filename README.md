@@ -8,10 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">The text 'People with goals succeed because they know where they’re going' was translated to gungan language, and the result is: 'People with goals succeed because desa know where desa’re goen'</h5>
+<h5 align="center">The text 'You're resourceful and clever' was translated to dothraki language, and the result is: 'Yeri're resourceful ma clever'</h5>
 
 <p align="center">
-<img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+<img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
 <p>
 
 ----
@@ -20,13 +20,13 @@
 <summary>Maybe a drink? 🍹</summary>
 
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg)
+![Drink image](https://www.thecocktaildb.com/images/media/drink/upqvvp1441253441.jpg)
 
-#### Name: **Melya**
+#### Name: **Scottish Highland Liqueur**
  
-#### Alcoholic category: **Non alcoholic**
+#### Alcoholic category: **Alcoholic**
  
-#### Category: **Coffee / Tea**
+#### Category: **Homemade Liqueur**
  
 <table frame="box" rules="cols">
     <thead>
@@ -37,14 +37,30 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Espresso</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Unsweetened </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Johnnie Walker</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup mild </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angelica root</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp dried and chopped </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fennel seeds</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp crushed </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 2 inch strips </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.
+#### Preparation instructions: Combine all ingreds in aging container. Cover tightly and shake gently several times during the first 24 hrs. After 24 hrs, remove the lemon zest. Cover again and let stand in a cool, dark place for 2 weeks, shaking gently every other day. Strain through a wire sieve to remove the angelica root and fennel. Return to aging container, cover and let stand undisturbed in a cool dark place for 6 months. Siphon or pour clear liqueur into a sterile bottle. The cloudy dregs may be saved for cooking.
 
 
 ----
