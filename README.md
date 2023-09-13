@@ -4,11 +4,15 @@
 
 <h3 align="center">I'm really grateful that you came here 😎</h3>
 
-<img align="center" src="logo.png" alt="Logo">
+<p  align="center">
+<img src="logo.png" alt="Logo">
+</p>
 
-<h5 align="center">The text 'Optimism is the one quality more associated with success and happiness than any other.' was translated to gungan language, and the result is: 'Optimism is dha una quality more associated with success and happiness than any other.'</h5>
+<h5 align="center">The text 'If you are lucky enough to find love, remember it is there and don't throw it away.' was translated to valyrian language, and the result is: 'Lo ao issi beri enough naejot find jorrāelagon,  remember ziry iksos konīr se ȳdra daor ilzigon ziry qrīdrughagon.'</h5>
 
-<img align="center" src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
+<p align="center">
+<img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
+<p>
 
 ----
 
@@ -16,18 +20,43 @@
 <summary>Maybe a drink? 🍹</summary>
 
 
-![Drink image]()
+![Drink image](https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg)
 
-#### Name: ****
+#### Name: **Irish Coffee**
  
-#### Alcoholic category: ****
+#### Alcoholic category: **Alcoholic**
  
-#### Category: ****
+#### Category: **Coffee / Tea**
  
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+        </tr>
+    </tbody>
+</table>
 
 
-
-#### Preparation instructions: 
+#### Preparation instructions: Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
 
 
 ----
