@@ -5,28 +5,28 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="logo.png" alt="Logo">
         <h5>
-            The text 'Identification with our mind causes thought to become compulsive.' was translated to sindarin language, and the result is: 'Identification with mín mind causes ind na become compulsive.'
+            An error ocurred please try again later
         </h5>
-        <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
+        <img src="" alt="Affirmation image">
     </div>
     <hr>
     <details>
         <summary>Maybe a drink? 🍹</summary>
         <div id="drink">
-            <img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg">
+            <img src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg">
             <h4>
                 <font color="#F0A0FF">
-                    Name: Porto flip
+                    Name: Afterglow
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Alcoholic category: Alcoholic
+                    Alcoholic category: Non alcoholic
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Category: Ordinary Drink
+                    Category: Cocktail
                 </font>
             </h4>
             <h4>
@@ -39,23 +39,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">9 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg Yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts </td>
         </tr>
     </tbody>
 </table>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Instructions: Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.
+                    Instructions: Mix. Serve over ice.
                 </font>
             </h4>        
         </div>
