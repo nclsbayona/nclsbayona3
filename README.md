@@ -8,10 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">The text 'If you are lucky enough to find love, remember it is there and don't throw it away.' was translated to valyrian language, and the result is: 'Lo ao issi beri enough naejot find jorrāelagon,  remember ziry iksos konīr se ȳdra daor ilzigon ziry qrīdrughagon.'</h5>
+<h5 align="center">The text 'People with goals succeed because they know where they’re going' was translated to gungan language, and the result is: 'People with goals succeed because desa know where desa’re goen'</h5>
 
 <p align="center">
-<img src="https://www.theverge.com/tldr/2017/7/11/15952124/game-of-thrones-high-valyrian-language-course-app" alt="Affirmation image">
+<img src="https://img1.wikia.nocookie.net/__cb20091012212518/aliens/images/9/93/Gungan-Otolla.jpg" alt="Affirmation image">
 <p>
 
 ----
@@ -20,11 +20,11 @@
 <summary>Maybe a drink? 🍹</summary>
 
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg)
+![Drink image](https://www.thecocktaildb.com/images/media/drink/xwtptq1441247579.jpg)
 
-#### Name: **Irish Coffee**
+#### Name: **Melya**
  
-#### Alcoholic category: **Alcoholic**
+#### Alcoholic category: **Non alcoholic**
  
 #### Category: **Coffee / Tea**
  
@@ -37,26 +37,14 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Espresso</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Unsweetened </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
+#### Preparation instructions: Brew espresso. In a coffee mug, place 1 teaspoon of unsweetened powdered cocoa, then cover a teaspoon with honey and drizzle it into the cup. Stir while the coffee brews, this is the fun part. The cocoa seems to coat the honey without mixing, so you get a dusty, sticky mass that looks as though it will never mix. Then all at once, presto! It looks like dark chocolate sauce. Pour hot espresso over the honey, stirring to dissolve. Serve with cream.
 
 
 ----
@@ -64,7 +52,7 @@
 </details>
 
 <details>
-<summary>Want to know more about my profile?</summary>
+<summary>Want to know more about my profile? 🪂</summary>
 
 ##### 👀 Visitor count
 
