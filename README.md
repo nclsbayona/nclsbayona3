@@ -1,32 +1,35 @@
 <div id="full-page" style="background-color:#000011;" align="center">
+
     <div id="greetings" align="center">
         <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark">
         <h2>👋 Hey there 👋</h2> 
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="logo.png" alt="Logo">
         <h5>
-            An error ocurred please try again later
+            The text 'You got this' was translated to huttese language, and the result is: 'U got this'
         </h5>
-        <img src="" alt="Affirmation image">
+        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
     </div>
+
     <hr>
+
     <details>
         <summary>Maybe a drink? 🍹</summary>
         <div id="drink">
-            <img src="https://www.thecocktaildb.com/images/media/drink/vuquyv1468876052.jpg">
+            <img src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg">
             <h4>
                 <font color="#F0A0FF">
-                    Name: Afterglow
+                    Name: Strawberry Daiquiri
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Alcoholic category: Non alcoholic
+                    Alcoholic category: Alcoholic
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Category: Cocktail
+                    Category: Ordinary Drink
                 </font>
             </h4>
             <h4>
@@ -39,44 +42,55 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Instructions: Mix. Serve over ice.
+                    Instructions: Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.
                 </font>
             </h4>        
         </div>
+
+        <div id="profile-info">
+            <h5>
+                <font color="#67d6b1">
+                    👀 Visitor count
+                </font>
+            </h5>
+            <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nclsbayona.visitor.badge.reloaded&color=003153&style=for-the-badge&logo=github" alt="Visitor count">
+            <img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" alt="Profile followers">
+            <img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit" alt="nclsbayona's profile visited count">
+            <h5>
+                <font color="#67d6b1">
+                    Profile trophies 🏆
+                </font>
+            </h5>
+            <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
+        </div>
     </details>
-    <div id="profile-info">
-        <h5>
-            <font color="#67d6b1">
-                👀 Visitor count
-            </font>
-        </h5>
-        <img src="https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nclsbayona.visitor.badge.reloaded&color=003153&style=for-the-badge&logo=github" alt="Visitor count">
-        <img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" alt="Profile followers">
-        <img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit" alt="nclsbayona's profile visited count">
-        <h5>
-            <font color="#67d6b1">
-                Profile trophies 🏆
-            </font>
-        </h5>
-        <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
-    </div>
+
     <hr>
+
     <details>
         <summary>Want to check out my stats? 🐣</summary>
         <div id="general">
@@ -172,6 +186,8 @@
             </div>
          </div>
     </details>
+
+    <hr>
 
     <div id="contact">
         <h3>
