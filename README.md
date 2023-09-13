@@ -1,76 +1,43 @@
 <div id="full-page" style="background-color:#000011;" align="center">
-
     <div id="greetings" align="center">
         <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark">
         <h2>👋 Hey there 👋</h2> 
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="logo.png" alt="Logo">
         <h5>
-            The text 'You got this' was translated to huttese language, and the result is: 'U got this'
+            An error ocurred please try again later
         </h5>
-        <img src="https://rb.gy/vu0j2o" alt="Affirmation image">
+        <img src="" alt="Affirmation image">
     </div>
-
     <hr>
-
     <details>
         <summary>Maybe a drink? 🍹</summary>
         <div id="drink">
-            <img src="https://www.thecocktaildb.com/images/media/drink/deu59m1504736135.jpg">
+            <img src="">
             <h4>
                 <font color="#F0A0FF">
-                    Name: Strawberry Daiquiri
+                    Name: 
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Alcoholic category: Alcoholic
+                    Alcoholic category: 
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Category: Ordinary Drink
+                    Category: 
                 </font>
             </h4>
             <h4>
-                <table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-    </tbody>
-</table>
+                
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Instructions: Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.
+                    Instructions: 
                 </font>
             </h4>        
         </div>
-
         <div id="profile-info">
             <h5>
                 <font color="#67d6b1">
@@ -88,9 +55,7 @@
             <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4" alt="nclsbayona's profile trophies">
         </div>
     </details>
-
     <hr>
-
     <details>
         <summary>Want to check out my stats? 🐣</summary>
         <div id="general">
@@ -186,9 +151,7 @@
             </div>
          </div>
     </details>
-
     <hr>
-
     <div id="contact">
         <h3>
             <font color="#679000">
@@ -214,7 +177,6 @@
             <img alt="LinkedIn" src="https://img.shields.io/badge/-Linkedin-silver?&style=for-the-badge&logo=linkedin&logoColor=black">
         </a>
     </div>
-    
     <img src="https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg" />
     <div id="webpage">
         <p>Visit my webpage</p>
