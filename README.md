@@ -5,36 +5,57 @@
         <h3>I'm really grateful that you came here 😎</h3>
         <img src="logo.png" alt="Logo">
         <h5>
-            
+            The text 'Identification with our mind causes thought to become compulsive.' was translated to sindarin language, and the result is: 'Identification with mín mind causes ind na become compulsive.'
         </h5>
-        <img src="" alt="Affirmation image">
+        <img src="https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg" alt="Affirmation image">
     </div>
     <hr>
     <details>
         <summary>Maybe a drink? 🍹</summary>
         <div id="drink">
-            <img src="">
+            <img src="https://www.thecocktaildb.com/images/media/drink/64x5j41504351518.jpg">
             <h4>
                 <font color="#F0A0FF">
-                    Name: 
+                    Name: Porto flip
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Alcoholic category: 
+                    Alcoholic category: Alcoholic
                 </font>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Category: 
+                    Category: Ordinary Drink
                 </font>
             </h4>
             <h4>
-                
+                <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Port</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">9 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg Yolk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+        </tr>
+    </tbody>
+</table>
             </h4>
             <h4>
                 <font color="#F0A0FF">
-                    Instructions: 
+                    Instructions: Shake ingredients together in a mixer with ice. Strain into glass, garnish and serve.
                 </font>
             </h4>        
         </div>
@@ -106,9 +127,47 @@
                 </h5>
             </p>
             <div id="tables">
-                
+                <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Language name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 39 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 39 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+        </tr>
+    </tbody>
+</table>
                 <hr>
-                
+                <table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">OS name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 23 minutes</td>
+        </tr>
+    </tbody>
+</table>
                 <hr>
             </div>
          </div>
