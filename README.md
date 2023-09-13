@@ -1,18 +1,17 @@
-<div id="full-page" style="background-color:#000011;" align="center">
 
         ![Greetings](https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark)
         ##👋 Hey there 👋
         ### I'm really grateful that you came here 😎
         ![Logo](logo.png)
-        ##### The text 'You know more than you knew yesterday' was translated to sindarin language, and the result is: 'Cin know more than cin knew yesterdaui'
-        ![Affirmation Image](https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg)
+        ##### An error ocurred please try again later
+        ![Affirmation Image]()
 
     <hr>
 
     <details>
         <summary>Maybe a drink? 🍹</summary>
-            ![Drink image](https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg)
-            #### Name: **Bobby Burns Cocktail**
+            ![Drink image](https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg)
+            #### Name: **Sol Y Sombra**
             #### Alcoholic category: **Alcoholic**
             #### Category: **Ordinary Drink**
             <table frame="box" rules="cols">
@@ -24,24 +23,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anisette</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
-            #### Preparation instructions: Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
+            #### Preparation instructions: Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you'll understand why. Thanks, Kirby.)
             <br />
             ##### 👀 Visitor count
             ![Visitor count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nclsbayona.visitor.badge.reloaded&color=003153&style=for-the-badge&logo=github)
@@ -126,4 +117,4 @@
 
         ### Visit my webpage 🛸
         ![QR}(QR.png)
-</div>
+
