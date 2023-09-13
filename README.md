@@ -3,15 +3,15 @@
         ##👋 Hey there 👋
         ### I'm really grateful that you came here 😎
         ![Logo](logo.png)
-        ##### An error ocurred please try again later
-        ![Affirmation Image]()
+        ##### The text 'Sucking at something is the first step towards being good at something' was translated to klingon language, and the result is: 'Sucking at vay' is the wa'dich miw towards dep maj at vay''
+        ![Affirmation Image](https://static.independent.co.uk/s3fs-public/thumbnails/image/2016/03/14/19/9-klingon-star-trek.jpg)
 
     <hr>
 
     <details>
         <summary>Maybe a drink? 🍹</summary>
-            ![Drink image](https://www.thecocktaildb.com/images/media/drink/3gz2vw1503425983.jpg)
-            #### Name: **Sol Y Sombra**
+            ![Drink image](https://www.thecocktaildb.com/images/media/drink/noxp7e1606769224.jpg)
+            #### Name: **Gin Sour**
             #### Alcoholic category: **Alcoholic**
             #### Category: **Ordinary Drink**
             <table frame="box" rules="cols">
@@ -23,16 +23,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anisette</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
-            #### Preparation instructions: Shake ingredients with ice, strain into a brandy snifter, and serve. (The English translation of the name of this drink is &quot;Sun and Shade&quot;, and after sampling this drink, you'll understand why. Thanks, Kirby.)
+            #### Preparation instructions: In a shaker half-filled with ice cubes, combine the gin, lemon juice, and sugar. Shake well. Strain into a sour glass and garnish with the orange slice and the cherry.
             <br />
             ##### 👀 Visitor count
             ![Visitor count](https://visitor-badge-reloaded.herokuapp.com/badge?page_id=nclsbayona.visitor.badge.reloaded&color=003153&style=for-the-badge&logo=github)
