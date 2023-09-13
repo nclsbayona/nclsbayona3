@@ -1,5 +1,4 @@
-
-        ![Greetings](https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark)
+![Greetings](https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark)
         ##👋 Hey there 👋
         ### I'm really grateful that you came here 😎
         ![Logo](logo.png)
