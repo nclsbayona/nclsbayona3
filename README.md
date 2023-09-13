@@ -1,3 +1,4 @@
+<p align="center">
 ![Greetings](https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark)
 
 ## 👋 Hey there 👋
@@ -6,22 +7,24 @@
 
 ![Logo](logo.png)
 
-##### The text 'I admire you for taking this on' was translated to sindarin language, and the result is: 'Im admire cin an taking hi bo'
+##### An error ocurred please try again later
 
-![Affirmation Image](https://i.etsystatic.com/8273882/r/il/c6deb3/475904358/il_570xN.475904358_enru.jpg)
+![Affirmation Image]()
+</p>
 
 ----
 
 <details>
 <summary>Maybe a drink? 🍹</summary>
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/0t4bv71606854479.jpg)
+<p align="center">
+![Drink image](https://www.thecocktaildb.com/images/media/drink/wquwxs1441247025.jpg)
 
-#### Name: **John Collins**
+#### Name: **Thai Coffee**
  
-#### Alcoholic category: **Alcoholic**
+#### Alcoholic category: **Non alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Coffee / Tea**
  
 <table frame="box" rules="cols">
     <thead>
@@ -32,32 +35,23 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 tblsp ground</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coriander</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cardamom</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4-5 whole green </td>
         </tr>
     </tbody>
 </table>
-#### Preparation instructions: Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.
+
+
+#### Preparation instructions: Place the coffee and spices in the filter cone of your coffee maker. Brew coffee as usual, let it cool. In a tall glass, dissolve 1 or 2 teaspoons of sugar in an ounce of the coffee (it's easier to dissolve than if you put it right over ice). Add 5-6 ice cubes and pour coffee to within about 1 inch of the top of the glass. Rest a spoon on top of the coffee and slowly pour whipping cream into the spoon. This will make the cream float on top of the coffee rather than dispersing into it right away.
+</p>
 
 ----
 
@@ -66,6 +60,7 @@
 <details>
 <summary>Want to know more about my profile?</summary>
 
+<p align="center">
 ##### 👀 Visitor count
 
 ![Visitor count](https://profile-counter.glitch.me/nclsbayona/count.svg)
@@ -80,6 +75,7 @@
 ##### Profile trophies 🏆
 
 ![Trophies](https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4)
+</p>
 
 ----
 
@@ -87,6 +83,7 @@
 <details>
 <summary>Want to check out my stats? 🐣</summary>
 
+<p align="center">
 #### General GitHub Stats 🌀
 
 ##### 😃 General Overview
@@ -107,7 +104,7 @@
 
 <br />
 
-####⌚General Weekly-Stats
+#### ⌚General Weekly-Stats
 
 ##### Overview ✨
 
@@ -155,10 +152,12 @@
     </tbody>
 </table>
 
+</p>
 ----
 
 </details>
 
+<p align="center">
 ### Contact me!
 
 [![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nclsbayona)
@@ -174,4 +173,4 @@
 
 ### Visit my webpage 🛸
 ![QR](QR.png)
-
+</p>
