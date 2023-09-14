@@ -8,9 +8,9 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center"></h5>
+<h5 align="center">Someone once said: Hah’s vei vah ipibi can tsezico csei vah csarcican't vacosehn rewarded tur can tontevo</h5>
 <p align="center">
-  <i></i>
+  <i>-- It’s what you practice in private that you will be rewarded for in public in cheunh language</i>
 </p>
 ----
 
@@ -22,15 +22,15 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Shot-gun**
+#### Name: **Bleeding Surgeon**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Shot**
+#### Category: **Soft Drink**
  
 <table frame="box" rules="cols">
     <thead>
@@ -41,22 +41,26 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jim Beam</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jack Daniels</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.
+#### Preparation instructions: Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.
 
 
 ----
