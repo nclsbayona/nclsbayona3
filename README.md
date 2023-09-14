@@ -8,9 +8,9 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">Someone once said: Etek mokuhlek spend etwel bosh ha-tor escaping s' wuh stislak t' etwel kashkau.</h5>
+<h5 align="center">Someone once said: Yeri know alikh than yeri knew oskikh</h5>
 <p align="center">
-  <i>-- We can spend our whole lives escaping from the monsters of our minds. in vulcan language</i>
+  <i>-- You know more than you knew yesterday in dothraki language</i>
 </p>
 ----
 
@@ -22,15 +22,15 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/j6q35t1504889399.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Blue Lagoon**
+#### Name: **Chocolate Milk**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Shot**
  
 <table frame="box" rules="cols">
     <thead>
@@ -41,18 +41,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.
+#### Preparation instructions: Put the milk in the bottom, pour the Liquer on top and add the dash of amaretto. Do not mix. SLAM IT!
 
 
 ----
