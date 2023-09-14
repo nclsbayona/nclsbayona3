@@ -8,12 +8,8 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">The text 'Sucking at something is the first step towards being good at something' was translated to dothraki language, and the result is: 'Sucking at ato is the atte step towards being davra at ato'</h5>
-
-<p align="center">
-<img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
-<p>
-
+<h5 align="center">Someone once said: Strugglin' be part o' learnin'</h5>
+<i align="center">Struggling is part of learning in pirate language</i>
 ----
 
 <details>
@@ -24,15 +20,15 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vr6kle1504886114.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Abbey Martini**
+#### Name: **Orgasm**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Cocktail**
+#### Category: **Ordinary Drink**
  
 <table frame="box" rules="cols">
     <thead>
@@ -43,26 +39,30 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz white </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.
+#### Preparation instructions: Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 
 
 ----
