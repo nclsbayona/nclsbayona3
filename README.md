@@ -8,10 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">The text 'The opposite of courage in our society is not cowardice... it is conformity' was translated to pig-latin language, and the result is: 'e-Thay opposite-way of-way ourage-cay in-way our-way ociety-say is-way ot-nay cowardice... it-way is-way onformity-cay '</h5>
+<h5 align="center">The text 'You know more than you knew yesterday' was translated to mandalorian language, and the result is: 'Gar kar'taylir ori'shya gar knew yesterday'</h5>
 
 <p align="center">
-<img src="https://www.quickanddirtytips.com/sites/default/files/images/2104/piglatin.jpg" alt="Affirmation image">
+<img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
 <p>
 
 ----
@@ -24,15 +24,15 @@
 
 <p align="center">
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg)
+![Drink image](https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg)
 
 </p>
 
-#### Name: **Fruit Shake**
+#### Name: **Rusty Nail**
  
-#### Alcoholic category: **Non alcoholic**
+#### Alcoholic category: **Alcoholic**
  
-#### Category: **Other / Unknown**
+#### Category: **Ordinary Drink**
  
 <table frame="box" rules="cols">
     <thead>
@@ -43,30 +43,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup fruit </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Drambuie</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 piece textural </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Blend til smooth.
+#### Preparation instructions: Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
 
 
 ----
@@ -237,6 +229,6 @@
 
 <p align="center">
 
-[![QR](QR.png)](Https://nclsbayona.github.io)
+[![QR](QR.png)](https://nclsbayona.github.io)
 
 </p>
