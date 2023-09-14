@@ -8,10 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">An error ocurred please try again later</h5>
+<h5 align="center">The text 'Sucking at something is the first step towards being good at something' was translated to dothraki language, and the result is: 'Sucking at ato is the atte step towards being davra at ato'</h5>
 
 <p align="center">
-<img src="" alt="Affirmation image">
+<img src="https://www.trbimg.com/img-55791e95/turbine/la-oe-0611-peterson-game-of-thrones-dothraki-20150611" alt="Affirmation image">
 <p>
 
 ----
@@ -24,15 +24,15 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rpvtpr1468923881.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2mcozt1504817403.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Loch Lomond**
+#### Name: **Abbey Martini**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Cocktail**
  
 <table frame="box" rules="cols">
     <thead>
@@ -43,26 +43,26 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Drambuie</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.
+#### Preparation instructions: Put all ingredients into a shaker and mix, then strain contents into a chilled cocktail glass.
 
 
 ----
@@ -230,7 +230,7 @@
 
 <p align="center">
 
-![Snake-SVG](https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg)
+<img src="https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg">
 
 </p>
 
@@ -238,6 +238,8 @@
 
 <p align="center">
 
-<a href="https://nclsbayona.github.io" target="_blank"><img src="QR.png"></a>
+<a href="https://nclsbayona.github.io" target="_blank">
+ <img src="QR.png">
+</a>
 
 </p>
