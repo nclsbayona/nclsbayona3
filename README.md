@@ -8,10 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">The text 'You know more than you knew yesterday' was translated to mandalorian language, and the result is: 'Gar kar'taylir ori'shya gar knew yesterday'</h5>
+<h5 align="center">An error ocurred please try again later</h5>
 
 <p align="center">
-<img src="https://cdn.dribbble.com/users/2110632/screenshots/5607696/dribbble-03_2x.png" alt="Affirmation image">
+<img src="" alt="Affirmation image">
 <p>
 
 ----
@@ -24,11 +24,11 @@
 
 <p align="center">
 
-![Drink image](https://www.thecocktaildb.com/images/media/drink/yqsvtw1478252982.jpg)
+<img src="https://www.thecocktaildb.com/images/media/drink/rpvtpr1468923881.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Rusty Nail**
+#### Name: **Loch Lomond**
  
 #### Alcoholic category: **Alcoholic**
  
@@ -44,10 +44,14 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Drambuie</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
@@ -58,7 +62,7 @@
 </table>
 
 
-#### Preparation instructions: Pour the Scotch and Drambuie into an old-fashioned glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
+#### Preparation instructions: In a mixing glass half-filled with ice cubes, combine the Scotch, Drambuie, and vermouth. Stir well. Strain into a cocktail glass. Garnish with the lemon twist.
 
 
 ----
@@ -73,37 +77,35 @@
 
 <p align="center">
 
-![Visitor count](https://profile-counter.glitch.me/nclsbayona/count.svg)
+<img src="https://profile-counter.glitch.me/nclsbayona/count.svg" />
 
 </p>
+
 
 ##### Followers
 
 
 <p align="center">
 
-![Followers](https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge)
+<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" />
 
 </p>
+
 
 ##### Last profile commit
 
 
-
 <p align="center">
 
-![Last profile commit](https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit)
+<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
             
 </p>
 
 ##### Profile trophies 🏆
 
-
-
-
 <p align="center">
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4)
+<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
 
 </p>
 
@@ -121,20 +123,17 @@
 
 <p align="center">
 
-![General Stats](https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight">
 
 </p>
 
 ##### Life-Time Stats Overview 😃
 
-
-
 <p align="center">
 
-![Specific Stats](https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia)
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
 
 </p>
-
 <br />
 
 #### 🤖 Programming Languages Stats
@@ -143,7 +142,7 @@
 
 <p align="center">
 
-![Most used languages](https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight">
 
 </p>
 
@@ -204,15 +203,25 @@
 
 <h3 align="center">Contact me! 📇</h3>
 
-
 <p align="center">
-
-[![Github](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/nclsbayona)
-[![Twitter](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/nclsbayona)<a href="" target="_blank">
-[![Instagram](https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/nclsbayona)
-[![Telegram](https://img.shields.io/badge/-TELEGRAM-blue?&style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nclsbayona)
-[![Discord](https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white)](https://www.discord.com/channels/@nclsbayona#6681)
-[![Linkedin](https://img.shields.io/badge/-Linkedin-silver?&style=for-the-badge&logo=linkedin&logoColor=black)](https://www.linkedin.com/in/nclsbayona/)
+<a href="https://github.com/nclsbayona" target="_blank">
+ <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">
+</a>
+<a href="https://twitter.com/nclsbayona" target="_blank">
+ <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
+</a>
+<a href="https://instagram.com/nclsbayona" target="_blank">
+ <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+<a href="https://t.me/nclsbayona" target="_blank">
+ <img alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-blue?&style=for-the-badge&logo=telegram&logoColor=white">
+</a>
+<a href="https://www.discord.com/channels/@nclsbayona#6681" target="_blank">
+ <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white">
+</a>
+<a href="https://www.linkedin.com/in/nclsbayona" target="_blank">
+ <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-lightblue?&style=for-the-badge&logo=linkedin&logoColor=white">
+</a>
 
 </p>
 
@@ -229,6 +238,6 @@
 
 <p align="center">
 
-[![QR](QR.png)](https://nclsbayona.github.io)
+<a href="https://nclsbayona.github.io" target="_blank"><img src="QR.png"></a>
 
 </p>
