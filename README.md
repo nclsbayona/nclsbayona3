@@ -8,8 +8,10 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">Someone once said: Strugglin' be part o' learnin'</h5>
-<i align="center">Struggling is part of learning in pirate language</i>
+<h5 align="center"></h5>
+<p align="center">
+  <i></i>
+</p>
 ----
 
 <details>
@@ -20,15 +22,15 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vr6kle1504886114.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2j1m881503563583.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Orgasm**
+#### Name: **Shot-gun**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Shot**
  
 <table frame="box" rules="cols">
     <thead>
@@ -39,30 +41,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz white </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jim Beam</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jack Daniels</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wild Turkey</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
+#### Preparation instructions: Pour one part Jack Daneils and one part Jim Beam into shot glass then float Wild Turkey on top.
 
 
 ----
