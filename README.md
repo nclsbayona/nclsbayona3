@@ -8,9 +8,9 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">An error ocurred</h5>
+<h5 align="center">Someone once said: Vaabir Something. Meh bic works,  vaabir more be bic. Meh bic doesn't,  vaabir something else.</h5>
 <p align="center">
-  <i>Please try again later</i>
+  <i>-- Do Something. If it works, do more of it. If it doesn't, do something else. in mandalorian language</i>
 </p>
 ----
 
@@ -22,11 +22,11 @@
 
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Whisky Mac**
+#### Name: **Bloody Maria**
  
 #### Alcoholic category: **Alcoholic**
  
@@ -41,18 +41,34 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Celery salt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Pour both of the ingredients into a wine goblet with no ice.
+#### Preparation instructions: Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.
 
 
 ----
