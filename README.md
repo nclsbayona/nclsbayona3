@@ -8,9 +8,9 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">Someone once said: Yousa're an inspiration</h5>
+<h5 align="center">An error ocurred</h5>
 <p align="center">
-  <i>-- You're an inspiration in gungan language</i>
+  <i>Please try again later</i>
 </p>
 ----
 
@@ -22,20 +22,37 @@
 
 <p align="center">
 
-<img src="" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: ****
+#### Name: **Whisky Mac**
  
-#### Alcoholic category: ****
+#### Alcoholic category: **Alcoholic**
  
-#### Category: ****
+#### Category: **Ordinary Drink**
  
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
+        </tr>
+    </tbody>
+</table>
 
 
-
-#### Preparation instructions: 
+#### Preparation instructions: Pour both of the ingredients into a wine goblet with no ice.
 
 
 ----
