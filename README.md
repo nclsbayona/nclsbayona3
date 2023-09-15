@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot;ta nos mud orbrr elsree pak mokatino to dwell ahs teg, yikai. . ta mas to pensa cama torute, ta mas pik odecaw zuu mud tu tajpen.&quot;</strong>
+<strong align="center">An error ocurred</strong>
 
 <p align="center">
 
-  <i>-- &quot;The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.&quot; in minion language --</i>
+  <i>Please try again later</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Spritz Veneziano</h4>
+<h4 align="center">Valencia Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/51ezka1551456113.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9myuc11492975640.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,16 +43,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-Build into glass over ice, garnish and serve.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -189,17 +189,17 @@ Build into glass over ice, garnish and serve.
 </details>
 
 <details>
-<summary>Maybe yu are looking for some cool animal pictures?</summary>
+<summary>Maybe you are looking for some cool animal pictures? 👁️</summary>
 
 <br />
 <p align="center">
 
-<img src="https://random.dog/124d998c-ba2a-4f64-b286-8c809b31b495.gif" width="100"/>
-<img src="https://random-d.uk/api/76.jpg" width="100"/>
-<img src="https://randomfox.ca/images/35.jpg" width="100"/>
-<img src="https://api.animality.xyz/images/panda/2.png" width="100"/>
-<img src="https://api.animality.xyz/images/dolphin/22.png" width="100"/>
-<img src="https://api.animality.xyz/images/penguin/5.png" width="100"/>
+<img src="https://random.dog/5d433414-7e79-4d14-9951-640cb7a85c3f.mp4" width="100"/>
+<img src="https://random-d.uk/api/56.gif" width="100"/>
+<img src="https://randomfox.ca/images/33.jpg" width="100"/>
+<img src="https://api.animality.xyz/images/frog/6.png" width="100"/>
+<img src="https://api.animality.xyz/images/koala/21.png" width="100"/>
+<img src="https://api.animality.xyz/images/capybara/11.png" width="100"/>
 
 </p>
 
