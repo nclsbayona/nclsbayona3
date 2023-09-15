@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">An error ocurred</strong>
+<strong align="center">Someone once said: &quot;Ao'll find nykeā ñuhoso&quot;</strong>
 
 <p align="center">
 
-  <i>Please try again later</i>
+  <i>-- &quot;You'll find a way&quot; in valyrian language --</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Valencia Cocktail</h4>
+<h4 align="center">Irish Curdling Cow</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/9myuc11492975640.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,16 +43,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz </td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +67,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.
 </p>
 
 ----
@@ -194,12 +198,12 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <br />
 <p align="center">
 
-<img src="https://random.dog/5d433414-7e79-4d14-9951-640cb7a85c3f.mp4" width="100"/>
-<img src="https://random-d.uk/api/56.gif" width="100"/>
-<img src="https://randomfox.ca/images/33.jpg" width="100"/>
-<img src="https://api.animality.xyz/images/frog/6.png" width="100"/>
-<img src="https://api.animality.xyz/images/koala/21.png" width="100"/>
-<img src="https://api.animality.xyz/images/capybara/11.png" width="100"/>
+<img src="https://random.dog/c70ec919-5ca0-438f-80f2-b292812e19f3.jpg" width="180"/>
+<img src="https://random-d.uk/api/75.jpg" width="180"/>
+<img src="https://randomfox.ca/images/5.jpg" width="180"/>
+<img src="https://api.animality.xyz/images/bird/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/23.png" width="180"/>
+<img src="https://api.animality.xyz/images/capybara/17.png" width="180"/>
 
 </p>
 
@@ -211,7 +215,7 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 
 <p align="center">
 <a href="https://github.com/nclsbayona" target="_blank">
- <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white">
+ <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312180E.svg?&style=for-the-badge&logo=Github&logoColor=white">
 </a>
 <a href="https://twitter.com/nclsbayona" target="_blank">
  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
