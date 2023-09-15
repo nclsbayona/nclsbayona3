@@ -9,8 +9,11 @@
 </p>
 
 <p align="center">
-  <strong>Someone once said: &quot; {You} cennan tîma tôscêad tô sê singala fullan {simply} andweardlic ætrihte hit hê&quot;</strong>
-  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in oldenglish language --</i>
+
+  <strong>An error ocurred</strong>
+
+  <i>Please try again later</i>
+
 </p>
 
 ----
@@ -18,15 +21,19 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Godfather</h4>
+<h4 align="center">Tipperary</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/e5zgao1582582378.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b522ek1521761610.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
- 
+<h5 align="center">Alcoholic - Cocktail</h5>
+
+<h5 align="center">Neccesary ingredients</h5>
+<table align="center">
+<tr>
+<td>
 <table frame="box" rules="cols">
     <thead>
         <tr>
@@ -36,19 +43,27 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish Whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
     </tbody>
 </table>
+</td>
+</tr>
+</table>
+
 
 
 <p align="center">
-Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
+Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.
 </p>
 
 ----
