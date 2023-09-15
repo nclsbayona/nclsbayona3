@@ -5,29 +5,29 @@
 <h3 align="center">I'm really grateful that you came here 😎</h3>
 
 <p  align="center">
-<img src="logo.png" alt="Logo">
+<img src="logo.png" alt="Logo" width="480">
 </p>
 
-<h5 align="center">Someone once said: to're mido a gopa caree</h5>
+<h5 align="center">An error ocurred</h5>
 <p align="center">
-  <i>-- You're doing a great job in minion language</i>
+  <i>Please try again later</i>
 </p>
 ----
 
 <details>
 <summary>Maybe a drink? 🍹</summary>
-
+<br />
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Cherry Electric Lemonade**
+#### Name: **Scooter**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Cocktail**
+#### Category: **Ordinary Drink**
  
 <table frame="box" rules="cols">
     <thead>
@@ -38,43 +38,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.
-
+#### Preparation instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
 
 ----
 
@@ -82,20 +61,22 @@
 
 <details>
 <summary>Want to know more about my profile? 🪂</summary>
-
+<br />
+<h5 align="center">👀 Visitor count</h5>
 <p align="center">
 
-<h5>👀 Visitor count</h5>
-<img src="https://profile-counter.glitch.me/nclsbayona/count.svg" />
+<img src="https://profile-counter.glitch.me/nclsbayona/count.svg" width="60"/>
 
-<h5>Followers</h5>
-<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" />
+</p>
+<p align="center">
 
-<h5>Last profile commit</h5>
-<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
+<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" width="60"/>
+<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit" width="60">
 
-<h5>Profile trophies 🏆</h5>
-<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
+</p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4" width="80">
 
 </p>
 
@@ -104,17 +85,16 @@
 </details>
 <details>
 <summary>Want to check out my stats? 🐣</summary>
-
-
+<br />
 <h4 align="center">General GitHub Stats 🌀</h4>
 
 <p align="center">
 
-<h5>😃 General Overview</h5>
-<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight">
+<!--h5>😃 General Overview</h5-->
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="60">
 
-<h5>Life-Time Stats Overview 😃</h5>
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
+<!--h5>Life-Time Stats Overview 😃</h5-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="60">
 
 </p>
 
@@ -124,7 +104,7 @@
 
 <p align="center">
 
-<h5>Most Used Languages Stats 💾</h5>
+<!--h5>Most Used Languages Stats 💾</h5-->
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight">
 
 </p>
