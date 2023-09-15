@@ -19,15 +19,15 @@
 <br />
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/twuptu1483388307.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Scooter**
+#### Name: **The Evil Blue Thing**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Cocktail**
  
 <table frame="box" rules="cols">
     <thead>
@@ -38,22 +38,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Shake all ingredients well with cracked ice, strain into a cocktail glass, and serve.
+#### Preparation instructions: Pour ingredients into glass, and drop in a blue whale! The blue whale isn't really necessary, but it makes the drink more &quot;fun&quot;.
 
 ----
 
@@ -65,13 +65,13 @@
 <h5 align="center">👀 Visitor count</h5>
 <p align="center">
 
-<img src="https://profile-counter.glitch.me/nclsbayona/count.svg" width="60"/>
+<img src="https://profile-counter.glitch.me/nclsbayona/count.svg"/>
 
 </p>
 <p align="center">
 
-<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" width="60"/>
-<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit" width="60">
+<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
 
 </p>
 <p align="center">
@@ -91,10 +91,10 @@
 <p align="center">
 
 <!--h5>😃 General Overview</h5-->
-<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="60">
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight">
 
 <!--h5>Life-Time Stats Overview 😃</h5-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="60">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
 
 </p>
 
