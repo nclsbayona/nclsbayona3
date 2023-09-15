@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot;Ish-veh kashek nam-tor bosh t' maut-ugelik ideas&quot;</strong>
+<strong align="center">Someone once said: &quot; {Do} n¯ænig pro onr¯æs mid {pigs} {-} êower setnes libban de {smeared} ongêanweard tord tôêacan and dôð fôr wærgêapnes lîca sê.&quot;</strong>
 
 <p align="center">
 
-  <i>-- &quot;Your mind is full of brilliant ideas&quot; in vulcan language --</i>
+  <i>-- &quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Pegu Club</h4>
+<h4 align="center">Adam</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,24 +43,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -71,7 +63,7 @@
 
 
 <p align="center">
-Shake, strain, up, cocktail glass
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
 </p>
 
 ----
