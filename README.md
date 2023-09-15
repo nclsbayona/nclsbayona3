@@ -8,29 +8,26 @@
 <img src="logo.png" alt="Logo">
 </p>
 
-<h5 align="center">Someone once said: Rah sei was k'iset vah'd vacosehn bored</h5>
+<h5 align="center">An error ocurred</h5>
 <p align="center">
-  <i>-- If everything was easy you'd be bored in cheunh language</i>
+  <i>Please try again later</i>
 </p>
 ----
 
 <details>
 <summary>Maybe a drink? 🍹</summary>
 
-
-
-
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yz0j6z1504389461.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7stuuh1504885399.jpg" alt="Drink image" />
 
 </p>
 
-#### Name: **Bloody Maria**
+#### Name: **Mother's Milk**
  
 #### Alcoholic category: **Alcoholic**
  
-#### Category: **Ordinary Drink**
+#### Category: **Shot**
  
 <table frame="box" rules="cols">
     <thead>
@@ -41,34 +38,22 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Butterscotch schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Celery salt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
 
 
-#### Preparation instructions: Shake all ingredients (except lemon slice) with cracked ice and strain into an old-fashioned glass over ice cubes. Add the slice of lemon and serve.
+#### Preparation instructions: Shake over ice, strain. Serves two.
 
 
 ----
@@ -78,43 +63,21 @@
 <details>
 <summary>Want to know more about my profile? 🪂</summary>
 
-##### 👀 Visitor count
-
-
 <p align="center">
 
+<h5>👀 Visitor count</h5>
 <img src="https://profile-counter.glitch.me/nclsbayona/count.svg" />
 
-</p>
-
-
-##### Followers
-
-
-<p align="center">
-
+<h5>Followers</h5>
 <img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge" />
 
-</p>
-
-
-##### Last profile commit
-
-
-<p align="center">
-
+<h5>Last profile commit</h5>
 <img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
-            
-</p>
 
-##### Profile trophies 🏆
-
-<p align="center">
-
+<h5>Profile trophies 🏆</h5>
 <img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
 
 </p>
-
 
 ----
 
@@ -123,40 +86,32 @@
 <summary>Want to check out my stats? 🐣</summary>
 
 
-#### General GitHub Stats 🌀
-
-##### 😃 General Overview
+<h4 align="center">General GitHub Stats 🌀</h4>
 
 <p align="center">
 
+<h5>😃 General Overview</h5>
 <img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight">
 
-</p>
-
-##### Life-Time Stats Overview 😃
-
-<p align="center">
-
+<h5>Life-Time Stats Overview 😃</h5>
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
 
 </p>
+
 <br />
 
-#### 🤖 Programming Languages Stats
-
-##### Most Used Languages Stats 💾
+<h4 align="center">🤖 Programming Languages Stats</h4>
 
 <p align="center">
 
+<h5>Most Used Languages Stats 💾</h5>
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight">
 
 </p>
 
 <br />
 
-#### ⌚General Weekly-Stats
-
-##### Overview ✨
+<h4 align="center">⌚General Weekly-Stats</h4>
 
 <table frame="box" rules="cols">
     <thead>
