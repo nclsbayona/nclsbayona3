@@ -8,22 +8,24 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<h5 align="center">Someone once said: Whenever īlon’re zūgagon,  ziry’s kesrio syt īlon don’t gīmigon enough. Lo īlon understood enough,  īlon would dōrī sagon zūgagon</h5>
 <p align="center">
-  <i>-- Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid in valyrian language</i>
+  <strong>Someone once said: &quot; {You} cennan tîma tôscêad tô sê singala fullan {simply} andweardlic ætrihte hit hê&quot;</strong>
+  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in oldenglish language --</i>
 </p>
+
 ----
+
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Black &amp; Tan</h4>
+<h4 align="center">Godfather</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rwpswp1454511017.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/e5zgao1582582378.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Beer</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
  
 <table frame="box" rules="cols">
     <thead>
@@ -34,19 +36,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part Bass pale </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guinness stout</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
     </tbody>
 </table>
 
 
 <p align="center">
-Fill pint glass half full with Bass. Next pour Guiness over a spoon slowly until glass is full. If done correctly the Guiness will stay on top and the Bass on bottom hence the name Black &amp; Tan.
+Pour all ingredients directly into old fashioned glass filled with ice cubes. Stir gently.
 </p>
 
 ----
