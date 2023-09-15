@@ -13,21 +13,17 @@
   <i>Please try again later</i>
 </p>
 ----
-
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
+<h4 align="center">**The Evil Blue Thing**</h4>
 <p align="center">
 
 <img src="https://www.thecocktaildb.com/images/media/drink/ojnpz71504793059.jpg" alt="Drink image" />
 
 </p>
-
-#### Name: **The Evil Blue Thing**
  
-#### Alcoholic category: **Alcoholic**
- 
-#### Category: **Cocktail**
+<h5 align="center">**Alcoholic** - **Cocktail**</h5>
  
 <table frame="box" rules="cols">
     <thead>
@@ -76,7 +72,7 @@
 </p>
 <p align="center">
 
-<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4" width="80">
+<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
 
 </p>
 
@@ -91,10 +87,10 @@
 <p align="center">
 
 <!--h5>😃 General Overview</h5-->
-<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight">
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="120">
 
 <!--h5>Life-Time Stats Overview 😃</h5-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="120">
 
 </p>
 
@@ -112,7 +108,9 @@
 <br />
 
 <h4 align="center">⌚General Weekly-Stats</h4>
-
+<table align="center">
+<tr>
+<td>
 <table frame="box" rules="cols">
     <thead>
         <tr>
@@ -135,9 +133,8 @@
         </tr>
     </tbody>
 </table>
-
-<br> 
-
+</td>
+<td>
 <table frame="box" rules="cols">
     <thead>
         <tr>
@@ -151,6 +148,9 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 45 minutes</td>
         </tr>
     </tbody>
+</table>
+</td>
+</tr>
 </table>
 
 ----
