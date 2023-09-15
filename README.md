@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot; {Do} n¯ænig pro onr¯æs mid {pigs} {-} êower setnes libban de {smeared} ongêanweard tord tôêacan and dôð fôr wærgêapnes lîca sê.&quot;</strong>
+<strong align="center">Someone once said: &quot;ta nos mud orbrr elsree pak mokatino to dwell ahs teg, yikai. . ta mas to pensa cama torute, ta mas pik odecaw zuu mud tu tajpen.&quot;</strong>
 
 <p align="center">
 
-  <i>-- &quot;Do not fight with pigs - you will be smeared in mud but the pig will like it.&quot; in oldenglish language --</i>
+  <i>-- &quot;The Law of Concentration states that whatever you dwell upon grows. The more you think about something, the more it becomes part of your reality.&quot; in minion language --</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Adam</h4>
+<h4 align="center">Spritz Veneziano</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/v0at4i1582478473.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/51ezka1551456113.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,16 +43,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +63,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a cocktail glass.
+Build into glass over ice, garnish and serve.
 </p>
 
 ----
@@ -71,7 +71,7 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </details>
 
 <details>
-<summary>Want to know more about my profile? 🪂</summary>
+<summary>Maybe you want to know more about my profile? 🪂</summary>
 <br />
 <h5 align="center">👀 Visitor count</h5>
 <p align="center">
@@ -95,7 +95,7 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 
 </details>
 <details>
-<summary>Want to check out my stats? 🐣</summary>
+<summary>Maybe you want to check out my stats? 🐣</summary>
 <br />
 <h4 align="center">General GitHub Stats 🌀</h4>
 
@@ -172,7 +172,7 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </details>
 
 <details>
-<summary>Want to see something about our universe? 🔭</summary>
+<summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
 <h4 align="center">Venus, Moon, and the Smoking Mountain - ©️ Luis Miguel Meade Rodríguez @ 2023-09-15</h4>
@@ -185,6 +185,27 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <h5 align="center">Venus has returned as a brilliant morning star. From a window seat on a flight to Mexico City, the bright celestial beacon was captured just before sunrise in this astronomical snapshot, taken on September 12. Venus, at the upper right, shared the early predawn skies with an old crescent Moon. Seen from this stratospheric perspective, both mountain peaks and clouds appear in silhouette along a glowing eastern horizon. The dramatic, long, low cloud bank was created by venting from planet Earth's active volcano Popocatépetl.</h5>
 
 ----
+
+</details>
+
+<details>
+<summary>Maybe yu are looking for some cool animal pictures?</summary>
+
+<br />
+<p align="center">
+
+<img src="https://random.dog/124d998c-ba2a-4f64-b286-8c809b31b495.gif" width="100"/>
+<img src="https://random-d.uk/api/76.jpg" width="100"/>
+<img src="https://randomfox.ca/images/35.jpg" width="100"/>
+<img src="https://api.animality.xyz/images/panda/2.png" width="100"/>
+<img src="https://api.animality.xyz/images/dolphin/22.png" width="100"/>
+<img src="https://api.animality.xyz/images/penguin/5.png" width="100"/>
+
+</p>
+
+----
+
+</details>
 
 <h3 align="center">Contact me! 📇</h3>
 
