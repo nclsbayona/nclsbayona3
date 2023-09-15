@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
+<strong align="center">Someone once said: &quot;Ish-veh kashek nam-tor bosh t' maut-ugelik ideas&quot;</strong>
+
 <p align="center">
 
-  <strong>An error ocurred</strong>
-
-  <i>Please try again later</i>
+  <i>-- &quot;Your mind is full of brilliant ideas&quot; in vulcan language --</i>
 
 </p>
 
@@ -21,10 +21,10 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Tipperary</h4>
+<h4 align="center">Pegu Club</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/b522ek1521761610.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jfkemm1513703902.jpg" alt="Drink image" />
 
 </p>
  
@@ -43,16 +43,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish Whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
         </tr>
     </tbody>
 </table>
@@ -63,7 +71,7 @@
 
 
 <p align="center">
-Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.
+Shake, strain, up, cocktail glass
 </p>
 
 ----
@@ -169,9 +177,22 @@ Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and e
 </table>
 
 ----
-
 </details>
 
+<details>
+<summary>Want to see something about our universe? 🔭</summary>
+
+<br />
+<h4 align="center">Venus, Moon, and the Smoking Mountain - ©️ Luis Miguel Meade Rodríguez @ 2023-09-15</h4>
+<p align="center">
+
+<img src="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg" alt="Venus, Moon, and the Smoking Mountain image" />
+
+</p>
+ 
+<h5 align="center">Venus has returned as a brilliant morning star. From a window seat on a flight to Mexico City, the bright celestial beacon was captured just before sunrise in this astronomical snapshot, taken on September 12. Venus, at the upper right, shared the early predawn skies with an old crescent Moon. Seen from this stratospheric perspective, both mountain peaks and clouds appear in silhouette along a glowing eastern horizon. The dramatic, long, low cloud bank was created by venting from planet Earth's active volcano Popocatépetl.</h5>
+
+----
 
 <h3 align="center">Contact me! 📇</h3>
 
