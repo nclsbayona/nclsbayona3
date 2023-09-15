@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot;Ao'll find nykeā ñuhoso&quot;</strong>
+<strong align="center">Someone once said: &quot;Creativity sa doe greatest rebellion noleeya existence.&quot;</strong>
 
 <p align="center">
 
-  <i>-- &quot;You'll find a way&quot; in valyrian language --</i>
+  <i>-- &quot;Creativity is the greatest rebellion in existence.&quot; in huttese language --</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Irish Curdling Cow</h4>
+<h4 align="center">Afternoon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yrhutv1503563730.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,20 +43,20 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl hot </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +67,7 @@
 
 
 <p align="center">
-Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the orange juice.
+Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.
 </p>
 
 ----
@@ -196,16 +196,30 @@ Pour Irish Cream, Vodka, and Bourbon in a glass. Add some ice and mix in the ora
 <summary>Maybe you are looking for some cool animal pictures? 👁️</summary>
 
 <br />
-<p align="center">
-
-<img src="https://random.dog/c70ec919-5ca0-438f-80f2-b292812e19f3.jpg" width="180"/>
-<img src="https://random-d.uk/api/75.jpg" width="180"/>
-<img src="https://randomfox.ca/images/5.jpg" width="180"/>
-<img src="https://api.animality.xyz/images/bird/13.png" width="180"/>
-<img src="https://api.animality.xyz/images/panda/23.png" width="180"/>
-<img src="https://api.animality.xyz/images/capybara/17.png" width="180"/>
-
-</p>
+<table align="center">
+<tr>
+<td>
+<img src="https://random.dog/8b0f55b1-317d-49e4-b849-35df7c17ff2a.jpg" width="180"/>
+</td>
+<td>
+<img src="https://random-d.uk/api/111.jpg" width="180"/>
+</td>
+<td>
+<img src="https://randomfox.ca/images/56.jpg" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/bunny/14.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/koala/16.png" width="180"/>
+</td>
+</tr>
+</table>
 
 ----
 
