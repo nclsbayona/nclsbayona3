@@ -14,3 +14,4 @@ jobs:
           env:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
+            NASA_KEY: ${{ secrets.NASA_KEY }}
