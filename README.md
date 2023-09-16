@@ -8,11 +8,11 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot;Creativity sa doe greatest rebellion noleeya existence.&quot;</strong>
+<strong align="center">Someone once said: &quot;Ao gīmigon tolī than ao pendagon&quot;</strong>
 
 <p align="center">
 
-  <i>-- &quot;Creativity is the greatest rebellion in existence.&quot; in huttese language --</i>
+  <i>-- &quot;You know more than you think&quot; in valyrian language --</i>
 
 </p>
 
@@ -21,14 +21,14 @@
 <details>
 <summary>Maybe a drink? 🍹</summary>
 <br />
-<h4 align="center">Afternoon</h4>
+<h4 align="center">Pink Gin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vyrurp1472667777.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,20 +43,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl hot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -67,7 +59,7 @@
 
 
 <p align="center">
-Build into a suiting glass, with no ice. Cream on top if wanted. Served directly.
+Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.
 </p>
 
 ----
@@ -179,14 +171,14 @@ Build into a suiting glass, with no ice. Cream on top if wanted. Served directly
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Venus, Moon, and the Smoking Mountain - ©️ Luis Miguel Meade Rodríguez @ 2023-09-15</h4>
+<h4 align="center">Fireball over Iceland - ©️ Jennifer Franklin @ 2023-09-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2309/IMG_3603_1024.jpg" alt="Venus, Moon, and the Smoking Mountain image" />
+<img src="https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg" alt="Fireball over Iceland image" />
 
 </p>
  
-<h5 align="center">Venus has returned as a brilliant morning star. From a window seat on a flight to Mexico City, the bright celestial beacon was captured just before sunrise in this astronomical snapshot, taken on September 12. Venus, at the upper right, shared the early predawn skies with an old crescent Moon. Seen from this stratospheric perspective, both mountain peaks and clouds appear in silhouette along a glowing eastern horizon. The dramatic, long, low cloud bank was created by venting from planet Earth's active volcano Popocatépetl.</h5>
+<h5 align="center">On September 12, from a location just south of the Arctic Circle, stones of Iceland's modern Arctic Henge point skyward in this startling scene. Entertaining an intrepid group of aurora hunters during a geomagnetic storm, alluring northern lights dance across the darkened sky when a stunning fireball meteor explodes. Awestruck, the camera-equipped skygazers captured video and still images of the boreal bolide, at its peak about as bright as a full moon. Though quickly fading from view, the fireball left a lingering visible trail or persistent train. The wraith-like trail was seen for minutes wafting in the upper atmosphere at altitudes of 60 to 90 kilometers along with the auroral glow.</h5>
 
 ----
 
@@ -199,24 +191,24 @@ Build into a suiting glass, with no ice. Cream on top if wanted. Served directly
 <table align="center">
 <tr>
 <td>
-<img src="https://random.dog/8b0f55b1-317d-49e4-b849-35df7c17ff2a.jpg" width="180"/>
+<img src="https://random.dog/71c33af4-4d09-4836-b996-816f95c10667.webm" width="180"/>
 </td>
 <td>
-<img src="https://random-d.uk/api/111.jpg" width="180"/>
+<img src="https://random-d.uk/api/17.jpg" width="180"/>
 </td>
 <td>
-<img src="https://randomfox.ca/images/56.jpg" width="180"/>
+<img src="https://randomfox.ca/images/120.jpg" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/bunny/14.png" width="180"/>
+<img src="https://api.animality.xyz/images/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/penguin/8.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/koala/16.png" width="180"/>
+<img src="https://api.animality.xyz/images/redpanda/24.png" width="180"/>
 </td>
 </tr>
 </table>
