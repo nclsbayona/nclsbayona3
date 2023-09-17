@@ -12,8 +12,8 @@
 
 <p align="center">
 
-  <strong align="center">An error ocurred</strong>
-  <i>Please try again later</i>
+  <strong align="center">Always remember ... </strong>
+  <i>Mistakes don't make you less capable</i>
 
 </p>
 
@@ -22,14 +22,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kool-Aid Shot</h4>
+<h4 align="center">Berry Deadly</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/fegm621503564966.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/zk74k21593351065.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -44,20 +44,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle Boone Strawberry Hill </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sloe gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 gal </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal Tropical Berry </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Pour into a large glass with ice and stir. Add a little cranberry juice to taste.
+Add all ingredients to large bowl. Stir gently. Serve chilled.
 </p>
 
 ----
@@ -141,7 +141,7 @@ Pour into a large glass with ice and stir. Add a little cranberry juice to taste
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 40 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 41 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -149,6 +149,10 @@ Pour into a large glass with ice and stir. Add a little cranberry juice to taste
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Assembly</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -165,7 +169,7 @@ Pour into a large glass with ice and stir. Add a little cranberry juice to taste
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 45 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 47 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,24 +204,68 @@ Pour into a large glass with ice and stir. Add a little cranberry juice to taste
 <table align="center">
 <tr>
 <td>
-<img src="https://random.dog/6dcc9bd5-8b93-4a18-ac78-c5edac17622b.jpg" width="180"/>
+<img src="https://api.animality.xyz/images/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://random-d.uk/api/228.jpg" width="180"/>
+<img src="https://api.animality.xyz/images/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://randomfox.ca/images/38.jpg" width="180"/>
+<img src="https://api.animality.xyz/images/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/capybara/0.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/dolphin/22.png" width="180"/>
+<img src="https://api.animality.xyz/images/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/bear/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/redpanda/2.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/koala/2.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/whale/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/dolphin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/bunny/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/lion/13.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/penguin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/capybara/13.png" width="180"/>
 </td>
 </tr>
 </table>
