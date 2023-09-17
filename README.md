@@ -8,27 +8,28 @@
 <img src="logo.png" alt="Logo" width="480">
 </p>
 
-<strong align="center">Someone once said: &quot;Ao gīmigon tolī than ao pendagon&quot;</strong>
+
 
 <p align="center">
 
-  <i>-- &quot;You know more than you think&quot; in valyrian language --</i>
+  <strong align="center">An error ocurred</strong>
+  <i>Please try again later</i>
 
 </p>
 
 ----
 
 <details>
-<summary>Maybe a drink? 🍹</summary>
+<summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pink Gin</h4>
+<h4 align="center">Kool-Aid Shot</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qyr51e1504888618.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/fegm621503564966.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -43,12 +44,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sloe gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
     </tbody>
 </table>
@@ -59,7 +68,7 @@
 
 
 <p align="center">
-Pour the bitters into a wine glass. Swirl the glass to coat the inside with the bitters, shake out the excess. Pour the gin into the glass. Do not add ice.
+Pour into a large glass with ice and stir. Add a little cranberry juice to taste.
 </p>
 
 ----
@@ -98,10 +107,10 @@ Pour the bitters into a wine glass. Swirl the glass to coat the inside with the 
 <p align="center">
 
 <!--h5>😃 General Overview</h5-->
-<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="360">
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="260">
 
 <!--h5>Life-Time Stats Overview 😃</h5-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="360">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="260">
 
 </p>
 
@@ -171,44 +180,44 @@ Pour the bitters into a wine glass. Swirl the glass to coat the inside with the 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Fireball over Iceland - ©️ Jennifer Franklin @ 2023-09-16</h4>
+<h4 align="center">Moon Mountains Magnified during Ring of Fire Eclipse - ©️ Wang Letian  (Eyes at Night) @ 2023-09-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2309/_DSC7280-1s_1024.jpg" alt="Fireball over Iceland image" />
+<img src="https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg" alt="Moon Mountains Magnified during Ring of Fire Eclipse image" />
 
 </p>
  
-<h5 align="center">On September 12, from a location just south of the Arctic Circle, stones of Iceland's modern Arctic Henge point skyward in this startling scene. Entertaining an intrepid group of aurora hunters during a geomagnetic storm, alluring northern lights dance across the darkened sky when a stunning fireball meteor explodes. Awestruck, the camera-equipped skygazers captured video and still images of the boreal bolide, at its peak about as bright as a full moon. Though quickly fading from view, the fireball left a lingering visible trail or persistent train. The wraith-like trail was seen for minutes wafting in the upper atmosphere at altitudes of 60 to 90 kilometers along with the auroral glow.</h5>
+<h5 align="center">What are those dark streaks in this composite image of a solar eclipse? They are reversed shadows of mountains at the edge of the Moon.  The center image, captured from Xiamen, China, has the Moon's center directly in front of the Sun's center. The Moon, though, was too far from the Earth to completely block the entire Sun.  Light that streamed around the edges of the Moon is called a  ring of fire. Images at each end of the sequence show sunlight that streamed through lunar valleys.  As the Moon moved further in front of the Sun, left to right, only the higher peaks on the Moon's perimeter could block sunlight.  Therefore, the dark streaks are projected, distorted, reversed, and magnified shadows of mountains at the Moon's edge.  Bright areas are called Baily's Beads. Only people in a narrow swath across Earth's Eastern Hemisphere were able to view this full annular solar eclipse in 2020. Next month, though, a narrow swath crossing both North and South America will be exposed to the next annular solar eclipse. And next April, a total solar eclipse will be visible across North America.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</h5>
 
 ----
 
 </details>
 
 <details>
-<summary>Maybe you are looking for some cool animal pictures? 👁️</summary>
+<summary>Maybe you're looking for some cool animal pictures? 👁️</summary>
 
 <br />
 <table align="center">
 <tr>
 <td>
-<img src="https://random.dog/71c33af4-4d09-4836-b996-816f95c10667.webm" width="180"/>
+<img src="https://random.dog/6dcc9bd5-8b93-4a18-ac78-c5edac17622b.jpg" width="180"/>
 </td>
 <td>
-<img src="https://random-d.uk/api/17.jpg" width="180"/>
+<img src="https://random-d.uk/api/228.jpg" width="180"/>
 </td>
 <td>
-<img src="https://randomfox.ca/images/120.jpg" width="180"/>
+<img src="https://randomfox.ca/images/38.jpg" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/dolphin/17.png" width="180"/>
+<img src="https://api.animality.xyz/images/capybara/0.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/cat/23.png" width="180"/>
+<img src="https://api.animality.xyz/images/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/redpanda/24.png" width="180"/>
+<img src="https://api.animality.xyz/images/bear/13.png" width="180"/>
 </td>
 </tr>
 </table>
