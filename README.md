@@ -1,4 +1,8 @@
-![Greetings](https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=KoHo&pattern=Charlie%20Brown&theme=Dark)
+<p align="center">
+
+  <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=Raleway&pattern=Signal&theme=Dark" alt="nclsbayona" width="640" height="320" />
+
+</p>
 
 <h2 align="center">👋 Hey there 👋</h2>
 
@@ -12,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember ... </strong>
-  <i>Mistakes don't make you less capable</i>
+  <strong align="center">Someone once said: &quot; {You} canne timbran hîe&quot;</strong>
+  <i>-- &quot;You can do it&quot; in oldenglish language --</i>
 
 </p>
 
@@ -22,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Berry Deadly</h4>
+<h4 align="center">John Collins</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/zk74k21593351065.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0t4bv71606854479.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -44,20 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle Boone Strawberry Hill </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 gal </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 gal Tropical Berry </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +80,7 @@
 
 
 <p align="center">
-Add all ingredients to large bowl. Stir gently. Serve chilled.
+Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.
 </p>
 
 ----
@@ -204,35 +216,35 @@ Add all ingredients to large bowl. Stir gently. Serve chilled.
 <table align="center">
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/dog/17.png" width="180"/>
+<img src="https://api.animality.xyz/images/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/duck/7.png" width="180"/>
+<img src="https://api.animality.xyz/images/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/cat/21.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/panda/11.png" width="180"/>
+<img src="https://api.animality.xyz/images/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/redpanda/2.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/koala/2.png" width="180"/>
+<img src="https://api.animality.xyz/images/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/whale/21.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/redpanda/21.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/koala/5.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -240,32 +252,32 @@ Add all ingredients to large bowl. Stir gently. Serve chilled.
 <img src="https://api.animality.xyz/images/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/kangaroo/14.png" width="180"/>
+<img src="https://api.animality.xyz/images/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/bunny/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/lion/13.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/frog/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/bunny/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/penguin/4.png" width="180"/>
+<img src="https://api.animality.xyz/images/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/axolotl/20.png" width="180"/>
+<img src="https://api.animality.xyz/images/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/capybara/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/capybara/5.png" width="180"/>
 </td>
 </tr>
 </table>
