@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&font=Raleway&pattern=Signal&theme=Dark" alt="nclsbayona" width="640" height="320" />
+  <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&descriptionEditable=Come%20check%20my%20profile!&font=Bitter&pattern=Signal&theme=Dark" alt="nclsbayona" width="640" height="320" />
 
 </p>
 
@@ -8,16 +8,16 @@
 
 <h3 align="center">I'm really grateful that you came here 😎</h3>
 
-<p  align="center">
+<!--p  align="center">
 <img src="logo.png" alt="Logo" width="480">
-</p>
+</p-->
 
 
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {You} canne timbran hîe&quot;</strong>
-  <i>-- &quot;You can do it&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;This,  you got&quot;</strong>
+  <i>-- &quot;You got this&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">John Collins</h4>
+<h4 align="center">Mauresque</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/0t4bv71606854479.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,28 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ricard</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orgeat Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Full Glass</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +84,11 @@
 
 
 <p align="center">
-Pour all ingredients directly into highball glass filled with ice. Stir gently. Garnish. Add a dash of Angostura bitters.
+1 - Pour the Ricard (or pastis)
+2 - Pour the orgeat syrup
+3 - Finally pour the water and add ice cubes at your convenience.
+
+Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
 </p>
 
 ----
@@ -88,7 +96,7 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 </details>
 
 <details>
-<summary>Maybe you want to know more about my profile? 🪂</summary>
+<summary>Maybe you're interested in learning more about my profile? 🪂</summary>
 <br />
 <h5 align="center">👀 Visitor count</h5>
 <p align="center">
@@ -112,7 +120,7 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 
 </details>
 <details>
-<summary>Maybe you want to check out my stats? 🐣</summary>
+<summary>Maybe you're interested in checking out my stats? 🐣</summary>
 <br />
 <h4 align="center">General GitHub Stats 🌀</h4>
 
@@ -196,14 +204,14 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Moon Mountains Magnified during Ring of Fire Eclipse - ©️ Wang Letian  (Eyes at Night) @ 2023-09-17</h4>
+<h4 align="center">The Red Sprite and the Tree - ©️ Maxime Villaeys @ 2023-09-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2309/BeadMountains_Letian_960.jpg" alt="Moon Mountains Magnified during Ring of Fire Eclipse image" />
+<img src="https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg" alt="The Red Sprite and the Tree image" />
 
 </p>
  
-<h5 align="center">What are those dark streaks in this composite image of a solar eclipse? They are reversed shadows of mountains at the edge of the Moon.  The center image, captured from Xiamen, China, has the Moon's center directly in front of the Sun's center. The Moon, though, was too far from the Earth to completely block the entire Sun.  Light that streamed around the edges of the Moon is called a  ring of fire. Images at each end of the sequence show sunlight that streamed through lunar valleys.  As the Moon moved further in front of the Sun, left to right, only the higher peaks on the Moon's perimeter could block sunlight.  Therefore, the dark streaks are projected, distorted, reversed, and magnified shadows of mountains at the Moon's edge.  Bright areas are called Baily's Beads. Only people in a narrow swath across Earth's Eastern Hemisphere were able to view this full annular solar eclipse in 2020. Next month, though, a narrow swath crossing both North and South America will be exposed to the next annular solar eclipse. And next April, a total solar eclipse will be visible across North America.   Open Science: Browse 3,000+ codes in the Astrophysics Source Code Library</h5>
+<h5 align="center">The sprite and tree could hardly be more different. To start, the red sprite is an unusual form of lightning, while the tree is a common plant. The sprite is far away -- high in Earth's atmosphere, while the tree is nearby -- only about a football field away.  The sprite is fast -- electrons streaming up and down at near light's speed, while the tree is slow -- wood anchored to the ground. The sprite is bright -- lighting up the sky, while the tree is dim -- shining mostly by reflected light. The sprite was fleeting -- lasting only a small fraction of a second, while the tree is durable -- living now for many years.  Both however, when captured together, appear oddly similar in this featured composite image captured early this month in France as a thunderstorm passed over mountains of the Atlantic Pyrenees.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -216,68 +224,68 @@ Pour all ingredients directly into highball glass filled with ice. Stir gently. 
 <table align="center">
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/dog/1.png" width="180"/>
+<img src="https://api.animality.xyz/images/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/duck/22.png" width="180"/>
+<img src="https://api.animality.xyz/images/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/panda/9.png" width="180"/>
+<img src="https://api.animality.xyz/images/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/redpanda/21.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/koala/5.png" width="180"/>
+<img src="https://api.animality.xyz/images/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bunny/1.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/lion/18.png" width="180"/>
+<img src="https://api.animality.xyz/images/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/bear/9.png" width="180"/>
+<img src="https://api.animality.xyz/images/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/frog/22.png" width="180"/>
+<img src="https://api.animality.xyz/images/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/penguin/18.png" width="180"/>
+<img src="https://api.animality.xyz/images/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/axolotl/0.png" width="180"/>
+<img src="https://api.animality.xyz/images/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/capybara/5.png" width="180"/>
+<img src="https://api.animality.xyz/images/bunny/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/lion/3.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/bear/20.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/axolotl/13.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/capybara/4.png" width="180"/>
 </td>
 </tr>
 </table>
