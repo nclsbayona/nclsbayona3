@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;This,  you got&quot;</strong>
-  <i>-- &quot;You got this&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Se path naejot success iksos naejot gūrogon massive,  determined action&quot;</strong>
+  <i>-- &quot;The path to success is to take massive, determined action&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mauresque</h4>
+<h4 align="center">Stone Sour</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/duwfa11686236556.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ricard</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orgeat Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Full Glass</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -84,11 +68,7 @@
 
 
 <p align="center">
-1 - Pour the Ricard (or pastis)
-2 - Pour the orgeat syrup
-3 - Finally pour the water and add ice cubes at your convenience.
-
-Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
+Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.
 </p>
 
 ----
@@ -161,7 +141,7 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 41 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 hours and 44 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -189,7 +169,7 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 47 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 hours and 50 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -204,14 +184,14 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Red Sprite and the Tree - ©️ Maxime Villaeys @ 2023-09-18</h4>
+<h4 align="center"> - </h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2309/SpriteTree_Villaeys_960.jpg" alt="The Red Sprite and the Tree image" />
+<img src="" alt=" image" />
 
 </p>
  
-<h5 align="center">The sprite and tree could hardly be more different. To start, the red sprite is an unusual form of lightning, while the tree is a common plant. The sprite is far away -- high in Earth's atmosphere, while the tree is nearby -- only about a football field away.  The sprite is fast -- electrons streaming up and down at near light's speed, while the tree is slow -- wood anchored to the ground. The sprite is bright -- lighting up the sky, while the tree is dim -- shining mostly by reflected light. The sprite was fleeting -- lasting only a small fraction of a second, while the tree is durable -- living now for many years.  Both however, when captured together, appear oddly similar in this featured composite image captured early this month in France as a thunderstorm passed over mountains of the Atlantic Pyrenees.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center"></h5>
 
 ----
 
@@ -224,68 +204,68 @@ Add the ice cubes at the end, otherwise the syrup and pastis do not mix well.
 <table align="center">
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/dog/6.png" width="180"/>
+<img src="https://api.animality.xyz/images/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/duck/14.png" width="180"/>
+<img src="https://api.animality.xyz/images/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/panda/14.png" width="180"/>
+<img src="https://api.animality.xyz/images/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/redpanda/11.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/koala/8.png" width="180"/>
+<img src="https://api.animality.xyz/images/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/kangaroo/17.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bunny/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/lion/3.png" width="180"/>
+<img src="https://api.animality.xyz/images/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/bear/20.png" width="180"/>
+<img src="https://api.animality.xyz/images/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/frog/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/penguin/12.png" width="180"/>
+<img src="https://api.animality.xyz/images/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/axolotl/13.png" width="180"/>
+<img src="https://api.animality.xyz/images/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/capybara/4.png" width="180"/>
+<img src="https://api.animality.xyz/images/bunny/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/lion/24.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/bear/4.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/capybara/6.png" width="180"/>
 </td>
 </tr>
 </table>
