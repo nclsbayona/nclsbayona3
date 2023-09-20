@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Se path naejot success iksos naejot gūrogon massive,  determined action&quot;</strong>
-  <i>-- &quot;The path to success is to take massive, determined action&quot; in valyrian language --</i>
+  <strong align="center">Always remember ... </strong>
+  <i>Mistakes don't make you less capable</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Stone Sour</h4>
+<h4 align="center">Absinthe #2</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vruvtp1472719895.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uxxtrt1472667197.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 gr </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anise</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml pure </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Licorice root</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wormwood</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a chilled whiskey sour glass, and serve.
+Mix together and let sit a few days. Strain through a coffee filter. To serve mix 1 part absinthe to 4 parts water, add ice, enjoy.
 </p>
 
 ----
@@ -141,15 +149,11 @@ Shake all ingredients with ice, strain into a chilled whiskey sour glass, and se
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 hours and 44 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 28 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Assembly</td>
@@ -169,7 +173,7 @@ Shake all ingredients with ice, strain into a chilled whiskey sour glass, and se
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 hours and 50 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 33 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -204,68 +208,68 @@ Shake all ingredients with ice, strain into a chilled whiskey sour glass, and se
 <table align="center">
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/dog/12.png" width="180"/>
+<img src="https://api.animality.xyz/images/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/duck/17.png" width="180"/>
+<img src="https://api.animality.xyz/images/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/panda/21.png" width="180"/>
+<img src="https://api.animality.xyz/images/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/redpanda/6.png" width="180"/>
+<img src="https://api.animality.xyz/images/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/koala/6.png" width="180"/>
+<img src="https://api.animality.xyz/images/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://api.animality.xyz/images/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://api.animality.xyz/images/bunny/17.png" width="180"/>
+<img src="https://api.animality.xyz/images/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/lion/24.png" width="180"/>
+<img src="https://api.animality.xyz/images/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/bear/4.png" width="180"/>
+<img src="https://api.animality.xyz/images/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/frog/14.png" width="180"/>
+<img src="https://api.animality.xyz/images/whale/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://api.animality.xyz/images/penguin/8.png" width="180"/>
+<img src="https://api.animality.xyz/images/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/axolotl/7.png" width="180"/>
+<img src="https://api.animality.xyz/images/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://api.animality.xyz/images/capybara/6.png" width="180"/>
+<img src="https://api.animality.xyz/images/bunny/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://api.animality.xyz/images/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://api.animality.xyz/images/capybara/14.png" width="180"/>
 </td>
 </tr>
 </table>
