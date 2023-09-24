@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember ... </strong>
-  <i>Mistakes don't make you less capable</i>
+  <strong align="center">Someone once said: &quot;Cin are a capable firen&quot;</strong>
+  <i>-- &quot;You are a capable human&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,37 +26,20 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">San Francisco</h4>
+<h4 align="center"></h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/szmj2d1504889961.jpg" alt="Drink image" />
+<img src="" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center"> - </h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
 <tr>
 <td>
-<table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Banane</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
-        </tr>
-    </tbody>
-</table>
+
 </td>
 </tr>
 </table>
@@ -64,7 +47,7 @@
 
 
 <p align="center">
-Take a tall glass and put in a few ice cubes, fill the vodka over it and fill with juice then the &quot;creme&quot;, to end fill in the grenadine but very carefully at the side of the glass so it will lay down in the bottom. garnish with orange and strawberry.
+
 </p>
 
 ----
@@ -188,14 +171,14 @@ Take a tall glass and put in a few ice cubes, fill the vodka over it and fill wi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Afternoon Analemma - ©️ Ian Griffin @ 2023-09-23</h4>
+<h4 align="center"> - </h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2309/4pm-analemma-nz_1024.jpg" alt="Afternoon Analemma image" />
+<img src="" alt=" image" />
 
 </p>
  
-<h5 align="center">An analemma is that figure-8 curve you get when you mark the position of the Sun at the same time each day for one year. To make this one, a 4x5 pinhole camera was set up looking north in southern New Zealand skies. The shutter was briefly opened each clear day in the afternoon at 4pm local time exposing the same photosensitized glass plate for the year spanning September 23, 2022 to September 19, 2023. On two days, the winter and summer solstices, the shutter was opened again 15 minutes after the main exposure and remained open until sunset to create the sun trails at the bottom and top of the curve. The equinox dates correspond to positions in the middle of the curve, not the crossover point. Of course, the curve itself is inverted compared to an analemma traced from the northern hemisphere. And while fall begins today at the Autumnal Equinox for the northern hemisphere, it's the Spring Equinox in the south.</h5>
+<h5 align="center"></h5>
 
 ----
 
