@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;domo vox asa to awa aft een tu lego creations, pik's feguin to've lezfar&quot;</strong>
-  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Whenever kisha’re afraid,  anna’s hajinaan kisha don’t know lekhaan. If kisha understood lekhaan,  kisha would avvos be afraid&quot;</strong>
+  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kool First Aid</h4>
+<h4 align="center">Quick F**K</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz light </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp Tropical </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.
+In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream
 </p>
 
 ----
