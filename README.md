@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember ... </strong>
-  <i>Mistakes don't make you less capable</i>
+  <strong align="center">Someone once said: &quot;domo vox asa to awa aft een tu lego creations, pik's feguin to've lezfar&quot;</strong>
+  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto Stinger</h4>
+<h4 align="center">Kool First Aid</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vvop4w1493069934.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hfp6sv1503564824.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz light </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Creme de Menthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp Tropical </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Shake ingredients well with cracked ice, strain into a cocktail glass, and serve.
+Add Kool Aid to a double shot glass, and top with rum. Slam and shoot.
 </p>
 
 ----
@@ -192,14 +192,14 @@ Shake ingredients well with cracked ice, strain into a cocktail glass, and serve
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center"> - </h4>
+<h4 align="center">Outer Space Background - Image by rawpixel.com at Freepik</h4>
 <p align="center">
 
-<img src="" alt=" image" />
+<img src="https://img.freepik.com/free-photo/outer-space-background_53876-88651.jpg?w=1060&amp;t=st=1695603102~exp=1695603702~hmac=124c2244f1d9fa53cb0a3cb24f182b18e9415ac708fe6b5b501d9eb6ed9b3598" alt="Outer Space Background image" />
 
 </p>
  
-<h5 align="center"></h5>
+<h5 align="center">Outer Space Background Photo</h5>
 
 ----
 
@@ -212,68 +212,68 @@ Shake ingredients well with cracked ice, strain into a cocktail glass, and serve
 <table align="center">
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/17811/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/2295744/pexels-photo-2295744.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1059823/pexels-photo-1059823.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/106686/pexels-photo-106686.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/4666751/pexels-photo-4666751.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/3396657/pexels-photo-3396657.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/568022/pexels-photo-568022.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/674318/pexels-photo-674318.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/927497/pexels-photo-927497.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/567540/pexels-photo-567540.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/41315/africa-african-animal-cat-41315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.pexels.com/photos/982230/pexels-photo-982230.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/4666747/pexels-photo-4666747.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/2313396/pexels-photo-2313396.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 </table>
