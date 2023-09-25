@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar are a capable human&quot;</strong>
-  <i>-- &quot;You are a capable human&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot; {How} intô with begietan later tîma: {Create} forwards nêadðearfnes ¯ægðand {others}.&quot;</strong>
+  <i>-- &quot;How to get more opportunity: Create more opportunity for others.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Miami Vice</h4>
+<h4 align="center">Cosmopolitan Martini</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qvuyqw1441208955.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz Bacardi </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cointreau</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pina colada mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">frozen </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Daiquiri mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">frozen </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).
+Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.
 </p>
 
 ----
@@ -196,14 +200,14 @@ First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiq
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Outer Space Background - Image by rawpixel.com at Freepik</h4>
+<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
 <p align="center">
 
-<img src="https://img.freepik.com/free-photo/outer-space-background_53876-88651.jpg?w=1060&amp;t=st=1695603102~exp=1695603702~hmac=124c2244f1d9fa53cb0a3cb24f182b18e9415ac708fe6b5b501d9eb6ed9b3598" alt="Outer Space Background image" />
+<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
 
 </p>
  
-<h5 align="center">Outer Space Background Photo</h5>
+<h5 align="center">Picture of a beautiful place on earth</h5>
 
 ----
 
