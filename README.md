@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember ... </strong>
-  <i>Mistakes don't make you less capable</i>
+  <strong align="center">Someone once said: &quot;Gar got ibic&quot;</strong>
+  <i>-- &quot;You got this&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,20 +26,41 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center"></h4>
+<h4 align="center">Baby Eskimo</h4>
 <p align="center">
 
-<img src="" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wywrtw1472720227.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center"> - </h5>
+<h5 align="center">Alcoholic - Shake</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
 <tr>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla ice-cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+        </tr>
+    </tbody>
+</table>
 </td>
 </tr>
 </table>
@@ -47,7 +68,7 @@
 
 
 <p align="center">
-
+Leave ice-cream out for about 10 minutes. Add ingredients in order, stir with chopstick (butter knife or spoon works too). Consume immediately and often. Nice and light, great for following a heavy drink.
 </p>
 
 ----
@@ -175,14 +196,14 @@
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
+<h4 align="center">Arp 142: The Hummingbird Galaxy - ©️ NASA @ 2023-09-25</h4>
 <p align="center">
 
-<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
+<img src="https://apod.nasa.gov/apod/image/2309/Arp142_HubbleChakrabarti_960.jpg" alt="Arp 142: The Hummingbird Galaxy image" />
 
 </p>
  
-<h5 align="center">Picture of a beautiful place on earth</h5>
+<h5 align="center">What's happening to this spiral galaxy? Just a few hundred million years ago, NGC 2936, the upper of the two large galaxies shown at the bottom, was likely a normal spiral galaxy -- spinning, creating stars -- and minding its own business. But then it got too close to the massive elliptical galaxy NGC 2937, just below, and took a turn. Sometimes dubbed the Hummingbird Galaxy for its iconic shape, NGC 2936 is not only being deflected but also being distorted by the close gravitational interaction. Behind filaments of dark interstellar dust, bright blue stars form the nose of the hummingbird, while the center of the spiral appears as an eye.  Alternatively, the galaxy pair, together known as Arp 142, look to some like Porpoise or a penguin protecting an egg. The featured re-processed image showing Arp 142 in great detail was taken recently by the Hubble Space Telescope. Arp 142 lies about 300 million light years away toward the constellation of the Water Snake (Hydra). In a billion years or so the two galaxies will likely merge into one larger galaxy.</h5>
 
 ----
 
