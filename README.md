@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center"></strong>
-  <i></i>
+  <strong align="center">Someone once said: &quot;Gar are a capable human&quot;</strong>
+  <i>-- &quot;You are a capable human&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,20 +26,41 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center"></h4>
+<h4 align="center">Miami Vice</h4>
 <p align="center">
 
-<img src="" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qvuyqw1441208955.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center"> - </h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
 <tr>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz Bacardi </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pina colada mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Daiquiri mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">frozen </td>
+        </tr>
+    </tbody>
+</table>
 </td>
 </tr>
 </table>
@@ -47,7 +68,7 @@
 
 
 <p align="center">
-
+First: Mix pina colada with 2.5 oz. of rum with ice(set aside). Second: Mix daiquiri with 2.5 oz. of rum with ice. Third: While frozen, add pina colda mix then daiquiri mix in glass (Making sure they do not get mixed together).
 </p>
 
 ----
@@ -110,10 +131,60 @@
 <table align="center">
 <tr>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Language name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 55 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 37 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 8 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 6 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Markdown</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Batchfile</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+        </tr>
+    </tbody>
+</table>
 </td>
 <td>
-
+<table frame="box" rules="cols">
+    <thead>
+        <tr>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">OS name</th>
+            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 54 minutes</td>
+        </tr>
+    </tbody>
+</table>
 </td>
 </tr>
 </table>
@@ -125,14 +196,14 @@
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center"> - </h4>
+<h4 align="center">Outer Space Background - Image by rawpixel.com at Freepik</h4>
 <p align="center">
 
-<img src="" alt=" image" />
+<img src="https://img.freepik.com/free-photo/outer-space-background_53876-88651.jpg?w=1060&amp;t=st=1695603102~exp=1695603702~hmac=124c2244f1d9fa53cb0a3cb24f182b18e9415ac708fe6b5b501d9eb6ed9b3598" alt="Outer Space Background image" />
 
 </p>
  
-<h5 align="center"></h5>
+<h5 align="center">Outer Space Background Photo</h5>
 
 ----
 
@@ -145,68 +216,68 @@
 <table align="center">
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1661179/pexels-photo-1661179.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/17811/pexels-photo.jpg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/2295744/pexels-photo-2295744.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1851164/pexels-photo-1851164.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/3608263/pexels-photo-3608263.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
-</td>
-<td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/1059823/pexels-photo-1059823.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/106686/pexels-photo-106686.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/4666751/pexels-photo-4666751.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/3396657/pexels-photo-3396657.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/568022/pexels-photo-568022.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/674318/pexels-photo-674318.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 <td>
-<img src="" width="180"/>
+<img src="https://images.pexels.com/photos/927497/pexels-photo-927497.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.pexels.com/photos/3493730/pexels-photo-3493730.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/567540/pexels-photo-567540.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/41315/africa-african-animal-cat-41315.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://images.pexels.com/photos/982230/pexels-photo-982230.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/4666747/pexels-photo-4666747.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
+</td>
+<td>
+<img src="https://images.pexels.com/photos/2313396/pexels-photo-2313396.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" width="180"/>
 </td>
 </tr>
 </table>
