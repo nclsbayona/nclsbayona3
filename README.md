@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Obstacles liser't stop gar. Problems liser't stop gar. Most be an,  ashi droten liser't stop gar. Shi gar liser stop gar.&quot;</strong>
-  <i>-- &quot;Obstacles can't stop you. Problems can't stop you. Most of all, other people can't stop you. Only you can stop you.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Tave opposite iv courage kash our burelis kash nenx cowardice. Zhol kash conformity&quot;</strong>
+  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Cherry Rum</h4>
+<h4 align="center">French Martini</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/twsuvr1441554424.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/clth721504373134.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raspberry Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Pour all ingredients into shaker with ice cubes. Shake well and strain into a chilled cocktail glass. Squeeze oil from lemon peel onto the drink.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Sprite Lightning in High Definition - ©️ Nicolas Escurat @ 2023-10-02</h4>
+<h4 align="center">MyCn 18: The Engraved Hourglass Planetary Nebula - ©️ NASA, ESA, Hubble, HLA;Processing &amp; Copyright: Harshwardhan Pathak @ 2023-10-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/HiResSprites_Escurat_1080.jpg" alt="Sprite Lightning in High Definition image" />
+<img src="https://apod.nasa.gov/apod/image/2310/Hourglass_HubblePathak_1080.jpg" alt="MyCn 18: The Engraved Hourglass Planetary Nebula image" />
 
 </p>
  
-<h5 align="center">Sometimes lightning occurs out near space.  One such lightning type is red sprite lightning, which has only been photographed and studied on Earth over the past 25 years.  The origins of all types of lightning remain topics for research, and scientists are still trying to figure out why red sprite lightning occurs at all.  Research has shown that following a powerful positive cloud-to-ground lightning strike, red sprites may start as 100-meter balls of ionized air that shoot down from about 80-km high at 10 percent the speed of light. They are quickly followed by a group of upward streaking ionized balls. Featured here is an extraordinarily high-resolution image of a group of red sprites. This image is a single frame lasting only 1/25th of a second from a video taken above Castelnaud Castle in Dordogne, France, about three weeks ago. The sprites quickly vanished -- no sprites were visible even on the very next video frame.</h5>
+<h5 align="center">Do you see the hourglass shape -- or does it see you?  If you can picture it, the rings of MyCn 18 trace the outline of an hourglass -- although one with an unusual eye in its center.  Either way, the sands of time are running out for the central star of this hourglass-shaped planetary nebula. With its nuclear fuel exhausted, this brief, spectacular, closing phase of a Sun-like star's life occurs as its outer layers are ejected - its core becoming a cooling, fading white dwarf. In 1995, astronomers used the Hubble Space Telescope (HST) to make a series of images of planetary nebulae, including the one featured here.  Pictured, delicate rings of colorful glowing gas (nitrogen-red, hydrogen-green, and oxygen-blue) outline the tenuous walls of the hourglass. The unprecedented sharpness of the Hubble images has revealed surprising details of the nebula ejection process that are helping to resolve the outstanding mysteries of the complex shapes and symmetries of planetary nebulas like MyCn 18.</h5>
 
 ----
 
@@ -192,90 +192,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
