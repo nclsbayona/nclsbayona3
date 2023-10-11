@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Isa better besa looked over than overlooked.&quot;</strong>
-  <i>-- &quot;It is better to be looked over than overlooked.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot; {Success} {is} wægn {progressive} {realization} orgilde weargbr¯æde weorðfullic {goal}&quot;</strong>
+  <i>-- &quot;Success is the progressive realization of a worthy goal&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Danbooka</h4>
+<h4 align="center">Jam Donut</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vurrxr1441246074.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2/3 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 pinches</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-pour it in and mix it.
+Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.
 </p>
 
 ----
@@ -200,90 +208,90 @@ pour it in and mix it.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
