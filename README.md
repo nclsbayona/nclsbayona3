@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Lo ao genuinely jaelagon mirros,  ȳdra daor umbagon syt ziry - bodmagho aōla.&quot;</strong>
-  <i>-- &quot;If you genuinely want something, don't wait for it - teach yourself.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Ch'ah bun myself tascari ch'at k'ir vei carcir bavrcso tur ch'ah&quot;</strong>
+  <i>-- &quot;I give myself permission to do what is right for me&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolutely Fabulous</h4>
+<h4 align="center">Zenmeister</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.
+Mix together and enjoy
 </p>
 
 ----
@@ -204,68 +200,68 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -273,21 +269,21 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 <img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -302,35 +298,55 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 
 <br />
 
+<details>
+<summary>PS5 Slim Explained - Price, Release Date, Removable Disc Drive - Push Square by None</summary>
 <p align="center">
-<h5>PS5 Slim Explained - Price, Release Date, Removable Disc Drive - Push Square by None</h5>
-<img src="https://i.ytimg.com/vi/_bxTXKY208I/maxresdefault.jpg" />
+<img src="https://i.ytimg.com/vi/_bxTXKY208I/maxresdefault.jpg" alt="PS5 Slim Explained - Price, Release Date, Removable Disc Drive - Push Square" />
+
 <a href="https://www.youtube.com/watch?v=_bxTXKY208I" > The PS5 has just had a facelift with a brand new design. From detachable disc drives to storage upgrades, here's everything you need to know about the new PS... </a> 
 </p>
 
+</details>
+
+<details>
+<summary>Snag A 2TB Western Digital PS5 SSD For $100 During Prime Day - GameSpot by Steven Petite</summary>
 <p align="center">
-<h5>Snag A 2TB Western Digital PS5 SSD For $100 During Prime Day - GameSpot by Steven Petite</h5>
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4203110-westerndigitalsn850thumbnail.png" />
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4203110-westerndigitalsn850thumbnail.png" alt="Snag A 2TB Western Digital PS5 SSD For $100 During Prime Day - GameSpot" />
+
 <a href="https://www.gamespot.com/articles/snag-a-2tb-western-digital-ps5-ssd-for-100-during-prime-day/1100-6517022/" > You can also save big on 1TB and 4TB models of the popular WD Black SN850X. </a> 
 </p>
 
+</details>
+
+<details>
+<summary>Fujifilm launches GFX100 II mirrorless camera in India - Times of India - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<h5>Fujifilm launches GFX100 II mirrorless camera in India - Times of India - Times of India by TIMESOFINDIA.COM</h5>
-<img src="https://static.toiimg.com/thumb/msid-104323636,width-1070,height-580,imgsize-82056,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" />
+<img src="https://static.toiimg.com/thumb/msid-104323636,width-1070,height-580,imgsize-82056,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Fujifilm launches GFX100 II mirrorless camera in India - Times of India - Times of India" />
+
 <a href="https://timesofindia.indiatimes.com/gadgets-news/fujifilm-launches-gfx100-ii-mirrorless-camera-in-india/articleshow/104323637.cms" > Fujifilm India has launched the Fujifilm GFX100 II camera, the latest addition to the GFX series of mirrorless digital cameras. The camera features a </a> 
 </p>
 
+</details>
+
+<details>
+<summary>RuneScape Ditches Battle Pass After Players Revolt - Kotaku by Ashley Bardhan</summary>
 <p align="center">
-<h5>RuneScape Ditches Battle Pass After Players Revolt - Kotaku by Ashley Bardhan</h5>
-<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8df1b07775016d7de5c7390519eb08f8.jpg" />
+<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8df1b07775016d7de5c7390519eb08f8.jpg" alt="RuneScape Ditches Battle Pass After Players Revolt - Kotaku" />
+
 <a href="https://kotaku.com/old-school-runescape-battle-pass-controversy-1850915102" > 2001 MMORPG RuneScape will retire its battle pass after only two months </a> 
 </p>
 
+</details>
+
+<details>
+<summary>Reviewer tests $3 SATA SSD, gets exactly what they paid for - Ars Technica by Scharon Harding</summary>
 <p align="center">
-<h5>Reviewer tests $3 SATA SSD, gets exactly what they paid for - Ars Technica by Scharon Harding</h5>
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/goldenfir-760x380.jpg" />
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/goldenfir-760x380.jpg" alt="Reviewer tests $3 SATA SSD, gets exactly what they paid for - Ars Technica" />
+
 <a href="https://arstechnica.com/gadgets/2023/10/reviewer-tests-3-sata-ssd-gets-exactly-what-they-paid-for/" > 120GB "Goldenfir" SSD put through wringer by StorageReview. </a> 
 </p>
+
+</details>
 
 
 
