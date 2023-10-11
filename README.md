@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Do day without laughter sa do day wasted.&quot;</strong>
-  <i>-- &quot;A day without laughter is a day wasted.&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;batooay leelas, vivo een ta meja waesox yee joyful piu pomptai alga dia.&quot;</strong>
+  <i>-- &quot;Do good, live in the most positive and joyful way possible every day.&quot; in minion language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lassi - A South Indian Drink</h4>
+<h4 align="center">Lassi - Sweet</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/iq6scx1487603980.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9jeifz1487603885.jpg" alt="Drink image" />
 
 </p>
  
@@ -49,23 +49,23 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup plain </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 cup cold </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups cold </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cumin seed</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp ground roasted </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tblsp </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">pinch </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp dried </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tblsp </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.
+Put all ingredients into a blender and blend until nice and frothy. Serve chilled.
 </p>
 
 ----
@@ -212,98 +212,104 @@ Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, an
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
-</details>
-
 
 ----
 
+</details>
+
+<details>
+<summary>Maybe you're looking for some tech-related news? 🪂</summary>
+<br />
+# Excuse me, something unexpected happened!
+</details>
+----
 
 <h3 align="center">Contact me! 📇</h3>
 
