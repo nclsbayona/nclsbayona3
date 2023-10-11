@@ -5,7 +5,7 @@ name: Remove old runs
 # Controls when the workflow will run
 on:
   schedule:
-    - cron: "0 0 * * *"
+    - cron: "0 0 * * */3"
 
   # Allows you to run this workflow manually from the Actions tab
   workflow_dispatch:
@@ -25,6 +25,6 @@ jobs:
         uses: boredland/action-purge-workflow-runs@1.0.0
         with:
     # least days the runs have to be old to get purged
-          days-old: 2
+          days-old: 1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
