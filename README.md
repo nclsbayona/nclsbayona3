@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ch'ah bun myself tascari ch'at k'ir vei carcir bavrcso tur ch'ah&quot;</strong>
-  <i>-- &quot;I give myself permission to do what is right for me&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Daorun iksos impossible. Se udir itself poghash 'nyke’m possible!'&quot;</strong>
+  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zenmeister</h4>
+<h4 align="center">Caribbean Orange Liqueur</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 large </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/3 cup superfine </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Mix together and enjoy
+Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.
 </p>
 
 ----
@@ -180,14 +184,14 @@ Mix together and enjoy
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 1097: Spiral Galaxy with Supernova - ©️ NASA @ 2023-10-11</h4>
+<h4 align="center">Mu Cephei - ©️ David Cruz @ 2023-10-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/Ngc1097wSn_Miller_1008.gif" alt="NGC 1097: Spiral Galaxy with Supernova image" />
+<img src="https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg" alt="Mu Cephei image" />
 
 </p>
  
-<h5 align="center">What's happening in the lower arm of this spiral galaxy? A supernova. Last month, supernova SN 2023rve was discovered with UAE's Al-Khatim Observatory and later found to be consistent with the death explosion of a massive star, possibly leaving behind a black hole. Spiral galaxy NGC 1097 is a relatively close 45 million light years away and visible with a small telescope toward the southern constellation of the Furnace (Fornax).  The galaxy is notable not only for its picturesque spiral arms, but also for faint jets consistent with ancient star streams left over from a galactic collision -- possibly with the small galaxy seen between its arms on the lower left. The featured image highlights the new supernova by blinking between two exposures taken several months apart. Finding supernovas in nearby galaxies can be important in determining the scale and expansion rate of our entire universe -- a topic currently of unexpected tension and much debate.    APOD editor to speak: in Houghton, Michigan on Thursday, October 12 at 6 pm</h5>
+<h5 align="center">Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel's Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant's light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.   APOD editor to speak: in Houghton, Michigan tonight, Thursday, October 12, at 6 pm</h5>
 
 ----
 
@@ -200,90 +204,90 @@ Mix together and enjoy
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -299,52 +303,57 @@ Mix together and enjoy
 <br />
 
 <details>
-<summary>PS5 Slim Explained - Price, Release Date, Removable Disc Drive - Push Square by None</summary>
+<summary>EU sends these questions to Microsoft and Apple customers and rivals - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/_bxTXKY208I/maxresdefault.jpg" alt="PS5 Slim Explained - Price, Release Date, Removable Disc Drive - Push Square" />
+<img src="https://static.toiimg.com/thumb/msid-104328182,width-1070,height-580,imgsize-71778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="EU sends these questions to Microsoft and Apple customers and rivals - Times of India" />
 
-<a href="https://www.youtube.com/watch?v=_bxTXKY208I" > The PS5 has just had a facelift with a brand new design. From detachable disc drives to storage upgrades, here's everything you need to know about the new PS... </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/eu-sends-these-questions-to-microsoft-and-apple-customers-and-rivals/articleshow/104328187.cms" > The European Union (EU) has reportedly sent out questionnaires to users and rivals of Microsoft and Apple in order to gather data on the significance </a> 
 </p>
+<br />
 
 </details>
 
 <details>
-<summary>Snag A 2TB Western Digital PS5 SSD For $100 During Prime Day - GameSpot by Steven Petite</summary>
+<summary>Save Big On Seagate's 2TB Xbox Expansion Card During Prime Day - GameSpot by Darryn Bonthuys</summary>
 <p align="center">
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4203110-westerndigitalsn850thumbnail.png" alt="Snag A 2TB Western Digital PS5 SSD For $100 During Prime Day - GameSpot" />
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4201112-prime-day-seagate.jpg" alt="Save Big On Seagate's 2TB Xbox Expansion Card During Prime Day - GameSpot" />
 
-<a href="https://www.gamespot.com/articles/snag-a-2tb-western-digital-ps5-ssd-for-100-during-prime-day/1100-6517022/" > You can also save big on 1TB and 4TB models of the popular WD Black SN850X. </a> 
+<a href="https://www.gamespot.com/articles/save-big-on-seagates-2tb-xbox-expansion-card-during-prime-day/1100-6518157/" > Upgrade your Xbox Series X|S storage capacity with this great deal on Seagate's SSD memory cards. </a> 
 </p>
+<br />
 
 </details>
 
 <details>
-<summary>Fujifilm launches GFX100 II mirrorless camera in India - Times of India - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Samsung's new Galaxy FE devices, Tab A9 slates get discounts with Amazon’s Great Indian Festival - GSMArena.com news - GSMArena.com by Peter</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104323636,width-1070,height-580,imgsize-82056,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Fujifilm launches GFX100 II mirrorless camera in India - Times of India - Times of India" />
+<img src="https://fdn.gsmarena.com/imgroot/news/23/10/amazon-prime-deals-samsung/-952x498w6/gsmarena_000.jpg" alt="Samsung's new Galaxy FE devices, Tab A9 slates get discounts with Amazon’s Great Indian Festival - GSMArena.com news - GSMArena.com" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/fujifilm-launches-gfx100-ii-mirrorless-camera-in-india/articleshow/104323637.cms" > Fujifilm India has launched the Fujifilm GFX100 II camera, the latest addition to the GFX series of mirrorless digital cameras. The camera features a </a> 
+<a href="https://www.gsmarena.com/samsungs_new_galaxy_fe_devices_tab_a9_slates_get_discounts_withamazons_great_indian_festival-news-60173.php" > The Galaxy S23 FE, Tab S9 FE and Tab S9 FE+ both launched last week as cheaper but still capable alternatives to the main S-series devices. </a> 
 </p>
+<br />
 
 </details>
 
 <details>
-<summary>RuneScape Ditches Battle Pass After Players Revolt - Kotaku by Ashley Bardhan</summary>
+<summary>Call of Duty: Modern Warfare III PS5 Beta - Winning Domination Gameplay on Rust - IGN by None</summary>
 <p align="center">
-<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/8df1b07775016d7de5c7390519eb08f8.jpg" alt="RuneScape Ditches Battle Pass After Players Revolt - Kotaku" />
+<img src="https://i.ytimg.com/vi/gIUORgRIVkg/maxresdefault.jpg" alt="Call of Duty: Modern Warfare III PS5 Beta - Winning Domination Gameplay on Rust - IGN" />
 
-<a href="https://kotaku.com/old-school-runescape-battle-pass-controversy-1850915102" > 2001 MMORPG RuneScape will retire its battle pass after only two months </a> 
+<a href="https://www.youtube.com/watch?v=gIUORgRIVkg" > Call of Duty: Modern Warfare III had its first multiplayer beta session this past weekend and we got to play. Three maps were available during the beta. Here... </a> 
 </p>
+<br />
 
 </details>
 
 <details>
-<summary>Reviewer tests $3 SATA SSD, gets exactly what they paid for - Ars Technica by Scharon Harding</summary>
+<summary>Twitch streamer Clix joins professional esports organization XSET as co-owner in a Wolf of Wall Street-style announcement video - Sportskeeda by Richik "anarkiddie" Bhattacharya</summary>
 <p align="center">
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/10/goldenfir-760x380.jpg" alt="Reviewer tests $3 SATA SSD, gets exactly what they paid for - Ars Technica" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/6d3c3-16969788977632-1920.jpg" alt="Twitch streamer Clix joins professional esports organization XSET as co-owner in a Wolf of Wall Street-style announcement video - Sportskeeda" />
 
-<a href="https://arstechnica.com/gadgets/2023/10/reviewer-tests-3-sata-ssd-gets-exactly-what-they-paid-for/" > 120GB "Goldenfir" SSD put through wringer by StorageReview. </a> 
+<a href="https://www.sportskeeda.com/esports/news-twitch-streamer-clix-joins-professional-esports-organization-xset-co-owner-wolf-wall-street-style-announcement-video" > Popular Fortnite streamer Cody Conrod, better known by his Twitch alias Clix, has recently released an announcement video on X, formerly Twitter, about joining XSET. </a> 
 </p>
+<br />
 
 </details>
 
