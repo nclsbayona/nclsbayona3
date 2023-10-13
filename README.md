@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Daorun iksos impossible. Se udir itself poghash 'nyke’m possible!'&quot;</strong>
-  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Nothing sa impossible. Doe word itself says 'mee’m possible!'&quot;</strong>
+  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Caribbean Orange Liqueur</h4>
+<h4 align="center">Orange Scented Hot Chocolate</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Homemade Liqueur</h5>
+<h5 align="center">Non alcoholic - Cocoa</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 large </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz chopped bittersweet or semi-sweet </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/3 cup superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 2-inch strips </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Espresso</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp instant </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp ground </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.
+Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.
 </p>
 
 ----
@@ -141,18 +149,6 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 20 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 11 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -169,7 +165,7 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 33 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -184,14 +180,14 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Mu Cephei - ©️ David Cruz @ 2023-10-12</h4>
+<h4 align="center">Hydrogen Clouds of M33 - ©️ Reinhold Wittich @ 2023-10-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/MuCephei_apod1024.jpg" alt="Mu Cephei image" />
+<img src="https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg" alt="Hydrogen Clouds of M33 image" />
 
 </p>
  
-<h5 align="center">Mu Cephei is a very large star. An M-class supergiant some 1500 times the size of the Sun, it is one of the largest stars visible to the unaided eye, and even one of the largest in the entire Galaxy. If it replaced the Sun in our fair Solar System, Mu Cephei would easily engulf Mars and Jupiter. Historically known as Herschel's Garnet Star, Mu Cephei is extremely red. Approximately 2800 light-years distant, the supergiant is seen near the edge of reddish emission nebula IC 1396 toward the royal northern constellation Cepheus in this telescopic view. Much cooler and hence redder than the Sun, this supergiant's light is further reddened by absorption and scattering due to intervening dust within the Milky Way. A well-studied variable star understood to be in a late phase of stellar evolution, Mu Cephei is a massive star too, destined to ultimately explode as a core-collapse supernova.   APOD editor to speak: in Houghton, Michigan tonight, Thursday, October 12, at 6 pm</h5>
+<h5 align="center">Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy's central 30,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33's reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33's giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a hydrogen-alpha filter. That filter transmits the light of the strongest visible hydrogen emission line.</h5>
 
 ----
 
@@ -204,90 +200,90 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +299,55 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <br />
 
 <details>
-<summary>EU sends these questions to Microsoft and Apple customers and rivals - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Oppo Find N3 Flip to launch in India today: Live streaming, specs and other details - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104328182,width-1070,height-580,imgsize-71778,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="EU sends these questions to Microsoft and Apple customers and rivals - Times of India" />
+<img src="https://static.toiimg.com/thumb/msid-104358317,width-1070,height-580,imgsize-124594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Oppo Find N3 Flip to launch in India today: Live streaming, specs and other details - Times of India" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/eu-sends-these-questions-to-microsoft-and-apple-customers-and-rivals/articleshow/104328187.cms" > The European Union (EU) has reportedly sent out questionnaires to users and rivals of Microsoft and Apple in order to gather data on the significance </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/oppo-find-n3-flip-to-launch-in-india-today-live-streaming-specs-and-other-details/articleshow/104358328.cms" > Oppo is set to launch its new foldable smartphone, the Oppo Find N3 Flip, in India. The launch event will be held today in Mumbai and will be live str </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Save Big On Seagate's 2TB Xbox Expansion Card During Prime Day - GameSpot by Darryn Bonthuys</summary>
+<summary>Adobe previews ‘experimental’ AI tools including Project Stardust as race in Generative AI heats up - The Indian Express by Anuj Bhatia</summary>
 <p align="center">
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1601/16018044/4201112-prime-day-seagate.jpg" alt="Save Big On Seagate's 2TB Xbox Expansion Card During Prime Day - GameSpot" />
+<img src="https://images.indianexpress.com/2023/10/adobe-max.jpg" alt="Adobe previews ‘experimental’ AI tools including Project Stardust as race in Generative AI heats up - The Indian Express" />
 
-<a href="https://www.gamespot.com/articles/save-big-on-seagates-2tb-xbox-expansion-card-during-prime-day/1100-6518157/" > Upgrade your Xbox Series X|S storage capacity with this great deal on Seagate's SSD memory cards. </a> 
+<a href="https://indianexpress.com/article/technology/artificial-intelligence/adobe-previews-experimental-ai-tools-at-max-conference-8979206/" > At this year's MAX conference, Adobe shared sneak peek previews of experimental image processing tools that may or may not make their way into the company's mainline apps. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung's new Galaxy FE devices, Tab A9 slates get discounts with Amazon’s Great Indian Festival - GSMArena.com news - GSMArena.com by Peter</summary>
+<summary>Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825 - Hindustan Times by PTI</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/10/amazon-prime-deals-samsung/-952x498w6/gsmarena_000.jpg" alt="Samsung's new Galaxy FE devices, Tab A9 slates get discounts with Amazon’s Great Indian Festival - GSMArena.com news - GSMArena.com" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/12/1600x900/98e9fe3c-ca0d-11eb-b56a-56936a367424_1627640455123_1697081527871.jpg" alt="Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825 - Hindustan Times" />
 
-<a href="https://www.gsmarena.com/samsungs_new_galaxy_fe_devices_tab_a9_slates_get_discounts_withamazons_great_indian_festival-news-60173.php" > The Galaxy S23 FE, Tab S9 FE and Tab S9 FE+ both launched last week as cheaper but still capable alternatives to the main S-series devices. </a> 
+<a href="https://www.hindustantimes.com/business/opening-bell-sensex-gains-60-points-to-begin-at-66-530-nifty-at-19825-101697081289917.html" > Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Call of Duty: Modern Warfare III PS5 Beta - Winning Domination Gameplay on Rust - IGN by None</summary>
+<summary>Analysts predict smartphones with self-repairing display on the horizon - The Indian Express by Tech Desk</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/gIUORgRIVkg/maxresdefault.jpg" alt="Call of Duty: Modern Warfare III PS5 Beta - Winning Domination Gameplay on Rust - IGN" />
+<img src="https://images.indianexpress.com/2023/10/lg-g-flex.jpg" alt="Analysts predict smartphones with self-repairing display on the horizon - The Indian Express" />
 
-<a href="https://www.youtube.com/watch?v=gIUORgRIVkg" > Call of Duty: Modern Warfare III had its first multiplayer beta session this past weekend and we got to play. Three maps were available during the beta. Here... </a> 
+<a href="https://indianexpress.com/article/technology/tech-news-technology/smartphones-with-self-repairing-display-by-2028-8979196/" > Self-healing technology in smartphones isn't a new concept. Back in 2013, LG announced its G Flex, a curved smartphone (entire body) featuring a back panel that could self-repair when damaged. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Twitch streamer Clix joins professional esports organization XSET as co-owner in a Wolf of Wall Street-style announcement video - Sportskeeda by Richik "anarkiddie" Bhattacharya</summary>
+<summary>Pokémon Scarlet & Violet Version 2.0.2 Is Now Live, Here Are The Full Patch Notes - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/6d3c3-16969788977632-1920.jpg" alt="Twitch streamer Clix joins professional esports organization XSET as co-owner in a Wolf of Wall Street-style announcement video - Sportskeeda" />
+<img src="https://images.nintendolife.com/8192c79121bcd/1280x720.jpg" alt="Pokémon Scarlet & Violet Version 2.0.2 Is Now Live, Here Are The Full Patch Notes - Nintendo Life" />
 
-<a href="https://www.sportskeeda.com/esports/news-twitch-streamer-clix-joins-professional-esports-organization-xset-co-owner-wolf-wall-street-style-announcement-video" > Popular Fortnite streamer Cody Conrod, better known by his Twitch alias Clix, has recently released an announcement video on X, formerly Twitter, about joining XSET. </a> 
+<a href="https://www.nintendolife.com/news/2023/10/pokemon-scarlet-and-violet-version-2-0-2-is-now-live-here-are-the-full-patch-notes" > Update your copy today </a> 
 </p>
 <br />
 
