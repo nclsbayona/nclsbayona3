@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nothing sa impossible. Doe word itself says 'mee’m possible!'&quot;</strong>
-  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Gar mind is yaihi'l be brilliant ideas&quot;</strong>
+  <i>-- &quot;Your mind is full of brilliant ideas&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orange Scented Hot Chocolate</h4>
+<h4 align="center">National Aquarium</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hdzwrh1487603131.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Cocoa</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz chopped bittersweet or semi-sweet </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 2-inch strips </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Espresso</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp instant </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp ground </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +80,7 @@
 
 
 <p align="center">
-Combine all ingredients in heavy medium saucepan. Stir over low heat until chocolate melts. Increase heat and bring just to a boil, stirring often. Remove from heat and whisk untily frothy. Return to heat and bring to boil again. Remove from heat, whisk until frothy. Repeat heating and whisking once again. Discard orange peel. (Can be prepared 2 hours ahead. Let stand at room temperature. Before serving, bring just to boil, remove from heat and whisk until frothy.) Pour hot chocolate into coffee mugs. Makes 2 servings.
+Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
 </p>
 
 ----
@@ -180,14 +184,14 @@ Combine all ingredients in heavy medium saucepan. Stir over low heat until choco
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Hydrogen Clouds of M33 - ©️ Reinhold Wittich @ 2023-10-13</h4>
+<h4 align="center">Circular Sun Halo - ©️ Vincenzo Mirabella @ 2023-10-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/M33_Triangulum1024.jpg" alt="Hydrogen Clouds of M33 image" />
+<img src="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg" alt="Circular Sun Halo image" />
 
 </p>
  
-<h5 align="center">Gorgeous spiral galaxy Messier 33 seems to have more than its fair share of glowing hydrogen gas. A prominent member of the local group of galaxies, M33 is also known as the Triangulum Galaxy and lies a mere 3 million light-years away.  The galaxy's central 30,000 light-years or so are shown in this sharp galaxy portrait. The portrait features M33's reddish ionized hydrogen clouds or HII regions. Sprawling along loose spiral arms that wind toward the core, M33's giant HII regions are some of the largest known stellar nurseries, sites of the formation of short-lived but very massive stars. Intense ultraviolet radiation from the luminous, massive stars ionizes the surrounding hydrogen gas and ultimately produces the characteristic red glow. In this image, broadband data were combined with narrowband data recorded through a hydrogen-alpha filter. That filter transmits the light of the strongest visible hydrogen emission line.</h5>
+<h5 align="center">Want to see a ring around the Sun? It's easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo's characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That's harder. The spectacular annular phase of today's (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon's narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.</h5>
 
 ----
 
@@ -200,87 +204,87 @@ Combine all ingredients in heavy medium saucepan. Stir over low heat until choco
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
@@ -299,55 +303,55 @@ Combine all ingredients in heavy medium saucepan. Stir over low heat until choco
 <br />
 
 <details>
-<summary>Oppo Find N3 Flip to launch in India today: Live streaming, specs and other details - Times of India by TIMESOFINDIA.COM</summary>
+<summary>3 best Minecraft jail servers - Sportskeeda by Edward Hays</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104358317,width-1070,height-580,imgsize-124594,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Oppo Find N3 Flip to launch in India today: Live streaming, specs and other details - Times of India" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/acd98-16971172678155-1920.jpg" alt="3 best Minecraft jail servers - Sportskeeda" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/oppo-find-n3-flip-to-launch-in-india-today-live-streaming-specs-and-other-details/articleshow/104358328.cms" > Oppo is set to launch its new foldable smartphone, the Oppo Find N3 Flip, in India. The launch event will be held today in Mumbai and will be live str </a> 
+<a href="https://www.sportskeeda.com/minecraft/3-best-minecraft-jail-servers" > Minecraft provides its players with countless options to create, explore, and go on thrilling adventures. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Adobe previews ‘experimental’ AI tools including Project Stardust as race in Generative AI heats up - The Indian Express by Anuj Bhatia</summary>
+<summary>Ubuntu Desktop 23.10 ISOs Recalled Due To Malicious User Translations - Phoronix by None</summary>
 <p align="center">
-<img src="https://images.indianexpress.com/2023/10/adobe-max.jpg" alt="Adobe previews ‘experimental’ AI tools including Project Stardust as race in Generative AI heats up - The Indian Express" />
+<img src="https://www.phoronix.net/image.php?id=2023&image=ubuntu_zfs_back2" alt="Ubuntu Desktop 23.10 ISOs Recalled Due To Malicious User Translations - Phoronix" />
 
-<a href="https://indianexpress.com/article/technology/artificial-intelligence/adobe-previews-experimental-ai-tools-at-max-conference-8979206/" > At this year's MAX conference, Adobe shared sneak peek previews of experimental image processing tools that may or may not make their way into the company's mainline apps. </a> 
+<a href="https://www.phoronix.com/news/Ubuntu-23.10-Recalled" > Hours after the release of Ubuntu 23.10, Canonical has pulled the ISOs and is re-spinning them after user-submitted translations for the Ubuntu installer turned out to contain hate speech. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825 - Hindustan Times by PTI</summary>
+<summary>Google says a firmware update slowed Pixel Watch charging times - 9to5Google by Abner Li</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/10/12/1600x900/98e9fe3c-ca0d-11eb-b56a-56936a367424_1627640455123_1697081527871.jpg" alt="Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825 - Hindustan Times" />
+<img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/Pixel-Watch-charging.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Google says a firmware update slowed Pixel Watch charging times - 9to5Google" />
 
-<a href="https://www.hindustantimes.com/business/opening-bell-sensex-gains-60-points-to-begin-at-66-530-nifty-at-19825-101697081289917.html" > Opening bell: Sensex gains 60 points to begin at 66,530; Nifty at 19,825. </a> 
+<a href="https://9to5google.com/2023/10/12/pixel-watch-charging-times/" > Due to a “firmware update,” Google has had to change and increase the quoted charging speeds for the first-generation Pixel Watch... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Analysts predict smartphones with self-repairing display on the horizon - The Indian Express by Tech Desk</summary>
+<summary>EA Reveals Turn-Based Soccer Game With RPG-Like Special Moves - Kotaku by Zack Zwiezen</summary>
 <p align="center">
-<img src="https://images.indianexpress.com/2023/10/lg-g-flex.jpg" alt="Analysts predict smartphones with self-repairing display on the horizon - The Indian Express" />
+<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cae0f33fde7d8660da80f38ab8b5f575.jpg" alt="EA Reveals Turn-Based Soccer Game With RPG-Like Special Moves - Kotaku" />
 
-<a href="https://indianexpress.com/article/technology/tech-news-technology/smartphones-with-self-repairing-display-by-2028-8979196/" > Self-healing technology in smartphones isn't a new concept. Back in 2013, LG announced its G Flex, a curved smartphone (entire body) featuring a back panel that could self-repair when damaged. </a> 
+<a href="https://kotaku.com/ea-fc-24-tactical-fifa-mobile-rpg-release-date-soccer-1850923492" > FC Tactical is an upcoming strategy game featuring real players, turn-based action, and…soccer magic? </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Pokémon Scarlet & Violet Version 2.0.2 Is Now Live, Here Are The Full Patch Notes - Nintendo Life by Liam Doolan</summary>
+<summary>Marvel Gaming Chair Prime Day Deals Are Still Available At Amazon - GameSpot by Brendan Hesse</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/8192c79121bcd/1280x720.jpg" alt="Pokémon Scarlet & Violet Version 2.0.2 Is Now Live, Here Are The Full Patch Notes - Nintendo Life" />
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4204043--1657585175666%281%29.jpg" alt="Marvel Gaming Chair Prime Day Deals Are Still Available At Amazon - GameSpot" />
 
-<a href="https://www.nintendolife.com/news/2023/10/pokemon-scarlet-and-violet-version-2-0-2-is-now-live-here-are-the-full-patch-notes" > Update your copy today </a> 
+<a href="https://www.gamespot.com/articles/these-marvel-gaming-chairs-are-just-153-during-prime-big-deal-days/1100-6518318/" > Choose from designs inspired by Iron Man, Captain America, Black Panther, and Captain Marvel. </a> 
 </p>
 <br />
 
