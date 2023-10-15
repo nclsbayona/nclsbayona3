@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar mind is yaihi'l be brilliant ideas&quot;</strong>
-  <i>-- &quot;Your mind is full of brilliant ideas&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Act vi ar kam tu isar makes zo hevilani. Zhol ovas.&quot;</strong>
+  <i>-- &quot;Act as if what you do makes a difference. It does.&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">National Aquarium</h4>
+<h4 align="center">The Laverstoke</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/dlw0om1503565021.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6xfj5t1517748412.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,28 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Elderflower cordial</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosso Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">75 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 Wedges</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Large Sprig</td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +84,13 @@
 
 
 <p align="center">
-Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
+1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
+
+2) Fully fill the glass with cubed ice and stir to chill.
+
+3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
+
+4) Garnish with a snapped ginger slice and an awoken mint sprig.
 </p>
 
 ----
@@ -151,10 +161,6 @@ Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -167,10 +173,6 @@ Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -184,14 +186,14 @@ Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Circular Sun Halo - ©️ Vincenzo Mirabella @ 2023-10-14</h4>
+<h4 align="center">An Eclipse Tree - ©️ Shawn Wyre @ 2023-10-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/Vincenzo_Mirabella_20210529_134459_1024px.jpg" alt="Circular Sun Halo image" />
+<img src="https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg" alt="An Eclipse Tree image" />
 
 </p>
  
-<h5 align="center">Want to see a ring around the Sun? It's easy to do in daytime skies around the world. Created by randomly oriented ice crystals in thin high cirrus clouds, circular 22 degree halos are visible much more often than rainbows. This one was captured by smart phone photography on May 29, 2021 near Rome, Italy. Carefully blocking the Sun, for example with a finger tip, is usually all that it takes to reveal the common bright halo ring. The halo's characteristic angular radius is about equal to the span of your hand, thumb to little finger, at the end of your outstretched arm.  Want to see a ring of fire eclipse? That's harder. The spectacular annular phase of today's (October 14) solar eclipse, known as a ring of fire, is briefly visible only when standing along the Moon's narrow shadow track that passes over limited parts of North, Central, and South America. The solar eclipse is partial though, when seen from broader regions throughout the Americas.</h5>
+<h5 align="center">Yes, but can your tree do this?  If you look closely at the ground in the featured image, you will see many images of yesterday's solar eclipse -- created by a tree. Gaps between tree leaves act like pinhole lenses and each create a small image of the partially eclipsed Sun visible in the other direction.  The image was taken in Burleson, Texas, USA. Yesterday, people across the Americas were treated to a partial eclipse of the Sun, when the Moon moves in front of part of the Sun. People in a narrow band of Earth were treated to an annular eclipse, also called a ring-of-fire eclipse, when the Moon becomes completely engulfed by the Sun and sunlight streams around all of the Moon's edges. In answer to the lede question, your tree not only can do this, but will do it every time that a visible solar eclipse passes overhead.  Next April 8, a deeper, total solar eclipse will move across North America.   Album: Selected eclipse images sent in to APOD</h5>
 
 ----
 
@@ -204,90 +206,90 @@ Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +305,55 @@ Pour all ingredients into a shaker of ice. Shake well. Serve on the rocks.
 <br />
 
 <details>
-<summary>3 best Minecraft jail servers - Sportskeeda by Edward Hays</summary>
+<summary>Round Up: The Reviews Are In For Sonic Superstars - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/acd98-16971172678155-1920.jpg" alt="3 best Minecraft jail servers - Sportskeeda" />
+<img src="https://images.nintendolife.com/b4382518944d3/1280x720.jpg" alt="Round Up: The Reviews Are In For Sonic Superstars - Nintendo Life" />
 
-<a href="https://www.sportskeeda.com/minecraft/3-best-minecraft-jail-servers" > Minecraft provides its players with countless options to create, explore, and go on thrilling adventures. </a> 
+<a href="https://www.nintendolife.com/news/2023/10/round-up-the-reviews-are-in-for-sonic-superstars" > Here's what the critics think </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Ubuntu Desktop 23.10 ISOs Recalled Due To Malicious User Translations - Phoronix by None</summary>
+<summary>Poll: Is your iPhone 15 Pro still overheating after iOS 17.0.3? - 9to5Mac by Filipe Espósito</summary>
 <p align="center">
-<img src="https://www.phoronix.net/image.php?id=2023&image=ubuntu_zfs_back2" alt="Ubuntu Desktop 23.10 ISOs Recalled Due To Malicious User Translations - Phoronix" />
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iPhone-on-fire-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Poll: Is your iPhone 15 Pro still overheating after iOS 17.0.3? - 9to5Mac" />
 
-<a href="https://www.phoronix.com/news/Ubuntu-23.10-Recalled" > Hours after the release of Ubuntu 23.10, Canonical has pulled the ISOs and is re-spinning them after user-submitted translations for the Ubuntu installer turned out to contain hate speech. </a> 
+<a href="https://9to5mac.com/2023/10/13/poll-iphone-15-pro-overheating/" > Every year, when Apple launches a new iPhone, there are always reports of some issues. This year, a number of... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google says a firmware update slowed Pixel Watch charging times - 9to5Google by Abner Li</summary>
+<summary>Fun Sales Fact: One New Wii U Was Sold in September - IGN by IGN</summary>
 <p align="center">
-<img src="https://i0.wp.com/9to5google.com/wp-content/uploads/sites/4/2022/10/Pixel-Watch-charging.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Google says a firmware update slowed Pixel Watch charging times - 9to5Google" />
+<img src="None" alt="Fun Sales Fact: One New Wii U Was Sold in September - IGN" />
 
-<a href="https://9to5google.com/2023/10/12/pixel-watch-charging-times/" > Due to a “firmware update,” Google has had to change and increase the quoted charging speeds for the first-generation Pixel Watch... </a> 
+<a href="https://www.ign.com/articles/fun-sales-fact-one-new-wii-u-was-sold-in-september" > None </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>EA Reveals Turn-Based Soccer Game With RPG-Like Special Moves - Kotaku by Zack Zwiezen</summary>
+<summary>Final Fantasy 7 Rebirth Fan Theory Hints At Major Story Change - Kotaku by Isaiah Colbert</summary>
 <p align="center">
-<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/cae0f33fde7d8660da80f38ab8b5f575.jpg" alt="EA Reveals Turn-Based Soccer Game With RPG-Like Special Moves - Kotaku" />
+<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/10039d9c93d8f42e9c3489624f850b46.jpg" alt="Final Fantasy 7 Rebirth Fan Theory Hints At Major Story Change - Kotaku" />
 
-<a href="https://kotaku.com/ea-fc-24-tactical-fifa-mobile-rpg-release-date-soccer-1850923492" > FC Tactical is an upcoming strategy game featuring real players, turn-based action, and…soccer magic? </a> 
+<a href="https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877" > This Redditor thinks Cid’s rocketman antics might serve a huge part in Rebirth’s final act </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Marvel Gaming Chair Prime Day Deals Are Still Available At Amazon - GameSpot by Brendan Hesse</summary>
+<summary>Starfield Players Done With the Game: "I Can't Bring Myself to Play Anymore" - ComicBook.com by Tyler Fischer</summary>
 <p align="center">
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1702/17023653/4204043--1657585175666%281%29.jpg" alt="Marvel Gaming Chair Prime Day Deals Are Still Available At Amazon - GameSpot" />
+<img src="https://sportshub.cbsistatic.com/i/2023/10/13/1074ffbc-0f4d-4389-a1d3-bea6c52a8fee/starfield.jpg?width=1200" alt="Starfield Players Done With the Game: "I Can't Bring Myself to Play Anymore" - ComicBook.com" />
 
-<a href="https://www.gamespot.com/articles/these-marvel-gaming-chairs-are-just-153-during-prime-big-deal-days/1100-6518318/" > Choose from designs inspired by Iron Man, Captain America, Black Panther, and Captain Marvel. </a> 
+<a href="https://comicbook.com/gaming/news/starfield-bethesda-game-reddit/" > Some Starfield players are ready to give up on the Bethesda game. </a> 
 </p>
 <br />
 
