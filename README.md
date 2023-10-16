@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Act vi ar kam tu isar makes zo hevilani. Zhol ovas.&quot;</strong>
-  <i>-- &quot;Act as if what you do makes a difference. It does.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Yousa know more than yousa think&quot;</strong>
+  <i>-- &quot;You know more than you think&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">The Laverstoke</h4>
+<h4 align="center">Boxcar</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/6xfj5t1517748412.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -49,31 +49,23 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Elderflower cordial</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosso Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">75 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 Wedges</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Large Sprig</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -84,13 +76,7 @@
 
 
 <p align="center">
-1) Squeeze two lime wedges into a balloon glass then add the cordial, Bombay Sapphire and MARTINI Rosso Vermouth, swirl to mix.
-
-2) Fully fill the glass with cubed ice and stir to chill.
-
-3) Top with Fever-Tree Ginger Ale and gently stir again to combine.
-
-4) Garnish with a snapped ginger slice and an awoken mint sprig.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
 </p>
 
 ----
@@ -186,14 +172,14 @@
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">An Eclipse Tree - ©️ Shawn Wyre @ 2023-10-15</h4>
+<h4 align="center">Eclipse Rings - ©️ Jerry Zhang (left), Baolong Chen (photographer) &amp; Amber Zhang (right) @ 2023-10-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/EclipseTree_Wyre_960.jpg" alt="An Eclipse Tree image" />
+<img src="https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg" alt="Eclipse Rings image" />
 
 </p>
  
-<h5 align="center">Yes, but can your tree do this?  If you look closely at the ground in the featured image, you will see many images of yesterday's solar eclipse -- created by a tree. Gaps between tree leaves act like pinhole lenses and each create a small image of the partially eclipsed Sun visible in the other direction.  The image was taken in Burleson, Texas, USA. Yesterday, people across the Americas were treated to a partial eclipse of the Sun, when the Moon moves in front of part of the Sun. People in a narrow band of Earth were treated to an annular eclipse, also called a ring-of-fire eclipse, when the Moon becomes completely engulfed by the Sun and sunlight streams around all of the Moon's edges. In answer to the lede question, your tree not only can do this, but will do it every time that a visible solar eclipse passes overhead.  Next April 8, a deeper, total solar eclipse will move across North America.   Album: Selected eclipse images sent in to APOD</h5>
+<h5 align="center">She knew everything but the question. She was well aware that there would be a complete annular eclipse of the Sun visible from their driving destination: Lake Abert in Oregon.  She knew that the next ring-of-fire eclipse would occur in the USA only in 16 more years, making this a rare photographic opportunity.  She was comfortable with the plan: that she and her boyfriend would appear in front of the eclipse in silhouette, sometimes alone, and sometimes together.  She knew that the annular phase of this eclipse would last only a few minutes and she helped in the many hours of planning.  She could see their friend who set up the camera about 400 meters away at the bottom of a ridge.  What she didn't know was the question she would be asked. But she did know the answer: &quot;yes&quot;.   Album: Selected eclipse images sent in to APOD</h5>
 
 ----
 
@@ -206,90 +192,90 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -305,55 +291,55 @@
 <br />
 
 <details>
-<summary>Round Up: The Reviews Are In For Sonic Superstars - Nintendo Life by Liam Doolan</summary>
+<summary>How to edit a post on Instagram Threads - The Indian Express by Tech Desk</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/b4382518944d3/1280x720.jpg" alt="Round Up: The Reviews Are In For Sonic Superstars - Nintendo Life" />
+<img src="https://images.indianexpress.com/2023/08/meta-threads-featured-reuters.jpg" alt="How to edit a post on Instagram Threads - The Indian Express" />
 
-<a href="https://www.nintendolife.com/news/2023/10/round-up-the-reviews-are-in-for-sonic-superstars" > Here's what the critics think </a> 
+<a href="https://indianexpress.com/article/technology/tech-news-technology/how-to-edit-post-on-threads-8983600/" > You can now edit Threads posts, for free </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Poll: Is your iPhone 15 Pro still overheating after iOS 17.0.3? - 9to5Mac by Filipe Espósito</summary>
+<summary>Apple India Diwali sale: Top deals on iPhone, iPad, Mac, AirPods revealed | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iPhone-on-fire-1-1.jpg?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="Poll: Is your iPhone 15 Pro still overheating after iOS 17.0.3? - 9to5Mac" />
+<img src="https://www.livemint.com/lm-img/img/2023/10/15/1600x900/APPLE-FRANCE-UPDATE-0_1697335702929_1697335783149.JPG" alt="Apple India Diwali sale: Top deals on iPhone, iPad, Mac, AirPods revealed | Mint - Mint" />
 
-<a href="https://9to5mac.com/2023/10/13/poll-iphone-15-pro-overheating/" > Every year, when Apple launches a new iPhone, there are always reports of some issues. This year, a number of... </a> 
+<a href="https://www.livemint.com/technology/gadgets/apple-india-diwali-sale-top-deals-on-iphone-ipad-mac-airpods-revealed-11697333873342.html" > Apple Festive Sale has begun from today offering exicitinh offers and discounts on a range of the Cupertino based company products including iPhone, iPad and more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Fun Sales Fact: One New Wii U Was Sold in September - IGN by IGN</summary>
+<summary>Dinosaur or medical term: Quiz session with doctors turns hilarious - Hindustan Times by Trisha Sengupta</summary>
 <p align="center">
-<img src="None" alt="Fun Sales Fact: One New Wii U Was Sold in September - IGN" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/14/1600x900/Quiz_doctors_1697298257243_1697298376177.png" alt="Dinosaur or medical term: Quiz session with doctors turns hilarious - Hindustan Times" />
 
-<a href="https://www.ign.com/articles/fun-sales-fact-one-new-wii-u-was-sold-in-september" > None </a> 
+<a href="https://www.hindustantimes.com/trending/dinosaur-or-medical-term-quiz-session-with-doctors-turns-hilarious-101697297797372.html" > Paul Tran, a medical educator quizzed doctors with hilarious questions. Watch his video here.  | Trending </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Final Fantasy 7 Rebirth Fan Theory Hints At Major Story Change - Kotaku by Isaiah Colbert</summary>
+<summary>Amazon Great Indian Festival: Fetch exciting coupons, deals on smartphones - Hindustan Times by Shreya Garg</summary>
 <p align="center">
-<img src="https://i.kinja-img.com/image/upload/c_fill,f_auto,fl_progressive,g_center,h_675,pg_1,q_80,w_1200/10039d9c93d8f42e9c3489624f850b46.jpg" alt="Final Fantasy 7 Rebirth Fan Theory Hints At Major Story Change - Kotaku" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/13/1600x900/fr_1697203196878_1697203209319.jpg" alt="Amazon Great Indian Festival: Fetch exciting coupons, deals on smartphones - Hindustan Times" />
 
-<a href="https://kotaku.com/final-fantasy-7-vii-remake-rebirth-cid-playable-theory-1850926877" > This Redditor thinks Cid’s rocketman antics might serve a huge part in Rebirth’s final act </a> 
+<a href="https://www.hindustantimes.com/technology/amazon-great-indian-festival-fetch-exciting-coupons-deals-on-smartphones-101697202639453.html" > Amazon Sale 2023 is the time when you can grab a smartphone of your choice at attractive discounted rate. Want to know about deals and offers? Then read on. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Starfield Players Done With the Game: "I Can't Bring Myself to Play Anymore" - ComicBook.com by Tyler Fischer</summary>
+<summary>Super Mario Bros. Wonder Leaked Online Ahead Of Next Week's Release - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://sportshub.cbsistatic.com/i/2023/10/13/1074ffbc-0f4d-4389-a1d3-bea6c52a8fee/starfield.jpg?width=1200" alt="Starfield Players Done With the Game: "I Can't Bring Myself to Play Anymore" - ComicBook.com" />
+<img src="https://images.nintendolife.com/67d27ed7d53ca/1280x720.jpg" alt="Super Mario Bros. Wonder Leaked Online Ahead Of Next Week's Release - Nintendo Life" />
 
-<a href="https://comicbook.com/gaming/news/starfield-bethesda-game-reddit/" > Some Starfield players are ready to give up on the Bethesda game. </a> 
+<a href="https://www.nintendolife.com/news/2023/10/super-mario-bros-wonder-leaked-online-ahead-of-next-weeks-release" > Watch out for spoilers </a> 
 </p>
 <br />
 
