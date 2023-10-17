@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yousa know more than yousa think&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Struggling is 'ay' of learning&quot;</strong>
+  <i>-- &quot;Struggling is part of learning&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Boxcar</h4>
+<h4 align="center">Bleeding Surgeon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Soft Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
+Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.
 </p>
 
 ----
@@ -172,14 +168,14 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Eclipse Rings - ©️ Jerry Zhang (left), Baolong Chen (photographer) &amp; Amber Zhang (right) @ 2023-10-16</h4>
+<h4 align="center">PDS 70: Disk, Planets, and Moons - ©️ NASA @ 2023-10-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/AnnularProposal_Zhang_960.jpg" alt="Eclipse Rings image" />
+<img src="https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg" alt="PDS 70: Disk, Planets, and Moons image" />
 
 </p>
  
-<h5 align="center">She knew everything but the question. She was well aware that there would be a complete annular eclipse of the Sun visible from their driving destination: Lake Abert in Oregon.  She knew that the next ring-of-fire eclipse would occur in the USA only in 16 more years, making this a rare photographic opportunity.  She was comfortable with the plan: that she and her boyfriend would appear in front of the eclipse in silhouette, sometimes alone, and sometimes together.  She knew that the annular phase of this eclipse would last only a few minutes and she helped in the many hours of planning.  She could see their friend who set up the camera about 400 meters away at the bottom of a ridge.  What she didn't know was the question she would be asked. But she did know the answer: &quot;yes&quot;.   Album: Selected eclipse images sent in to APOD</h5>
+<h5 align="center">It's not the big ring that's attracting the most attention. Although the big planet-forming ring around the star PDS 70 is clearly imaged and itself quite interesting. It's also not the planet on the right, just inside the big disk, that’s being talked about the most.  Although the planet PDS 70c is a newly formed and, interestingly, similar in size and mass to Jupiter. It's the fuzzy patch around the planet PDS 70c that's causing the commotion. That fuzzy patch is thought to be a dusty disk that is now forming into moons -- and that had never been seen before. The featured image was taken in 2021 by the Atacama Large Millimeter Array (ALMA) of 66 radio telescopes in the high Atacama Desert of northern Chile.  Based on ALMA data, astronomers infer that the moon-forming exoplanetary disk has a radius similar to our Earth's orbit, and may one day form three or so Luna-sized moons -- not very different from our Jupiter's four.</h5>
 
 ----
 
@@ -192,21 +188,21 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
@@ -214,68 +210,68 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -291,55 +287,55 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <br />
 
 <details>
-<summary>How to edit a post on Instagram Threads - The Indian Express by Tech Desk</summary>
+<summary>Apple likely to update iPad lineup with enhanced chips this week - Investing.com India by IANS</summary>
 <p align="center">
-<img src="https://images.indianexpress.com/2023/08/meta-threads-featured-reuters.jpg" alt="How to edit a post on Instagram Threads - The Indian Express" />
+<img src="https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/cb92fdb333133c5a9a9c97aca8ae0004_w_800_h_450.jpg" alt="Apple likely to update iPad lineup with enhanced chips this week - Investing.com India" />
 
-<a href="https://indianexpress.com/article/technology/tech-news-technology/how-to-edit-post-on-threads-8983600/" > You can now edit Threads posts, for free </a> 
+<a href="https://in.investing.com/news/apple-likely-to-update-ipad-lineup-with-enhanced-chips-this-week-3851056" > The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple India Diwali sale: Top deals on iPhone, iPad, Mac, AirPods revealed | Mint - Mint by Livemint</summary>
+<summary>Market research and consumer insights veteran Hemant Mehta passes away - afaqs! by afaqs! news bureau</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/10/15/1600x900/APPLE-FRANCE-UPDATE-0_1697335702929_1697335783149.JPG" alt="Apple India Diwali sale: Top deals on iPhone, iPad, Mac, AirPods revealed | Mint - Mint" />
+<img src="https://gumlet.assettype.com/afaqs%2F2023-10%2F90a2552c-5777-42b6-be57-e228e9f216af%2Fhemant_mehta_3.jpg?w=1200&auto=format%2Ccompress&ogImage=true" alt="Market research and consumer insights veteran Hemant Mehta passes away - afaqs!" />
 
-<a href="https://www.livemint.com/technology/gadgets/apple-india-diwali-sale-top-deals-on-iphone-ipad-mac-airpods-revealed-11697333873342.html" > Apple Festive Sale has begun from today offering exicitinh offers and discounts on a range of the Cupertino based company products including iPhone, iPad and more. </a> 
+<a href="https://www.afaqs.com/news/advertising/market-research-and-consumer-insights-veteran-hemant-mehta-passes-away" > Mehta was the former MD &  Chief Strategy Officer of Kantar. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Dinosaur or medical term: Quiz session with doctors turns hilarious - Hindustan Times by Trisha Sengupta</summary>
+<summary>Vivo Y200 5G Design, Colour Options Tipped Ahead of Rumoured India Launch - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/10/14/1600x900/Quiz_doctors_1697298257243_1697298376177.png" alt="Dinosaur or medical term: Quiz session with doctors turns hilarious - Hindustan Times" />
+<img src="https://i.gadgets360cdn.com/large/vivo_y100_vivo_1697428519995.jpg" alt="Vivo Y200 5G Design, Colour Options Tipped Ahead of Rumoured India Launch - Gadgets 360" />
 
-<a href="https://www.hindustantimes.com/trending/dinosaur-or-medical-term-quiz-session-with-doctors-turns-hilarious-101697297797372.html" > Paul Tran, a medical educator quizzed doctors with hilarious questions. Watch his video here.  | Trending </a> 
+<a href="https://www.gadgets360.com/mobiles/news/vivo-y200-5g-design-renders-colour-options-leak-specifications-4484388" > Vivo Y200 5G is likely to launch soon in India. The phone is expected to succeed the Vivo Y100, which was released in India earlier this year in February. Key specifications of the Vivo Y200 and a launch timeline of the purported handset were previously leake… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Amazon Great Indian Festival: Fetch exciting coupons, deals on smartphones - Hindustan Times by Shreya Garg</summary>
+<summary>WhatsApp Will Not Work On These Smartphones Before End Of October: Check List Here - News18 by S Aadeetya</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/10/13/1600x900/fr_1697203196878_1697203209319.jpg" alt="Amazon Great Indian Festival: Fetch exciting coupons, deals on smartphones - Hindustan Times" />
+<img src="https://images.news18.com/ibnlive/uploads/2023/10/whatsapp-logo-2023-10-fd5f80936497102d9642f05a0e4ee37e-16x9.jpg?impolicy=website&width=1200&height=675" alt="WhatsApp Will Not Work On These Smartphones Before End Of October: Check List Here - News18" />
 
-<a href="https://www.hindustantimes.com/technology/amazon-great-indian-festival-fetch-exciting-coupons-deals-on-smartphones-101697202639453.html" > Amazon Sale 2023 is the time when you can grab a smartphone of your choice at attractive discounted rate. Want to know about deals and offers? Then read on. </a> 
+<a href="https://www.news18.com/tech/whatsapp-will-not-work-on-these-smartphones-before-end-of-october-check-list-here-8619249.html" > WhatsApp will not work on old phones because it has new features that needs powerful phones and a secure OS platform as well. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Super Mario Bros. Wonder Leaked Online Ahead Of Next Week's Release - Nintendo Life by Liam Doolan</summary>
+<summary>A Major Scandal Befalls The Celeb Rose! [RD/KP15] - YGOrganization by None</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/67d27ed7d53ca/1280x720.jpg" alt="Super Mario Bros. Wonder Leaked Online Ahead Of Next Week's Release - Nintendo Life" />
+<img src="https://r2.ygorganization.com/2023/10/CelebRoseGossipMagician-JP-Anime-GR-NC.png" alt="A Major Scandal Befalls The Celeb Rose! [RD/KP15] - YGOrganization" />
 
-<a href="https://www.nintendolife.com/news/2023/10/super-mario-bros-wonder-leaked-online-ahead-of-next-weeks-release" > Watch out for spoilers </a> 
+<a href="https://ygorganization.com/theonlyloveieverfound/" > You just can't get Kenough of these girls. RD/KP15-JP008 Celeb Rose Wiz Level 1 LIGHT Spellcaster Effect Monster ATK 1000 DEF 0 [REQUIREMENT] Can be used during the turn this card is Normal Summoned… </a> 
 </p>
 <br />
 
