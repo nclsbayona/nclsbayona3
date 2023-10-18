@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Always remember ... </strong>
-  <i>Mistakes don't make you less capable</i>
+  <strong align="center">Someone once said: &quot; {As} oflangian samðe in phrase samðsamð dimf b¯æm mennisclic edwist {worries} âdôn ðanêcan mâl hlêoðorcwide becwelan, meltan {what} mâl {has} sê {is} sîn, {all} orgilde sîn {works} gleng {zero}.&quot;</strong>
+  <i>-- &quot;As long as a human being worries about when he will die, and what he has that is his, all of his works are zero.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Casino Royale</h4>
+<h4 align="center">Rail Splitter</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +60,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
+Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 </p>
 
 ----
@@ -147,6 +131,10 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+        </tr>
     </tbody>
 </table>
 </td>
@@ -159,6 +147,10 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+        </tr>
     </tbody>
 </table>
 </td>
@@ -192,90 +184,90 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -291,55 +283,55 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <br />
 
 <details>
-<summary>Garena Free Fire Redeem codes for October 17: Know all about the Miraculous Fist event and how to win amazing rewards - HT Tech by HT Tech</summary>
+<summary>Google is rolling out Wear OS 4 to the original Pixel Watch - The Verge by Emma Roth</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/056_1651885411062_1697514454077.jpg" alt="Garena Free Fire Redeem codes for October 17: Know all about the Miraculous Fist event and how to win amazing rewards - HT Tech" />
+<img src="https://cdn.vox-cdn.com/thumbor/cg1Aeco5toM6KgmccTprB0JKDBQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24100799/226336_Pixel_Watch_AKrales_0072.jpg" alt="Google is rolling out Wear OS 4 to the original Pixel Watch - The Verge" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-17-know-all-about-the-miraculous-fist-event-and-how-to-win-amazing-rewards-71697513543625.html" > Garena Free Fire Redeem Codes for October 17: Know how to grab amazing rewards with free fire redeem codes. </a> 
+<a href="https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original" > Google is rolling out its Wear OS 4 update to the original Pixel Watch. The update will bring features like Safety Check, the new Google Calendar app, improved accessibility, and more to the first-gen watch. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>New iPads or Apple Pencil? Conflicting leaks claim Apple can launch new products this week - HT Tech by HT Tech</summary>
+<summary>Apple to offer USB-C equipped Apple Pencil with new pricing - Fox Business by Aislinn Murphy</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/sanjeev-mohindra-aeSSYYWY27w-unsplash_1694411274607_1697513152351.jpg" alt="New iPads or Apple Pencil? Conflicting leaks claim Apple can launch new products this week - HT Tech" />
+<img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/apple-pencil-usbc-new.jpg?ve=1&tl=1" alt="Apple to offer USB-C equipped Apple Pencil with new pricing - Fox Business" />
 
-<a href="https://tech.hindustantimes.com/tech/news/new-ipads-or-apple-pencil-conflicting-leaks-claim-apple-can-launch-new-products-this-week-71697513116328.html" > Earlier some leaks highlighted that Apple may refresh its iPad lineup with new chipsets this week, but some later reports have claimed that the announcement could only be about the Apple Pencil. </a> 
+<a href="https://www.foxbusiness.com/technology/apple-offer-usb-c-equipped-apple-pencil-new-pricing" > Apple will bring USB-C to its soon-to-be-released new Apple Pencil option. It unveiled the new stylus, slated for an early November debut, and priced it at $79 on Tuesday. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops At Up To 50 Off - Jagran English by Sneha Singh</summary>
+<summary>Nvidia banking on TensorRT to expand generative AI dominance - The Verge by Emilia David</summary>
 <p align="center">
-<img src="https://imgeng.jagran.com/images/2023/oct/Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops1697512106428.jpg" alt="Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops At Up To 50 Off - Jagran English" />
+<img src="https://cdn.vox-cdn.com/thumbor/NCDDgXNupTP_KgLMg8icXby_20c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002528/acastro_STK083_03.jpg" alt="Nvidia banking on TensorRT to expand generative AI dominance - The Verge" />
 
-<a href="https://english.jagran.com/top-deals/today-deals/amazon-deals/amazon-great-indian-festival-2023-sale-on-best-acer-swift-3-laptops-at-up-to-50-off-10107711" > Amazon Great Indian Festival 2023: If you have been missing out on the craziest discounts of the year, now is your time to purchase everything at a bargain price. The Amazon Sale 2023 offers the best Acer Swift 3 laptops at up to 50% off. Hurry and relish the… </a> 
+<a href="https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai" > Nvidia is looking to provide the software on the inference side of generative AI through TensorRT-LLM and help run AI models faster. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Quordle 631 answer for October 17: Somewhat difficult! Check Quordle hints, clues, solutions today - HT Tech by HT Tech</summary>
+<summary>Halo Infinite Gets Season 5 Update with New Features and Improvements on October 17 - Future Game Releases by Amie Gammons</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/HT_Tech_34_1697506515890_1697506516113.jpg" alt="Quordle 631 answer for October 17: Somewhat difficult! Check Quordle hints, clues, solutions today - HT Tech" />
+<img src="https://www.futuregamereleases.com/wp-content/uploads/2023/10/halo-infinite-bpass.jpg" alt="Halo Infinite Gets Season 5 Update with New Features and Improvements on October 17 - Future Game Releases" />
 
-<a href="https://tech.hindustantimes.com/how-to/quordle-631-answer-for-october-17-somewhat-difficult-check-quordle-hints-clues-solutions-today-71697506386535.html" > Quordle 631 answer for October 17: Today’s puzzle is not going to be as easy as a walk in the park. You are going to work hard for it and we recommend you take the help of Quordle hints, clues and solutions to ensure victory. </a> 
+<a href="https://www.futuregamereleases.com/2023/10/halo-infinite-gets-season-5-update-with-new-features-and-improvements-on-october-17/" > 343 Industries has released the Season 5 update for Halo Infinite, dubbed Reckoning. This comprehensive update brings many enhancements and new content to </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>New Xbox Games — October 16-22 - TrueAchievements by None</summary>
+<summary>Fortnite x Alan Wake: Flashback - Official Trailer - IGN by None</summary>
 <p align="center">
-<img src="https://www.trueachievements.com/imgs/142526/new-xbox-games-oct-16.jpg" alt="New Xbox Games — October 16-22 - TrueAchievements" />
+<img src="https://i.ytimg.com/vi/wO6fBfQRvsQ/maxresdefault.jpg" alt="Fortnite x Alan Wake: Flashback - Official Trailer - IGN" />
 
-<a href="https://www.trueachievements.com/n55262/new-xbox-games-october-16" > Next week, a whopping 36 new Xbox games come to the platform, including Sonic Superstars, Hot Wheels Unleashed 2 - Turbocharged, and Hellboy: Web of Wyrd. </a> 
+<a href="https://www.youtube.com/watch?v=wO6fBfQRvsQ" > Hit free-to-play battle royale Fortnite is introducing Alan Wake to Fortnite. Dubbed "Alan Wake: Flashback", this is an island that was created in collaborat... </a> 
 </p>
 <br />
 
