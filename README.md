@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Struggling is 'ay' of learning&quot;</strong>
-  <i>-- &quot;Struggling is part of learning&quot; in klingon language --</i>
+  <strong align="center">Always remember ... </strong>
+  <i>Mistakes don't make you less capable</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bleeding Surgeon</h4>
+<h4 align="center">Casino Royale</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3qpv121504366699.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Soft Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
 
 
 <p align="center">
-Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.
+In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Pour Shot of Rum over slice of orange. Fill the remaining space in glass half wa
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">PDS 70: Disk, Planets, and Moons - ©️ NASA @ 2023-10-17</h4>
+<h4 align="center">Dust and the Western Veil Nebula - ©️ Jiang Wu @ 2023-10-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/PDS70_ALMA_960.jpg" alt="PDS 70: Disk, Planets, and Moons image" />
+<img src="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg" alt="Dust and the Western Veil Nebula image" />
 
 </p>
  
-<h5 align="center">It's not the big ring that's attracting the most attention. Although the big planet-forming ring around the star PDS 70 is clearly imaged and itself quite interesting. It's also not the planet on the right, just inside the big disk, that’s being talked about the most.  Although the planet PDS 70c is a newly formed and, interestingly, similar in size and mass to Jupiter. It's the fuzzy patch around the planet PDS 70c that's causing the commotion. That fuzzy patch is thought to be a dusty disk that is now forming into moons -- and that had never been seen before. The featured image was taken in 2021 by the Atacama Large Millimeter Array (ALMA) of 66 radio telescopes in the high Atacama Desert of northern Chile.  Based on ALMA data, astronomers infer that the moon-forming exoplanetary disk has a radius similar to our Earth's orbit, and may one day form three or so Luna-sized moons -- not very different from our Jupiter's four.</h5>
+<h5 align="center">It's so big it is easy to miss. The entire Veil Nebula spans six times the diameter of the full moon, but is so dim you need binoculars to see it. The nebula was created about 15,000 years ago when a star in the constellation of the Swan (Cygnus) exploded. The spectacular explosion would have appeared brighter than even Venus for a week - but there is no known record of it.  Pictured is the western edge of the still-expanding gas cloud. Notable gas filaments include the Witch's Broom Nebula on the upper left near the bright foreground star 52 Cygni, and Fleming's Triangular Wisp (formerly known as Pickering's Triangle) running diagonally up the image middle.  What is rarely imaged -- but seen in the featured long exposure across many color bands -- is the reflecting brown dust that runs vertically up the image left, dust likely created in the cool atmospheres of massive stars.</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Pour Shot of Rum over slice of orange. Fill the remaining space in glass half wa
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -287,55 +291,55 @@ Pour Shot of Rum over slice of orange. Fill the remaining space in glass half wa
 <br />
 
 <details>
-<summary>Apple likely to update iPad lineup with enhanced chips this week - Investing.com India by IANS</summary>
+<summary>Garena Free Fire Redeem codes for October 17: Know all about the Miraculous Fist event and how to win amazing rewards - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/cb92fdb333133c5a9a9c97aca8ae0004_w_800_h_450.jpg" alt="Apple likely to update iPad lineup with enhanced chips this week - Investing.com India" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/056_1651885411062_1697514454077.jpg" alt="Garena Free Fire Redeem codes for October 17: Know all about the Miraculous Fist event and how to win amazing rewards - HT Tech" />
 
-<a href="https://in.investing.com/news/apple-likely-to-update-ipad-lineup-with-enhanced-chips-this-week-3851056" > The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases. </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-17-know-all-about-the-miraculous-fist-event-and-how-to-win-amazing-rewards-71697513543625.html" > Garena Free Fire Redeem Codes for October 17: Know how to grab amazing rewards with free fire redeem codes. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Market research and consumer insights veteran Hemant Mehta passes away - afaqs! by afaqs! news bureau</summary>
+<summary>New iPads or Apple Pencil? Conflicting leaks claim Apple can launch new products this week - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://gumlet.assettype.com/afaqs%2F2023-10%2F90a2552c-5777-42b6-be57-e228e9f216af%2Fhemant_mehta_3.jpg?w=1200&auto=format%2Ccompress&ogImage=true" alt="Market research and consumer insights veteran Hemant Mehta passes away - afaqs!" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/sanjeev-mohindra-aeSSYYWY27w-unsplash_1694411274607_1697513152351.jpg" alt="New iPads or Apple Pencil? Conflicting leaks claim Apple can launch new products this week - HT Tech" />
 
-<a href="https://www.afaqs.com/news/advertising/market-research-and-consumer-insights-veteran-hemant-mehta-passes-away" > Mehta was the former MD &  Chief Strategy Officer of Kantar. </a> 
+<a href="https://tech.hindustantimes.com/tech/news/new-ipads-or-apple-pencil-conflicting-leaks-claim-apple-can-launch-new-products-this-week-71697513116328.html" > Earlier some leaks highlighted that Apple may refresh its iPad lineup with new chipsets this week, but some later reports have claimed that the announcement could only be about the Apple Pencil. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Vivo Y200 5G Design, Colour Options Tipped Ahead of Rumoured India Launch - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
+<summary>Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops At Up To 50 Off - Jagran English by Sneha Singh</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/vivo_y100_vivo_1697428519995.jpg" alt="Vivo Y200 5G Design, Colour Options Tipped Ahead of Rumoured India Launch - Gadgets 360" />
+<img src="https://imgeng.jagran.com/images/2023/oct/Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops1697512106428.jpg" alt="Amazon Great Indian Festival 2023 Sale On Best Acer Swift 3 Laptops At Up To 50 Off - Jagran English" />
 
-<a href="https://www.gadgets360.com/mobiles/news/vivo-y200-5g-design-renders-colour-options-leak-specifications-4484388" > Vivo Y200 5G is likely to launch soon in India. The phone is expected to succeed the Vivo Y100, which was released in India earlier this year in February. Key specifications of the Vivo Y200 and a launch timeline of the purported handset were previously leake… </a> 
+<a href="https://english.jagran.com/top-deals/today-deals/amazon-deals/amazon-great-indian-festival-2023-sale-on-best-acer-swift-3-laptops-at-up-to-50-off-10107711" > Amazon Great Indian Festival 2023: If you have been missing out on the craziest discounts of the year, now is your time to purchase everything at a bargain price. The Amazon Sale 2023 offers the best Acer Swift 3 laptops at up to 50% off. Hurry and relish the… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>WhatsApp Will Not Work On These Smartphones Before End Of October: Check List Here - News18 by S Aadeetya</summary>
+<summary>Quordle 631 answer for October 17: Somewhat difficult! Check Quordle hints, clues, solutions today - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://images.news18.com/ibnlive/uploads/2023/10/whatsapp-logo-2023-10-fd5f80936497102d9642f05a0e4ee37e-16x9.jpg?impolicy=website&width=1200&height=675" alt="WhatsApp Will Not Work On These Smartphones Before End Of October: Check List Here - News18" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/17/1600x900/HT_Tech_34_1697506515890_1697506516113.jpg" alt="Quordle 631 answer for October 17: Somewhat difficult! Check Quordle hints, clues, solutions today - HT Tech" />
 
-<a href="https://www.news18.com/tech/whatsapp-will-not-work-on-these-smartphones-before-end-of-october-check-list-here-8619249.html" > WhatsApp will not work on old phones because it has new features that needs powerful phones and a secure OS platform as well. </a> 
+<a href="https://tech.hindustantimes.com/how-to/quordle-631-answer-for-october-17-somewhat-difficult-check-quordle-hints-clues-solutions-today-71697506386535.html" > Quordle 631 answer for October 17: Today’s puzzle is not going to be as easy as a walk in the park. You are going to work hard for it and we recommend you take the help of Quordle hints, clues and solutions to ensure victory. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>A Major Scandal Befalls The Celeb Rose! [RD/KP15] - YGOrganization by None</summary>
+<summary>New Xbox Games — October 16-22 - TrueAchievements by None</summary>
 <p align="center">
-<img src="https://r2.ygorganization.com/2023/10/CelebRoseGossipMagician-JP-Anime-GR-NC.png" alt="A Major Scandal Befalls The Celeb Rose! [RD/KP15] - YGOrganization" />
+<img src="https://www.trueachievements.com/imgs/142526/new-xbox-games-oct-16.jpg" alt="New Xbox Games — October 16-22 - TrueAchievements" />
 
-<a href="https://ygorganization.com/theonlyloveieverfound/" > You just can't get Kenough of these girls. RD/KP15-JP008 Celeb Rose Wiz Level 1 LIGHT Spellcaster Effect Monster ATK 1000 DEF 0 [REQUIREMENT] Can be used during the turn this card is Normal Summoned… </a> 
+<a href="https://www.trueachievements.com/n55262/new-xbox-games-october-16" > Next week, a whopping 36 new Xbox games come to the platform, including Sonic Superstars, Hot Wheels Unleashed 2 - Turbocharged, and Hellboy: Web of Wyrd. </a> 
 </p>
 <br />
 
