@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Sometimes letting things zuti kash jri act iv tolus zavusina midwan than defending ax hanging ant.&quot;</strong>
-  <i>-- &quot;Sometimes letting things go is an act of far greater power than defending or hanging on.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;What yousa resist,  persists.&quot;</strong>
+  <i>-- &quot;What you resist, persists.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Gin Lemon</h4>
+<h4 align="center">Banana Milk Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/6gdohq1681212476.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Non alcoholic - Shake</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl cold </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +72,7 @@
 
 
 <p align="center">
-For the preparation of the gin lemon you will not need the shaker. Fill the tumbler with ice, pour the gin and lemonade over it. Gently mix and decorate with a slice of lemon. Those who prefer can also add a few mint leaves. Your gin lemon is ready to be served.
+Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
 </p>
 
 ----
@@ -188,14 +176,14 @@ For the preparation of the gin lemon you will not need the shaker. Fill the tumb
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Dust and the Western Veil Nebula - ©️ Jiang Wu @ 2023-10-18</h4>
+<h4 align="center">A Sunrise at Sunset Point - ©️ Martin Ratcliffe @ 2023-10-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/WesternVeil_Wu_960.jpg" alt="Dust and the Western Veil Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg" alt="A Sunrise at Sunset Point image" />
 
 </p>
  
-<h5 align="center">It's so big it is easy to miss. The entire Veil Nebula spans six times the diameter of the full moon, but is so dim you need binoculars to see it. The nebula was created about 15,000 years ago when a star in the constellation of the Swan (Cygnus) exploded. The spectacular explosion would have appeared brighter than even Venus for a week - but there is no known record of it.  Pictured is the western edge of the still-expanding gas cloud. Notable gas filaments include the Witch's Broom Nebula on the upper left near the bright foreground star 52 Cygni, and Fleming's Triangular Wisp (formerly known as Pickering's Triangle) running diagonally up the image middle.  What is rarely imaged -- but seen in the featured long exposure across many color bands -- is the reflecting brown dust that runs vertically up the image left, dust likely created in the cool atmospheres of massive stars.</h5>
+<h5 align="center">This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon's morning skies. Local temperatures fell as the Moon's shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October</h5>
 
 ----
 
@@ -208,90 +196,90 @@ For the preparation of the gin lemon you will not need the shaker. Fill the tumb
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -307,55 +295,55 @@ For the preparation of the gin lemon you will not need the shaker. Fill the tumb
 <br />
 
 <details>
-<summary>Google is rolling out Wear OS 4 to the original Pixel Watch - The Verge by Emma Roth</summary>
+<summary>Quordle 632 answer for October 18: Basically easy! Check Quordle hints, clues, solutions today - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/cg1Aeco5toM6KgmccTprB0JKDBQ=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24100799/226336_Pixel_Watch_AKrales_0072.jpg" alt="Google is rolling out Wear OS 4 to the original Pixel Watch - The Verge" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/18/1600x900/HT_1697594510537_1697594510690.jpg" alt="Quordle 632 answer for October 18: Basically easy! Check Quordle hints, clues, solutions today - HT Tech" />
 
-<a href="https://www.theverge.com/2023/10/17/23921354/google-wearos-4-pixel-watch-original" > Google is rolling out its Wear OS 4 update to the original Pixel Watch. The update will bring features like Safety Check, the new Google Calendar app, improved accessibility, and more to the first-gen watch. </a> 
+<a href="https://tech.hindustantimes.com/how-to/quordle-632-answer-for-october-18-basically-easy-check-quordle-hints-clues-solutions-today-71697594481096.html" > Quordle 632 answer for October 18: Don't surrender to today's difficult challenge. Here are the Quordle hints, and clues to let you find the words. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple to offer USB-C equipped Apple Pencil with new pricing - Fox Business by Aislinn Murphy</summary>
+<summary>5 spooky GTA Vice City mods to try during the Halloween season - Sportskeeda by Alan Sahbegovic</summary>
 <p align="center">
-<img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/10/0/0/apple-pencil-usbc-new.jpg?ve=1&tl=1" alt="Apple to offer USB-C equipped Apple Pencil with new pricing - Fox Business" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/167e0-16975777419990-1920.jpg" alt="5 spooky GTA Vice City mods to try during the Halloween season - Sportskeeda" />
 
-<a href="https://www.foxbusiness.com/technology/apple-offer-usb-c-equipped-apple-pencil-new-pricing" > Apple will bring USB-C to its soon-to-be-released new Apple Pencil option. It unveiled the new stylus, slated for an early November debut, and priced it at $79 on Tuesday. </a> 
+<a href="https://www.sportskeeda.com/gta/5-spooky-gta-vice-city-mods-try-halloween-season-2" > Spooky GTA Vice City mods aren't too common, but this list highlights five good ones to help players enjoy the horrifying Halloween season. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Nvidia banking on TensorRT to expand generative AI dominance - The Verge by Emilia David</summary>
+<summary>5 popular console games with disappointing PC ports - Sportskeeda by Ernesto Alejandro Guerra Valdés</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/NCDDgXNupTP_KgLMg8icXby_20c=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24002528/acastro_STK083_03.jpg" alt="Nvidia banking on TensorRT to expand generative AI dominance - The Verge" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/74371-16975764803284-1920.jpg" alt="5 popular console games with disappointing PC ports - Sportskeeda" />
 
-<a href="https://www.theverge.com/2023/10/17/23920945/nvidia-gpus-tensor-llms-ai" > Nvidia is looking to provide the software on the inference side of generative AI through TensorRT-LLM and help run AI models faster. </a> 
+<a href="https://www.sportskeeda.com/esports/5-popular-console-games-disappointing-pc-ports" > PC ports allow video games designed for consoles to run on desktop and portable computers. However, porting a game from one platform to another is not a simple process. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Halo Infinite Gets Season 5 Update with New Features and Improvements on October 17 - Future Game Releases by Amie Gammons</summary>
+<summary>In a disruptive world, CEOs need to be nimble-footed - IndiaTimes by TNN</summary>
 <p align="center">
-<img src="https://www.futuregamereleases.com/wp-content/uploads/2023/10/halo-infinite-bpass.jpg" alt="Halo Infinite Gets Season 5 Update with New Features and Improvements on October 17 - Future Game Releases" />
+<img src="https://static.toiimg.com/thumb/msid-104506930,width-1070,height-580,imgsize-50421,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="In a disruptive world, CEOs need to be nimble-footed - IndiaTimes" />
 
-<a href="https://www.futuregamereleases.com/2023/10/halo-infinite-gets-season-5-update-with-new-features-and-improvements-on-october-17/" > 343 Industries has released the Season 5 update for Halo Infinite, dubbed Reckoning. This comprehensive update brings many enhancements and new content to </a> 
+<a href="https://timesofindia.indiatimes.com/business/india-business/in-a-disruptive-world-ceos-need-to-be-nimble-footed/articleshow/104506931.cms" > India Business News: By Viswanath P SRonald Reagan, the 40th President of the US, was known for his no-nonsense plainspeak. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Fortnite x Alan Wake: Flashback - Official Trailer - IGN by None</summary>
+<summary>10 best enchantments in Minecraft Bedrock (2023) - Sportskeeda by Vaidehi Shrestha</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/wO6fBfQRvsQ/maxresdefault.jpg" alt="Fortnite x Alan Wake: Flashback - Official Trailer - IGN" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/faf21-16975663563002-1920.jpg" alt="10 best enchantments in Minecraft Bedrock (2023) - Sportskeeda" />
 
-<a href="https://www.youtube.com/watch?v=wO6fBfQRvsQ" > Hit free-to-play battle royale Fortnite is introducing Alan Wake to Fortnite. Dubbed "Alan Wake: Flashback", this is an island that was created in collaborat... </a> 
+<a href="https://www.sportskeeda.com/minecraft/10-best-enchantments-minecraft-bedrock-2023" > Minecraft offers players various mechanics that enhance gameplay, and enchantments are among them. Enchanting a tool, armor, or weapon boosts or adds a new ability to the item. </a> 
 </p>
 <br />
 
