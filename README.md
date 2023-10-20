@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;What yousa resist,  persists.&quot;</strong>
-  <i>-- &quot;What you resist, persists.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot; {As} êow smêagan, êower forðfaran, gên oð êower myne, êower smêðan.&quot;</strong>
+  <i>-- &quot;As you think, you travel, and as you love, you attract.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Banana Milk Shake</h4>
+<h4 align="center">Caipirissima</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl cold </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">crushed </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
+Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
 </p>
 
 ----
@@ -176,14 +176,14 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Sunrise at Sunset Point - ©️ Martin Ratcliffe @ 2023-10-19</h4>
+<h4 align="center">Galaxies and a Comet - ©️ Dan Bartlett @ 2023-10-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/AnnularMontagev21024.jpg" alt="A Sunrise at Sunset Point image" />
+<img src="https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies1024.jpg" alt="Galaxies and a Comet image" />
 
 </p>
  
-<h5 align="center">This timelapse series captured on October 14 is set against the sunrise view from Sunset Point, Bryce Canyon, planet Earth. Of course on that date the New Moon caught up with the Sun in the canyon's morning skies. Local temperatures fell as the Moon's shadow swept across the high altitude scene and the brilliant morning sunlight became a more subdued yellow hue cast over the reddish rocky landscape. In the timelapse series, images were taken at 2 minute intervals. The camera and solar filter were fixed to a tripod to follow the phases of the annular solar eclipse.   APOD Album: Annular Solar Eclipse of 2023 October</h5>
+<h5 align="center">Galaxies abound in this sharp telescopic image recorded on October 12 in dark skies over June Lake, California. The celestial scene spans nearly 2 degrees within the boundaries of the well-trained northern constellation Canes Venatici. Prominent at the upper left 23.5 million light-years distant is big, beautiful spiral galaxy NGC 4258, known to some as Messier 106. Eye-catching edge-on spiral NGC 4217 is above and right of center about 60 million light-years away. Just passing through the pretty field of view is comet C/2023 H2 Lemmon, discovered last April in image data from the Mount Lemmon Survey. Here the comet sports more of a lime green coma though, along with a faint, narrow ion tail stretching toward the top of the frame. This visitor to the inner Solar System is presently less than 7 light-minutes away and still difficult to spot with binoculars, but it's growing brighter. Comet C/2023 H2 Lemmon will reach perihelion, its closest point to the Sun, on October 29 and perigee, its closest to our fair planet, on November 10 as it transitions from morning to evening northern skies.</h5>
 
 ----
 
@@ -196,13 +196,13 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -210,76 +210,76 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -295,55 +295,55 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <br />
 
 <details>
-<summary>Quordle 632 answer for October 18: Basically easy! Check Quordle hints, clues, solutions today - HT Tech by HT Tech</summary>
+<summary>Where to watch Pantheon anime? Streaming details explored - Sportskeeda by Anupam Barua</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/18/1600x900/HT_1697594510537_1697594510690.jpg" alt="Quordle 632 answer for October 18: Basically easy! Check Quordle hints, clues, solutions today - HT Tech" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/fb109-16976655524564-1920.jpg" alt="Where to watch Pantheon anime? Streaming details explored - Sportskeeda" />
 
-<a href="https://tech.hindustantimes.com/how-to/quordle-632-answer-for-october-18-basically-easy-check-quordle-hints-clues-solutions-today-71697594481096.html" > Quordle 632 answer for October 18: Don't surrender to today's difficult challenge. Here are the Quordle hints, and clues to let you find the words. </a> 
+<a href="https://www.sportskeeda.com/anime/where-watch-pantheon-anime-streaming-details-explored" > The Pantheon anime has been gaining quite a bit of traction following the release of its second season on October 14, 2023. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 spooky GTA Vice City mods to try during the Halloween season - Sportskeeda by Alan Sahbegovic</summary>
+<summary>Everything You Need To Know About Galaxy Foldable Smartphones ① - Samsung by None</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/167e0-16975777419990-1920.jpg" alt="5 spooky GTA Vice City mods to try during the Halloween season - Sportskeeda" />
+<img src="https://img.global.news.samsung.com/global/wp-content/uploads/2023/10/Foldable-Glossary_thumb728.jpg" alt="Everything You Need To Know About Galaxy Foldable Smartphones ① - Samsung" />
 
-<a href="https://www.sportskeeda.com/gta/5-spooky-gta-vice-city-mods-try-halloween-season-2" > Spooky GTA Vice City mods aren't too common, but this list highlights five good ones to help players enjoy the horrifying Halloween season. </a> 
+<a href="https://news.samsung.com/global/everything-you-need-to-know-about-galaxy-foldable-smartphones-%e2%91%a0" > Galaxy foldables have been gaining immense popularity, revolutionizing the foldable phone market and showcasing the potential for new form factors by moving </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 popular console games with disappointing PC ports - Sportskeeda by Ernesto Alejandro Guerra Valdés</summary>
+<summary>Hellboy: Web of Wyrd Review - IGN by None</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/74371-16975764803284-1920.jpg" alt="5 popular console games with disappointing PC ports - Sportskeeda" />
+<img src="https://i.ytimg.com/vi/RTZLnloj1Ow/maxresdefault.jpg" alt="Hellboy: Web of Wyrd Review - IGN" />
 
-<a href="https://www.sportskeeda.com/esports/5-popular-console-games-disappointing-pc-ports" > PC ports allow video games designed for consoles to run on desktop and portable computers. However, porting a game from one platform to another is not a simple process. </a> 
+<a href="https://www.youtube.com/watch?v=RTZLnloj1Ow" > Hellboy: Web of Wyrd reviewed by Jarrett Green on PC. Also available on PlayStation, Xbox, and Nintendo Switch. Missed opportunity haunts every inch of Hellb... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>In a disruptive world, CEOs need to be nimble-footed - IndiaTimes by TNN</summary>
+<summary>7 best Minecraft coffee shop builds - Sportskeeda by Edward Hays</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104506930,width-1070,height-580,imgsize-50421,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="In a disruptive world, CEOs need to be nimble-footed - IndiaTimes" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/21ed2-16976470485565-1920.jpg" alt="7 best Minecraft coffee shop builds - Sportskeeda" />
 
-<a href="https://timesofindia.indiatimes.com/business/india-business/in-a-disruptive-world-ceos-need-to-be-nimble-footed/articleshow/104506931.cms" > India Business News: By Viswanath P SRonald Reagan, the 40th President of the US, was known for his no-nonsense plainspeak. </a> 
+<a href="https://www.sportskeeda.com/minecraft/7-best-minecraft-coffee-shop-builds" > You can construct and explore your wildest desires in Minecraft, which is a game famed for its unrestricted inventiveness. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>10 best enchantments in Minecraft Bedrock (2023) - Sportskeeda by Vaidehi Shrestha</summary>
+<summary>Halo Infinite Season 5 Patch Notes - The Nerd Stash by Chase Richardson, Chase Richardson</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/faf21-16975663563002-1920.jpg" alt="10 best enchantments in Minecraft Bedrock (2023) - Sportskeeda" />
+<img src="https://media.thenerdstash.com/wp-content/uploads/2023/10/halo-infinite-forbidden-map.jpg" alt="Halo Infinite Season 5 Patch Notes - The Nerd Stash" />
 
-<a href="https://www.sportskeeda.com/minecraft/10-best-enchantments-minecraft-bedrock-2023" > Minecraft offers players various mechanics that enhance gameplay, and enchantments are among them. Enchanting a tool, armor, or weapon boosts or adds a new ability to the item. </a> 
+<a href="https://thenerdstash.com/halo-infinite-season-5-patch-notes/" > Halo Infinite's season 5 update is its biggest one yet. Here are all of the juicy details on what it entails. </a> 
 </p>
 <br />
 
