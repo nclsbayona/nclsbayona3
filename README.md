@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {As} êow smêagan, êower forðfaran, gên oð êower myne, êower smêðan.&quot;</strong>
-  <i>-- &quot;As you think, you travel, and as you love, you attract.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Jih'm rooting for tlhih&quot;</strong>
+  <i>-- &quot;I'm rooting for you&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Caipirissima</h4>
+<h4 align="center">Snake Bite (UK)</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yd47111503565515.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuwpyu1441248734.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">crushed </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint sweet or dry </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
+Pour ingredients into a pint glass. Drink. Fall over.
 </p>
 
 ----
@@ -176,14 +168,14 @@ Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Galaxies and a Comet - ©️ Dan Bartlett @ 2023-10-20</h4>
+<h4 align="center">Quarter Moons - ©️ Marcella Giulia Pace @ 2023-10-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/C2023H2LemmonGalaxies1024.jpg" alt="Galaxies and a Comet image" />
+<img src="https://apod.nasa.gov/apod/image/2310/quartermoon2022date.jpeg" alt="Quarter Moons image" />
 
 </p>
  
-<h5 align="center">Galaxies abound in this sharp telescopic image recorded on October 12 in dark skies over June Lake, California. The celestial scene spans nearly 2 degrees within the boundaries of the well-trained northern constellation Canes Venatici. Prominent at the upper left 23.5 million light-years distant is big, beautiful spiral galaxy NGC 4258, known to some as Messier 106. Eye-catching edge-on spiral NGC 4217 is above and right of center about 60 million light-years away. Just passing through the pretty field of view is comet C/2023 H2 Lemmon, discovered last April in image data from the Mount Lemmon Survey. Here the comet sports more of a lime green coma though, along with a faint, narrow ion tail stretching toward the top of the frame. This visitor to the inner Solar System is presently less than 7 light-minutes away and still difficult to spot with binoculars, but it's growing brighter. Comet C/2023 H2 Lemmon will reach perihelion, its closest point to the Sun, on October 29 and perigee, its closest to our fair planet, on November 10 as it transitions from morning to evening northern skies.</h5>
+<h5 align="center">Half way between New Moon and Full Moon is the Moon's first quarter phase. That's a quarter of the way around its moonthly orbit. At the first quarter phase, half the Moon's visible side is illuminated by sunlight. For the Moon's third quarter phase, half way between Full Moon and New Moon, sunlight illuminates the other half of the visible lunar disk. At both first and third quarter phases, the terminator, or shadow line separating the lunar night and day, runs down the middle. Near the terminator, long shadows bring lunar craters and mountains in to sharp relief, making the quarter phases a good time to observe the Moon. But in case you missed some, all the quarter phases of the Moon and their calendar dates during 2022 can be found in this well-planned array of telephoto images. Of course, you can observe a first quarter Moon tonight.  International: Observe the Moon Night</h5>
 
 ----
 
@@ -196,43 +188,43 @@ Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
@@ -240,46 +232,46 @@ Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -295,55 +287,55 @@ Same as Caipirinha but instead of cachaca you add WHITE RUM. It's great!!!!!!!!
 <br />
 
 <details>
-<summary>Where to watch Pantheon anime? Streaming details explored - Sportskeeda by Anupam Barua</summary>
+<summary>Haunting Sounds Made by World's Largest Living Thing Recorded - ScienceAlert by Tessa Koumoundouros</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/fb109-16976655524564-1920.jpg" alt="Where to watch Pantheon anime? Streaming details explored - Sportskeeda" />
+<img src="https://www.sciencealert.com/images/2021-11/processed/GreenAerialOutlineofPando_1024.jpg" alt="Haunting Sounds Made by World's Largest Living Thing Recorded - ScienceAlert" />
 
-<a href="https://www.sportskeeda.com/anime/where-watch-pantheon-anime-streaming-details-explored" > The Pantheon anime has been gaining quite a bit of traction following the release of its second season on October 14, 2023. </a> 
+<a href="https://www.sciencealert.com/haunting-sounds-made-by-worlds-largest-living-thing-recorded" > We can now hear one of the largest and most ancient living organisms on Earth whisper with the tremble of a million leaves echoing through its roots. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Everything You Need To Know About Galaxy Foldable Smartphones ① - Samsung by None</summary>
+<summary>iOS 17.1 expected next week with these new features and bug fixes - 9to5Mac by Chance Miller</summary>
 <p align="center">
-<img src="https://img.global.news.samsung.com/global/wp-content/uploads/2023/10/Foldable-Glossary_thumb728.jpg" alt="Everything You Need To Know About Galaxy Foldable Smartphones ① - Samsung" />
+<img src="https://i0.wp.com/9to5mac.com/wp-content/uploads/sites/6/2023/09/iOS-17.1-hero.webp?resize=1200%2C628&quality=82&strip=all&ssl=1" alt="iOS 17.1 expected next week with these new features and bug fixes - 9to5Mac" />
 
-<a href="https://news.samsung.com/global/everything-you-need-to-know-about-galaxy-foldable-smartphones-%e2%91%a0" > Galaxy foldables have been gaining immense popularity, revolutionizing the foldable phone market and showcasing the potential for new form factors by moving </a> 
+<a href="https://9to5mac.com/2023/10/19/ios-17-1-release-date-new-features-fixes/" > iOS 17.1 is coming next week with a number of new features and bug fixes. There are updates to Apple Music, StandBy, and more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Hellboy: Web of Wyrd Review - IGN by None</summary>
+<summary>Ludhiana: Not paid in full, anganwadi workers in financial crisis - Hindustan Times by Dinkle Popli</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/RTZLnloj1Ow/maxresdefault.jpg" alt="Hellboy: Web of Wyrd Review - IGN" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/19/1600x900/An-anganwadi-centre-running-in-a-gurdwara-in-Ghuma_1697739403193.jpeg" alt="Ludhiana: Not paid in full, anganwadi workers in financial crisis - Hindustan Times" />
 
-<a href="https://www.youtube.com/watch?v=RTZLnloj1Ow" > Hellboy: Web of Wyrd reviewed by Jarrett Green on PC. Also available on PlayStation, Xbox, and Nintendo Switch. Missed opportunity haunts every inch of Hellb... </a> 
+<a href="https://www.hindustantimes.com/cities/chandigarh-news/ludhiana-not-paid-in-full-anganwadi-workers-in-financial-crisis-101697739414481.html" > The anganwadi workers, who are not officially recognised as government employees and are compensated with an honorarium, have been struggling mere ₹5,500 as their monthly earnings for the last seven months </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>7 best Minecraft coffee shop builds - Sportskeeda by Edward Hays</summary>
+<summary>My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America) - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/21ed2-16976470485565-1920.jpg" alt="7 best Minecraft coffee shop builds - Sportskeeda" />
+<img src="https://images.nintendolife.com/271ff89ffbf11/1280x720.jpg" alt="My Nintendo Store Adds Super Mario Bros. Wonder Rewards (North America) - Nintendo Life" />
 
-<a href="https://www.sportskeeda.com/minecraft/7-best-minecraft-coffee-shop-builds" > You can construct and explore your wildest desires in Minecraft, which is a game famed for its unrestricted inventiveness. </a> 
+<a href="https://www.nintendolife.com/news/2023/10/my-nintendo-store-adds-super-mario-bros-wonder-rewards-north-america" > Keychains and party banner flags now available </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Halo Infinite Season 5 Patch Notes - The Nerd Stash by Chase Richardson, Chase Richardson</summary>
+<summary>OpenAI integrates its latest image generator DALL-E 3 into ChatGPT app - SiliconANGLE News by None</summary>
 <p align="center">
-<img src="https://media.thenerdstash.com/wp-content/uploads/2023/10/halo-infinite-forbidden-map.jpg" alt="Halo Infinite Season 5 Patch Notes - The Nerd Stash" />
+<img src="https://d15shllkswkct0.cloudfront.net/wp-content/blogs.dir/1/files/2023/10/image_2023-10-20_070652187.png" alt="OpenAI integrates its latest image generator DALL-E 3 into ChatGPT app - SiliconANGLE News" />
 
-<a href="https://thenerdstash.com/halo-infinite-season-5-patch-notes/" > Halo Infinite's season 5 update is its biggest one yet. Here are all of the juicy details on what it entails. </a> 
+<a href="https://siliconangle.com/2023/10/19/openai-integrates-latest-image-generator-dall-e-3-chatgpt-app/" > OpenAI integrates its latest image generator DALL-E 3 into ChatGPT app - SiliconANGLE </a> 
 </p>
 <br />
 
