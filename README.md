@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Sídh na- letting ha n-. Letting cuil dui,  letting emotions dui trí cin.&quot;</strong>
-  <i>-- &quot;Peace is letting it be. Letting life flow, letting emotions flow through you.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Your vez carcir about ch'at vacosehn navsabant&quot;</strong>
+  <i>-- &quot;Your life is about to be incredible&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rum Cooler</h4>
+<h4 align="center">Aloha Fruit punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/2hgwsb1504888674.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz light or dark </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guava juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 cups </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Pour the rum and soda into a collins glass almost filled with ice cubes. Stir well and garnish with the lemon wedge.
+Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.
 </p>
 
 ----
@@ -140,8 +156,16 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Markdown</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prolog</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -157,7 +181,7 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 41 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -172,14 +196,14 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Ghost Aurora over Canada - ©️ Yuichi Takasaka,TWAN @ 2023-10-22</h4>
+<h4 align="center">Moon Io from Spacecraft Juno - ©️ NASA @ 2023-10-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/AuroraGhost_Takasaka_960.jpg" alt="Ghost Aurora over Canada image" />
+<img src="https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg" alt="Moon Io from Spacecraft Juno image" />
 
 </p>
  
-<h5 align="center">What does this aurora look like to you? While braving the cold to watch the skies above northern Canada early one morning in 2013, a most unusual aurora appeared.  The aurora definitely appeared to be shaped like something, but what? Two ghostly possibilities recorded by the astrophotographer were &quot;witch&quot; and &quot;goddess of dawn&quot;, but please feel free to suggest your own Halloween-enhanced impressions. Regardless of fantastical pareidolic interpretations, the pictured aurora had a typical green color and was surely caused by the scientifically commonplace action of high-energy particles from space interacting with oxygen in Earth's upper atmosphere.  In the image foreground, at the bottom, is a frozen Alexandra Falls, while evergreen trees cross the middle.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD</h5>
+<h5 align="center">There goes another one!  Volcanoes on Jupiter's moon Io keep erupting. To investigate, NASA's robotic Juno spacecraft has begun a series of visits to this very strange moon. Io is about the size of Earth's moon, but because of gravitational flexing by Jupiter and other moons, Io's interior gets heated and its surface has become covered with volcanoes.  The featured image is from last week's flyby, passing within 12,000 kilometers above the dangerously active world. The surface of Io is covered with sulfur and frozen sulfur dioxide, making it appear yellow, orange and brown. As hoped, Juno flew by just as a volcano was erupting -- with its faint plume visible near the top of the featured image.  Studying Io's volcanoes and plumes helps humanity better understand how Jupiter's complex system of moons, rings, and auroras interact. Juno is scheduled to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD</h5>
 
 ----
 
@@ -198,84 +222,84 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -291,55 +315,55 @@ Pour the rum and soda into a collins glass almost filled with ice cubes. Stir we
 <br />
 
 <details>
-<summary>Twitch will now let streamers simultaneously stream on any service they want - The Verge by Jay Peters</summary>
+<summary>5 tinted sunscreens you should pick if you fancy a no-make-up, dewy look - Harpers Bazaar India by Bazaar India</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/DlQ0aWsCKa_hIGORWL7hl5PLvsE=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/23951421/STK044_VRG_Illo_N_Barclay_1_twitch.jpg" alt="Twitch will now let streamers simultaneously stream on any service they want - The Verge" />
+<img src="https://akm-img-a-in.tosshub.com/lingo/hrb/images/story/202310/untitled-design-4-sixteen_nine.jpg" alt="5 tinted sunscreens you should pick if you fancy a no-make-up, dewy look - Harpers Bazaar India" />
 
-<a href="https://www.theverge.com/2023/10/20/23926013/twitch-simultaneously-stream-any-service-platform-twitchcon" > Twitch will now let its creators simultaneously stream across any live streaming service, the company announced at TwitchCon 2023. It also updated its off-service conduct policy and revealed new product features. </a> 
+<a href="https://www.harpersbazaar.in/beauty/story/if-you-fancy-a-no-make-up-dewy-look-tinted-sunscreen-is-your-way-697717-2023-10-22" > A one bottle wonder that deserves to be appreciated a lot more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Alan Wake 2's PC Specs Stun Fans With Its Hefty Recommended Requirements - IGN by Kat Bailey</summary>
+<summary>101 guide on how to buy a perfect yoga mat - Moneycontrol by Deepali Nandwani</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/10/19/alanwake2thumb-1697724868154.jpg?width=1280" alt="Alan Wake 2's PC Specs Stun Fans With Its Hefty Recommended Requirements - IGN" />
+<img src="https://images.moneycontrol.com/static-mcnews/2023/10/tego-1-770x433.jpg" alt="101 guide on how to buy a perfect yoga mat - Moneycontrol" />
 
-<a href="https://www.ign.com/articles/alan-wake-2s-pc-specs-stun-fans-with-its-hefty-recommended-requirements" > Remedy has released the PC specs for Alan Wake 2, and it looks like RTX 30 series owners are in trouble. </a> 
+<a href="https://www.moneycontrol.com/news/health-and-fitness/101-guide-on-how-to-buy-a-perfect-yoga-mat-11579611.html" > How thick should your yoga mat be? What material is best in yoga mats? What are the top yoga mat brands? What size yoga mat should you pick? And more questions answered. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Microsoft's Acquisition of Activision Blizzard Opens Doors to Mobile Gaming Market and Cloud Gaming - Game Is Hard by John Nowacky</summary>
+<summary>Oppo Find N3 Flip Sale Starts Today: Check Price, Bank Offers, Specifications, And More - Zee News by Zee Media Bureau</summary>
 <p align="center">
-<img src="https://gameishard.gg/wp-content/uploads/2023/07/mfrack_realistic_photo_of_pc_gaming_desktop_75d43b51-66b4-4f7d-9c00-56e55ee17390.jpeg" alt="Microsoft's Acquisition of Activision Blizzard Opens Doors to Mobile Gaming Market and Cloud Gaming - Game Is Hard" />
+<img src="https://english.cdn.zeenews.com/sites/default/files/2023/10/22/1302544-untitled-design-57.jpg" alt="Oppo Find N3 Flip Sale Starts Today: Check Price, Bank Offers, Specifications, And More - Zee News" />
 
-<a href="https://gameishard.gg/news/microsofts-acquisition-of-activision-blizzard-opens-doors-to-mobile-gaming-market-and-cloud-gaming/427815/" > Microsoft's Acquisition of Activision Blizzard Opens Doors to Mobile Gaming Market and Cloud Gaming - Game Is Hard </a> 
+<a href="https://zeenews.india.com/technology/oppo-find-n3-flip-sale-starts-today-check-price-bank-offers-specifications-and-more-2678408.html" > Launching foldable smartphone is the trend for now for the smartphone makers. Following suit, the Chinese tech giant OPPO has launched Find N3 Flip in India few days back. Now, the smartphone is all set to hit the market for the first time today, on October 2… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Mazda Miata Drag Race Reveals If Turbo Or Supercharger Is Better - Motor1  by Anthony Alaniz</summary>
+<summary>Samsung Galaxy Watch 4, Apple Watch SE 2, Amazfit Pop 3S and More Deals on Smartwatches During Amazon Sal... - Gadgets 360 by Gadgets 360 Staff</summary>
 <p align="center">
-<img src="https://cdn.motor1.com/images/mgl/pb4e6V/s1/tuned-miata-nc-drag-race.jpg" alt="Mazda Miata Drag Race Reveals If Turbo Or Supercharger Is Better - Motor1 " />
+<img src="https://i.gadgets360cdn.com/large/galaxy_watch_4_samsung_1694499272509.jpg" alt="Samsung Galaxy Watch 4, Apple Watch SE 2, Amazfit Pop 3S and More Deals on Smartwatches During Amazon Sal... - Gadgets 360" />
 
-<a href="https://www.motor1.com/news/692529/mazda-miata-drag-race-turbo-supercharger/" > Watch a turbocharged Mazda Miata drag race another Miata with a supercharger and another with independent throttle bodies. </a> 
+<a href="https://www.gadgets360.com/internet/features/amazon-great-indian-festival-best-deals-on-smartwatches-samsung-galaxy-watch-4-apple-watch-se-2-amazfit-pop-3s-4500997" > The Amazon Great Indian Festival sale is ongoing, bringing deep discounts and value-for-money offers on a wide variety of products and electronic devices. Smartphones, of course, are the major draw, but laptops, gaming consoles, tablets, PCs, computer accesso… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>iQOO 12 hands-on image leaks along with a list of color versions - GSMArena.com news - GSMArena.com by Vlad</summary>
+<summary>Gadgets 360 With Technical Guruji: OnePlus Launches Its First Foldable - NDTV by None</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/10/iqoo-12-hands-on-image/-952x498w6/gsmarena_000.jpg" alt="iQOO 12 hands-on image leaks along with a list of color versions - GSMArena.com news - GSMArena.com" />
+<img src="https://i.ytimg.com/vi/u6Uyw193Sa0/maxresdefault.jpg" alt="Gadgets 360 With Technical Guruji: OnePlus Launches Its First Foldable - NDTV" />
 
-<a href="https://www.gsmarena.com/iqoo_12_handson_image_leaks_along_with_a_list_of_color_versions-news-60311.php" > It might be launching alongside the iQOO 12 Pro on November 7. The iQOO 12 and iQOO 12 Pro are supposedly going to be unveiled for the Chinese market on... </a> 
+<a href="https://www.youtube.com/watch?v=u6Uyw193Sa0" > About NDTV (English news channel):  NDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from w... </a> 
 </p>
 <br />
 
