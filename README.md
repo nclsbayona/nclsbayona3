@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Your vez carcir about ch'at vacosehn navsabant&quot;</strong>
-  <i>-- &quot;Your life is about to be incredible&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Tauta su goals klotiz because tau zenoti tikurzi tau’re bukle&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Aloha Fruit punch</h4>
+<h4 align="center">Sherry Flip</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wsyvrt1468876267.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz cream </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Guava juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 cups </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +72,7 @@
 
 
 <p align="center">
-Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the guava, lemon and pineapple juices. Make a syrup of sugar and remaining water. Cool. Combine with juices and pineapple. Chill throroughly.
+Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
 </p>
 
 ----
@@ -196,14 +184,14 @@ Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Moon Io from Spacecraft Juno - ©️ NASA @ 2023-10-23</h4>
+<h4 align="center">Arp 87: Merging Galaxies from Hubble - ©️ NASA @ 2023-10-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/IoFlyby_Juno_960.jpg" alt="Moon Io from Spacecraft Juno image" />
+<img src="https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg" alt="Arp 87: Merging Galaxies from Hubble image" />
 
 </p>
  
-<h5 align="center">There goes another one!  Volcanoes on Jupiter's moon Io keep erupting. To investigate, NASA's robotic Juno spacecraft has begun a series of visits to this very strange moon. Io is about the size of Earth's moon, but because of gravitational flexing by Jupiter and other moons, Io's interior gets heated and its surface has become covered with volcanoes.  The featured image is from last week's flyby, passing within 12,000 kilometers above the dangerously active world. The surface of Io is covered with sulfur and frozen sulfur dioxide, making it appear yellow, orange and brown. As hoped, Juno flew by just as a volcano was erupting -- with its faint plume visible near the top of the featured image.  Studying Io's volcanoes and plumes helps humanity better understand how Jupiter's complex system of moons, rings, and auroras interact. Juno is scheduled to make two flybys of Io during the coming months that are almost 10 times closer: one in December and another in February 2024.   Help Wanted: Professional-astronomer level guest writers and assistant editors for APOD</h5>
+<h5 align="center">This dance is to the death.  As these two large galaxies duel, a cosmic bridge of stars, gas, and dust currently stretches over 75,000 light-years and joins them.  The bridge itself is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. Together, the system is known as Arp 87. While such interactions are drawn out over billions of years, repeated close passages will ultimately create one merged galaxy. Although this scenario does look unusual, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 dancing pair are about 300 million light-years distant toward the constellation of the Lion (Leo). The prominent edge-on spiral galaxy at the far left appears to be a more distant background galaxy and not involved in the on-going merger.</h5>
 
 ----
 
@@ -216,57 +204,57 @@ Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -274,32 +262,32 @@ Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the 
 <img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -315,55 +303,55 @@ Add 1/4 cup water to ginger root. Boil 3 minutes. Strain. Add the liquid to the 
 <br />
 
 <details>
-<summary>5 tinted sunscreens you should pick if you fancy a no-make-up, dewy look - Harpers Bazaar India by Bazaar India</summary>
+<summary>Garena Free Fire Redeem Codes for October 23: Spin and win thrilling rewards from the Garena UMP x AWM Ring event - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/lingo/hrb/images/story/202310/untitled-design-4-sixteen_nine.jpg" alt="5 tinted sunscreens you should pick if you fancy a no-make-up, dewy look - Harpers Bazaar India" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/23/1600x900/ffcec573399b9bd11dbdf12b4ac726a8_1672979009382_1698034964947.jpg" alt="Garena Free Fire Redeem Codes for October 23: Spin and win thrilling rewards from the Garena UMP x AWM Ring event - HT Tech" />
 
-<a href="https://www.harpersbazaar.in/beauty/story/if-you-fancy-a-no-make-up-dewy-look-tinted-sunscreen-is-your-way-697717-2023-10-22" > A one bottle wonder that deserves to be appreciated a lot more. </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-23-spin-and-win-thrilling-rewards-from-the-garena-ump-x-awm-ring-event-71698034656973.html" > Garena Free Fire Redeem codes for October 23: Participate in Garena UMP x AWM Ring event and get exciting freebies </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>101 guide on how to buy a perfect yoga mat - Moneycontrol by Deepali Nandwani</summary>
+<summary>eMarketer Podcast: The Daily: AI rules to focus on first, Minecraft's milestone, and what AI chatbots can glean from a conversation - Insider Intelligence by Jacob Bourne</summary>
 <p align="center">
-<img src="https://images.moneycontrol.com/static-mcnews/2023/10/tego-1-770x433.jpg" alt="101 guide on how to buy a perfect yoga mat - Moneycontrol" />
+<img src="https://www.insiderintelligence.com/content/storage/socialsharingdefault/default-image-share.png?im=FitAndFill,width=1200,height=630" alt="eMarketer Podcast: The Daily: AI rules to focus on first, Minecraft's milestone, and what AI chatbots can glean from a conversation - Insider Intelligence" />
 
-<a href="https://www.moneycontrol.com/news/health-and-fitness/101-guide-on-how-to-buy-a-perfect-yoga-mat-11579611.html" > How thick should your yoga mat be? What material is best in yoga mats? What are the top yoga mat brands? What size yoga mat should you pick? And more questions answered. </a> 
+<a href="https://www.insiderintelligence.com/content/podcast-daily-ai-rules-focus-on-first-minecrafts-milestone-what-ai-chatbots-glean-conversation" > On today's podcast episode, we discuss what AI rules the government should focus on first, what to make of AI "nutrition labels," and what concerns us most about the dark side of AI. "In Other News," we talk about a Minecraft milestone and what AI chatbots ca… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Oppo Find N3 Flip Sale Starts Today: Check Price, Bank Offers, Specifications, And More - Zee News by Zee Media Bureau</summary>
+<summary>Jio AirFiber now available in 8 cities offering upto 1Gbps speed, free Disney Plus Hotstar subscription and more - India Today by Divya Bhati</summary>
 <p align="center">
-<img src="https://english.cdn.zeenews.com/sites/default/files/2023/10/22/1302544-untitled-design-57.jpg" alt="Oppo Find N3 Flip Sale Starts Today: Check Price, Bank Offers, Specifications, And More - Zee News" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/jio-airfiber-202822863-16x9.jpg?VersionId=qA_77O0_WCxKU1p2k5Nm.BXTtdy0Gty7" alt="Jio AirFiber now available in 8 cities offering upto 1Gbps speed, free Disney Plus Hotstar subscription and more - India Today" />
 
-<a href="https://zeenews.india.com/technology/oppo-find-n3-flip-sale-starts-today-check-price-bank-offers-specifications-and-more-2678408.html" > Launching foldable smartphone is the trend for now for the smartphone makers. Following suit, the Chinese tech giant OPPO has launched Find N3 Flip in India few days back. Now, the smartphone is all set to hit the market for the first time today, on October 2… </a> 
+<a href="https://www.indiatoday.in/technology/news/story/jio-airfiber-now-available-in-8-cities-offering-upto-1gbps-speed-free-disney-plus-hotstar-subscription-and-more-2452459-2023-10-23" > Jio has launched its new wireless internet service, JioAirFiber, in eight cities across the country. The service offers six plans with high-speed internet, OTT benefits and other features. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung Galaxy Watch 4, Apple Watch SE 2, Amazfit Pop 3S and More Deals on Smartwatches During Amazon Sal... - Gadgets 360 by Gadgets 360 Staff</summary>
+<summary>Apple may launch new MacBook Pro, iMac later this month - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/galaxy_watch_4_samsung_1694499272509.jpg" alt="Samsung Galaxy Watch 4, Apple Watch SE 2, Amazfit Pop 3S and More Deals on Smartwatches During Amazon Sal... - Gadgets 360" />
+<img src="https://static.toiimg.com/thumb/msid-104638408,width-1070,height-580,imgsize-6104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple may launch new MacBook Pro, iMac later this month - Times of India" />
 
-<a href="https://www.gadgets360.com/internet/features/amazon-great-indian-festival-best-deals-on-smartwatches-samsung-galaxy-watch-4-apple-watch-se-2-amazfit-pop-3s-4500997" > The Amazon Great Indian Festival sale is ongoing, bringing deep discounts and value-for-money offers on a wide variety of products and electronic devices. Smartphones, of course, are the major draw, but laptops, gaming consoles, tablets, PCs, computer accesso… </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/apple-may-launch-new-macbook-pro-imac-later-this-month/articleshow/104638408.cms" > Apple is reportedly planning a product launch event at the end of October, according to Bloomberg's Mark Gurman. The iMac and MacBook Pro models are c </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Gadgets 360 With Technical Guruji: OnePlus Launches Its First Foldable - NDTV by None</summary>
+<summary>Vivo Y200 5G smartphone set to launch in India: Checkout the leaked specifications and expected pricing | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/u6Uyw193Sa0/maxresdefault.jpg" alt="Gadgets 360 With Technical Guruji: OnePlus Launches Its First Foldable - NDTV" />
+<img src="https://www.livemint.com/lm-img/img/2023/10/23/1600x900/y_20_5g_1698026885324_1698026885529.webp" alt="Vivo Y200 5G smartphone set to launch in India: Checkout the leaked specifications and expected pricing | Mint - Mint" />
 
-<a href="https://www.youtube.com/watch?v=u6Uyw193Sa0" > About NDTV (English news channel):  NDTV is India's Most-Trusted News Broadcaster with the latest updates in news, sports, entertainment and much more from w... </a> 
+<a href="https://www.livemint.com/technology/gadgets/vivo-y200-5g-smartphone-set-to-launch-in-india-checkout-the-leaked-specifications-and-expected-pricing-11698025130263.html" > Vivo Y200 5G featuring the Qualcomm Snapdragon 4 Gen 1 processor and a 64MP OIS camera is all set to be launched in India today </a> 
 </p>
 <br />
 
