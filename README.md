@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tauta su goals klotiz because tau zenoti tikurzi tau’re bukle&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Gar life is already a miracle be chance waiting par gar brokar shape its jate'kara&quot;</strong>
+  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sherry Flip</h4>
+<h4 align="center">Whiskey Sour</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qrryvq1478820428.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz cream </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 slice </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
 
 
 <p align="center">
-Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour glass. Sprinkle nutmeg on top and serve.
+Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.
 </p>
 
 ----
@@ -184,14 +188,14 @@ Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour gl
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Arp 87: Merging Galaxies from Hubble - ©️ NASA @ 2023-10-24</h4>
+<h4 align="center">Gone in 60 Seconds: A Green Flash Sunset - ©️ Tengyu Cai @ 2023-10-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/Arp87_HubblePathak_1080.jpg" alt="Arp 87: Merging Galaxies from Hubble image" />
+<img src="https://www.youtube.com/embed/J3_88eyN44w?rel=0" alt="Gone in 60 Seconds: A Green Flash Sunset image" />
 
 </p>
  
-<h5 align="center">This dance is to the death.  As these two large galaxies duel, a cosmic bridge of stars, gas, and dust currently stretches over 75,000 light-years and joins them.  The bridge itself is strong evidence that these two immense star systems have passed close to each other and experienced violent tides induced by mutual gravity. As further evidence, the face-on spiral galaxy on the right, also known as NGC 3808A, exhibits many young blue star clusters produced in a burst of star formation. The twisted edge-on spiral on the left (NGC 3808B) seems to be wrapped in the material bridging the galaxies and surrounded by a curious polar ring. Together, the system is known as Arp 87. While such interactions are drawn out over billions of years, repeated close passages will ultimately create one merged galaxy. Although this scenario does look unusual, galactic mergers are thought to be common, with Arp 87 representing a stage in this inevitable process. The Arp 87 dancing pair are about 300 million light-years distant toward the constellation of the Lion (Leo). The prominent edge-on spiral galaxy at the far left appears to be a more distant background galaxy and not involved in the on-going merger.</h5>
+<h5 align="center">In 60 seconds, this setting Sun will turn green. Actually, the top of the Sun already appears not only green, but wavey -- along with all of its edges. The Sun itself is unchanged -- both effects are caused by looking along hot and cold layers in Earth's atmosphere.  The unusual color is known as a green flash and occurs because these atmospheric layers not only shift background images but disperse colors into slightly different directions, like a prism.  The featured video was captured earlier this month off the coast of Hawaii, USA. After waiting those 60 seconds, at the video's end, the upper part of the Sun seems to hover alone in space, while turning not only green, but blue.  Then suddenly, the Sun appears to shrink to nothing -- only to return tomorrow.</h5>
 
 ----
 
@@ -204,90 +208,90 @@ Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour gl
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +307,55 @@ Shake all ingredients (except nutmeg) with ice and strain into a whiskey sour gl
 <br />
 
 <details>
-<summary>Garena Free Fire Redeem Codes for October 23: Spin and win thrilling rewards from the Garena UMP x AWM Ring event - HT Tech by HT Tech</summary>
+<summary>Nvidia to Challenge Intel With Arm-Based Chips for PCs - Bloomberg Television by None</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/23/1600x900/ffcec573399b9bd11dbdf12b4ac726a8_1672979009382_1698034964947.jpg" alt="Garena Free Fire Redeem Codes for October 23: Spin and win thrilling rewards from the Garena UMP x AWM Ring event - HT Tech" />
+<img src="https://i.ytimg.com/vi/fHMe83Gl4Nw/hqdefault.jpg" alt="Nvidia to Challenge Intel With Arm-Based Chips for PCs - Bloomberg Television" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-23-spin-and-win-thrilling-rewards-from-the-garena-ump-x-awm-ring-event-71698034656973.html" > Garena Free Fire Redeem codes for October 23: Participate in Garena UMP x AWM Ring event and get exciting freebies </a> 
+<a href="https://www.youtube.com/watch?v=fHMe83Gl4Nw" > Bloomberg has learned that Nvidia Corp. is using Arm Holdings Plc technology to develop chips that would challenge Intel Corp. processors in PCs. Peter Elstr... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>eMarketer Podcast: The Daily: AI rules to focus on first, Minecraft's milestone, and what AI chatbots can glean from a conversation - Insider Intelligence by Jacob Bourne</summary>
+<summary>Google Discover will soon start showing the air quality index in your city - India Today by Divya Bhati</summary>
 <p align="center">
-<img src="https://www.insiderintelligence.com/content/storage/socialsharingdefault/default-image-share.png?im=FitAndFill,width=1200,height=630" alt="eMarketer Podcast: The Daily: AI rules to focus on first, Minecraft's milestone, and what AI chatbots can glean from a conversation - Insider Intelligence" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/google-162921521-16x9_2.jpg?VersionId=CZ465YSNdhPNop8oAeymgViBPLWpLs_3" alt="Google Discover will soon start showing the air quality index in your city - India Today" />
 
-<a href="https://www.insiderintelligence.com/content/podcast-daily-ai-rules-focus-on-first-minecrafts-milestone-what-ai-chatbots-glean-conversation" > On today's podcast episode, we discuss what AI rules the government should focus on first, what to make of AI "nutrition labels," and what concerns us most about the dark side of AI. "In Other News," we talk about a Minecraft milestone and what AI chatbots ca… </a> 
+<a href="https://www.indiatoday.in/technology/news/story/google-discover-will-soon-start-showing-the-air-quality-index-in-your-city-2452913-2023-10-24" > Google is adding an air quality (AQI) card to the Discover tab on both iOS and Android devices. The card will show the AQI level and a color-coded dot that indicates the air quality condition. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Jio AirFiber now available in 8 cities offering upto 1Gbps speed, free Disney Plus Hotstar subscription and more - India Today by Divya Bhati</summary>
+<summary>What is a 'passkey' and how it might help you keep your login more secure - Hawaii News Now by None</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/jio-airfiber-202822863-16x9.jpg?VersionId=qA_77O0_WCxKU1p2k5Nm.BXTtdy0Gty7" alt="Jio AirFiber now available in 8 cities offering upto 1Gbps speed, free Disney Plus Hotstar subscription and more - India Today" />
+<img src="https://i.ytimg.com/vi/iFTA9-GJi7E/maxresdefault.jpg" alt="What is a 'passkey' and how it might help you keep your login more secure - Hawaii News Now" />
 
-<a href="https://www.indiatoday.in/technology/news/story/jio-airfiber-now-available-in-8-cities-offering-upto-1gbps-speed-free-disney-plus-hotstar-subscription-and-more-2452459-2023-10-23" > Jio has launched its new wireless internet service, JioAirFiber, in eight cities across the country. The service offers six plans with high-speed internet, OTT benefits and other features. </a> 
+<a href="https://www.youtube.com/watch?v=iFTA9-GJi7E" > A few companies are introducing a way to log in, without a password. Apple, Google, and Amazon give users the option of using "passkeys" instead.For more Loc... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple may launch new MacBook Pro, iMac later this month - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Garena Free Fire Redeem Codes for October 24: Win exciting rewards during the Miraculous Fist Faded Wheel event - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104638408,width-1070,height-580,imgsize-6104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple may launch new MacBook Pro, iMac later this month - Times of India" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/24/1600x900/Garena_Free_Fire_Max_1632206791669_1698118998644.jpg" alt="Garena Free Fire Redeem Codes for October 24: Win exciting rewards during the Miraculous Fist Faded Wheel event - HT Tech" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/apple-may-launch-new-macbook-pro-imac-later-this-month/articleshow/104638408.cms" > Apple is reportedly planning a product launch event at the end of October, according to Bloomberg's Mark Gurman. The iMac and MacBook Pro models are c </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-24-win-exciting-rewards-during-the-miraculous-fist-faded-wheel-event-71698118641784.html" > Garena Free Fire Redeem codes for October 24: Win rewards including armor crates, weapon loot crates, parachute skins, and more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Vivo Y200 5G smartphone set to launch in India: Checkout the leaked specifications and expected pricing | Mint - Mint by Livemint</summary>
+<summary>iQoo 12 Pro to Ditch 200W Fast Charging, Could Pack a 5,100mAh Battery: Report - Gadgets 360 by Richa Sharma, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/10/23/1600x900/y_20_5g_1698026885324_1698026885529.webp" alt="Vivo Y200 5G smartphone set to launch in India: Checkout the leaked specifications and expected pricing | Mint - Mint" />
+<img src="https://i.gadgets360cdn.com/large/iqoo_10_series_china_launch_vivo_1658238703336.jpg" alt="iQoo 12 Pro to Ditch 200W Fast Charging, Could Pack a 5,100mAh Battery: Report - Gadgets 360" />
 
-<a href="https://www.livemint.com/technology/gadgets/vivo-y200-5g-smartphone-set-to-launch-in-india-checkout-the-leaked-specifications-and-expected-pricing-11698025130263.html" > Vivo Y200 5G featuring the Qualcomm Snapdragon 4 Gen 1 processor and a 64MP OIS camera is all set to be launched in India today </a> 
+<a href="https://www.gadgets360.com/mobiles/news/iqoo-12-pro-specifications-120w-fast-charging-5100mah-battery-report-4507986" > iQoo 10 Pro, launched in July last year, became the first smartphone from the company to offer 200W fast charging support. It packed a 4,700mAh battery. Its successor, the iQoo 11 Pro also offered similar battery specifications. However, it is now being repor… </a> 
 </p>
 <br />
 
