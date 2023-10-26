@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Gar life is already a miracle be chance waiting par gar brokar shape its jate'kara&quot;</strong>
-  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Ennas tur- n- baw tovon disappointment where ennas na- ú- tovon mel.&quot;</strong>
+  <i>-- &quot;There can be no deep disappointment where there is not deep love.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Whiskey Sour</h4>
+<h4 align="center">Fruit Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/hbkfsh1589574990.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup fruit </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 piece textural </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the rocks', strain ingredients into old-fashioned glass filled with ice.
+Blend til smooth.
 </p>
 
 ----
@@ -152,10 +152,6 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prolog</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
@@ -173,7 +169,7 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 41 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -188,14 +184,14 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Gone in 60 Seconds: A Green Flash Sunset - ©️ Tengyu Cai @ 2023-10-25</h4>
+<h4 align="center">Orionids in Taurus - ©️ David Cortner @ 2023-10-26</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/J3_88eyN44w?rel=0" alt="Gone in 60 Seconds: A Green Flash Sunset image" />
+<img src="https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg" alt="Orionids in Taurus image" />
 
 </p>
  
-<h5 align="center">In 60 seconds, this setting Sun will turn green. Actually, the top of the Sun already appears not only green, but wavey -- along with all of its edges. The Sun itself is unchanged -- both effects are caused by looking along hot and cold layers in Earth's atmosphere.  The unusual color is known as a green flash and occurs because these atmospheric layers not only shift background images but disperse colors into slightly different directions, like a prism.  The featured video was captured earlier this month off the coast of Hawaii, USA. After waiting those 60 seconds, at the video's end, the upper part of the Sun seems to hover alone in space, while turning not only green, but blue.  Then suddenly, the Sun appears to shrink to nothing -- only to return tomorrow.</h5>
+<h5 align="center">History's first known periodic comet, Comet Halley (1P/Halley), returns to the inner Solar System every 76 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. In fact, an unhurried series of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud. Impacting the atmosphere at about 66 kilometers per second their greenish streaks point back to the shower's radiant just north of Orion's bright star Betelgeuse off the lower left side of the frame. The familiar Pleiades star cluster anchors the dusty celestial scene at the right.</h5>
 
 ----
 
@@ -208,32 +204,32 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
@@ -241,43 +237,43 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
@@ -285,13 +281,13 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -307,55 +303,55 @@ Shake with ice. Strain into chilled glass, garnish and serve. If served 'On the 
 <br />
 
 <details>
-<summary>Nvidia to Challenge Intel With Arm-Based Chips for PCs - Bloomberg Television by None</summary>
+<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For October 25. Here's How To Use - ABP Live by ABP News Bureau</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/fHMe83Gl4Nw/hqdefault.jpg" alt="Nvidia to Challenge Intel With Arm-Based Chips for PCs - Bloomberg Television" />
+<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/25/36ea4caf17f6714abe6ed4193db12a891698208190681402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For October 25. Here's How To Use - ABP Live" />
 
-<a href="https://www.youtube.com/watch?v=fHMe83Gl4Nw" > Bloomberg has learned that Nvidia Corp. is using Arm Holdings Plc technology to develop chips that would challenge Intel Corp. processors in PCs. Peter Elstr... </a> 
+<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-oct-25-october-2023-daily-free-rewards-1638149" > Garena Free Fire Max redeem codes comprise a total of 12 digits and can unlock a handful of goodies. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google Discover will soon start showing the air quality index in your city - India Today by Divya Bhati</summary>
+<summary>Skin fasting is the new trend for clear, refreshed skin - VOGUE India by Hasina Jeelani</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/google-162921521-16x9_2.jpg?VersionId=CZ465YSNdhPNop8oAeymgViBPLWpLs_3" alt="Google Discover will soon start showing the air quality index in your city - India Today" />
+<img src="https://assets.vogue.in/photos/6536ae1df21670855195f86d/16:9/w_1280,c_limit/Skin%20fasting%20.jpeg" alt="Skin fasting is the new trend for clear, refreshed skin - VOGUE India" />
 
-<a href="https://www.indiatoday.in/technology/news/story/google-discover-will-soon-start-showing-the-air-quality-index-in-your-city-2452913-2023-10-24" > Google is adding an air quality (AQI) card to the Discover tab on both iOS and Android devices. The card will show the AQI level and a color-coded dot that indicates the air quality condition. </a> 
+<a href="https://www.vogue.in/content/skin-fasting-is-the-new-trend-for-clear-refreshed-skin" > A new internet trend wants you to go on a skincare detox </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>What is a 'passkey' and how it might help you keep your login more secure - Hawaii News Now by None</summary>
+<summary>WhatsApp working slow? Paytm founder has a tip; Netizens say, 'good solution' | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/iFTA9-GJi7E/maxresdefault.jpg" alt="What is a 'passkey' and how it might help you keep your login more secure - Hawaii News Now" />
+<img src="https://www.livemint.com/lm-img/img/2023/10/25/1600x900/Vijayshekharsharma_1698207757290_1698207757589.jpg" alt="WhatsApp working slow? Paytm founder has a tip; Netizens say, 'good solution' | Mint - Mint" />
 
-<a href="https://www.youtube.com/watch?v=iFTA9-GJi7E" > A few companies are introducing a way to log in, without a password. Apple, Google, and Amazon give users the option of using "passkeys" instead.For more Loc... </a> 
+<a href="https://www.livemint.com/news/india/whatsapp-working-slow-paytm-founder-has-a-tip-netizens-say-good-solution-11698205693810.html" > Paytm CEO Vijay Shekhar Sharma shares advice for slow WhatsApp loading </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire Redeem Codes for October 24: Win exciting rewards during the Miraculous Fist Faded Wheel event - HT Tech by HT Tech</summary>
+<summary>Meta verified users to soon get their own feed on Instagram | WORLD DNA - WION by None</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/24/1600x900/Garena_Free_Fire_Max_1632206791669_1698118998644.jpg" alt="Garena Free Fire Redeem Codes for October 24: Win exciting rewards during the Miraculous Fist Faded Wheel event - HT Tech" />
+<img src="https://i.ytimg.com/vi/zuUdAdqZa5U/maxresdefault.jpg" alt="Meta verified users to soon get their own feed on Instagram | WORLD DNA - WION" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-24-win-exciting-rewards-during-the-miraculous-fist-faded-wheel-event-71698118641784.html" > Garena Free Fire Redeem codes for October 24: Win rewards including armor crates, weapon loot crates, parachute skins, and more. </a> 
+<a href="https://www.youtube.com/watch?v=zuUdAdqZa5U" > Adam Mosseri, the CEO of Meta-owned Instagram, has revealed that the firm is testing a new feed that resembles the X-like feed and shows users material from ... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>iQoo 12 Pro to Ditch 200W Fast Charging, Could Pack a 5,100mAh Battery: Report - Gadgets 360 by Richa Sharma, Siddharth Suvarna</summary>
+<summary>Apple confirms event on October 30, Scary Fast MacBooks and iMacs expected - India Today by Ankita Chakravarti</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/iqoo_10_series_china_launch_vivo_1658238703336.jpg" alt="iQoo 12 Pro to Ditch 200W Fast Charging, Could Pack a 5,100mAh Battery: Report - Gadgets 360" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/macbook-pro-230928725-16x9_1.jpg?VersionId=huHsxI6KSrg2XTSYFB70s2OnITTwoHWm" alt="Apple confirms event on October 30, Scary Fast MacBooks and iMacs expected - India Today" />
 
-<a href="https://www.gadgets360.com/mobiles/news/iqoo-12-pro-specifications-120w-fast-charging-5100mah-battery-report-4507986" > iQoo 10 Pro, launched in July last year, became the first smartphone from the company to offer 200W fast charging support. It packed a 4,700mAh battery. Its successor, the iQoo 11 Pro also offered similar battery specifications. However, it is now being repor… </a> 
+<a href="https://www.indiatoday.in/technology/news/story/apple-confirms-event-on-october-30-scary-fast-macbooks-and-imacs-expected-2453311-2023-10-25" > Apple teases new product revelations at their upcoming "Scary Fast" event due to unveil the latest iMacs and MacBooks, with live streaming globally accessible on October 30th. </a> 
 </p>
 <br />
 
