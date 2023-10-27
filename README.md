@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ennas tur- n- baw tovon disappointment where ennas na- ú- tovon mel.&quot;</strong>
-  <i>-- &quot;There can be no deep disappointment where there is not deep love.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Wa'logh tlhih wiv tul,  vay''s possible.&quot;</strong>
+  <i>-- &quot;Once you choose hope, anything's possible.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Fruit Shake</h4>
+<h4 align="center">Lady Love Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/q0fg2m1484430704.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup fruit </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz frozen </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fruit</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 piece textural </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-Blend til smooth.
+Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.
 </p>
 
 ----
@@ -152,6 +152,18 @@ Blend til smooth.
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
         </tr>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 8 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Git Config</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prolog</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
@@ -169,7 +181,7 @@ Blend til smooth.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 45 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -184,14 +196,14 @@ Blend til smooth.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Orionids in Taurus - ©️ David Cortner @ 2023-10-26</h4>
+<h4 align="center">Encke and the Tadpoles - ©️ Dan Bartlett @ 2023-10-27</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/20231023_orionids_in_taurus_1024c.jpg" alt="Orionids in Taurus image" />
+<img src="https://apod.nasa.gov/apod/image/2310/2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett1024.jpg" alt="Encke and the Tadpoles image" />
 
 </p>
  
-<h5 align="center">History's first known periodic comet, Comet Halley (1P/Halley), returns to the inner Solar System every 76 years or so. The famous comet made its last appearance to the naked-eye in 1986. But dusty debris from Comet Halley can be seen raining through planet Earth's skies twice a year during two annual meteor showers, the Eta Aquarids in May and the Orionids in October. In fact, an unhurried series of exposures captured these two bright meteors, vaporizing bits of Halley dust, during the early morning hours of October 23 against a starry background along the Taurus molecular cloud. Impacting the atmosphere at about 66 kilometers per second their greenish streaks point back to the shower's radiant just north of Orion's bright star Betelgeuse off the lower left side of the frame. The familiar Pleiades star cluster anchors the dusty celestial scene at the right.</h5>
+<h5 align="center">History's second known periodic comet is Comet Encke (2P/Encke). As it swings through the inner Solar System, Encke's orbit takes it from an aphelion, its greatest distance from the Sun, inside the orbit of Jupiter to a perihelion just inside the orbit of Mercury. Returning to its perihelion every 3.3 years, Encke has the shortest period of the Solar System's major comets. Comet Encke is also associated with (at least) two annual meteor showers on planet Earth, the North and South Taurids. Both showers are active in late October and early November. Their two separate radiants lie near bright star Aldebaran in the head-strong constellation Taurus. A faint comet, Encke was captured in this telescopic field of view imaged on the morning of August 24. Then, Encke's pretty greenish coma was close on the sky to the young, embedded star cluster and light-years long, tadpole-shaped star-forming clouds in emission nebula IC 410. Now near bright star Spica in Virgo Comet Encke passed its 2023 perihelion only five days ago, on October 22.</h5>
 
 ----
 
@@ -204,90 +216,90 @@ Blend til smooth.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +315,55 @@ Blend til smooth.
 <br />
 
 <details>
-<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For October 25. Here's How To Use - ABP Live by ABP News Bureau</summary>
+<summary>iOS 17.1 update is here with Apple Music, Airdrop! Know what's new | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/25/36ea4caf17f6714abe6ed4193db12a891698208190681402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For October 25. Here's How To Use - ABP Live" />
+<img src="https://www.livemint.com/lm-img/img/2023/10/26/1600x900/SHANGHAI-RETAIL-20_1696161800529_1698282916991.jpg" alt="iOS 17.1 update is here with Apple Music, Airdrop! Know what's new | Mint - Mint" />
 
-<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-oct-25-october-2023-daily-free-rewards-1638149" > Garena Free Fire Max redeem codes comprise a total of 12 digits and can unlock a handful of goodies. </a> 
+<a href="https://www.livemint.com/technology/tech-news/ios-17-1-update-is-here-with-apple-music-airdrop-know-whats-new-11698282512571.html" > iOS 17.1 update includes star icon feature for music, 'Out of Range' feature for AirDrop, and integration of debit and credit cards into Wallet app </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Skin fasting is the new trend for clear, refreshed skin - VOGUE India by Hasina Jeelani</summary>
+<summary>You Should Probably Buy a Flipper Zero Before It's Too Late - Gizmodo by Lucas Ropek</summary>
 <p align="center">
-<img src="https://assets.vogue.in/photos/6536ae1df21670855195f86d/16:9/w_1280,c_limit/Skin%20fasting%20.jpeg" alt="Skin fasting is the new trend for clear, refreshed skin - VOGUE India" />
+<img src="https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/30455258bce78f7728126a78f37ceeb3.png" alt="You Should Probably Buy a Flipper Zero Before It's Too Late - Gizmodo" />
 
-<a href="https://www.vogue.in/content/skin-fasting-is-the-new-trend-for-clear-refreshed-skin" > A new internet trend wants you to go on a skincare detox </a> 
+<a href="https://gizmodo.com/flipper-zero-microsoft-iphones-hackers-1850958433" > While clearly awesome, the pen testing tool has shown an ability to stir up anxiety for those in power. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>WhatsApp working slow? Paytm founder has a tip; Netizens say, 'good solution' | Mint - Mint by Livemint</summary>
+<summary>iOS 17.1 and iPadOS 17.1 with AirDrop over the internet, watchOS 10.1 with Double Tap now out - GSMArena.com news - GSMArena.com by Vlad</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/10/25/1600x900/Vijayshekharsharma_1698207757290_1698207757589.jpg" alt="WhatsApp working slow? Paytm founder has a tip; Netizens say, 'good solution' | Mint - Mint" />
+<img src="https://fdn.gsmarena.com/imgroot/news/23/10/ios-17-1-ipados-17-1-watchos-10-1/-952x498w6/gsmarena_000.jpg" alt="iOS 17.1 and iPadOS 17.1 with AirDrop over the internet, watchOS 10.1 with Double Tap now out - GSMArena.com news - GSMArena.com" />
 
-<a href="https://www.livemint.com/news/india/whatsapp-working-slow-paytm-founder-has-a-tip-netizens-say-good-solution-11698205693810.html" > Paytm CEO Vijay Shekhar Sharma shares advice for slow WhatsApp loading </a> 
+<a href="https://www.gsmarena.com/ios_171_and_ipados_171_with_airdrop_over_the_internet_watchos_101_with_double_tap_now_out-news-60364.php" > It's a pretty important update day in Appleland. Today Apple has released iOS 17.1, iPadOS 17.1, and watchOS 10.1 to all supported devices. The downloads... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Meta verified users to soon get their own feed on Instagram | WORLD DNA - WION by None</summary>
+<summary>Have We Been Sleeping Well? Samsung Answers the Age-Old Question with the Global Sleep Health Study - Samsung Mobile Press by None</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/zuUdAdqZa5U/maxresdefault.jpg" alt="Meta verified users to soon get their own feed on Instagram | WORLD DNA - WION" />
+<img src="https://www.samsungmobilepress.com/file/554421B1637300D03DBF2509C2954C6C39316C7C447DD2DA85058C916681A24C4B89D3D64517D49BA62F2C3999AD875E4E7168A479EC2BF11CDE628703DF09ED7CE729249269EA37346453746FA1AD62D9BF01B868D2D4B21721B4BC71F8813DEB08310595136424CD5A5DFDCC2EEA61503A3624BBBFD0770DE020BC42DC2490" alt="Have We Been Sleeping Well? Samsung Answers the Age-Old Question with the Global Sleep Health Study - Samsung Mobile Press" />
 
-<a href="https://www.youtube.com/watch?v=zuUdAdqZa5U" > Adam Mosseri, the CEO of Meta-owned Instagram, has revealed that the firm is testing a new feed that resembles the X-like feed and shows users material from ... </a> 
+<a href="https://www.samsungmobilepress.com/feature-stories/have-we-been-sleeping-well-samsung-answers-the-age-old-question-with-the-global-sleep-health-study/" >  </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple confirms event on October 30, Scary Fast MacBooks and iMacs expected - India Today by Ankita Chakravarti</summary>
+<summary>Here's everything featured in tonight's Xbox Partner Preview showcase - Eurogamer.net by Matt Wales</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/macbook-pro-230928725-16x9_1.jpg?VersionId=huHsxI6KSrg2XTSYFB70s2OnITTwoHWm" alt="Apple confirms event on October 30, Scary Fast MacBooks and iMacs expected - India Today" />
+<img src="https://assetsio.reedpopcdn.com/xbox-partner-preview-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Here's everything featured in tonight's Xbox Partner Preview showcase - Eurogamer.net" />
 
-<a href="https://www.indiatoday.in/technology/news/story/apple-confirms-event-on-october-30-scary-fast-macbooks-and-imacs-expected-2453311-2023-10-25" > Apple teases new product revelations at their upcoming "Scary Fast" event due to unveil the latest iMacs and MacBooks, with live streaming globally accessible on October 30th. </a> 
+<a href="https://www.eurogamer.net/heres-everything-featured-in-tonights-xbox-partner-preview-showcase" > Microsoft's Xbox Partner Preview showcase might have an exceptionally rubbish name, but don't let that fool you into th… </a> 
 </p>
 <br />
 
