@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Wa'logh tlhih wiv tul,  vay''s possible.&quot;</strong>
-  <i>-- &quot;Once you choose hope, anything's possible.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Nothing na- more real than nothing.&quot;</strong>
+  <i>-- &quot;Nothing is more real than nothing.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lady Love Fizz</h4>
+<h4 align="center">Amaretto Sweet &amp; Sour</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/20d63k1504885263.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -47,26 +47,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -76,7 +56,7 @@
 
 
 <p align="center">
-Shake all ingredients (except carbonated water) with ice and strain into a cocktail glass over two ice cubes. Fill with carbonated water, stir, and serve.
+Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. Add about 1&quot; of pineapple juice, 1/2&quot; of melon liqeur, and 1/2 to 1/4&quot; of amaretto. Then blend the mix until it is of margaritta consistency or thinner.
 </p>
 
 ----
@@ -196,14 +176,14 @@ Shake all ingredients (except carbonated water) with ice and strain into a cockt
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Encke and the Tadpoles - ©️ Dan Bartlett @ 2023-10-27</h4>
+<h4 align="center">The Ghosts of Gamma Cas - ©️ Guillaume Gruntz @ 2023-10-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/2P_Encke_2023_08_24JuneLake_California_USA_DEBartlett1024.jpg" alt="Encke and the Tadpoles image" />
+<img src="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg" alt="The Ghosts of Gamma Cas image" />
 
 </p>
  
-<h5 align="center">History's second known periodic comet is Comet Encke (2P/Encke). As it swings through the inner Solar System, Encke's orbit takes it from an aphelion, its greatest distance from the Sun, inside the orbit of Jupiter to a perihelion just inside the orbit of Mercury. Returning to its perihelion every 3.3 years, Encke has the shortest period of the Solar System's major comets. Comet Encke is also associated with (at least) two annual meteor showers on planet Earth, the North and South Taurids. Both showers are active in late October and early November. Their two separate radiants lie near bright star Aldebaran in the head-strong constellation Taurus. A faint comet, Encke was captured in this telescopic field of view imaged on the morning of August 24. Then, Encke's pretty greenish coma was close on the sky to the young, embedded star cluster and light-years long, tadpole-shaped star-forming clouds in emission nebula IC 410. Now near bright star Spica in Virgo Comet Encke passed its 2023 perihelion only five days ago, on October 22.</h5>
+<h5 align="center">Gamma Cassiopeiae shines high in northern autumn evening skies. It's the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia. Gamma Cas shares the ethereal-looking scene with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.  About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, eroding under the influence of energetic radiation from hot and luminous gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of gamma Cas and friends.</h5>
 
 ----
 
@@ -216,21 +196,21 @@ Shake all ingredients (except carbonated water) with ice and strain into a cockt
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
@@ -241,7 +221,7 @@ Shake all ingredients (except carbonated water) with ice and strain into a cockt
 <img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
@@ -249,57 +229,57 @@ Shake all ingredients (except carbonated water) with ice and strain into a cockt
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -315,55 +295,55 @@ Shake all ingredients (except carbonated water) with ice and strain into a cockt
 <br />
 
 <details>
-<summary>iOS 17.1 update is here with Apple Music, Airdrop! Know what's new | Mint - Mint by Livemint</summary>
+<summary>Here's how much Google paid Apple to be iPhone’s default search engine - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/10/26/1600x900/SHANGHAI-RETAIL-20_1696161800529_1698282916991.jpg" alt="iOS 17.1 update is here with Apple Music, Airdrop! Know what's new | Mint - Mint" />
+<img src="https://static.toiimg.com/thumb/msid-104737021,width-1070,height-580,imgsize-11502,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Here's how much Google paid Apple to be iPhone’s default search engine - Times of India" />
 
-<a href="https://www.livemint.com/technology/tech-news/ios-17-1-update-is-here-with-apple-music-airdrop-know-whats-new-11698282512571.html" > iOS 17.1 update includes star icon feature for music, 'Out of Range' feature for AirDrop, and integration of debit and credit cards into Wallet app </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/heres-how-much-google-paid-apple-to-be-iphones-default-search-engine/articleshow/104737026.cms" > Google is currently facing an antitrust case in the US, with the Justice Department claiming that the company illegally established its monopoly in on </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>You Should Probably Buy a Flipper Zero Before It's Too Late - Gizmodo by Lucas Ropek</summary>
+<summary>Why used phones are flying off the shelves - Hindustan Times by Shuchi Bansal</summary>
 <p align="center">
-<img src="https://i.kinja-img.com/image/upload/c_fill,h_675,pg_1,q_80,w_1200/30455258bce78f7728126a78f37ceeb3.png" alt="You Should Probably Buy a Flipper Zero Before It's Too Late - Gizmodo" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/-p-Why-used-phones-are-flying-off-the-shelves--p-_1698345601393.jpg" alt="Why used phones are flying off the shelves - Hindustan Times" />
 
-<a href="https://gizmodo.com/flipper-zero-microsoft-iphones-hackers-1850958433" > While clearly awesome, the pen testing tool has shown an ability to stir up anxiety for those in power. </a> 
+<a href="https://www.hindustantimes.com/cities/mumbai-news/why-used-phones-are-flying-off-the-shelves-101698345603641.html" > Reasons for this spike stem from demand in both metros and smaller cities and also from new smartphone buyers in mature markets and feature phone users transitioning in emerging markets within the country | Mumbai news </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>iOS 17.1 and iPadOS 17.1 with AirDrop over the internet, watchOS 10.1 with Double Tap now out - GSMArena.com news - GSMArena.com by Vlad</summary>
+<summary>Qualcomm's Snapdragon X Elite aims to dethrone Intel and Apple in laptops - ReadWrite by Radek Zielinski</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/10/ios-17-1-ipados-17-1-watchos-10-1/-952x498w6/gsmarena_000.jpg" alt="iOS 17.1 and iPadOS 17.1 with AirDrop over the internet, watchOS 10.1 with Double Tap now out - GSMArena.com news - GSMArena.com" />
+<img src="https://readwrite.com/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.png" alt="Qualcomm's Snapdragon X Elite aims to dethrone Intel and Apple in laptops - ReadWrite" />
 
-<a href="https://www.gsmarena.com/ios_171_and_ipados_171_with_airdrop_over_the_internet_watchos_101_with_double_tap_now_out-news-60364.php" > It's a pretty important update day in Appleland. Today Apple has released iOS 17.1, iPadOS 17.1, and watchOS 10.1 to all supported devices. The downloads... </a> 
+<a href="https://readwrite.com/qualcomms-snapdragon-x-elite-aims-to-dethrone-intel-and-apple-in-laptops/" > In a challenge to the dominance of Apple and Intel in the laptop market, Qualcomm announced its Snapdragon X Elite. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Have We Been Sleeping Well? Samsung Answers the Age-Old Question with the Global Sleep Health Study - Samsung Mobile Press by None</summary>
+<summary>Virtual try-ons: Closing sales or just a fleeting fad for brands? - afaqs! by Yash Bhatia</summary>
 <p align="center">
-<img src="https://www.samsungmobilepress.com/file/554421B1637300D03DBF2509C2954C6C39316C7C447DD2DA85058C916681A24C4B89D3D64517D49BA62F2C3999AD875E4E7168A479EC2BF11CDE628703DF09ED7CE729249269EA37346453746FA1AD62D9BF01B868D2D4B21721B4BC71F8813DEB08310595136424CD5A5DFDCC2EEA61503A3624BBBFD0770DE020BC42DC2490" alt="Have We Been Sleeping Well? Samsung Answers the Age-Old Question with the Global Sleep Health Study - Samsung Mobile Press" />
+<img src="https://gumlet.assettype.com/afaqs%2F2023-10%2Fdab4fbde-efb8-49e8-b44a-4a6b68777bfd%2FUntitled_design___2023_10_27T021315_886.png?w=1200&auto=format%2Ccompress&ogImage=true" alt="Virtual try-ons: Closing sales or just a fleeting fad for brands? - afaqs!" />
 
-<a href="https://www.samsungmobilepress.com/feature-stories/have-we-been-sleeping-well-samsung-answers-the-age-old-question-with-the-global-sleep-health-study/" >  </a> 
+<a href="https://www.afaqs.com/news/mktg/virtual-try-ons-closing-sales-or-just-a-fleeting-fad-for-brands" > With Google launching AR beauty features, industry leaders discuss the shift in consumer engagement and virtual try-ons influencing diverse markets. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Here's everything featured in tonight's Xbox Partner Preview showcase - Eurogamer.net by Matt Wales</summary>
+<summary>Robert Pattinson's Batsuit briefly appears in the 8-year-old Batman: Arkham Knight - Eurogamer.net by Matt Wales</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/xbox-partner-preview-artwork.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Here's everything featured in tonight's Xbox Partner Preview showcase - Eurogamer.net" />
+<img src="https://assetsio.reedpopcdn.com/arkham-knight-pattsuit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Robert Pattinson's Batsuit briefly appears in the 8-year-old Batman: Arkham Knight - Eurogamer.net" />
 
-<a href="https://www.eurogamer.net/heres-everything-featured-in-tonights-xbox-partner-preview-showcase" > Microsoft's Xbox Partner Preview showcase might have an exceptionally rubbish name, but don't let that fool you into th… </a> 
+<a href="https://www.eurogamer.net/robert-pattinsons-batsuit-briefly-appears-in-the-8-year-old-batman-arkham-knight" > So you thought developer Rocksteady was done with Batman: Arkham Knight, did you? Well, it seems that might not be quit… </a> 
 </p>
 <br />
 
