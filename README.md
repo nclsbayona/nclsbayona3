@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nothing na- more real than nothing.&quot;</strong>
-  <i>-- &quot;Nothing is more real than nothing.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Yeri are learning mas lessons ha yourself ei asshekh&quot;</strong>
+  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto Sweet &amp; Sour</h4>
+<h4 align="center">Brandy Cobbler</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vswwus1472668546.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5xgu591582580586.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -47,6 +47,30 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+        </tr>
     </tbody>
 </table>
 </td>
@@ -56,7 +80,7 @@
 
 
 <p align="center">
-Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. Add about 1&quot; of pineapple juice, 1/2&quot; of melon liqeur, and 1/2 to 1/4&quot; of amaretto. Then blend the mix until it is of margaritta consistency or thinner.
+In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.
 </p>
 
 ----
@@ -176,14 +200,14 @@ Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. A
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Ghosts of Gamma Cas - ©️ Guillaume Gruntz @ 2023-10-28</h4>
+<h4 align="center">A Partial Lunar Eclipse - ©️ Orazio Mezzio @ 2023-10-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/IC63_GruntzBax1024.jpg" alt="The Ghosts of Gamma Cas image" />
+<img src="https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg" alt="A Partial Lunar Eclipse image" />
 
 </p>
  
-<h5 align="center">Gamma Cassiopeiae shines high in northern autumn evening skies. It's the brightest spiky star in this telescopic field of view toward the constellation Cassiopeia. Gamma Cas shares the ethereal-looking scene with ghostly interstellar clouds of gas and dust, IC 59 (top left) and IC 63.  About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, eroding under the influence of energetic radiation from hot and luminous gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows proportionally less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The cosmic stage spans over 1 degree or 10 light-years at the estimated distance of gamma Cas and friends.</h5>
+<h5 align="center">What's happened to the Moon?  Within the last day, part of the Moon moved through the Earth's shadow.  This happens about once or twice a year, but not every month since the Moon's orbit around the Earth is slightly tilted.  Pictured here, the face of a full Hunter's Moon is shown twice from Italy during this partial lunar eclipse.  On the left, most of the Moon appears overexposed except for the eclipsed bottom right, which shows some familiar lunar surface details. In contrast, on the right, most of the (same) Moon appears normally exposed, with the exception of the bottom right, which now appears dark. All lunar eclipses are visible from the half of the Earth facing the Moon at the time of the eclipse, but this eclipse was visible specifically from Europe, Africa, Asia, and Australia, clouds permitting. In April, a total solar eclipse will be visible from North America.   Album: Selected partial lunar eclipse images sent in to APOD</h5>
 
 ----
 
@@ -196,68 +220,68 @@ Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. A
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -265,21 +289,21 @@ Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. A
 <img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -295,55 +319,55 @@ Fill the blender with 3/4 ice. Add sweet &amp; sour mix to the top of the ice. A
 <br />
 
 <details>
-<summary>Here's how much Google paid Apple to be iPhone’s default search engine - Times of India by TIMESOFINDIA.COM</summary>
+<summary>iQOO 12 Pro official teaser images show the BMW M Motorsport edition - GSMArena.com news - GSMArena.com by Vlad</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104737021,width-1070,height-580,imgsize-11502,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Here's how much Google paid Apple to be iPhone’s default search engine - Times of India" />
+<img src="https://fdn.gsmarena.com/imgroot/news/23/10/iqoo-12-pro-official-teaser/-952x498w6/gsmarena_000.jpg" alt="iQOO 12 Pro official teaser images show the BMW M Motorsport edition - GSMArena.com news - GSMArena.com" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/heres-how-much-google-paid-apple-to-be-iphones-default-search-engine/articleshow/104737026.cms" > Google is currently facing an antitrust case in the US, with the Justice Department claiming that the company illegally established its monopoly in on </a> 
+<a href="https://www.gsmarena.com/iqoo_12_pro_official_teaser_images_show_the_bmw_m_motorsport_edition-news-60399.php" > The phone will become official on November 7. A couple of days ago we brought you news that the iQOO 12 family is launching in China on November 7, and... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Why used phones are flying off the shelves - Hindustan Times by Shuchi Bansal</summary>
+<summary>Cities: Skylines 2 Developer Addresses Teeth Controversy - IGN Daily Fix - IGN by None</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/10/26/1600x900/-p-Why-used-phones-are-flying-off-the-shelves--p-_1698345601393.jpg" alt="Why used phones are flying off the shelves - Hindustan Times" />
+<img src="https://i.ytimg.com/vi/HdSyl0GjwKo/maxresdefault.jpg" alt="Cities: Skylines 2 Developer Addresses Teeth Controversy - IGN Daily Fix - IGN" />
 
-<a href="https://www.hindustantimes.com/cities/mumbai-news/why-used-phones-are-flying-off-the-shelves-101698345603641.html" > Reasons for this spike stem from demand in both metros and smaller cities and also from new smartphone buyers in mature markets and feature phone users transitioning in emerging markets within the country | Mumbai news </a> 
+<a href="https://www.youtube.com/watch?v=HdSyl0GjwKo" > In today's Daily Fix:The anticipated city builder, Cities: Skylines 2 was released to lukewarm reviews, with criticism directed at the game's performance. A ... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Qualcomm's Snapdragon X Elite aims to dethrone Intel and Apple in laptops - ReadWrite by Radek Zielinski</summary>
+<summary>New Switch OLED Bundle Reportedly Launching Next Month - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://readwrite.com/wp-content/uploads/2023/10/Qualcomm-Snapdragon-X-Elite-1.png" alt="Qualcomm's Snapdragon X Elite aims to dethrone Intel and Apple in laptops - ReadWrite" />
+<img src="https://images.nintendolife.com/f6b2d167a3af5/1280x720.jpg" alt="New Switch OLED Bundle Reportedly Launching Next Month - Nintendo Life" />
 
-<a href="https://readwrite.com/qualcomms-snapdragon-x-elite-aims-to-dethrone-intel-and-apple-in-laptops/" > In a challenge to the dominance of Apple and Intel in the laptop market, Qualcomm announced its Snapdragon X Elite. </a> 
+<a href="https://www.nintendolife.com/news/2023/10/new-switch-oled-bundle-reportedly-launching-next-month" > It's expected to include Mario Kart 8 Deluxe </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Virtual try-ons: Closing sales or just a fleeting fad for brands? - afaqs! by Yash Bhatia</summary>
+<summary>Alienware m18 R1 Review - MobileTechReview by None</summary>
 <p align="center">
-<img src="https://gumlet.assettype.com/afaqs%2F2023-10%2Fdab4fbde-efb8-49e8-b44a-4a6b68777bfd%2FUntitled_design___2023_10_27T021315_886.png?w=1200&auto=format%2Ccompress&ogImage=true" alt="Virtual try-ons: Closing sales or just a fleeting fad for brands? - afaqs!" />
+<img src="https://i.ytimg.com/vi/C3KI0Yoi1Fw/maxresdefault.jpg" alt="Alienware m18 R1 Review - MobileTechReview" />
 
-<a href="https://www.afaqs.com/news/mktg/virtual-try-ons-closing-sales-or-just-a-fleeting-fad-for-brands" > With Google launching AR beauty features, industry leaders discuss the shift in consumer engagement and virtual try-ons influencing diverse markets. </a> 
+<a href="https://www.youtube.com/watch?v=C3KI0Yoi1Fw" > The Alienware m18 is their first gen 18” beast of a gaming laptop for 2023. It’s available with your choice of Intel or AMD Ryzen high end 45 watt processors... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Robert Pattinson's Batsuit briefly appears in the 8-year-old Batman: Arkham Knight - Eurogamer.net by Matt Wales</summary>
+<summary>Save $100 Off the ASUS ROG Ally Z1 Extreme Gaming Handheld with This My Best Buy Plus Deal - IGN by Eric Song</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/arkham-knight-pattsuit.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Robert Pattinson's Batsuit briefly appears in the 8-year-old Batman: Arkham Knight - Eurogamer.net" />
+<img src="https://assets-prd.ignimgs.com/2023/10/27/asusrogally-1698447822271.jpg?width=1280" alt="Save $100 Off the ASUS ROG Ally Z1 Extreme Gaming Handheld with This My Best Buy Plus Deal - IGN" />
 
-<a href="https://www.eurogamer.net/robert-pattinsons-batsuit-briefly-appears-in-the-8-year-old-batman-arkham-knight" > So you thought developer Rocksteady was done with Batman: Arkham Knight, did you? Well, it seems that might not be quit… </a> 
+<a href="https://www.ign.com/articles/deal-alert-asus-rog-ally-z1-extreme-gaming-handheld-my-best-buy-plus-deal-membership" > None </a> 
 </p>
 <br />
 
