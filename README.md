@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yeri are learning mas lessons ha yourself ei asshekh&quot;</strong>
-  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Yeri laz avoid reality,  vosma yeri cannot avoid the consequences ki avoiding reality.&quot;</strong>
+  <i>-- &quot;You can avoid reality, but you cannot avoid the consequences of avoiding reality.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brandy Cobbler</h4>
+<h4 align="center">Diesel</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5xgu591582580586.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,28 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackcurrant cordial</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +68,7 @@
 
 
 <p align="center">
-In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice until the glass is almost full. Add the brandy. Stir well. Garnish with the cherry and the orange and lemon slices.
+Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.
 </p>
 
 ----
@@ -152,10 +140,6 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Markdown</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 30 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 8 minutes</td>
         </tr>
@@ -166,10 +150,6 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prolog</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -185,7 +165,7 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 45 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 14 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,14 +180,14 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Partial Lunar Eclipse - ©️ Orazio Mezzio @ 2023-10-29</h4>
+<h4 align="center">Reflections of the Ghost Nebula - ©️ Bogdan Jarzyna @ 2023-10-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/PartialLunarItaly_Mezzio_1080.jpg" alt="A Partial Lunar Eclipse image" />
+<img src="https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg" alt="Reflections of the Ghost Nebula image" />
 
 </p>
  
-<h5 align="center">What's happened to the Moon?  Within the last day, part of the Moon moved through the Earth's shadow.  This happens about once or twice a year, but not every month since the Moon's orbit around the Earth is slightly tilted.  Pictured here, the face of a full Hunter's Moon is shown twice from Italy during this partial lunar eclipse.  On the left, most of the Moon appears overexposed except for the eclipsed bottom right, which shows some familiar lunar surface details. In contrast, on the right, most of the (same) Moon appears normally exposed, with the exception of the bottom right, which now appears dark. All lunar eclipses are visible from the half of the Earth facing the Moon at the time of the eclipse, but this eclipse was visible specifically from Europe, Africa, Asia, and Australia, clouds permitting. In April, a total solar eclipse will be visible from North America.   Album: Selected partial lunar eclipse images sent in to APOD</h5>
+<h5 align="center">Do any shapes seem to jump out at you from this interstellar field of stars and dust?  The jeweled expanse, filled with faint, starlight-reflecting clouds, drifts through the night in the royal constellation of Cepheus. Far from your own neighborhood on planet Earth, these ghostly apparitions lurk along the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over two light-years across and brighter than the other spooky chimeras, VdB 141 or Sh2-136 is also known as the Ghost Nebula, seen toward the bottom of the featured image. Within the reflection nebula are the telltale signs of dense cores collapsing in the early stages of star formation.   Tour the Universe: Random APOD Generator</h5>
 
 ----
 
@@ -223,54 +203,54 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -278,32 +258,32 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +299,55 @@ In an old-fashioned glass, dissolve the sugar in the club soda. Add crushed ice 
 <br />
 
 <details>
-<summary>iQOO 12 Pro official teaser images show the BMW M Motorsport edition - GSMArena.com news - GSMArena.com by Vlad</summary>
+<summary>Terrible Optimization: Cities Skylines 2 GPU Benchmarks & Graphics Optimization Guide - Gamers Nexus by None</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/10/iqoo-12-pro-official-teaser/-952x498w6/gsmarena_000.jpg" alt="iQOO 12 Pro official teaser images show the BMW M Motorsport edition - GSMArena.com news - GSMArena.com" />
+<img src="https://i.ytimg.com/vi/l4DX6mUY78s/maxresdefault.jpg" alt="Terrible Optimization: Cities Skylines 2 GPU Benchmarks & Graphics Optimization Guide - Gamers Nexus" />
 
-<a href="https://www.gsmarena.com/iqoo_12_pro_official_teaser_images_show_the_bmw_m_motorsport_edition-news-60399.php" > The phone will become official on November 7. A couple of days ago we brought you news that the iQOO 12 family is launching in China on November 7, and... </a> 
+<a href="https://www.youtube.com/watch?v=l4DX6mUY78s" > Sponsor: Lexar Thor DDR5 RAM on Amazon https://geni.us/AuxUm9This benchmark tests GPU performance in Cities: Skylines 2 by Colosssal Order. Cities Skylines 2... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Cities: Skylines 2 Developer Addresses Teeth Controversy - IGN Daily Fix - IGN by None</summary>
+<summary>How to copy and paste on a MacBook - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/HdSyl0GjwKo/maxresdefault.jpg" alt="Cities: Skylines 2 Developer Addresses Teeth Controversy - IGN Daily Fix - IGN" />
+<img src="https://static.toiimg.com/thumb/msid-104790943,width-1070,height-580,imgsize-6104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to copy and paste on a MacBook - Times of India" />
 
-<a href="https://www.youtube.com/watch?v=HdSyl0GjwKo" > In today's Daily Fix:The anticipated city builder, Cities: Skylines 2 was released to lukewarm reviews, with criticism directed at the game's performance. A ... </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-copy-and-paste-on-a-macbook/articleshow/104790946.cms" > Knowing how to copy and paste on a MacBook is essential for duplicating and transferring text or content between applications. To copy, highlight the </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>New Switch OLED Bundle Reportedly Launching Next Month - Nintendo Life by Liam Doolan</summary>
+<summary>Garena Free Fire MAX Codes for October 29: Get exclusive rewards this Diwali - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/f6b2d167a3af5/1280x720.jpg" alt="New Switch OLED Bundle Reportedly Launching Next Month - Nintendo Life" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/29/1600x900/4553917dbe5df8481215371fbf2fbef2jpg_1655169131350_1698543453492.jpg" alt="Garena Free Fire MAX Codes for October 29: Get exclusive rewards this Diwali - HT Tech" />
 
-<a href="https://www.nintendolife.com/news/2023/10/new-switch-oled-bundle-reportedly-launching-next-month" > It's expected to include Mario Kart 8 Deluxe </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-codes-for-october-29-get-exclusive-rewards-this-diwali-71698543205590.html" > Garena Free Fire MAX Redeem Codes for October 29: Players can earn amazing in-game items for free with the help of Garena Free Fire MAX redeem codes! Check them out below. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Alienware m18 R1 Review - MobileTechReview by None</summary>
+<summary>Dominate the Game: Strategies to fast-track evo level in BGMI - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/C3KI0Yoi1Fw/maxresdefault.jpg" alt="Alienware m18 R1 Review - MobileTechReview" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/29/1600x900/BGMI_Rising_1685629702207_1698543034620.png" alt="Dominate the Game: Strategies to fast-track evo level in BGMI - HT Tech" />
 
-<a href="https://www.youtube.com/watch?v=C3KI0Yoi1Fw" > The Alienware m18 is their first gen 18” beast of a gaming laptop for 2023. It’s available with your choice of Intel or AMD Ryzen high end 45 watt processors... </a> 
+<a href="https://tech.hindustantimes.com/how-to/dominate-the-game-strategies-to-fast-track-evo-level-in-bgmi-71698542861531.html" > Discover the secrets to leveling up your Evo Level in BGMI with these 3 effective strategies, from missions to EXP cards. Dominate the battlefield like a pro! </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Save $100 Off the ASUS ROG Ally Z1 Extreme Gaming Handheld with This My Best Buy Plus Deal - IGN by Eric Song</summary>
+<summary>Google researchers use off-the-shelf headphones to measure heart rate - The Verge by Wes Davis</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/10/27/asusrogally-1698447822271.jpg?width=1280" alt="Save $100 Off the ASUS ROG Ally Z1 Extreme Gaming Handheld with This My Best Buy Plus Deal - IGN" />
+<img src="https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg" alt="Google researchers use off-the-shelf headphones to measure heart rate - The Verge" />
 
-<a href="https://www.ign.com/articles/deal-alert-asus-rog-ally-z1-extreme-gaming-handheld-my-best-buy-plus-deal-membership" > None </a> 
+<a href="https://www.theverge.com/2023/10/28/23936562/google-heart-rate-monitoring-headphones-earbuds-active-noise-canceling" > Google researchers used a software update to turn standard noise-canceling earbuds into heart rate monitors using ultrasound signals. </a> 
 </p>
 <br />
 
