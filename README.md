@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yeri laz avoid reality,  vosma yeri cannot avoid the consequences ki avoiding reality.&quot;</strong>
-  <i>-- &quot;You can avoid reality, but you cannot avoid the consequences of avoiding reality.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Du're doing wuh lo'uk job&quot;</strong>
+  <i>-- &quot;You're doing a great job&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Diesel</h4>
+<h4 align="center">Corpse Reviver</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sxrrqq1454512852.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Beer</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackcurrant cordial</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet Blanc</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absinthe</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,8 @@
 
 
 <p align="center">
-Pour the lager first then add the blackcurrant cordial. Top up with the cider. The colour sholud be very dark approaching the colour of Guiness.
+Shake, strain, straight up, cocktail glass rinsed with absinthe
+
 </p>
 
 ----
@@ -180,14 +189,14 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Reflections of the Ghost Nebula - ©️ Bogdan Jarzyna @ 2023-10-30</h4>
+<h4 align="center">Halloween and the Wizard Nebula - ©️ Richard McInnis @ 2023-10-31</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/GhostNebula_Jarzyna_960.jpg" alt="Reflections of the Ghost Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg" alt="Halloween and the Wizard Nebula image" />
 
 </p>
  
-<h5 align="center">Do any shapes seem to jump out at you from this interstellar field of stars and dust?  The jeweled expanse, filled with faint, starlight-reflecting clouds, drifts through the night in the royal constellation of Cepheus. Far from your own neighborhood on planet Earth, these ghostly apparitions lurk along the plane of the Milky Way at the edge of the Cepheus Flare molecular cloud complex some 1,200 light-years away. Over two light-years across and brighter than the other spooky chimeras, VdB 141 or Sh2-136 is also known as the Ghost Nebula, seen toward the bottom of the featured image. Within the reflection nebula are the telltale signs of dense cores collapsing in the early stages of star formation.   Tour the Universe: Random APOD Generator</h5>
+<h5 align="center">Halloween's origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day / equal night) and a solstice (minimum day / maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs today, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog Day. Halloween's modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this closeup view of the Wizard Nebula (NGC 7380).  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional ancient sorcerer. Although the nebula may last only a few million years, some of the stars being conjured from the gas by the great gravitational powers may outlive our Sun.</h5>
 
 ----
 
@@ -200,90 +209,90 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -299,55 +308,55 @@ Pour the lager first then add the blackcurrant cordial. Top up with the cider. T
 <br />
 
 <details>
-<summary>Terrible Optimization: Cities Skylines 2 GPU Benchmarks & Graphics Optimization Guide - Gamers Nexus by None</summary>
+<summary>Mark Zuckerberg posts amazing pics with daughter in front of giant sequoia trees - Hindustan Times by Trisha Sengupta</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/l4DX6mUY78s/maxresdefault.jpg" alt="Terrible Optimization: Cities Skylines 2 GPU Benchmarks & Graphics Optimization Guide - Gamers Nexus" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/10/30/1600x900/Viral_Giant_Sequoia_Daughter_Mark_Zuckerberg_1698638332529_1698638343462.png" alt="Mark Zuckerberg posts amazing pics with daughter in front of giant sequoia trees - Hindustan Times" />
 
-<a href="https://www.youtube.com/watch?v=l4DX6mUY78s" > Sponsor: Lexar Thor DDR5 RAM on Amazon https://geni.us/AuxUm9This benchmark tests GPU performance in Cities: Skylines 2 by Colosssal Order. Cities Skylines 2... </a> 
+<a href="https://www.hindustantimes.com/trending/mark-zuckerberg-shares-incredible-pics-with-daughter-in-front-of-over-2000-years-old-giant-sequoia-trees-101698637891918.html" > Mark Zuckerberg shared that he captured the pictures while on a “dad-daughter road trip”. The photos will amaze you. | Trending </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How to copy and paste on a MacBook - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Sneak Peek Of IQOO 12 Series Revealed In Promotional Video Showcasing Stunning New Color | SPARROWS NEWS - Sparrows News by Kamlesh Bhati</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104790943,width-1070,height-580,imgsize-6104,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to copy and paste on a MacBook - Times of India" />
+<img src="https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2023/10/wp-1698638781610.webp" alt="Sneak Peek Of IQOO 12 Series Revealed In Promotional Video Showcasing Stunning New Color | SPARROWS NEWS - Sparrows News" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-copy-and-paste-on-a-macbook/articleshow/104790946.cms" > Knowing how to copy and paste on a MacBook is essential for duplicating and transferring text or content between applications. To copy, highlight the </a> 
+<a href="https://sparrowsnews.com/2023/10/30/sneak-peek-of-iqoo-12-series-revealed/" > The iQOO 12 series is poised to make a splash upon its imminent launch on November 7, already garnering widespread attention for its distinctive design and </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire MAX Codes for October 29: Get exclusive rewards this Diwali - HT Tech by HT Tech</summary>
+<summary>Instagram's new feature lets friends to add photos to your posts - ETV Bharat by ETV Bharat</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/29/1600x900/4553917dbe5df8481215371fbf2fbef2jpg_1655169131350_1698543453492.jpg" alt="Garena Free Fire MAX Codes for October 29: Get exclusive rewards this Diwali - HT Tech" />
+<img src="https://etvbharatimages.akamaized.net/etvbharat/prod-images/30-10-2023/1200-675-19888624-66-19888624-1698637333043.jpg" alt="Instagram's new feature lets friends to add photos to your posts - ETV Bharat" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-codes-for-october-29-get-exclusive-rewards-this-diwali-71698543205590.html" > Garena Free Fire MAX Redeem Codes for October 29: Players can earn amazing in-game items for free with the help of Garena Free Fire MAX redeem codes! Check them out below. </a> 
+<a href="https://www.etvbharat.com/english/science-and-technology/instagram-new-feature-lets-friends-to-add-photos-to-your-posts/na20231030091239324324535" > In its new feature, Instagram will let users create collaborative carousel posts on the platform, allowing users to add photos and videos to other people’s posts. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Dominate the Game: Strategies to fast-track evo level in BGMI - HT Tech by HT Tech</summary>
+<summary>Vivo Teases Game-Changing X100 Series: Design And Specs Leak | SPARROWS NEWS - Sparrows News by Kamlesh Bhati</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/29/1600x900/BGMI_Rising_1685629702207_1698543034620.png" alt="Dominate the Game: Strategies to fast-track evo level in BGMI - HT Tech" />
+<img src="https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2023/10/wp-1698636760893.webp" alt="Vivo Teases Game-Changing X100 Series: Design And Specs Leak | SPARROWS NEWS - Sparrows News" />
 
-<a href="https://tech.hindustantimes.com/how-to/dominate-the-game-strategies-to-fast-track-evo-level-in-bgmi-71698542861531.html" > Discover the secrets to leveling up your Evo Level in BGMI with these 3 effective strategies, from missions to EXP cards. Dominate the battlefield like a pro! </a> 
+<a href="https://sparrowsnews.com/2023/10/30/vivo-teases-game-changing-x100-series/" > Vivo, in collaboration with MediaTek, is set to introduce its highly anticipated X100 Series smartphones, unleashing the powerful Dimensity 9300 chipset. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google researchers use off-the-shelf headphones to measure heart rate - The Verge by Wes Davis</summary>
+<summary>Garena Free Fire Redeem Codes for October 30: Get loaded with rewards through the Angela Ring event - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/n7BNboQ3QEk7QdxRu79cjuFwsj4=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24016887/STK093_Google_02.jpg" alt="Google researchers use off-the-shelf headphones to measure heart rate - The Verge" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/30/1600x900/free_fire_2_1682645819427_1698636341774.jpg" alt="Garena Free Fire Redeem Codes for October 30: Get loaded with rewards through the Angela Ring event - HT Tech" />
 
-<a href="https://www.theverge.com/2023/10/28/23936562/google-heart-rate-monitoring-headphones-earbuds-active-noise-canceling" > Google researchers used a software update to turn standard noise-canceling earbuds into heart rate monitors using ultrasound signals. </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-30-get-loaded-with-rewards-through-the-angela-ring-event-71698636114072.html" > Garena Free Fire Redeem Codes for October 30: Angela Ring Event will continue for 13 days. </a> 
 </p>
 <br />
 
