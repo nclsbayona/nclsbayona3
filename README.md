@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Du're doing wuh lo'uk job&quot;</strong>
-  <i>-- &quot;You're doing a great job&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;'oh is not a sprint,  'oh is a marathon. Wa' miw at a poh&quot;</strong>
+  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in klingon language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Corpse Reviver</h4>
+<h4 align="center">Butterfly Effect</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/gifgao1513704334.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,24 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raspberry Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet Blanc</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absinthe</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprig</td>
         </tr>
     </tbody>
 </table>
@@ -76,8 +84,11 @@
 
 
 <p align="center">
-Shake, strain, straight up, cocktail glass rinsed with absinthe
-
+Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.
+Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.
+Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.
+Top with lemonade and chuck a sprig of mint on top for garnish.
+You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.
 </p>
 
 ----
@@ -150,7 +161,7 @@ Shake, strain, straight up, cocktail glass rinsed with absinthe
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 8 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Git Config</td>
@@ -174,7 +185,7 @@ Shake, strain, straight up, cocktail glass rinsed with absinthe
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 14 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 15 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -189,14 +200,14 @@ Shake, strain, straight up, cocktail glass rinsed with absinthe
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Halloween and the Wizard Nebula - ©️ Richard McInnis @ 2023-10-31</h4>
+<h4 align="center">Annular Solar Eclipse over Utah - ©️ MaryBeth Kiczenski @ 2023-11-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2310/WizardCenter_McInnis_960.jpg" alt="Halloween and the Wizard Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg" alt="Annular Solar Eclipse over Utah image" />
 
 </p>
  
-<h5 align="center">Halloween's origin is ancient and astronomical.  Since the fifth century BC, Halloween has been celebrated as a cross-quarter day, a day halfway between an equinox (equal day / equal night) and a solstice (minimum day / maximum night in the northern hemisphere).  With a modern calendar however, even though Halloween occurs today, the real cross-quarter day will occur next week.  Another cross-quarter day is Groundhog Day. Halloween's modern celebration retains historic roots in dressing to scare away the spirits of the dead.  Perhaps a fitting tribute to this ancient holiday is this closeup view of the Wizard Nebula (NGC 7380).  Visually, the interplay of stars, gas, and dust has created a shape that appears to some like a fictional ancient sorcerer. Although the nebula may last only a few million years, some of the stars being conjured from the gas by the great gravitational powers may outlive our Sun.</h5>
+<h5 align="center">Part of the Sun disappeared earlier this month, but few people were worried. The missing part, which included the center from some locations, just went behind the Moon in what is known as an annular solar eclipse.  Featured here is an eclipse sequence taken as the Moon was overtaking the rising Sun in the sky. The foreground hill is Factory Butte in Utah, USA. The rays flaring out from the Sun are not real -- they result from camera aperture diffraction and are known as sunstar. The Moon is real, but it is artificially brightened to enhance its outline -- which helps the viewer better visualize the Moon's changing position during this ring-of-fire eclipse. As stunning as this eclipse sequence is, it was considered just practice by the astrophotographer.  The reason? She hopes to use this experience to better photograph the total solar eclipse that will occur over North America on April 8, 2024.   Apply today (USA): Become a NASA Partner Eclipse Ambassador  Eclipse Album: Selected images sent in to APOD</h5>
 
 ----
 
@@ -209,90 +220,90 @@ Shake, strain, straight up, cocktail glass rinsed with absinthe
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -308,55 +319,55 @@ Shake, strain, straight up, cocktail glass rinsed with absinthe
 <br />
 
 <details>
-<summary>Mark Zuckerberg posts amazing pics with daughter in front of giant sequoia trees - Hindustan Times by Trisha Sengupta</summary>
+<summary>Apple's Scary Fast Event | Everything We Learned & More! - 9to5Mac by None</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/10/30/1600x900/Viral_Giant_Sequoia_Daughter_Mark_Zuckerberg_1698638332529_1698638343462.png" alt="Mark Zuckerberg posts amazing pics with daughter in front of giant sequoia trees - Hindustan Times" />
+<img src="https://i.ytimg.com/vi/dvSVUEhwBhM/maxresdefault.jpg" alt="Apple's Scary Fast Event | Everything We Learned & More! - 9to5Mac" />
 
-<a href="https://www.hindustantimes.com/trending/mark-zuckerberg-shares-incredible-pics-with-daughter-in-front-of-over-2000-years-old-giant-sequoia-trees-101698637891918.html" > Mark Zuckerberg shared that he captured the pictures while on a “dad-daughter road trip”. The photos will amaze you. | Trending </a> 
+<a href="https://www.youtube.com/watch?v=dvSVUEhwBhM" > Apple just had their Scary Fast event. Here is a quick recap!Join our Discord: https://discord.gg/NJrf97RzGet Paperlike Pro Bundle Here: https://paperlike.co... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Sneak Peek Of IQOO 12 Series Revealed In Promotional Video Showcasing Stunning New Color | SPARROWS NEWS - Sparrows News by Kamlesh Bhati</summary>
+<summary>5 best video game villains of 2023 - Sportskeeda by Maaz Ahmed</summary>
 <p align="center">
-<img src="https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2023/10/wp-1698638781610.webp" alt="Sneak Peek Of IQOO 12 Series Revealed In Promotional Video Showcasing Stunning New Color | SPARROWS NEWS - Sparrows News" />
+<img src="https://staticg.sportskeeda.com/editor/2023/10/91a78-16984324435760-1920.jpg" alt="5 best video game villains of 2023 - Sportskeeda" />
 
-<a href="https://sparrowsnews.com/2023/10/30/sneak-peek-of-iqoo-12-series-revealed/" > The iQOO 12 series is poised to make a splash upon its imminent launch on November 7, already garnering widespread attention for its distinctive design and </a> 
+<a href="https://www.sportskeeda.com/esports/5-best-video-game-villains-2023" > Storytelling in video games has come a long way in the last couple of decades, with modern titles shifting towards a more narrative approach when it comes to design. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Instagram's new feature lets friends to add photos to your posts - ETV Bharat by ETV Bharat</summary>
+<summary>How to level up faster in BGMI: 5 simple tips to speed up your progress - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://etvbharatimages.akamaized.net/etvbharat/prod-images/30-10-2023/1200-675-19888624-66-19888624-1698637333043.jpg" alt="Instagram's new feature lets friends to add photos to your posts - ETV Bharat" />
+<img src="https://images.hindustantimes.com/tech/img/2023/10/31/1600x900/BGMI_1698716839691_1698716839834.png" alt="How to level up faster in BGMI: 5 simple tips to speed up your progress - HT Tech" />
 
-<a href="https://www.etvbharat.com/english/science-and-technology/instagram-new-feature-lets-friends-to-add-photos-to-your-posts/na20231030091239324324535" > In its new feature, Instagram will let users create collaborative carousel posts on the platform, allowing users to add photos and videos to other people’s posts. </a> 
+<a href="https://tech.hindustantimes.com/how-to/how-to-level-up-faster-in-bgmi-5-simple-tips-to-speed-up-your-progress-71698716577859.html" > Want to level up faster in BGMI? Check out these five simple tips for more experience points and quicker progression in Battlegrounds Mobile India. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Vivo Teases Game-Changing X100 Series: Design And Specs Leak | SPARROWS NEWS - Sparrows News by Kamlesh Bhati</summary>
+<summary>Apple's "Scary Fast" Event: New M3 Chip, iMac, MacBook Unveiled - NDTV by None</summary>
 <p align="center">
-<img src="https://i0.wp.com/sparrowsnews.com/wp-content/uploads/2023/10/wp-1698636760893.webp" alt="Vivo Teases Game-Changing X100 Series: Design And Specs Leak | SPARROWS NEWS - Sparrows News" />
+<img src="https://c.ndtvimg.com/2023-09/e8m1dn18_india-apple-iphone-generic_625x300_22_September_23.jpg" alt="Apple's "Scary Fast" Event: New M3 Chip, iMac, MacBook Unveiled - NDTV" />
 
-<a href="https://sparrowsnews.com/2023/10/30/vivo-teases-game-changing-x100-series/" > Vivo, in collaboration with MediaTek, is set to introduce its highly anticipated X100 Series smartphones, unleashing the powerful Dimensity 9300 chipset. </a> 
+<a href="https://www.ndtv.com/world-news/apple-unveils-new-laptops-imac-and-trio-of-more-powerful-chips-4529851" > Apple Inc. announced new a iMac, laptops and the third generation of its in-house Mac processor line on Monday, rolling out an M3 chip with major improvements to overall performance and graphics horsepower. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire Redeem Codes for October 30: Get loaded with rewards through the Angela Ring event - HT Tech by HT Tech</summary>
+<summary>NES, Game Boy – October 2023 Game Updates – Nintendo Switch Online - Nintendo of America by None</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/30/1600x900/free_fire_2_1682645819427_1698636341774.jpg" alt="Garena Free Fire Redeem Codes for October 30: Get loaded with rewards through the Angela Ring event - HT Tech" />
+<img src="https://i.ytimg.com/vi/curf8onLZ7I/maxresdefault.jpg" alt="NES, Game Boy – October 2023 Game Updates – Nintendo Switch Online - Nintendo of America" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-october-30-get-loaded-with-rewards-through-the-angela-ring-event-71698636114072.html" > Garena Free Fire Redeem Codes for October 30: Angela Ring Event will continue for 13 days. </a> 
+<a href="https://www.youtube.com/watch?v=curf8onLZ7I" > Dracula’s castle looms large; darkness covers the land, and the devil gets his due. Players with a Nintendo Switch Online membership* can now experience trea... </a> 
 </p>
 <br />
 
