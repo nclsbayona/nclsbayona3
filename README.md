@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;'oh is not a sprint,  'oh is a marathon. Wa' miw at a poh&quot;</strong>
-  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Ein sutra ri tor spo' rubah,  tonk'peh du bolaya tor nartaya rubah kuv wuh alternative nam-tor koshvar.&quot;</strong>
+  <i>-- &quot;Some people don't like change, but you need to embrace change if the alternative is disaster.&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Butterfly Effect</h4>
+<h4 align="center">155 Belmont</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ht3hnk1619704289.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Raspberry Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprig</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
     </tbody>
 </table>
@@ -84,11 +72,7 @@
 
 
 <p align="center">
-Grab your boston tin, fill it with cubes ice and then simply chuck in all your ingredients apart from your lemonade.
-Now it’s time to shake what your mama gave you until all your ingredients are blended to perfection.
-Add some cubes of ice to your hurricane glass, give them a swill to cool the whole thing down and then strain your raspberry vodka cocktail of wonder into the glass.
-Top with lemonade and chuck a sprig of mint on top for garnish.
-You can either get drinking at this point or go and try and grab a few butterflies to finish, the choice really is yours.
+Blend with ice. Serve in a wine glass. Garnish with carrot.
 </p>
 
 ----
@@ -161,15 +145,19 @@ You can either get drinking at this point or go and try and grab a few butterfli
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 10 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 7 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 42 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Git Config</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Batchfile</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -185,7 +173,7 @@ You can either get drinking at this point or go and try and grab a few butterfli
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 15 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 54 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,14 +188,14 @@ You can either get drinking at this point or go and try and grab a few butterfli
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Annular Solar Eclipse over Utah - ©️ MaryBeth Kiczenski @ 2023-11-01</h4>
+<h4 align="center">The Fornax Cluster of Galaxies - ©️ Marcelo Rivera @ 2023-11-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/UtahEclipse_Kiczenski_960.jpg" alt="Annular Solar Eclipse over Utah image" />
+<img src="https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg" alt="The Fornax Cluster of Galaxies image" />
 
 </p>
  
-<h5 align="center">Part of the Sun disappeared earlier this month, but few people were worried. The missing part, which included the center from some locations, just went behind the Moon in what is known as an annular solar eclipse.  Featured here is an eclipse sequence taken as the Moon was overtaking the rising Sun in the sky. The foreground hill is Factory Butte in Utah, USA. The rays flaring out from the Sun are not real -- they result from camera aperture diffraction and are known as sunstar. The Moon is real, but it is artificially brightened to enhance its outline -- which helps the viewer better visualize the Moon's changing position during this ring-of-fire eclipse. As stunning as this eclipse sequence is, it was considered just practice by the astrophotographer.  The reason? She hopes to use this experience to better photograph the total solar eclipse that will occur over North America on April 8, 2024.   Apply today (USA): Become a NASA Partner Eclipse Ambassador  Eclipse Album: Selected images sent in to APOD</h5>
+<h5 align="center">Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it's over 20 times more distant than our neighboring Andromeda Galaxy, but only about 10 percent farther along than the better known and more populated Virgo Galaxy Cluster. Seen across this three degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. Elliptical galaxies NGC 1399 and NGC 1404 are the dominant, bright cluster members toward the bottom center. A standout, large barred spiral galaxy, NGC 1365, is visible on the upper right as a prominent Fornax cluster member.</h5>
 
 ----
 
@@ -220,43 +208,43 @@ You can either get drinking at this point or go and try and grab a few butterfli
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
@@ -264,13 +252,13 @@ You can either get drinking at this point or go and try and grab a few butterfli
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -278,7 +266,7 @@ You can either get drinking at this point or go and try and grab a few butterfli
 <img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
@@ -286,24 +274,24 @@ You can either get drinking at this point or go and try and grab a few butterfli
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +307,55 @@ You can either get drinking at this point or go and try and grab a few butterfli
 <br />
 
 <details>
-<summary>Apple's Scary Fast Event | Everything We Learned & More! - 9to5Mac by None</summary>
+<summary>‘Nobody can solve’: Can you answer this viral brain teaser? - Hindustan Times by Arfa Javaid</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/dvSVUEhwBhM/maxresdefault.jpg" alt="Apple's Scary Fast Event | Everything We Learned & More! - 9to5Mac" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/11/01/1600x900/viral-brain-teaser-solve-relationship-puzzle_1698808342611_1698808354536.jpg" alt="‘Nobody can solve’: Can you answer this viral brain teaser? - Hindustan Times" />
 
-<a href="https://www.youtube.com/watch?v=dvSVUEhwBhM" > Apple just had their Scary Fast event. Here is a quick recap!Join our Discord: https://discord.gg/NJrf97RzGet Paperlike Pro Bundle Here: https://paperlike.co... </a> 
+<a href="https://www.hindustantimes.com/trending/nobody-can-solve-can-you-answer-this-viral-brain-teaser-101698807731104.html" > A brain teaser shared on Instagram asks a simple question on relationship. How quickly can you solve it? | Trending </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 best video game villains of 2023 - Sportskeeda by Maaz Ahmed</summary>
+<summary>iPhone 14 to be available under Rs 50,000 during Big Diwali sale: here is how the deal works - India Today by Ankita Chakravarti</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/10/91a78-16984324435760-1920.jpg" alt="5 best video game villains of 2023 - Sportskeeda" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/iphone-14-plus-pricejpg-260605-16x9.jpg?VersionId=k3b_5Pzr9vag0uOkHfvN6c7q1u.gUO7q" alt="iPhone 14 to be available under Rs 50,000 during Big Diwali sale: here is how the deal works - India Today" />
 
-<a href="https://www.sportskeeda.com/esports/5-best-video-game-villains-2023" > Storytelling in video games has come a long way in the last couple of decades, with modern titles shifting towards a more narrative approach when it comes to design. </a> 
+<a href="https://www.indiatoday.in/technology/news/story/iphone-14-to-be-available-under-rs-50000-during-big-diwali-sale-here-is-how-the-deal-works-2456431-2023-11-01" > The upcoming Big Diwali sale on Flipkart will feature heavy discounts on iPhone 14, potentially offering the base model for as low as Rs 50,000, a significant reduction from its launch price of Rs 79,900. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How to level up faster in BGMI: 5 simple tips to speed up your progress - HT Tech by HT Tech</summary>
+<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 1. Here's How To Use - ABP Live by ABP News Bureau</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/10/31/1600x900/BGMI_1698716839691_1698716839834.png" alt="How to level up faster in BGMI: 5 simple tips to speed up your progress - HT Tech" />
+<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/01/24808a0f18b54a52b16264374abeca511698810071414402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 1. Here's How To Use - ABP Live" />
 
-<a href="https://tech.hindustantimes.com/how-to/how-to-level-up-faster-in-bgmi-5-simple-tips-to-speed-up-your-progress-71698716577859.html" > Want to level up faster in BGMI? Check out these five simple tips for more experience points and quicker progression in Battlegrounds Mobile India. </a> 
+<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-1-november-2023-daily-free-rewards-1639653" > Garena Free Fire Max redeem codes comprise a total of 12 digits and can unlock a handful of goodies. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple's "Scary Fast" Event: New M3 Chip, iMac, MacBook Unveiled - NDTV by None</summary>
+<summary>World Jellyfish Day 2023: Date, history and significance - Hindustan Times by Tapatrisha Das</summary>
 <p align="center">
-<img src="https://c.ndtvimg.com/2023-09/e8m1dn18_india-apple-iphone-generic_625x300_22_September_23.jpg" alt="Apple's "Scary Fast" Event: New M3 Chip, iMac, MacBook Unveiled - NDTV" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/11/01/1600x900/mm_1698808424919_1698808434898.jpg" alt="World Jellyfish Day 2023: Date, history and significance - Hindustan Times" />
 
-<a href="https://www.ndtv.com/world-news/apple-unveils-new-laptops-imac-and-trio-of-more-powerful-chips-4529851" > Apple Inc. announced new a iMac, laptops and the third generation of its in-house Mac processor line on Monday, rolling out an M3 chip with major improvements to overall performance and graphics horsepower. </a> 
+<a href="https://www.hindustantimes.com/lifestyle/festivals/world-jellyfish-day-2023-date-history-and-significance-101698808351221.html" > World Jellyfish Day 2023: From history to important facts, here's all that you need to know about World Jellyfish Day. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>NES, Game Boy – October 2023 Game Updates – Nintendo Switch Online - Nintendo of America by None</summary>
+<summary>Watch: How Apple shot the Scary Fast event on iPhone and edited on Mac - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/curf8onLZ7I/maxresdefault.jpg" alt="NES, Game Boy – October 2023 Game Updates – Nintendo Switch Online - Nintendo of America" />
+<img src="https://static.toiimg.com/thumb/msid-104871765,width-1070,height-580,imgsize-28978,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Watch: How Apple shot the Scary Fast event on iPhone and edited on Mac - Times of India" />
 
-<a href="https://www.youtube.com/watch?v=curf8onLZ7I" > Dracula’s castle looms large; darkness covers the land, and the devil gets his due. Players with a Nintendo Switch Online membership* can now experience trea... </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/watch-how-apple-shot-the-scary-fast-event-on-iphone-and-edited-on-mac/articleshow/104871775.cms" > Apple held an online event called Scary Fast, which was pre-recorded at Apple Park using the iPhone 15 Pro Max. The behind-the-scenes footage showed t </a> 
 </p>
 <br />
 
