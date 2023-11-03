@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ein sutra ri tor spo' rubah,  tonk'peh du bolaya tor nartaya rubah kuv wuh alternative nam-tor koshvar.&quot;</strong>
-  <i>-- &quot;Some people don't like change, but you need to embrace change if the alternative is disaster.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;N- Brave a Take Risks: cin baur na gar- estel in yourself. N- brave a take risks. Cin don't gar- na gar- ha all figured ed- na move forward.&quot;</strong>
+  <i>-- &quot;Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">155 Belmont</h4>
+<h4 align="center">Gin and Soda</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yqvvqs1475667388.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,20 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +84,9 @@
 
 
 <p align="center">
-Blend with ice. Serve in a wine glass. Garnish with carrot.
+Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
+Stir well.
+Garnish with the lime wedge.
 </p>
 
 ----
@@ -145,15 +159,11 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 7 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 57 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 42 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Git Config</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Batchfile</td>
@@ -173,7 +183,7 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 54 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 40 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -188,14 +198,14 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Fornax Cluster of Galaxies - ©️ Marcelo Rivera @ 2023-11-02</h4>
+<h4 align="center">Jupiter by Moonlight - ©️ Giorgia Hofer @ 2023-11-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/ClusterFornax1024.jpg" alt="The Fornax Cluster of Galaxies image" />
+<img src="https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg" alt="Jupiter by Moonlight image" />
 
 </p>
  
-<h5 align="center">Named for the southern constellation toward which most of its galaxies can be found, the Fornax Cluster is one of the closest clusters of galaxies. About 62 million light-years away, it's over 20 times more distant than our neighboring Andromeda Galaxy, but only about 10 percent farther along than the better known and more populated Virgo Galaxy Cluster. Seen across this three degree wide field-of-view, almost every yellowish splotch on the image is an elliptical galaxy in the Fornax cluster. Elliptical galaxies NGC 1399 and NGC 1404 are the dominant, bright cluster members toward the bottom center. A standout, large barred spiral galaxy, NGC 1365, is visible on the upper right as a prominent Fornax cluster member.</h5>
+<h5 align="center">That bright beacon you've seen rising in the east just after sunset is Jupiter. Climbing high in midnight skies, our Solar System's ruling gas giant was at its 2023 opposition, opposite the Sun in planet Earth's sky, on November 2. But only a few days earlier, on October 28, the Moon was at its own opposition. Then both Full Moon and Jupiter could share this telephoto field of view. The celestial scene is composed from two exposures, one long and one short, blended to record bright planet and even brighter Moon during that evening's partial lunar eclipse. Moonlight shining through the thin, high clouds over northern Italy creates the colorful iridescence and lunar corona. Look closely and you'll also spot some of Jupiter's Galilean moons.</h5>
 
 ----
 
@@ -208,32 +218,32 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
@@ -241,35 +251,35 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -280,18 +290,18 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
 <img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -307,55 +317,55 @@ Blend with ice. Serve in a wine glass. Garnish with carrot.
 <br />
 
 <details>
-<summary>‘Nobody can solve’: Can you answer this viral brain teaser? - Hindustan Times by Arfa Javaid</summary>
+<summary>M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results - MacRumors by Joe Rossignol</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/11/01/1600x900/viral-brain-teaser-solve-relationship-puzzle_1698808342611_1698808354536.jpg" alt="‘Nobody can solve’: Can you answer this viral brain teaser? - Hindustan Times" />
+<img src="https://images.macrumors.com/t/L-YRvWaN0zeMj7SCf_2i8d58YH4=/1600x/article-new/2023/11/M3-Max-Chip.jpg" alt="M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results - MacRumors" />
 
-<a href="https://www.hindustantimes.com/trending/nobody-can-solve-can-you-answer-this-viral-brain-teaser-101698807731104.html" > A brain teaser shared on Instagram asks a simple question on relationship. How quickly can you solve it? | Trending </a> 
+<a href="https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/" > The first benchmark results for Apple's M3 Max chip surfaced in the Geekbench 6 database today, providing a look at CPU performance. Based on the... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>iPhone 14 to be available under Rs 50,000 during Big Diwali sale: here is how the deal works - India Today by Ankita Chakravarti</summary>
+<summary>Sonic's New 3D Game Will Reportedly Remain "Exclusive To Apple Arcade" - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202310/iphone-14-plus-pricejpg-260605-16x9.jpg?VersionId=k3b_5Pzr9vag0uOkHfvN6c7q1u.gUO7q" alt="iPhone 14 to be available under Rs 50,000 during Big Diwali sale: here is how the deal works - India Today" />
+<img src="https://images.nintendolife.com/4c0b8851934ab/1280x720.jpg" alt="Sonic's New 3D Game Will Reportedly Remain "Exclusive To Apple Arcade" - Nintendo Life" />
 
-<a href="https://www.indiatoday.in/technology/news/story/iphone-14-to-be-available-under-rs-50000-during-big-diwali-sale-here-is-how-the-deal-works-2456431-2023-11-01" > The upcoming Big Diwali sale on Flipkart will feature heavy discounts on iPhone 14, potentially offering the base model for as low as Rs 50,000, a significant reduction from its launch price of Rs 79,900. </a> 
+<a href="https://www.nintendolife.com/news/2023/11/sonics-new-3d-action-platformer-is-exclusive-to-apple-arcade" > Sorry, Sonic fans </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 1. Here's How To Use - ABP Live by ABP News Bureau</summary>
+<summary>Super Mario RPG overview trailer - Nintendo Everything by Brian</summary>
 <p align="center">
-<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/01/24808a0f18b54a52b16264374abeca511698810071414402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 1. Here's How To Use - ABP Live" />
+<img src="https://nintendoeverything.com/wp-content/uploads/Super-Mario-RPG-overview-trailer.jpg" alt="Super Mario RPG overview trailer - Nintendo Everything" />
 
-<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-1-november-2023-daily-free-rewards-1639653" > Garena Free Fire Max redeem codes comprise a total of 12 digits and can unlock a handful of goodies. </a> 
+<a href="https://nintendoeverything.com/super-mario-rpg-overview-trailer/" > Nintendo has just come out with a new overview trailer for Super Mario RPG showing various aspects of the remake. As usual, it’s so far only been published in Japanese, but the English counterpart is likely to follow soon – stay tuned for that. Here’s some in… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>World Jellyfish Day 2023: Date, history and significance - Hindustan Times by Tapatrisha Das</summary>
+<summary>Garena Free Fire MAX Redeem Codes for Today: Win Diamonds & Gifts on 2 November - The Quint by Raajwrita Dutta</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/11/01/1600x900/mm_1698808424919_1698808434898.jpg" alt="World Jellyfish Day 2023: Date, history and significance - Hindustan Times" />
+<img src="https://images.thequint.com/thequint%2F2023-11%2F33acaa26-1723-4c5b-b451-0667ecd7a070%2Fgarena.jpg?rect=0%2C0%2C1440%2C756" alt="Garena Free Fire MAX Redeem Codes for Today: Win Diamonds & Gifts on 2 November - The Quint" />
 
-<a href="https://www.hindustantimes.com/lifestyle/festivals/world-jellyfish-day-2023-date-history-and-significance-101698808351221.html" > World Jellyfish Day 2023: From history to important facts, here's all that you need to know about World Jellyfish Day. </a> 
+<a href="https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-max-redeem-codes-today-know-how-to-win-free-items-on-thursday-details-here" > The Garena Free Fire MAX redeem codes for today, Thursday, 2 November, are present on the redemption site - reward.ff.garena.com. Check the codes here and claim them. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Watch: How Apple shot the Scary Fast event on iPhone and edited on Mac - Times of India by TIMESOFINDIA.COM</summary>
+<summary>PlayStation Plus Free Games for November 2023 Announced - IGN Daily Fix - IGN by None</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-104871765,width-1070,height-580,imgsize-28978,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Watch: How Apple shot the Scary Fast event on iPhone and edited on Mac - Times of India" />
+<img src="https://i.ytimg.com/vi/-FTRbtFB-sM/maxresdefault.jpg" alt="PlayStation Plus Free Games for November 2023 Announced - IGN Daily Fix - IGN" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/watch-how-apple-shot-the-scary-fast-event-on-iphone-and-edited-on-mac/articleshow/104871775.cms" > Apple held an online event called Scary Fast, which was pre-recorded at Apple Park using the iPhone 15 Pro Max. The behind-the-scenes footage showed t </a> 
+<a href="https://www.youtube.com/watch?v=-FTRbtFB-sM" > In today's Daily Fix:November's free PlayStation Plus Essentials games have been revealed. Mulitplayer co-op seems to be the focus this month with Aliens: Fi... </a> 
 </p>
 <br />
 
