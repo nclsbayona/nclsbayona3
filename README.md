@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;N- Brave a Take Risks: cin baur na gar- estel in yourself. N- brave a take risks. Cin don't gar- na gar- ha all figured ed- na move forward.&quot;</strong>
-  <i>-- &quot;Be Brave and Take Risks: You need to have faith in yourself. Be brave and take risks. You don't have to have it all figured out to move forward.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;10x engineers are a myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Gin and Soda</h4>
+<h4 align="center">New York Sour</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/nzlyc81605905755.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (Claret)<br></td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +72,7 @@
 
 
 <p align="center">
-Pour the Gin and Soda water into a highball glass almost filled with ice cubes.
-Stir well.
-Garnish with the lime wedge.
+Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.
 </p>
 
 ----
@@ -198,14 +184,14 @@ Garnish with the lime wedge.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Jupiter by Moonlight - ©️ Giorgia Hofer @ 2023-11-03</h4>
+<h4 align="center">Dinkinesh Moonrise - ©️ NASA @ 2023-11-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/_GHR7338_3_firma_picc1024.jpg" alt="Jupiter by Moonlight image" />
+<img src="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png" alt="Dinkinesh Moonrise image" />
 
 </p>
  
-<h5 align="center">That bright beacon you've seen rising in the east just after sunset is Jupiter. Climbing high in midnight skies, our Solar System's ruling gas giant was at its 2023 opposition, opposite the Sun in planet Earth's sky, on November 2. But only a few days earlier, on October 28, the Moon was at its own opposition. Then both Full Moon and Jupiter could share this telephoto field of view. The celestial scene is composed from two exposures, one long and one short, blended to record bright planet and even brighter Moon during that evening's partial lunar eclipse. Moonlight shining through the thin, high clouds over northern Italy creates the colorful iridescence and lunar corona. Look closely and you'll also spot some of Jupiter's Galilean moons.</h5>
+<h5 align="center">Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.</h5>
 
 ----
 
@@ -218,10 +204,10 @@ Garnish with the lime wedge.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
@@ -229,43 +215,43 @@ Garnish with the lime wedge.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
@@ -273,35 +259,35 @@ Garnish with the lime wedge.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -317,55 +303,55 @@ Garnish with the lime wedge.
 <br />
 
 <details>
-<summary>M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results - MacRumors by Joe Rossignol</summary>
+<summary>Round Up: The Previews Are In For Super Mario RPG Switch - Nintendo Life by Nintendo Life</summary>
 <p align="center">
-<img src="https://images.macrumors.com/t/L-YRvWaN0zeMj7SCf_2i8d58YH4=/1600x/article-new/2023/11/M3-Max-Chip.jpg" alt="M3 Max Chip Around as Fast as M2 Ultra in Early Benchmark Results - MacRumors" />
+<img src="None" alt="Round Up: The Previews Are In For Super Mario RPG Switch - Nintendo Life" />
 
-<a href="https://www.macrumors.com/2023/11/01/m3-max-chip-benchmark-results/" > The first benchmark results for Apple's M3 Max chip surfaced in the Geekbench 6 database today, providing a look at CPU performance. Based on the... </a> 
+<a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDIzLzExL3JvdW5kLXVwLXRoZS1wcmV2aWV3cy1hcmUtaW4tZm9yLXN1cGVyLW1hcmlvLXJwZy1zd2l0Y2jSAQA?oc=5" > None </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Sonic's New 3D Game Will Reportedly Remain "Exclusive To Apple Arcade" - Nintendo Life by Liam Doolan</summary>
+<summary>Modern Warfare 3 Gets Xbox First-Party Treatment With Startup Screen That Rankles Some Fans - IGN by Kat Bailey</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/4c0b8851934ab/1280x720.jpg" alt="Sonic's New 3D Game Will Reportedly Remain "Exclusive To Apple Arcade" - Nintendo Life" />
+<img src="https://assets-prd.ignimgs.com/2023/10/03/call-of-duty-mw3-open-beta-early-access-ign-new-2023-1696345454326.png?width=1280" alt="Modern Warfare 3 Gets Xbox First-Party Treatment With Startup Screen That Rankles Some Fans - IGN" />
 
-<a href="https://www.nintendolife.com/news/2023/11/sonics-new-3d-action-platformer-is-exclusive-to-apple-arcade" > Sorry, Sonic fans </a> 
+<a href="https://www.ign.com/articles/call-of-duty-modern-warfare-3-xbox-startup-screen" > Xbox marked the release of Call of Duty: Modern Warfare 3's campaign with a large splash screen at startup, to the chagrin of some fans. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Super Mario RPG overview trailer - Nintendo Everything by Brian</summary>
+<summary>Microsoft employees aren't happy that they're losing free Xbox Game Pass Ultimate - The Verge by Tom Warren</summary>
 <p align="center">
-<img src="https://nintendoeverything.com/wp-content/uploads/Super-Mario-RPG-overview-trailer.jpg" alt="Super Mario RPG overview trailer - Nintendo Everything" />
+<img src="https://cdn.vox-cdn.com/thumbor/OD6A4Oo4W1s-2o9J34_s1twqFO0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg" alt="Microsoft employees aren't happy that they're losing free Xbox Game Pass Ultimate - The Verge" />
 
-<a href="https://nintendoeverything.com/super-mario-rpg-overview-trailer/" > Nintendo has just come out with a new overview trailer for Super Mario RPG showing various aspects of the remake. As usual, it’s so far only been published in Japanese, but the English counterpart is likely to follow soon – stay tuned for that. Here’s some in… </a> 
+<a href="https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed" > Microsoft is removing a key Xbox Game Pass benefit from permanent employees. Xbox workers will still get Xbox Game Pass Ultimate for free, but everyone else will need to buy it. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire MAX Redeem Codes for Today: Win Diamonds & Gifts on 2 November - The Quint by Raajwrita Dutta</summary>
+<summary>Activision explains Call of Duty: Modern Warfare 3's up to 200GB+ file sizes - Eurogamer.net by Matt Wales</summary>
 <p align="center">
-<img src="https://images.thequint.com/thequint%2F2023-11%2F33acaa26-1723-4c5b-b451-0667ecd7a070%2Fgarena.jpg?rect=0%2C0%2C1440%2C756" alt="Garena Free Fire MAX Redeem Codes for Today: Win Diamonds & Gifts on 2 November - The Quint" />
+<img src="https://assetsio.reedpopcdn.com/modern-warfare-iii-sas-underwater-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Activision explains Call of Duty: Modern Warfare 3's up to 200GB+ file sizes - Eurogamer.net" />
 
-<a href="https://www.thequint.com/tech-and-auto/tech-news/garena-free-fire-max-redeem-codes-today-know-how-to-win-free-items-on-thursday-details-here" > The Garena Free Fire MAX redeem codes for today, Thursday, 2 November, are present on the redemption site - reward.ff.garena.com. Check the codes here and claim them. </a> 
+<a href="https://www.eurogamer.net/activision-addresses-call-of-duty-modern-warfare-3s-up-to-200gb-file-sizes" > Call of Duty: Modern Warfare 3 is almost upon us (its campaign early access is upon us for those eager enough to have p… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>PlayStation Plus Free Games for November 2023 Announced - IGN Daily Fix - IGN by None</summary>
+<summary>NASA Explorers: New Series Coming Soon to NASA+ - NASA by None</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/-FTRbtFB-sM/maxresdefault.jpg" alt="PlayStation Plus Free Games for November 2023 Announced - IGN Daily Fix - IGN" />
+<img src="https://i.ytimg.com/vi/5sTyFfO-wAI/maxresdefault.jpg" alt="NASA Explorers: New Series Coming Soon to NASA+ - NASA" />
 
-<a href="https://www.youtube.com/watch?v=-FTRbtFB-sM" > In today's Daily Fix:November's free PlayStation Plus Essentials games have been revealed. Mulitplayer co-op seems to be the focus this month with Aliens: Fi... </a> 
+<a href="https://www.youtube.com/watch?v=5sTyFfO-wAI" > For the cost of a blockbuster movie, a team of scientists and engineers set out to gather and return America's first asteroid sample collected in space. Emba... </a> 
 </p>
 <br />
 
