@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;10x engineers are a myth&quot;</strong>
-  <i>-- &quot;10x engineers are a myth&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Hah's nah ch'a casisi,  hah's ch'a learning g'evipi&quot;</strong>
+  <i>-- &quot;It's not a mistake, it's a learning opportunity&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">New York Sour</h4>
+<h4 align="center">Brainteaser</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/61wgch1504882795.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml white </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Erin Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (Claret)<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Advocaat</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 ml </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Float claret on top. Decorate with the half-slice of lemon and the cherry and serve.
+layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.
 </p>
 
 ----
@@ -184,14 +180,14 @@ Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain in
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Dinkinesh Moonrise - ©️ NASA @ 2023-11-04</h4>
+<h4 align="center">Creature Aurora Over Norway - ©️ Ole C. Salomonsen(Arctic Light Photo)  @ 2023-11-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/dinkinesh-firstlook-llorri.png" alt="Dinkinesh Moonrise image" />
+<img src="https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg" alt="Creature Aurora Over Norway image" />
 
 </p>
  
-<h5 align="center">Last Wednesday the voyaging Lucy spacecraft encountered its first asteroid, 152830 Dinkinesh, and discovered the inner-main belt asteroid has a moon. From a distance of just over 400 kilometers, Lucy's Long-Range Reconnaissance Imager captured this close-up of the binary system during a flyby at 4.5 kilometer per second or around 10,000 miles per hour. A marvelous world, Dinkinesh itself is small, less than 800 meters (about 0.5 miles) across at its widest. Its satellite is seen from the spacecraft's perspective to emerge from behind the primary asteroid. The asteroid moon is estimated to be only about 220 meters wide.</h5>
+<h5 align="center">It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this  eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple  auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms.   Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -204,90 +200,90 @@ Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain in
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +299,55 @@ Shake blended whiskey, juice of lemon, and powdered sugar with ice and strain in
 <br />
 
 <details>
-<summary>Round Up: The Previews Are In For Super Mario RPG Switch - Nintendo Life by Nintendo Life</summary>
+<summary>Call of Duty: Modern Warfare 3 Players Aren't Happy With How Long It Takes to Launch the Game - GameRant by John Paul Joaquin</summary>
 <p align="center">
-<img src="None" alt="Round Up: The Previews Are In For Super Mario RPG Switch - Nintendo Life" />
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/call-of-duty-modern-warfare-3-2-load-launcher.jpg" alt="Call of Duty: Modern Warfare 3 Players Aren't Happy With How Long It Takes to Launch the Game - GameRant" />
 
-<a href="https://news.google.com/rss/articles/CBMiYWh0dHBzOi8vd3d3Lm5pbnRlbmRvbGlmZS5jb20vbmV3cy8yMDIzLzExL3JvdW5kLXVwLXRoZS1wcmV2aWV3cy1hcmUtaW4tZm9yLXN1cGVyLW1hcmlvLXJwZy1zd2l0Y2jSAQA?oc=5" > None </a> 
+<a href="https://gamerant.com/call-of-duty-modern-warfare-3-how-long-takes-launch-game/" > PC gamers wishing to play Call of Duty Modern Warfare 3's campaign go through a rather unique and time-consuming process to do so. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Modern Warfare 3 Gets Xbox First-Party Treatment With Startup Screen That Rankles Some Fans - IGN by Kat Bailey</summary>
+<summary>YouTube war on ad blocking causes wave of adblock uninstalls - ReadWrite by Radek Zielinski</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/10/03/call-of-duty-mw3-open-beta-early-access-ign-new-2023-1696345454326.png?width=1280" alt="Modern Warfare 3 Gets Xbox First-Party Treatment With Startup Screen That Rankles Some Fans - IGN" />
+<img src="https://readwrite.com/wp-content/uploads/2023/11/YouTube-war-on-ad-blocking.jpg" alt="YouTube war on ad blocking causes wave of adblock uninstalls - ReadWrite" />
 
-<a href="https://www.ign.com/articles/call-of-duty-modern-warfare-3-xbox-startup-screen" > Xbox marked the release of Call of Duty: Modern Warfare 3's campaign with a large splash screen at startup, to the chagrin of some fans. </a> 
+<a href="https://readwrite.com/youtube-war-on-ad-blocking-causes-wave-of-adblock-uninstalls/" > YouTube's ad blocker crackdown has resulted in a flood of uninstallations of the popular tools, according to data from ad blocker companies. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Microsoft employees aren't happy that they're losing free Xbox Game Pass Ultimate - The Verge by Tom Warren</summary>
+<summary>EA CEO Says Microsoft and Activision Blizzard Deal Is Great For Gaming - GameSpot by George Yang</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/OD6A4Oo4W1s-2o9J34_s1twqFO0=/0x0:3000x2000/1200x628/filters:focal(1500x1000:1501x1001)/cdn.vox-cdn.com/uploads/chorus_asset/file/23926023/acastro_STK048_02.jpg" alt="Microsoft employees aren't happy that they're losing free Xbox Game Pass Ultimate - The Verge" />
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/4215946-6924000372-ss_4c.jpg" alt="EA CEO Says Microsoft and Activision Blizzard Deal Is Great For Gaming - GameSpot" />
 
-<a href="https://www.theverge.com/2023/11/2/23944124/microsoft-xbox-game-pass-ultimate-free-employee-removed" > Microsoft is removing a key Xbox Game Pass benefit from permanent employees. Xbox workers will still get Xbox Game Pass Ultimate for free, but everyone else will need to buy it. </a> 
+<a href="https://www.gamespot.com/articles/ea-ceo-says-microsoft-and-activision-blizzard-deal-is-great-for-gaming/1100-6518898/" > EA is still one of Microsoft's biggest partners. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Activision explains Call of Duty: Modern Warfare 3's up to 200GB+ file sizes - Eurogamer.net by Matt Wales</summary>
+<summary>Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints - The Verge by Tom Warren</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/modern-warfare-iii-sas-underwater-screenshot.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Activision explains Call of Duty: Modern Warfare 3's up to 200GB+ file sizes - Eurogamer.net" />
+<img src="https://cdn.vox-cdn.com/thumbor/fXtCC293_OWsKvRaOZ_RwI5CF5k=/0x0:4232x2821/1200x628/filters:focal(2116x1411:2117x1412)/cdn.vox-cdn.com/uploads/chorus_asset/file/25056797/1234934021.jpg" alt="Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints - The Verge" />
 
-<a href="https://www.eurogamer.net/activision-addresses-call-of-duty-modern-warfare-3s-up-to-200gb-file-sizes" > Call of Duty: Modern Warfare 3 is almost upon us (its campaign early access is upon us for those eager enough to have p… </a> 
+<a href="https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored" > Xbox chief Phil Spencer has reversed a decision to cut free Xbox Game Pass Ultimate subscriptions from Microsoft employees. All Microsoft employees will continue to get the free subscription. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>NASA Explorers: New Series Coming Soon to NASA+ - NASA by None</summary>
+<summary>Call of Duty: Modern Warfare 3 - All Weapon Supply Crate Locations in Reactor - GameRant by Dakota Evans</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/5sTyFfO-wAI/maxresdefault.jpg" alt="NASA Explorers: New Series Coming Soon to NASA+ - NASA" />
+<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/mw3-reactor-supply-crates-feature.jpg" alt="Call of Duty: Modern Warfare 3 - All Weapon Supply Crate Locations in Reactor - GameRant" />
 
-<a href="https://www.youtube.com/watch?v=5sTyFfO-wAI" > For the cost of a blockbuster movie, a team of scientists and engineers set out to gather and return America's first asteroid sample collected in space. Emba... </a> 
+<a href="https://gamerant.com/call-of-duty-mw3-modern-warfare-3-cod-weapon-supply-crates-reactor-loadout-minigun-gearhead/" > Unlock new loadout weapons for the mission Reactor while working toward the Gearhead achievement/trophy in Call of Duty: Modern Warfare 3. </a> 
 </p>
 <br />
 
