@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hah's nah ch'a casisi,  hah's ch'a learning g'evipi&quot;</strong>
-  <i>-- &quot;It's not a mistake, it's a learning opportunity&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Kash yeri make the unconscious conscious,  anna will direct yeri atthirar ma yeri will call anna fate.&quot;</strong>
+  <i>-- &quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brainteaser</h4>
+<h4 align="center">9 1/2 Weeks</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml white </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Erin Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Advocaat</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.
+Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.
 </p>
 
 ----
@@ -180,14 +184,14 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Creature Aurora Over Norway - ©️ Ole C. Salomonsen(Arctic Light Photo)  @ 2023-11-05</h4>
+<h4 align="center">Red Aurora over Italy - ©️ Giorgia Hofer @ 2023-11-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/CreatureAurora_Salomonsen_960.jpg" alt="Creature Aurora Over Norway image" />
+<img src="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg" alt="Red Aurora over Italy image" />
 
 </p>
  
-<h5 align="center">It was Halloween and the sky looked like a creature. Exactly which creature, the astrophotographer was unsure (but possibly you can suggest one). Exactly what caused this  eerie apparition in 2013 was sure: one of the best auroral displays that year. This spectacular aurora had an unusually high degree of detail. Pictured here, the vivid green and purple  auroral colors are caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Birch trees in Tromsø, Norway formed an also eerie foreground. Frequently, new photogenic auroras accompany new geomagnetic storms.   Almost Hyperspace: Random APOD Generator</h5>
+<h5 align="center">What was that red glow on the horizon last night? Aurora. Our unusually active Sun produced a surface explosion a few days ago that sent out a burst of electrons, protons, and more massive charged nuclei. This coronal mass ejection (CME) triggered auroras here on Earth that are being reported unusually far south in Earth's northern hemisphere.  For example, this was the first time that the astrophotographer captured aurora from her home country of Italy. Additionally, many images from these auroras appear quite red in color.  In the featured image, the town of Comelico Superiore in the Italian Alps is visible in the foreground, with the central band of our Milky Way galaxy seen rising from the lower left. What draws the eye the most, though, is the bright red aurora on the far right. The featured image is a composite with the foreground and background images taken consecutively with the same camera and from the same location.   Aurora Album: Selected images sent in to APOD</h5>
 
 ----
 
@@ -200,90 +204,90 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -299,55 +303,55 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <br />
 
 <details>
-<summary>Call of Duty: Modern Warfare 3 Players Aren't Happy With How Long It Takes to Launch the Game - GameRant by John Paul Joaquin</summary>
+<summary>10 best Minecraft tips for Ender Dragon (2023) - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/call-of-duty-modern-warfare-3-2-load-launcher.jpg" alt="Call of Duty: Modern Warfare 3 Players Aren't Happy With How Long It Takes to Launch the Game - GameRant" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/5d18d-16991450520743-1920.jpg" alt="10 best Minecraft tips for Ender Dragon (2023) - Sportskeeda" />
 
-<a href="https://gamerant.com/call-of-duty-modern-warfare-3-how-long-takes-launch-game/" > PC gamers wishing to play Call of Duty Modern Warfare 3's campaign go through a rather unique and time-consuming process to do so. </a> 
+<a href="https://www.sportskeeda.com/minecraft/10-best-minecraft-tips-ender-dragon-2023" > Embarking on the monumental task of defeating Minecraft's formidable Ender Dragon is a rite of passage for any seasoned player. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>YouTube war on ad blocking causes wave of adblock uninstalls - ReadWrite by Radek Zielinski</summary>
+<summary>Jio launches JioMotive, easy-to-install OBC device to make your car ‘smart’ - Hindustan Times by HT News Desk</summary>
 <p align="center">
-<img src="https://readwrite.com/wp-content/uploads/2023/11/YouTube-war-on-ad-blocking.jpg" alt="YouTube war on ad blocking causes wave of adblock uninstalls - ReadWrite" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/11/05/1600x900/Screenshot_2023-11-05_062453_1699145721008_1699145726889.png" alt="Jio launches JioMotive, easy-to-install OBC device to make your car ‘smart’ - Hindustan Times" />
 
-<a href="https://readwrite.com/youtube-war-on-ad-blocking-causes-wave-of-adblock-uninstalls/" > YouTube's ad blocker crackdown has resulted in a flood of uninstallations of the popular tools, according to data from ad blocker companies. </a> 
+<a href="https://www.hindustantimes.com/car-bike/reliance-jio-launches-jiomotive-an-obd-device-to-make-your-car-smart-details-101699145734278.html" > On Reliance Digital's website, you get JioMotive for ₹4999, saving 58% on its MRP. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>EA CEO Says Microsoft and Activision Blizzard Deal Is Great For Gaming - GameSpot by George Yang</summary>
+<summary>Bollywood actor Jackie Shroff seen in his beautifully restored 1968 Fiat 1100 sedan [Video] - CarToq.com by Ajeesh Kuttan</summary>
 <p align="center">
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1646/16465123/4215946-6924000372-ss_4c.jpg" alt="EA CEO Says Microsoft and Activision Blizzard Deal Is Great For Gaming - GameSpot" />
+<img src="https://www.cartoq.com/wp-content/uploads/2023/11/jackie-shroff-vintage-car-featured.jpg" alt="Bollywood actor Jackie Shroff seen in his beautifully restored 1968 Fiat 1100 sedan [Video] - CarToq.com" />
 
-<a href="https://www.gamespot.com/articles/ea-ceo-says-microsoft-and-activision-blizzard-deal-is-great-for-gaming/1100-6518898/" > EA is still one of Microsoft's biggest partners. </a> 
+<a href="https://www.cartoq.com/bollywood-actor-jackie-shroff-1968-fiat-1100-sedan-video/" > Veteran actor Jackie Shroff is known for his roles in Bollywood movies. In his career spanning over four decades, Jackie Shroff has acted in over 220 films. While everyone knows about his acting career, only a few know that he has a great taste for cars. We h… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints - The Verge by Tom Warren</summary>
+<summary>NASA floats app as your ticket to track International Space Station in real time - Moneycontrol by Ravi Hari</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/fXtCC293_OWsKvRaOZ_RwI5CF5k=/0x0:4232x2821/1200x628/filters:focal(2116x1411:2117x1412)/cdn.vox-cdn.com/uploads/chorus_asset/file/25056797/1234934021.jpg" alt="Microsoft employees will keep free access to Xbox Game Pass Ultimate after complaints - The Verge" />
+<img src="https://images.moneycontrol.com/static-mcnews/2023/11/International-Space-Station-is-seen-with-Earth-in-the-background-Image-Courtesy-NASA-770x433.jpg" alt="NASA floats app as your ticket to track International Space Station in real time - Moneycontrol" />
 
-<a href="https://www.theverge.com/2023/11/3/23945294/microsoft-xbox-game-pass-ultimate-free-employee-perk-restored" > Xbox chief Phil Spencer has reversed a decision to cut free Xbox Game Pass Ultimate subscriptions from Microsoft employees. All Microsoft employees will continue to get the free subscription. </a> 
+<a href="https://www.moneycontrol.com/news/science/nasa-floats-app-as-your-ticket-to-track-international-space-station-in-real-time-11664601.html" > The 'Spot the Station' mobile app has been designed to alert users when the space station becomes visible overhead from their specific location. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Call of Duty: Modern Warfare 3 - All Weapon Supply Crate Locations in Reactor - GameRant by Dakota Evans</summary>
+<summary>Super Mario RPG Remake keeps Peach's “???” - Niche Gamer by Primal</summary>
 <p align="center">
-<img src="https://static0.gamerantimages.com/wordpress/wp-content/uploads/2023/11/mw3-reactor-supply-crates-feature.jpg" alt="Call of Duty: Modern Warfare 3 - All Weapon Supply Crate Locations in Reactor - GameRant" />
+<img src="https://media.nichegamer.com/wp-content/uploads/2023/11/super-mario-rpg-remake-11-04-23-1.jpg" alt="Super Mario RPG Remake keeps Peach's “???” - Niche Gamer" />
 
-<a href="https://gamerant.com/call-of-duty-mw3-modern-warfare-3-cod-weapon-supply-crates-reactor-loadout-minigun-gearhead/" > Unlock new loadout weapons for the mission Reactor while working toward the Gearhead achievement/trophy in Call of Duty: Modern Warfare 3. </a> 
+<a href="https://nichegamer.com/super-mario-rpg-remake-keeps-peachs/" > More footage surfacing for the Super Mario RPG remake has revealed that a moment where players can find Peach's "???" has surprisingly been left in the game. </a> 
 </p>
 <br />
 
