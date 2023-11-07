@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Kash yeri make the unconscious conscious,  anna will direct yeri atthirar ma yeri will call anna fate.&quot;</strong>
-  <i>-- &quot;Until you make the unconscious conscious, it will direct your life and you will call it fate.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Ziry iksos wise naejot ivestragon se truth. Ziry iksos gīda wiser naejot ivestragon ziry kindly.&quot;</strong>
+  <i>-- &quot;It's wise to tell the truth. It's even wiser to tell it kindly.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">9 1/2 Weeks</h4>
+<h4 align="center">Golden dream</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qrot6j1504369425.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.
+Shake with cracked ice. Strain into glass and serve.
 </p>
 
 ----
@@ -184,14 +184,14 @@ Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Ga
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Red Aurora over Italy - ©️ Giorgia Hofer @ 2023-11-06</h4>
+<h4 align="center">A Martian Dust Devil Spins By - ©️ NASA @ 2023-11-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/RedAuroraItaly_Hofer_1080.jpg" alt="Red Aurora over Italy image" />
+<img src="https://www.youtube.com/embed/xB3QIEkNJgs?rel=0" alt="A Martian Dust Devil Spins By image" />
 
 </p>
  
-<h5 align="center">What was that red glow on the horizon last night? Aurora. Our unusually active Sun produced a surface explosion a few days ago that sent out a burst of electrons, protons, and more massive charged nuclei. This coronal mass ejection (CME) triggered auroras here on Earth that are being reported unusually far south in Earth's northern hemisphere.  For example, this was the first time that the astrophotographer captured aurora from her home country of Italy. Additionally, many images from these auroras appear quite red in color.  In the featured image, the town of Comelico Superiore in the Italian Alps is visible in the foreground, with the central band of our Milky Way galaxy seen rising from the lower left. What draws the eye the most, though, is the bright red aurora on the far right. The featured image is a composite with the foreground and background images taken consecutively with the same camera and from the same location.   Aurora Album: Selected images sent in to APOD</h5>
+<h5 align="center">It moved across the surface of Mars -- what was it? A dust devil. Such spinning columns of rising air are heated by the warm surface and are also common in warm and dry areas on planet Earth.  Typically lasting only a few minutes, dust devils become visible as they pick up loose red-colored dust, leaving the darker and heavier sand beneath intact.  Dust devils not only look cool -- they can leave visible trails, and have been credited with unexpected cleanings of the surfaces of solar panels. The images in the featured AI-interpolated video were captured in early August by the Perseverance rover currently searching for signs of ancient life in Jezero Crater. The six-second time-lapse video encapsulates a real duration of just over one minute.  Visible in the distance, the spinning dust devil was estimated to be passing by at about 20 kilometers per hour and extend up about 2 kilometers high.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -204,90 +204,90 @@ Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Ga
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +303,55 @@ Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Ga
 <br />
 
 <details>
-<summary>10 best Minecraft tips for Ender Dragon (2023) - Sportskeeda by Jason Wright</summary>
+<summary>Google Play to alert users if VPN apps are secure - Zee Business by IANS</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/5d18d-16991450520743-1920.jpg" alt="10 best Minecraft tips for Ender Dragon (2023) - Sportskeeda" />
+<img src="https://cdn.zeebiz.com/sites/default/files/2023/11/06/267934-screenshot-2023-11-06-094437.png" alt="Google Play to alert users if VPN apps are secure - Zee Business" />
 
-<a href="https://www.sportskeeda.com/minecraft/10-best-minecraft-tips-ender-dragon-2023" > Embarking on the monumental task of defeating Minecraft's formidable Ender Dragon is a rite of passage for any seasoned player. </a> 
+<a href="https://www.zeebiz.com/technology/news-google-play-to-alert-users-if-vpn-apps-are-secure-263090" > When a user searches for VPN apps, they will now see a banner at the top of Google Play that educates them about the “Independent security review” badge in the Data Safety Section. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Jio launches JioMotive, easy-to-install OBC device to make your car ‘smart’ - Hindustan Times by HT News Desk</summary>
+<summary>The "BEST" foldable phone? OPPO Find N3 fold review (a.k.a. OnePlus Open) - NL Tech by None</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/11/05/1600x900/Screenshot_2023-11-05_062453_1699145721008_1699145726889.png" alt="Jio launches JioMotive, easy-to-install OBC device to make your car ‘smart’ - Hindustan Times" />
+<img src="https://i.ytimg.com/vi/0tAuvy5GJwM/maxresdefault.jpg" alt="The "BEST" foldable phone? OPPO Find N3 fold review (a.k.a. OnePlus Open) - NL Tech" />
 
-<a href="https://www.hindustantimes.com/car-bike/reliance-jio-launches-jiomotive-an-obd-device-to-make-your-car-smart-details-101699145734278.html" > On Reliance Digital's website, you get JioMotive for ₹4999, saving 58% on its MRP. </a> 
+<a href="https://www.youtube.com/watch?v=0tAuvy5GJwM" > OPPO released their foldable device into the global markets - but is it the "best" foldable phone available right now?Written version here!https://nasilemakt... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Bollywood actor Jackie Shroff seen in his beautifully restored 1968 Fiat 1100 sedan [Video] - CarToq.com by Ajeesh Kuttan</summary>
+<summary>Apple iPhone 14 Plus available at Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off, check details - DNA India by DNA Web Team</summary>
 <p align="center">
-<img src="https://www.cartoq.com/wp-content/uploads/2023/11/jackie-shroff-vintage-car-featured.jpg" alt="Bollywood actor Jackie Shroff seen in his beautifully restored 1968 Fiat 1100 sedan [Video] - CarToq.com" />
+<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2023/11/06/2614477-apple-iphone-14-plus.jpg" alt="Apple iPhone 14 Plus available at Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off, check details - DNA India" />
 
-<a href="https://www.cartoq.com/bollywood-actor-jackie-shroff-1968-fiat-1100-sedan-video/" > Veteran actor Jackie Shroff is known for his roles in Bollywood movies. In his career spanning over four decades, Jackie Shroff has acted in over 220 films. While everyone knows about his acting career, only a few know that he has a great taste for cars. We h… </a> 
+<a href="https://www.dnaindia.com/technology/report-apple-iphone-14-plus-available-at-rs-20400-in-flipkart-big-diwali-sale-after-rs-43500-off-check-details-3067302" > Apple iPhone 14 Plus was launched in India at a starting price of Rs 89,900 but you can get the iPhone 14 Plus at just Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>NASA floats app as your ticket to track International Space Station in real time - Moneycontrol by Ravi Hari</summary>
+<summary>Is it worth getting Lampadati Corsita in GTA Online after the Halloween 2023 update? - Sportskeeda by Neeraj Bansal</summary>
 <p align="center">
-<img src="https://images.moneycontrol.com/static-mcnews/2023/11/International-Space-Station-is-seen-with-Earth-in-the-background-Image-Courtesy-NASA-770x433.jpg" alt="NASA floats app as your ticket to track International Space Station in real time - Moneycontrol" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/eb00e-16992382782318-1920.jpg" alt="Is it worth getting Lampadati Corsita in GTA Online after the Halloween 2023 update? - Sportskeeda" />
 
-<a href="https://www.moneycontrol.com/news/science/nasa-floats-app-as-your-ticket-to-track-international-space-station-in-real-time-11664601.html" > The 'Spot the Station' mobile app has been designed to alert users when the space station becomes visible overhead from their specific location. </a> 
+<a href="https://www.sportskeeda.com/gta/is-worth-getting-lampadati-corsita-gta-online-halloween-2023-update" > GTA Online post-Halloween 2023 update was released last Thursday, allowing players another great opportunity to collect some of the best cars the game has to offer. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Super Mario RPG Remake keeps Peach's “???” - Niche Gamer by Primal</summary>
+<summary>Apple Watch could get 2 life-saving features in 2024; Know all about them - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://media.nichegamer.com/wp-content/uploads/2023/11/super-mario-rpg-remake-11-04-23-1.jpg" alt="Super Mario RPG Remake keeps Peach's “???” - Niche Gamer" />
+<img src="https://images.hindustantimes.com/tech/img/2023/11/06/1600x900/luke-chesser-rCOWMC8qf8A-unsplash_1699239734346_1699239741087.jpg" alt="Apple Watch could get 2 life-saving features in 2024; Know all about them - HT Tech" />
 
-<a href="https://nichegamer.com/super-mario-rpg-remake-keeps-peachs/" > More footage surfacing for the Super Mario RPG remake has revealed that a moment where players can find Peach's "???" has surprisingly been left in the game. </a> 
+<a href="https://tech.hindustantimes.com/wearables/news/apple-watch-could-get-2-life-saving-features-in-2024-know-all-about-them-71699238120642.html" > Apple is reportedly working on incorporating a blood pressure monitor and sleep apnea detector into the Apple Watch in 2024. </a> 
 </p>
 <br />
 
