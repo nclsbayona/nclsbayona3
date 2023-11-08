@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ziry iksos wise naejot ivestragon se truth. Ziry iksos gīda wiser naejot ivestragon ziry kindly.&quot;</strong>
-  <i>-- &quot;It's wise to tell the truth. It's even wiser to tell it kindly.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;to're a flu bookie&quot;</strong>
+  <i>-- &quot;You're a smart cookie&quot; in minion language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Golden dream</h4>
+<h4 align="center">Royal Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qrot6j1504369425.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Shake with cracked ice. Strain into glass and serve.
+Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.
 </p>
 
 ----
@@ -145,7 +141,7 @@ Shake with cracked ice. Strain into glass and serve.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 57 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 56 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
@@ -169,7 +165,7 @@ Shake with cracked ice. Strain into glass and serve.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 40 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 38 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -184,14 +180,14 @@ Shake with cracked ice. Strain into glass and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Martian Dust Devil Spins By - ©️ NASA @ 2023-11-07</h4>
+<h4 align="center">Perseus Galaxy Cluster from Euclid - ©️ NASA @ 2023-11-08</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/xB3QIEkNJgs?rel=0" alt="A Martian Dust Devil Spins By image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg" alt="Perseus Galaxy Cluster from Euclid image" />
 
 </p>
  
-<h5 align="center">It moved across the surface of Mars -- what was it? A dust devil. Such spinning columns of rising air are heated by the warm surface and are also common in warm and dry areas on planet Earth.  Typically lasting only a few minutes, dust devils become visible as they pick up loose red-colored dust, leaving the darker and heavier sand beneath intact.  Dust devils not only look cool -- they can leave visible trails, and have been credited with unexpected cleanings of the surfaces of solar panels. The images in the featured AI-interpolated video were captured in early August by the Perseverance rover currently searching for signs of ancient life in Jezero Crater. The six-second time-lapse video encapsulates a real duration of just over one minute.  Visible in the distance, the spinning dust devil was estimated to be passing by at about 20 kilometers per hour and extend up about 2 kilometers high.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.</h5>
 
 ----
 
@@ -204,90 +200,90 @@ Shake with cracked ice. Strain into glass and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +299,55 @@ Shake with cracked ice. Strain into glass and serve.
 <br />
 
 <details>
-<summary>Google Play to alert users if VPN apps are secure - Zee Business by IANS</summary>
+<summary>Garena Free Fire MAX Redeem Codes for November 7: Grab exciting rewards with Rise of the Puppet Ring Event - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://cdn.zeebiz.com/sites/default/files/2023/11/06/267934-screenshot-2023-11-06-094437.png" alt="Google Play to alert users if VPN apps are secure - Zee Business" />
+<img src="https://images.hindustantimes.com/tech/img/2023/11/07/1600x900/WhatsApp_1699324762396_1699324762602.jpeg" alt="Garena Free Fire MAX Redeem Codes for November 7: Grab exciting rewards with Rise of the Puppet Ring Event - HT Tech" />
 
-<a href="https://www.zeebiz.com/technology/news-google-play-to-alert-users-if-vpn-apps-are-secure-263090" > When a user searches for VPN apps, they will now see a banner at the top of Google Play that educates them about the “Independent security review” badge in the Data Safety Section. </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-november-7-grab-exciting-rewards-with-rise-of-the-puppet-ring-event-71699324385402.html" > Garena Free Fire MAX Redeem Codes for November 7: To win rewards in Rise of the Puppet Ring Event, you have to spend diamonds. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>The "BEST" foldable phone? OPPO Find N3 fold review (a.k.a. OnePlus Open) - NL Tech by None</summary>
+<summary>5 Yoga asanas for high blood pressure management - IndiaTimes by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/0tAuvy5GJwM/maxresdefault.jpg" alt="The "BEST" foldable phone? OPPO Find N3 fold review (a.k.a. OnePlus Open) - NL Tech" />
+<img src="https://static.toiimg.com/photo/105015559.cms" alt="5 Yoga asanas for high blood pressure management - IndiaTimes" />
 
-<a href="https://www.youtube.com/watch?v=0tAuvy5GJwM" > OPPO released their foldable device into the global markets - but is it the "best" foldable phone available right now?Written version here!https://nasilemakt... </a> 
+<a href="https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/5-yoga-asanas-for-high-blood-pressure-management/photostory/105015503.cms" > High blood pressure, or hypertension, can have severe health consequences if not managed effectively. Combining a yoga routine with medical guidance can support blood pressure control. These five asanas, including Yashtikasana (Stick Pose) and Utkatasana (Cha… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple iPhone 14 Plus available at Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off, check details - DNA India by DNA Web Team</summary>
+<summary>Tetris® 99 – 36th MAXIMUS CUP Gameplay Trailer - Nintendo Switch - Nintendo of America by None</summary>
 <p align="center">
-<img src="https://cdn.dnaindia.com/sites/default/files/styles/full/public/2023/11/06/2614477-apple-iphone-14-plus.jpg" alt="Apple iPhone 14 Plus available at Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off, check details - DNA India" />
+<img src="https://i.ytimg.com/vi/Yfs7T_WSz6g/maxresdefault.jpg" alt="Tetris® 99 – 36th MAXIMUS CUP Gameplay Trailer - Nintendo Switch - Nintendo of America" />
 
-<a href="https://www.dnaindia.com/technology/report-apple-iphone-14-plus-available-at-rs-20400-in-flipkart-big-diwali-sale-after-rs-43500-off-check-details-3067302" > Apple iPhone 14 Plus was launched in India at a starting price of Rs 89,900 but you can get the iPhone 14 Plus at just Rs 20,400 in Flipkart Big Diwali Sale after Rs 43,500 off. </a> 
+<a href="https://www.youtube.com/watch?v=Yfs7T_WSz6g" > The Tetris® 99 36th MAXIMUS CUP event runs from 11 p.m. PT on November 9 to 10:59 p.m. PT on November 13. To participate, you’ll need to be a Nintendo Switch... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Is it worth getting Lampadati Corsita in GTA Online after the Halloween 2023 update? - Sportskeeda by Neeraj Bansal</summary>
+<summary>Sony is dropping PlayStation 5 and PS4 Twitter integration next week - Eurogamer.net by Matt Wales</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/eb00e-16992382782318-1920.jpg" alt="Is it worth getting Lampadati Corsita in GTA Online after the Halloween 2023 update? - Sportskeeda" />
+<img src="https://assetsio.reedpopcdn.com/playstation_Rjwagv7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Sony is dropping PlayStation 5 and PS4 Twitter integration next week - Eurogamer.net" />
 
-<a href="https://www.sportskeeda.com/gta/is-worth-getting-lampadati-corsita-gta-online-halloween-2023-update" > GTA Online post-Halloween 2023 update was released last Thursday, allowing players another great opportunity to collect some of the best cars the game has to offer. </a> 
+<a href="https://www.eurogamer.net/sony-is-dropping-playstation-5-and-ps4-twitter-integration-next-week" > Sony is dropping Twitter integration from its PlayStation consoles starting next Monday, 13th November, mirroring simil… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple Watch could get 2 life-saving features in 2024; Know all about them - HT Tech by HT Tech</summary>
+<summary>How Vector Databases Enhance GenAI - RTInsights by Elizabeth Wallace</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/11/06/1600x900/luke-chesser-rCOWMC8qf8A-unsplash_1699239734346_1699239741087.jpg" alt="Apple Watch could get 2 life-saving features in 2024; Know all about them - HT Tech" />
+<img src="https://www.rtinsights.com/wp-content/uploads/2023/11/vector-database-Depositphotos_507284688_S-e1699317425452.jpg" alt="How Vector Databases Enhance GenAI - RTInsights" />
 
-<a href="https://tech.hindustantimes.com/wearables/news/apple-watch-could-get-2-life-saving-features-in-2024-know-all-about-them-71699238120642.html" > Apple is reportedly working on incorporating a blood pressure monitor and sleep apnea detector into the Apple Watch in 2024. </a> 
+<a href="https://www.rtinsights.com/how-vector-databases-enhance-genai/" > Vector databases serve as a bridge between LLMs and external information, providing essential capabilities for GenAI systems. </a> 
 </p>
 <br />
 
