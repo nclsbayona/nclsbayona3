@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;to're a flu bookie&quot;</strong>
-  <i>-- &quot;You're a smart cookie&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;ye're a smart cookie&quot;</strong>
+  <i>-- &quot;You're a smart cookie&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Royal Fizz</h4>
+<h4 align="center">Baby Guinness</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wrh44j1504390609.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rvyvxs1473482359.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Shake all ingredients (except cola) with ice and strain into a chilled collins glass. Fill with cola and serve.
+Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the &quot;Guinness&quot; its &quot;head&quot;.
 </p>
 
 ----
@@ -141,14 +137,22 @@ Shake all ingredients (except cola) with ice and strain into a chilled collins g
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 hours and 56 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 36 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 42 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Batchfile</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -165,7 +169,7 @@ Shake all ingredients (except cola) with ice and strain into a chilled collins g
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 hours and 38 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 52 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -180,14 +184,14 @@ Shake all ingredients (except cola) with ice and strain into a chilled collins g
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perseus Galaxy Cluster from Euclid - ©️ NASA @ 2023-11-08</h4>
+<h4 align="center">M1: The Crab Nebula - ©️ NASA @ 2023-11-09</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Perseus_Euclid_960.jpg" alt="Perseus Galaxy Cluster from Euclid image" />
+<img src="https://apod.nasa.gov/apod/image/2311/M1_webb1024.png" alt="M1: The Crab Nebula image" />
 
 </p>
  
-<h5 align="center">There's a new space telescope in the sky: Euclid. Equipped with two large panoramic cameras, Euclid captures light from the visible to the near-infrared.  It took five hours of observing for Euclid's 1.2-meter diameter primary mirror  to capture, through its sharp optics, the 1000+ galaxies in the Perseus cluster, which lies 250 million light years away.  More than 100,000 galaxies are visible in the background, some as far away as 10 billion light years. The revolutionary nature of Euclid lies in the combination of its wide field of view (twice the area of the full moon), its high angular resolution (thanks to its 620 Megapixel camera), and its infrared vision, which captures both images and spectra.  Euclid's initial surveys, covering a third of the sky and recording over 2 billion galaxies, will enable a study of how dark matter and dark energy have shaped our universe.</h5>
+<h5 align="center">The Crab Nebula is cataloged as M1, the first object on Charles Messier's famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star witnessed by astronomers in the year 1054. This sharp image from the James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) explores the eerie glow and fragmented strands of the still expanding cloud of interstellar debris in infrared light. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula's center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab's emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the head-strong constellation Taurus.</h5>
 
 ----
 
@@ -200,90 +204,90 @@ Shake all ingredients (except cola) with ice and strain into a chilled collins g
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -299,55 +303,55 @@ Shake all ingredients (except cola) with ice and strain into a chilled collins g
 <br />
 
 <details>
-<summary>Garena Free Fire MAX Redeem Codes for November 7: Grab exciting rewards with Rise of the Puppet Ring Event - HT Tech by HT Tech</summary>
+<summary>BioWare teases Mass Effect 5 title, trilogy ending questions - Eurogamer.net by Tom Phillips</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/11/07/1600x900/WhatsApp_1699324762396_1699324762602.jpeg" alt="Garena Free Fire MAX Redeem Codes for November 7: Grab exciting rewards with Rise of the Puppet Ring Event - HT Tech" />
+<img src="https://assetsio.reedpopcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-26-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="BioWare teases Mass Effect 5 title, trilogy ending questions - Eurogamer.net" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-november-7-grab-exciting-rewards-with-rise-of-the-puppet-ring-event-71699324385402.html" > Garena Free Fire MAX Redeem Codes for November 7: To win rewards in Rise of the Puppet Ring Event, you have to spend diamonds. </a> 
+<a href="https://www.eurogamer.net/bioware-teases-mass-effect-5-title-plus-answers-to-trilogy-ending-questions" > UPDATE 11.30pm: After a bit of community head-gathering, the clues have been cracked and BioWare's full 30-second Mass … </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 Yoga asanas for high blood pressure management - IndiaTimes by TIMESOFINDIA.COM</summary>
+<summary>Call of Duty: Modern Warfare 3 - Official Preorder Game Overview Trailer - IGN by None</summary>
 <p align="center">
-<img src="https://static.toiimg.com/photo/105015559.cms" alt="5 Yoga asanas for high blood pressure management - IndiaTimes" />
+<img src="https://i.ytimg.com/vi/isbYvQF58fY/maxresdefault.jpg" alt="Call of Duty: Modern Warfare 3 - Official Preorder Game Overview Trailer - IGN" />
 
-<a href="https://timesofindia.indiatimes.com/life-style/health-fitness/fitness/5-yoga-asanas-for-high-blood-pressure-management/photostory/105015503.cms" > High blood pressure, or hypertension, can have severe health consequences if not managed effectively. Combining a yoga routine with medical guidance can support blood pressure control. These five asanas, including Yashtikasana (Stick Pose) and Utkatasana (Cha… </a> 
+<a href="https://www.youtube.com/watch?v=isbYvQF58fY" > Call of Duty: Modern Warfare 3 is the latest installment in the critically acclaimed first-person shooter series developed by Sledgehammer Games. Call of Dut... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Tetris® 99 – 36th MAXIMUS CUP Gameplay Trailer - Nintendo Switch - Nintendo of America by None</summary>
+<summary>Minecraft shulker box guide: Recipe, uses, tips, and more - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/Yfs7T_WSz6g/maxresdefault.jpg" alt="Tetris® 99 – 36th MAXIMUS CUP Gameplay Trailer - Nintendo Switch - Nintendo of America" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/53335-16993845283968-1920.jpg" alt="Minecraft shulker box guide: Recipe, uses, tips, and more - Sportskeeda" />
 
-<a href="https://www.youtube.com/watch?v=Yfs7T_WSz6g" > The Tetris® 99 36th MAXIMUS CUP event runs from 11 p.m. PT on November 9 to 10:59 p.m. PT on November 13. To participate, you’ll need to be a Nintendo Switch... </a> 
+<a href="https://www.sportskeeda.com/minecraft/minecraft-shulker-box-guide-recipe-uses-tips" > In the expansive world of Minecraft, efficient storage solutions are crucial, and that's where shulker boxes come into play. These aren't your average chests. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Sony is dropping PlayStation 5 and PS4 Twitter integration next week - Eurogamer.net by Matt Wales</summary>
+<summary>Why Apple Is Delaying Work on iPhone, Mac Software Overhauls - Bloomberg Television by None</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/playstation_Rjwagv7.jpg?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Sony is dropping PlayStation 5 and PS4 Twitter integration next week - Eurogamer.net" />
+<img src="https://i.ytimg.com/vi/wTFUgU8hrYA/maxresdefault.jpg" alt="Why Apple Is Delaying Work on iPhone, Mac Software Overhauls - Bloomberg Television" />
 
-<a href="https://www.eurogamer.net/sony-is-dropping-playstation-5-and-ps4-twitter-integration-next-week" > Sony is dropping Twitter integration from its PlayStation consoles starting next Monday, 13th November, mirroring simil… </a> 
+<a href="https://www.youtube.com/watch?v=wTFUgU8hrYA" > Anurag Rana, Bloomberg Intelligence senior software and IT services analyst, explains Apple's rare product development pause and why its quality control meas... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How Vector Databases Enhance GenAI - RTInsights by Elizabeth Wallace</summary>
+<summary>Minecraft automatic carrot farm guide - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://www.rtinsights.com/wp-content/uploads/2023/11/vector-database-Depositphotos_507284688_S-e1699317425452.jpg" alt="How Vector Databases Enhance GenAI - RTInsights" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/cabdd-16993852395035-1920.jpg" alt="Minecraft automatic carrot farm guide - Sportskeeda" />
 
-<a href="https://www.rtinsights.com/how-vector-databases-enhance-genai/" > Vector databases serve as a bridge between LLMs and external information, providing essential capabilities for GenAI systems. </a> 
+<a href="https://www.sportskeeda.com/minecraft/minecraft-automatic-carrot-farm-guide" > In the vast, blocky expanses of Minecraft, the concept of efficiency is not just a luxury; it's a keystone of survival and progress. </a> 
 </p>
 <br />
 
