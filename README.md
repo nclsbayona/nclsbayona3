@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;ye're a smart cookie&quot;</strong>
-  <i>-- &quot;You're a smart cookie&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;You're doing a great job&quot;</strong>
+  <i>-- &quot;You're doing a great job&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Baby Guinness</h4>
+<h4 align="center">Highland Fling Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rvyvxs1473482359.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall of shot glass. This will give the &quot;Guinness&quot; its &quot;head&quot;.
+Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.
 </p>
 
 ----
@@ -137,7 +145,7 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 36 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 37 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -148,8 +156,8 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
@@ -169,7 +177,7 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 52 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 57 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -184,14 +192,14 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">M1: The Crab Nebula - ©️ NASA @ 2023-11-09</h4>
+<h4 align="center">UHZ1: Distant Galaxy and Black Hole - ©️ NASA @ 2023-11-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/M1_webb1024.png" alt="M1: The Crab Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2311/uhz1_1024.jpg" alt="UHZ1: Distant Galaxy and Black Hole image" />
 
 </p>
  
-<h5 align="center">The Crab Nebula is cataloged as M1, the first object on Charles Messier's famous 18th century list of things which are not comets. In fact, the Crab is now known to be a supernova remnant, debris from the death explosion of a massive star witnessed by astronomers in the year 1054. This sharp image from the James Webb Space Telescope’s NIRCam (Near-Infrared Camera) and MIRI (Mid-Infrared Instrument) explores the eerie glow and fragmented strands of the still expanding cloud of interstellar debris in infrared light. One of the most exotic objects known to modern astronomers, the Crab Pulsar, a neutron star spinning 30 times a second, is visible as a bright spot near the nebula's center. Like a cosmic dynamo, this collapsed remnant of the stellar core powers the Crab's emission across the electromagnetic spectrum. Spanning about 12 light-years, the Crab Nebula is a mere 6,500 light-years away in the head-strong constellation Taurus.</h5>
+<h5 align="center">Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora's Cluster. It lies 3.5 billion light-years away toward the constellation Sculptor. Using the galaxy cluster's enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z=10.1. That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age. UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope. The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.  That makes UHZ1's growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.</h5>
 
 ----
 
@@ -204,76 +212,76 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
@@ -281,13 +289,13 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -303,55 +311,55 @@ Pour Kahlua, almost filling shot glass. Then, carefully pour Baileys, using wall
 <br />
 
 <details>
-<summary>BioWare teases Mass Effect 5 title, trilogy ending questions - Eurogamer.net by Tom Phillips</summary>
+<summary>YouTube testing ChatGPT-like AI powered chatbot for videos | World DNA | WION - WION by None</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/The-Next-Mass-Effect---Official-Teaser-Trailer-1-26-screenshot.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="BioWare teases Mass Effect 5 title, trilogy ending questions - Eurogamer.net" />
+<img src="https://i.ytimg.com/vi/Qfu0cA7aF-I/maxresdefault.jpg" alt="YouTube testing ChatGPT-like AI powered chatbot for videos | World DNA | WION - WION" />
 
-<a href="https://www.eurogamer.net/bioware-teases-mass-effect-5-title-plus-answers-to-trilogy-ending-questions" > UPDATE 11.30pm: After a bit of community head-gathering, the clues have been cracked and BioWare's full 30-second Mass … </a> 
+<a href="https://www.youtube.com/watch?v=Qfu0cA7aF-I" > Google is developing new AI-powered features for YouTube, including a ChatGPT-like chatbot and a comment organization feature.#artificialintelligence #youtub... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Call of Duty: Modern Warfare 3 - Official Preorder Game Overview Trailer - IGN by None</summary>
+<summary>Bixby Gets a Makeover with Indian Accent – Samsung Newsroom India - Samsung by None</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/isbYvQF58fY/maxresdefault.jpg" alt="Call of Duty: Modern Warfare 3 - Official Preorder Game Overview Trailer - IGN" />
+<img src="https://img.global.news.samsung.com/in/wp-content/uploads/2023/11/bixby-728.jpg" alt="Bixby Gets a Makeover with Indian Accent – Samsung Newsroom India - Samsung" />
 
-<a href="https://www.youtube.com/watch?v=isbYvQF58fY" > Call of Duty: Modern Warfare 3 is the latest installment in the critically acclaimed first-person shooter series developed by Sledgehammer Games. Call of Dut... </a> 
+<a href="https://news.samsung.com/in/bixby-gets-a-makeover-with-indian-accent" > Bixby for Indian English was launched in 2021 and started with the ability to understand Indianised English accent when spoken to.  With its latest update in </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Minecraft shulker box guide: Recipe, uses, tips, and more - Sportskeeda by Jason Wright</summary>
+<summary>Google rolling out fix for Android 14’s multi-user bug on Pixels - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/53335-16993845283968-1920.jpg" alt="Minecraft shulker box guide: Recipe, uses, tips, and more - Sportskeeda" />
+<img src="https://static.toiimg.com/thumb/msid-105083305,width-1070,height-580,imgsize-144690,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Google rolling out fix for Android 14’s multi-user bug on Pixels - Times of India" />
 
-<a href="https://www.sportskeeda.com/minecraft/minecraft-shulker-box-guide-recipe-uses-tips" > In the expansive world of Minecraft, efficient storage solutions are crucial, and that's where shulker boxes come into play. These aren't your average chests. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/google-rolling-out-fix-for-android-14s-multi-user-bug-on-pixels/articleshow/105083368.cms" > Google is rolling out a November update for Pixel phones that fixes a critical bug affecting users with multiple profiles. The bug caused storage issu </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Why Apple Is Delaying Work on iPhone, Mac Software Overhauls - Bloomberg Television by None</summary>
+<summary>Samsung enters GenAI race with own AI model that boosts productivity - ETTelecom by ET Telecom</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/wTFUgU8hrYA/maxresdefault.jpg" alt="Why Apple Is Delaying Work on iPhone, Mac Software Overhauls - Bloomberg Television" />
+<img src="https://etimg.etb2bimg.com/thumb/msid-105081715,imgsize-65982,width-1200,height=765,overlay-ettelecom/devices/samsung-enters-genai-race-with-own-ai-model-that-boosts-productivity.jpg" alt="Samsung enters GenAI race with own AI model that boosts productivity - ETTelecom" />
 
-<a href="https://www.youtube.com/watch?v=wTFUgU8hrYA" > Anurag Rana, Bloomberg Intelligence senior software and IT services analyst, explains Apple's rare product development pause and why its quality control meas... </a> 
+<a href="https://telecom.economictimes.indiatimes.com/news/devices/samsung-enters-genai-race-with-own-ai-model-that-boosts-productivity/105081715" > Samsung Gauss Code and a coding assistant (code.i) - which operates based on it - are optimized for in-house software development, allowing developers to code easily and quickly. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Minecraft automatic carrot farm guide - Sportskeeda by Jason Wright</summary>
+<summary>Google offered Epic $147 million to launch Fortnite on the Play store - The Verge by Adi Robertson</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/cabdd-16993852395035-1920.jpg" alt="Minecraft automatic carrot farm guide - Sportskeeda" />
+<img src="https://cdn.vox-cdn.com/thumbor/avkdYO7hNy4bmUAqxWE3lp1Pvsg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg" alt="Google offered Epic $147 million to launch Fortnite on the Play store - The Verge" />
 
-<a href="https://www.sportskeeda.com/minecraft/minecraft-automatic-carrot-farm-guide" > In the vast, blocky expanses of Minecraft, the concept of efficiency is not just a luxury; it's a keystone of survival and progress. </a> 
+<a href="https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial" > A Google executive confirmed in an antitrust trial that the Android phone maker offered Epic Games $147 million over three years to launch Fortnite on the Play store. </a> 
 </p>
 <br />
 
