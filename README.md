@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;You're doing a great job&quot;</strong>
-  <i>-- &quot;You're doing a great job&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Jih har in tlhih&quot;</strong>
+  <i>-- &quot;I believe in you&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Highland Fling Cocktail</h4>
+<h4 align="center">Caribbean Orange Liqueur</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 large </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/3 cup superfine </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.
+Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.
 </p>
 
 ----
@@ -145,7 +141,7 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 37 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 41 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -156,11 +152,23 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
         </tr>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
         </tr>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -177,7 +185,7 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 57 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 9 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -192,14 +200,14 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">UHZ1: Distant Galaxy and Black Hole - ©️ NASA @ 2023-11-10</h4>
+<h4 align="center">The SAR and the Milky Way - ©️ Julien Looten @ 2023-11-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/uhz1_1024.jpg" alt="UHZ1: Distant Galaxy and Black Hole image" />
+<img src="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg" alt="The SAR and the Milky Way image" />
 
 </p>
  
-<h5 align="center">Dominated by dark matter, massive cluster of galaxies Abell 2744 is known to some as Pandora's Cluster. It lies 3.5 billion light-years away toward the constellation Sculptor. Using the galaxy cluster's enormous mass as a gravitational lens to warp spacetime and magnify even more distant objects directly behind it, astronomers have found a background galaxy, UHZ1, at a remarkable redshift of Z=10.1. That puts UHZ1 far beyond Abell 2744, at a distance of 13.2 billion light-years, seen when our universe was about 3 percent of its current age. UHZ1 is identified in the insets of this composited image combining X-rays (purple hues) from the spacebased Chandra X-ray Observatory and infrared light from the James Webb Space Telescope. The X-ray emission from UHZ1 detected in the Chandra data is the telltale signature of a growing supermassive black hole at the center of the ultra high redshift galaxy.  That makes UHZ1's growing black hole the most distant black hole ever detected in X-rays, a result that now hints at how and when the first supermassive black holes in the universe formed.</h5>
+<h5 align="center">This broad, luminous red arc was a surprising visitor to partly cloudy evening skies over northern France. Captured extending toward the zenith in a west-to-east mosaic of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc. The rare night sky phenomenon was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an intense geomagnetic storm. SAR arcs and their relation to auroral emission have been explored by citizen science and satellite investigations. From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth's inner magnetosphere. Beyond this SAR, the Milky Way arcs above the cloud banks along the horizon, a regular visitor to night skies over northern France.</h5>
 
 ----
 
@@ -212,90 +220,90 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -311,55 +319,55 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
 <br />
 
 <details>
-<summary>YouTube testing ChatGPT-like AI powered chatbot for videos | World DNA | WION - WION by None</summary>
+<summary>Fitbit is no longer selling its products in these countries - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/Qfu0cA7aF-I/maxresdefault.jpg" alt="YouTube testing ChatGPT-like AI powered chatbot for videos | World DNA | WION - WION" />
+<img src="https://static.toiimg.com/thumb/msid-105104681,width-1070,height-580,imgsize-7988,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Fitbit is no longer selling its products in these countries - Times of India" />
 
-<a href="https://www.youtube.com/watch?v=Qfu0cA7aF-I" > Google is developing new AI-powered features for YouTube, including a ChatGPT-like chatbot and a comment organization feature.#artificialintelligence #youtub... </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/fitbit-is-no-longer-selling-its-products-in-these-countries/articleshow/105104689.cms" > Fitbit, owned by Google, has stopped selling its products in several countries across Europe, Asia, and Latin America. However, the company will conti </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Bixby Gets a Makeover with Indian Accent – Samsung Newsroom India - Samsung by None</summary>
+<summary>Wearable 'Ai Pin' launched by Humane, backed by ex-Apple executives and Microsoft - Moneycontrol by Reuters</summary>
 <p align="center">
-<img src="https://img.global.news.samsung.com/in/wp-content/uploads/2023/11/bixby-728.jpg" alt="Bixby Gets a Makeover with Indian Accent – Samsung Newsroom India - Samsung" />
+<img src="https://images.moneycontrol.com/static-mcnews/2023/08/artificial-intelligence-rep-770x433.jpg" alt="Wearable 'Ai Pin' launched by Humane, backed by ex-Apple executives and Microsoft - Moneycontrol" />
 
-<a href="https://news.samsung.com/in/bixby-gets-a-makeover-with-indian-accent" > Bixby for Indian English was launched in 2021 and started with the ability to understand Indianised English accent when spoken to.  With its latest update in </a> 
+<a href="https://www.moneycontrol.com/news/world/wearable-ai-pin-launched-by-humane-backed-by-ex-apple-executives-and-microsoft-11713531.html" > The Ai Pin, as the device is called, is designed to be worn on clothing and can be tapped to talk to a virtual assistant powered by technologies from ChatGPT-creator OpenAI and cloud computing power from Microsoft. It uses a laser projection system to display… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google rolling out fix for Android 14’s multi-user bug on Pixels - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Minecraft latest snapshot introduces Trial Chambers, a new structure for 1.21 update - Sportskeeda by Vaidehi Shrestha</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105083305,width-1070,height-580,imgsize-144690,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Google rolling out fix for Android 14’s multi-user bug on Pixels - Times of India" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/8c029-16995518256367-1920.jpg" alt="Minecraft latest snapshot introduces Trial Chambers, a new structure for 1.21 update - Sportskeeda" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/google-rolling-out-fix-for-android-14s-multi-user-bug-on-pixels/articleshow/105083368.cms" > Google is rolling out a November update for Pixel phones that fixes a critical bug affecting users with multiple profiles. The bug caused storage issu </a> 
+<a href="https://www.sportskeeda.com/minecraft/minecraft-latest-snapshot-introduces-trial-chambers-new-structure-1-21-update" > The Minecraft Live event has left fans amazed with the amount of new content featured in the 1.21 update. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung enters GenAI race with own AI model that boosts productivity - ETTelecom by ET Telecom</summary>
+<summary>Take-Two CEO says generative AI 'is going to change the nature of what we do' - CNBC by Julie Coleman</summary>
 <p align="center">
-<img src="https://etimg.etb2bimg.com/thumb/msid-105081715,imgsize-65982,width-1200,height=765,overlay-ettelecom/devices/samsung-enters-genai-race-with-own-ai-model-that-boosts-productivity.jpg" alt="Samsung enters GenAI race with own AI model that boosts productivity - ETTelecom" />
+<img src="https://image.cnbcfm.com/api/v1/image/105563484-1541715450464img_1777.jpg?v=1699462781&w=1920&h=1080" alt="Take-Two CEO says generative AI 'is going to change the nature of what we do' - CNBC" />
 
-<a href="https://telecom.economictimes.indiatimes.com/news/devices/samsung-enters-genai-race-with-own-ai-model-that-boosts-productivity/105081715" > Samsung Gauss Code and a coding assistant (code.i) - which operates based on it - are optimized for in-house software development, allowing developers to code easily and quickly. </a> 
+<a href="https://www.cnbc.com/2023/11/09/take-two-ceo-generative-ai-going-to-change-the-nature-of-what-we-do.html" > In an interview with CNBC's Jim Cramer, Take-Two Interactive CEO Strauss Zelnick expressed excitement about new technology's impact on the company. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google offered Epic $147 million to launch Fortnite on the Play store - The Verge by Adi Robertson</summary>
+<summary>New Mario Kart 8 Update Removes Controversial Strategy - IGN Daily Fix - IGN by None</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/avkdYO7hNy4bmUAqxWE3lp1Pvsg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/25047551/236883_Epic_Vs_Google_C_CVirginia.jpg" alt="Google offered Epic $147 million to launch Fortnite on the Play store - The Verge" />
+<img src="https://i.ytimg.com/vi/JBn53G_CFVU/maxresdefault.jpg" alt="New Mario Kart 8 Update Removes Controversial Strategy - IGN Daily Fix - IGN" />
 
-<a href="https://www.theverge.com/2023/11/8/23953262/google-epic-fortnite-play-store-investment-antitrust-trial" > A Google executive confirmed in an antitrust trial that the Android phone maker offered Epic Games $147 million over three years to launch Fortnite on the Play store. </a> 
+<a href="https://www.youtube.com/watch?v=JBn53G_CFVU" > In today's Daily Fix:The latest updated to Mario Kart 8 Deluxe removes a controversial "bagging" strategy (or cheat, depending on how you want to think about... </a> 
 </p>
 <br />
 
