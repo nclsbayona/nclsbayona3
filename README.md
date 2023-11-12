@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Jih har in tlhih&quot;</strong>
-  <i>-- &quot;I believe in you&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Ao issi worthy se deserving hen respect&quot;</strong>
+  <i>-- &quot;You are worthy and deserving of respect&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Caribbean Orange Liqueur</h4>
+<h4 align="center">Jelly Bean</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qwxuwy1472667570.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Homemade Liqueur</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 large </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/3 cup superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Pare very thinly the bright-colored rind from the oranges (no white). Blot the peel on paper towels to remove any excess oil. Put peel in a 4 cup screw-top jar. Add 2 cups vodka. Close jar. Store in a cool, dark place for 2 days or until the vodka has absorbed the flavor. Remove peel and add remaining vodka. Close jar and add remaining cup of vodka. Close the jar and store in a cool dark place at least 1 month to age.
+mix equal parts in pony glass-tastes just like a jelly bean!
 </p>
 
 ----
@@ -200,14 +196,14 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The SAR and the Milky Way - ©️ Julien Looten @ 2023-11-11</h4>
+<h4 align="center">Gibbous Moon beyond Swedish Mountain - ©️ Göran Strand @ 2023-11-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/SARarcLooten1024.jpg" alt="The SAR and the Milky Way image" />
+<img src="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg" alt="Gibbous Moon beyond Swedish Mountain image" />
 
 </p>
  
-<h5 align="center">This broad, luminous red arc was a surprising visitor to partly cloudy evening skies over northern France. Captured extending toward the zenith in a west-to-east mosaic of images from November 5, the faint atmospheric ribbon of light is an example of a Stable Auroral Red (SAR) arc. The rare night sky phenomenon was also spotted at unusually low latitudes around world, along with more dynamic auroral displays during an intense geomagnetic storm. SAR arcs and their relation to auroral emission have been explored by citizen science and satellite investigations. From altitudes substantially above the normal auroral glow, the deep red SAR emission is thought to be caused by strong heating due to currents flowing in planet Earth's inner magnetosphere. Beyond this SAR, the Milky Way arcs above the cloud banks along the horizon, a regular visitor to night skies over northern France.</h5>
+<h5 align="center">This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon's face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -220,90 +216,90 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +315,55 @@ Pare very thinly the bright-colored rind from the oranges (no white). Blot the p
 <br />
 
 <details>
-<summary>Fitbit is no longer selling its products in these countries - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Apple to file challenge over Digital Markets Act in EU Court - ETTelecom by ET Telecom</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105104681,width-1070,height-580,imgsize-7988,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Fitbit is no longer selling its products in these countries - Times of India" />
+<img src="https://etimg.etb2bimg.com/thumb/msid-105137230,imgsize-34134,width-1200,height=765,overlay-ettelecom/devices/apple-to-file-challenge-over-digital-markets-act-in-eu-court.jpg" alt="Apple to file challenge over Digital Markets Act in EU Court - ETTelecom" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/fitbit-is-no-longer-selling-its-products-in-these-countries/articleshow/105104689.cms" > Fitbit, owned by Google, has stopped selling its products in several countries across Europe, Asia, and Latin America. However, the company will conti </a> 
+<a href="https://telecom.economictimes.indiatimes.com/news/devices/apple-to-file-challenge-over-digital-markets-act-in-eu-court/105137230" > Apple's appeal is still in draft form and could change before the Nov. 16 deadline to file challenges at the EU's General Court, according to a Bloomberg report. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Wearable 'Ai Pin' launched by Humane, backed by ex-Apple executives and Microsoft - Moneycontrol by Reuters</summary>
+<summary>Google in talks for a major investment in AI start-up Character.AI | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://images.moneycontrol.com/static-mcnews/2023/08/artificial-intelligence-rep-770x433.jpg" alt="Wearable 'Ai Pin' launched by Humane, backed by ex-Apple executives and Microsoft - Moneycontrol" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/11/1600x900/GOOGLE-PIXEL-ASSISTANT-0_1696435041435_1699665353094.JPG" alt="Google in talks for a major investment in AI start-up Character.AI | Mint - Mint" />
 
-<a href="https://www.moneycontrol.com/news/world/wearable-ai-pin-launched-by-humane-backed-by-ex-apple-executives-and-microsoft-11713531.html" > The Ai Pin, as the device is called, is designed to be worn on clothing and can be tapped to talk to a virtual assistant powered by technologies from ChatGPT-creator OpenAI and cloud computing power from Microsoft. It uses a laser projection system to display… </a> 
+<a href="https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html" > The potential investment, which might take the form of convertible notes, would further solidify the existing partnership between Character.AI and Google. Currently, Character.AI utilizes Google's cloud services and Tensor Processing Units (TPUs) for model tr… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Minecraft latest snapshot introduces Trial Chambers, a new structure for 1.21 update - Sportskeeda by Vaidehi Shrestha</summary>
+<summary>Zelda: Tears Of The Kingdom Wins Nintendo GOTY At Golden Joystick Awards 2023 - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/8c029-16995518256367-1920.jpg" alt="Minecraft latest snapshot introduces Trial Chambers, a new structure for 1.21 update - Sportskeeda" />
+<img src="https://images.nintendolife.com/c51ccb2aff901/1280x720.jpg" alt="Zelda: Tears Of The Kingdom Wins Nintendo GOTY At Golden Joystick Awards 2023 - Nintendo Life" />
 
-<a href="https://www.sportskeeda.com/minecraft/minecraft-latest-snapshot-introduces-trial-chambers-new-structure-1-21-update" > The Minecraft Live event has left fans amazed with the amount of new content featured in the 1.21 update. </a> 
+<a href="https://www.nintendolife.com/news/2023/11/zelda-tears-of-the-kingdom-wins-nintendo-goty-at-golden-joystick-awards-2023" > Baldur's Gate 3 takes out "ultimate" GOTY </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Take-Two CEO says generative AI 'is going to change the nature of what we do' - CNBC by Julie Coleman</summary>
+<summary>Modern Warfare 3 Maps Pulled Because of Horrendously Bad Spawn Points - IGN Daily Fix - IGN by None</summary>
 <p align="center">
-<img src="https://image.cnbcfm.com/api/v1/image/105563484-1541715450464img_1777.jpg?v=1699462781&w=1920&h=1080" alt="Take-Two CEO says generative AI 'is going to change the nature of what we do' - CNBC" />
+<img src="https://i.ytimg.com/vi/uZFOo75ZG7A/maxresdefault.jpg" alt="Modern Warfare 3 Maps Pulled Because of Horrendously Bad Spawn Points - IGN Daily Fix - IGN" />
 
-<a href="https://www.cnbc.com/2023/11/09/take-two-ceo-generative-ai-going-to-change-the-nature-of-what-we-do.html" > In an interview with CNBC's Jim Cramer, Take-Two Interactive CEO Strauss Zelnick expressed excitement about new technology's impact on the company. </a> 
+<a href="https://www.youtube.com/watch?v=uZFOo75ZG7A" > In today's Daily Fix:Call of Duty: Modern Warfare 3's launch has not bee smooth sailing so far. The campaign is being hit with some of the franchise's worst ... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>New Mario Kart 8 Update Removes Controversial Strategy - IGN Daily Fix - IGN by None</summary>
+<summary>Apple reportedly cut a deal to get cleaner Amazon pages - The Verge by Emma Roth</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/JBn53G_CFVU/maxresdefault.jpg" alt="New Mario Kart 8 Update Removes Controversial Strategy - IGN Daily Fix - IGN" />
+<img src="https://cdn.vox-cdn.com/thumbor/y9Z561hkx5iu60wFEwXRbCiV9o0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931302/236791_Apple_iPhone_15_and_15_Plus_review_DSeifert_0005.jpg" alt="Apple reportedly cut a deal to get cleaner Amazon pages - The Verge" />
 
-<a href="https://www.youtube.com/watch?v=JBn53G_CFVU" > In today's Daily Fix:The latest updated to Mario Kart 8 Deluxe removes a controversial "bagging" strategy (or cheat, depending on how you want to think about... </a> 
+<a href="https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads" > Apple and Amazon have a deal that prevents ads from appearing on product pages and search results for new Apple products, like the latest iPhone, MacBook, or iPad, according to Insider. </a> 
 </p>
 <br />
 
