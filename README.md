@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ao issi worthy se deserving hen respect&quot;</strong>
-  <i>-- &quot;You are worthy and deserving of respect&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Whenever kisha’re afraid,  anna’s hajinaan kisha don’t know lekhaan. If kisha understood lekhaan,  kisha would avvos be afraid&quot;</strong>
+  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Jelly Bean</h4>
+<h4 align="center">Amaretto Stone Sour</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bglc6y1504388797.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Anis</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-mix equal parts in pony glass-tastes just like a jelly bean!
+Shake and Serve over ice
 </p>
 
 ----
@@ -196,14 +200,14 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Gibbous Moon beyond Swedish Mountain - ©️ Göran Strand @ 2023-11-12</h4>
+<h4 align="center">Andromeda over the Alps - ©️ Dzmitry Kananovich @ 2023-11-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/GibbousMoon_Strand_960.jpg" alt="Gibbous Moon beyond Swedish Mountain image" />
+<img src="https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg" alt="Andromeda over the Alps image" />
 
 </p>
  
-<h5 align="center">This is a gibbous Moon. More Earthlings are familiar with a full moon, when the entire face of Luna is lit by the Sun, and a crescent moon, when only a sliver of the Moon's face is lit.  When more than half of the Moon is illuminated, though, but still short of full illumination, the phase is called gibbous.  Rarely seen in television and movies, gibbous moons are quite common in the actual night sky. The featured image was taken in Jämtland, Sweden near the end of 2018 October. That gibbous moon turned, in a few days, into a crescent moon, and then a new moon, then back to a crescent, and a few days past that, back to gibbous.  Setting up to capture a picturesque gibbous moonscape, the photographer was quite surprised to find an airplane, surely well in the foreground, appearing to fly past it.   Almost Hyperspace: Random APOD Generator</h5>
+<h5 align="center">Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese</h5>
 
 ----
 
@@ -216,90 +220,90 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -315,55 +319,55 @@ mix equal parts in pony glass-tastes just like a jelly bean!
 <br />
 
 <details>
-<summary>Apple to file challenge over Digital Markets Act in EU Court - ETTelecom by ET Telecom</summary>
+<summary>Apple’s latest #shotoniPhone campaign is about Diwali mithai: All the details - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://etimg.etb2bimg.com/thumb/msid-105137230,imgsize-34134,width-1200,height=765,overlay-ettelecom/devices/apple-to-file-challenge-over-digital-markets-act-in-eu-court.jpg" alt="Apple to file challenge over Digital Markets Act in EU Court - ETTelecom" />
+<img src="https://static.toiimg.com/thumb/msid-105161080,width-1070,height-580,imgsize-27754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple’s latest #shotoniPhone campaign is about Diwali mithai: All the details - Times of India" />
 
-<a href="https://telecom.economictimes.indiatimes.com/news/devices/apple-to-file-challenge-over-digital-markets-act-in-eu-court/105137230" > Apple's appeal is still in draft form and could change before the Nov. 16 deadline to file challenges at the EU's General Court, according to a Bloomberg report. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/apples-latest-shotoniphone-campaign-is-about-diwali-mithai-all-the-details/articleshow/105161080.cms" > Apple has commissioned photographer Porus Vimadalal to capture Diwali sweets for its #shotoniPhone campaign. The photographer has captured different I </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google in talks for a major investment in AI start-up Character.AI | Mint - Mint by Livemint</summary>
+<summary>Ai Pin wearable developer Humane now hiring senior Android developer - Investing.com India by IANS</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/11/1600x900/GOOGLE-PIXEL-ASSISTANT-0_1696435041435_1699665353094.JPG" alt="Google in talks for a major investment in AI start-up Character.AI | Mint - Mint" />
+<img src="https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/f187a581f8c12e0c06939cf5c182b6c5_w_800_h_450.jpg" alt="Ai Pin wearable developer Humane now hiring senior Android developer - Investing.com India" />
 
-<a href="https://www.livemint.com/ai/google-in-talks-for-a-major-investment-in-ai-start-up-characterai-11699665159400.html" > The potential investment, which might take the form of convertible notes, would further solidify the existing partnership between Character.AI and Google. Currently, Character.AI utilizes Google's cloud services and Tensor Processing Units (TPUs) for model tr… </a> 
+<a href="https://in.investing.com/news/ai-pin-wearable-developer-humane-now-hiring-senior-android-developer-3899340" > The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Zelda: Tears Of The Kingdom Wins Nintendo GOTY At Golden Joystick Awards 2023 - Nintendo Life by Liam Doolan</summary>
+<summary>The Talos Principle 2 Transmission guide (Lost Marshes puzzle 2) - Sportskeeda by Ivy Lucas</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/c51ccb2aff901/1280x720.jpg" alt="Zelda: Tears Of The Kingdom Wins Nintendo GOTY At Golden Joystick Awards 2023 - Nintendo Life" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/e1d0e-16997514038316-1920.jpg" alt="The Talos Principle 2 Transmission guide (Lost Marshes puzzle 2) - Sportskeeda" />
 
-<a href="https://www.nintendolife.com/news/2023/11/zelda-tears-of-the-kingdom-wins-nintendo-goty-at-golden-joystick-awards-2023" > Baldur's Gate 3 takes out "ultimate" GOTY </a> 
+<a href="https://www.sportskeeda.com/esports/the-talos-principle-2-transmission-guide-lost-marshes-puzzle-2" > The Talos Principle 2 offers players an array of unique puzzles that require strategic use of tools like the Accumulator, Connector, teleporting devices, and more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Modern Warfare 3 Maps Pulled Because of Horrendously Bad Spawn Points - IGN Daily Fix - IGN by None</summary>
+<summary>Garena Free Fire MAX Redeem Codes for November 12: Rare freebies can be won today! - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/uZFOo75ZG7A/maxresdefault.jpg" alt="Modern Warfare 3 Maps Pulled Because of Horrendously Bad Spawn Points - IGN Daily Fix - IGN" />
+<img src="https://images.hindustantimes.com/tech/img/2023/11/11/1600x900/b5f992f0bc6924b442aac34d1c0bc9cfjpg_1_1699720311265_1699720311480.jpg" alt="Garena Free Fire MAX Redeem Codes for November 12: Rare freebies can be won today! - HT Tech" />
 
-<a href="https://www.youtube.com/watch?v=uZFOo75ZG7A" > In today's Daily Fix:Call of Duty: Modern Warfare 3's launch has not bee smooth sailing so far. The campaign is being hit with some of the franchise's worst ... </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-november-12-rare-freebies-can-be-won-today-71699720247517.html" > Garena Free Fire MAX Redeem Codes for November 12: Amazing rare costumes, bundles, diamond vouchers and more can be claimed through these redeem codes. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple reportedly cut a deal to get cleaner Amazon pages - The Verge by Emma Roth</summary>
+<summary>Customised car design for wheelchair-bound drivers impresses Anand Mahindra - Hindustan Times by Trisha Sengupta</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/y9Z561hkx5iu60wFEwXRbCiV9o0=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24931302/236791_Apple_iPhone_15_and_15_Plus_review_DSeifert_0005.jpg" alt="Apple reportedly cut a deal to get cleaner Amazon pages - The Verge" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/11/12/1600x900/X_Viral_Anand_Mahindra_Wheelchair_Car_1699756584234_1699756584572.png" alt="Customised car design for wheelchair-bound drivers impresses Anand Mahindra - Hindustan Times" />
 
-<a href="https://www.theverge.com/2023/11/10/23955934/apple-amazon-deal-search-product-pages-ads" > Apple and Amazon have a deal that prevents ads from appearing on product pages and search results for new Apple products, like the latest iPhone, MacBook, or iPad, according to Insider. </a> 
+<a href="https://www.hindustantimes.com/trending/customised-car-design-for-wheelchair-bound-drivers-impresses-anand-mahindra-101699755765479.html" > Anand Mahindra shared a video of a customised car for wheelchair-bound drivers. He added that it is a “super smart and super useful design". | Trending </a> 
 </p>
 <br />
 
