@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Whenever kisha’re afraid,  anna’s hajinaan kisha don’t know lekhaan. If kisha understood lekhaan,  kisha would avvos be afraid&quot;</strong>
-  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Nyke discovered nykeā bōsa jēda ago bona lo nyke dohaertan enough people jiōragon skoros pōnta jeldan,  nyke would va moriot jiōragon skoros nyke jeldan se nyke would dōrī emagon naejot worry.&quot;</strong>
+  <i>-- &quot;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto Stone Sour</h4>
+<h4 align="center">Spanish chocolate</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xwryyx1472719921.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Other / Unknown</h5>
+<h5 align="center">Non alcoholic - Cocoa</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweet </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 beaten </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake and Serve over ice
+Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
 </p>
 
 ----
@@ -141,7 +145,11 @@ Shake and Serve over ice
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 41 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 10 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 11 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -156,19 +164,23 @@ Shake and Serve over ice
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 4 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 3 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Docker</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
@@ -185,7 +197,7 @@ Shake and Serve over ice
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 9 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 52 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,14 +212,14 @@ Shake and Serve over ice
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Andromeda over the Alps - ©️ Dzmitry Kananovich @ 2023-11-13</h4>
+<h4 align="center">Three Planets Rock - ©️ Giovanni Passalacqua;Text: Liz Coelho  (Pikes Peak) @ 2023-11-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/M31Alps_Kananovich_960.jpg" alt="Andromeda over the Alps image" />
+<img src="https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg" alt="Three Planets Rock image" />
 
 </p>
  
-<h5 align="center">Have you ever seen the Andromeda galaxy? Although M31 appears as a faint and fuzzy blob to the unaided eye, the light you see will be over two million years old, making it likely the oldest light you ever will see directly. The featured image captured Andromeda just before it set behind the Swiss Alps early last year. As cool as it may be to see this neighboring galaxy to our Milky Way with your own eyes, long duration camera exposures can pick up many faint and breathtaking details. The image is composite of foreground and background images taken consecutively with the same camera and from the same location.  Recent data indicate that our Milky Way Galaxy will collide and coalesce with Andromeda galaxy in a few billion years.   Follow APOD on Facebook in: Arabic, English, Catalan, Portuguese, or Taiwanese</h5>
+<h5 align="center">In the fading darkness before dawn, a tilted triangle appeared to balance atop a rock formation off the southern tip of Sicily.  Making up the points of the triangle are three of the four brightest objects visible in Earth’s sky: Jupiter, Venus and the Moon.  Though a thin waning crescent, most of the moon’s disk is visible due to earthshine.  Captured in this image on 2022 April 27, Venus (center) and Jupiter (left) are roughly three degrees apart --  and were headed toward a close conjunction.  Conjunctions of Venus and Jupiter occur about once a year and are visible either in the east before sunrise or in the west after sunset.  The featured image was taken about an hour before the arrival of the brightest object in Earth’s sky – the Sun.</h5>
 
 ----
 
@@ -220,90 +232,90 @@ Shake and Serve over ice
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +331,55 @@ Shake and Serve over ice
 <br />
 
 <details>
-<summary>Apple’s latest #shotoniPhone campaign is about Diwali mithai: All the details - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Top 10 structures to explore in Minecraft - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105161080,width-1070,height-580,imgsize-27754,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple’s latest #shotoniPhone campaign is about Diwali mithai: All the details - Times of India" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/d0e79-16998470069240-1920.jpg" alt="Top 10 structures to explore in Minecraft - Sportskeeda" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/apples-latest-shotoniphone-campaign-is-about-diwali-mithai-all-the-details/articleshow/105161080.cms" > Apple has commissioned photographer Porus Vimadalal to capture Diwali sweets for its #shotoniPhone campaign. The photographer has captured different I </a> 
+<a href="https://www.sportskeeda.com/minecraft/top-10-structures-explore-minecraft" > Minecraft, a game that has captivated millions with its blend of creativity, exploration, and survival, offers a world where imagination and adventure collide. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Ai Pin wearable developer Humane now hiring senior Android developer - Investing.com India by IANS</summary>
+<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 13. Here's How To Use - ABP Live by ABP News Bureau</summary>
 <p align="center">
-<img src="https://i-invdn-com.investing.com/news/https://i-invdn-com.investing.com/akapi-images/800x450/f187a581f8c12e0c06939cf5c182b6c5_w_800_h_450.jpg" alt="Ai Pin wearable developer Humane now hiring senior Android developer - Investing.com India" />
+<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/07/782a20114ba07578094991371d04ee7d1699331343544402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 13. Here's How To Use - ABP Live" />
 
-<a href="https://in.investing.com/news/ai-pin-wearable-developer-humane-now-hiring-senior-android-developer-3899340" > The Financial News section features stock market news in addition to stories about bonds, forex, commodities and economic releases. </a> 
+<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-13-november-2023-daily-free-rewards-1642365" > Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>The Talos Principle 2 Transmission guide (Lost Marshes puzzle 2) - Sportskeeda by Ivy Lucas</summary>
+<summary>Motorola Razr 40 Ultra New Glacier Blue Colour Variant Launched in India: Price, Specifications - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/e1d0e-16997514038316-1920.jpg" alt="The Talos Principle 2 Transmission guide (Lost Marshes puzzle 2) - Sportskeeda" />
+<img src="https://i.gadgets360cdn.com/large/motorola_40_ultra_moto_1699848441637.jpg" alt="Motorola Razr 40 Ultra New Glacier Blue Colour Variant Launched in India: Price, Specifications - Gadgets 360" />
 
-<a href="https://www.sportskeeda.com/esports/the-talos-principle-2-transmission-guide-lost-marshes-puzzle-2" > The Talos Principle 2 offers players an array of unique puzzles that require strategic use of tools like the Accumulator, Connector, teleporting devices, and more. </a> 
+<a href="https://www.gadgets360.com/mobiles/news/motorola-razr-40-ultra-glacier-blue-colour-price-india-launch-specifications-4568199" > Motorola Razr 40 Ultra was launched in India earlier this year in July. The clamshell foldable came alongside the base Motorola Razr 40. The Ultra model initially was introduced in a single storage variant and in two colour options. Now, the phone has been in… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire MAX Redeem Codes for November 12: Rare freebies can be won today! - HT Tech by HT Tech</summary>
+<summary>How to get bees in Minecraft easily - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/11/11/1600x900/b5f992f0bc6924b442aac34d1c0bc9cfjpg_1_1699720311265_1699720311480.jpg" alt="Garena Free Fire MAX Redeem Codes for November 12: Rare freebies can be won today! - HT Tech" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/636fb-16998456726938-1920.jpg" alt="How to get bees in Minecraft easily - Sportskeeda" />
 
-<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-max-redeem-codes-for-november-12-rare-freebies-can-be-won-today-71699720247517.html" > Garena Free Fire MAX Redeem Codes for November 12: Amazing rare costumes, bundles, diamond vouchers and more can be claimed through these redeem codes. </a> 
+<a href="https://www.sportskeeda.com/minecraft/how-get-bees-minecraft-easily" > In the dynamic world of Minecraft, players encounter a variety of interactive elements, among which bees play a significant role. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Customised car design for wheelchair-bound drivers impresses Anand Mahindra - Hindustan Times by Trisha Sengupta</summary>
+<summary>Diablo 4 Barbarian build chases Ball Lightning Sorcerer by one-shotting boss - Dexerto by Ethan Dean</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/11/12/1600x900/X_Viral_Anand_Mahindra_Wheelchair_Car_1699756584234_1699756584572.png" alt="Customised car design for wheelchair-bound drivers impresses Anand Mahindra - Hindustan Times" />
+<img src="https://editors.dexerto.com/wp-content/uploads/2023/07/11/Diablo-4-Barbarian-Death-Toll-Armour-e1699841564140.jpg" alt="Diablo 4 Barbarian build chases Ball Lightning Sorcerer by one-shotting boss - Dexerto" />
 
-<a href="https://www.hindustantimes.com/trending/customised-car-design-for-wheelchair-bound-drivers-impresses-anand-mahindra-101699755765479.html" > Anand Mahindra shared a video of a customised car for wheelchair-bound drivers. He added that it is a “super smart and super useful design". | Trending </a> 
+<a href="https://www.dexerto.com/diablo/diablo-4-barbarian-build-chases-ball-lightning-sorcerer-by-one-shotting-boss-2380283/" > Diablo 4 builds keep getting more and more OP with Barbarians joining the club that one-shots the new endgame bosses. </a> 
 </p>
 <br />
 
