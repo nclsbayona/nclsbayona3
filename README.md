@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nyke discovered nykeā bōsa jēda ago bona lo nyke dohaertan enough people jiōragon skoros pōnta jeldan,  nyke would va moriot jiōragon skoros nyke jeldan se nyke would dōrī emagon naejot worry.&quot;</strong>
-  <i>-- &quot;I discovered a long time ago that if I helped enough people get what they wanted, I would always get what I wanted and I would never have to worry.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Tlhih're doing a qu' job&quot;</strong>
+  <i>-- &quot;You're doing a great job&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Spanish chocolate</h4>
+<h4 align="center">Rail Splitter</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pra8vt1487603054.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Cocoa</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweet </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg yolk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 beaten </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +60,7 @@
 
 
 <p align="center">
-Stir the milk with the chocolate and the cinnamon over low heat until the chocolate dissolves. Add the eggs and beat the mixture until it becomes thick, taking care not to boil. Serve in coffee mug.
+Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 </p>
 
 ----
@@ -145,15 +133,19 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 10 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 32 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 11 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 35 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 17 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 13 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
@@ -161,10 +153,6 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
@@ -197,7 +185,7 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 52 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 58 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -212,14 +200,14 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Three Planets Rock - ©️ Giovanni Passalacqua;Text: Liz Coelho  (Pikes Peak) @ 2023-11-14</h4>
+<h4 align="center">M1: The Incredible Expanding Crab - ©️ NASA @ 2023-11-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/MoonVenusJupiter_Passalacqua_960.jpg" alt="Three Planets Rock image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg" alt="M1: The Incredible Expanding Crab image" />
 
 </p>
  
-<h5 align="center">In the fading darkness before dawn, a tilted triangle appeared to balance atop a rock formation off the southern tip of Sicily.  Making up the points of the triangle are three of the four brightest objects visible in Earth’s sky: Jupiter, Venus and the Moon.  Though a thin waning crescent, most of the moon’s disk is visible due to earthshine.  Captured in this image on 2022 April 27, Venus (center) and Jupiter (left) are roughly three degrees apart --  and were headed toward a close conjunction.  Conjunctions of Venus and Jupiter occur about once a year and are visible either in the east before sunrise or in the west after sunset.  The featured image was taken about an hour before the arrival of the brightest object in Earth’s sky – the Sun.</h5>
+<h5 align="center">Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.</h5>
 
 ----
 
@@ -232,90 +220,90 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -331,55 +319,55 @@ Stir the milk with the chocolate and the cinnamon over low heat until the chocol
 <br />
 
 <details>
-<summary>Top 10 structures to explore in Minecraft - Sportskeeda by Jason Wright</summary>
+<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 14. Here's How To Use - ABP Live by ABP News Bureau</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/d0e79-16998470069240-1920.jpg" alt="Top 10 structures to explore in Minecraft - Sportskeeda" />
+<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/26/b07fe5e468c475feb0065619dc94cae01698301971607402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 14. Here's How To Use - ABP Live" />
 
-<a href="https://www.sportskeeda.com/minecraft/top-10-structures-explore-minecraft" > Minecraft, a game that has captivated millions with its blend of creativity, exploration, and survival, offers a world where imagination and adventure collide. </a> 
+<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-14-november-2023-daily-free-rewards-1642587" > Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 13. Here's How To Use - ABP Live by ABP News Bureau</summary>
+<summary>Here are Google's Black Friday deals, going live this Thursday - GSMArena.com by Vlad</summary>
 <p align="center">
-<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/07/782a20114ba07578094991371d04ee7d1699331343544402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 13. Here's How To Use - ABP Live" />
+<img src="https://fdn.gsmarena.com/imgroot/news/23/11/google-black-friday-deals/-952x498w6/gsmarena_000.jpg" alt="Here are Google's Black Friday deals, going live this Thursday - GSMArena.com" />
 
-<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-13-november-2023-daily-free-rewards-1642365" > Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins. </a> 
+<a href="https://www.gsmarena.com/here_are_googles_black_friday_deals_going_live_this_thursday-news-60570.php" > You can save $400 on the Pixel Fold. Today Google has published its Black Friday deals that will become available through its online store in the US this... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Motorola Razr 40 Ultra New Glacier Blue Colour Variant Launched in India: Price, Specifications - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
+<summary>Alan Wake 2 and Baldur's Gate 3 lead 2023 Game Awards nominations - Digital Spy by Jess Lee</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/motorola_40_ultra_moto_1699848441637.jpg" alt="Motorola Razr 40 Ultra New Glacier Blue Colour Variant Launched in India: Price, Specifications - Gadgets 360" />
+<img src="https://hips.hearstapps.com/hmg-prod/images/baldurs-gate-3-laezel-65171f928416c.jpg?crop=1.00xw:0.895xh;0,0.0114xh&resize=1200:*" alt="Alan Wake 2 and Baldur's Gate 3 lead 2023 Game Awards nominations - Digital Spy" />
 
-<a href="https://www.gadgets360.com/mobiles/news/motorola-razr-40-ultra-glacier-blue-colour-price-india-launch-specifications-4568199" > Motorola Razr 40 Ultra was launched in India earlier this year in July. The clamshell foldable came alongside the base Motorola Razr 40. The Ultra model initially was introduced in a single storage variant and in two colour options. Now, the phone has been in… </a> 
+<a href="https://www.digitalspy.com/tech/a45828471/game-awards-2023-nominations/" > A really strong year for games. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How to get bees in Minecraft easily - Sportskeeda by Jason Wright</summary>
+<summary>India Smartphone Market Remained Flat YoY in 3Q23 with 44 Million Units, Says IDC · EMSNow - EMSNow by Jennifer Read</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/636fb-16998456726938-1920.jpg" alt="How to get bees in Minecraft easily - Sportskeeda" />
+<img src="https://www.emsnow.com/wp-content/uploads/2020/09/EMSnow-logo-1200x630-1-e1623708589690.png" alt="India Smartphone Market Remained Flat YoY in 3Q23 with 44 Million Units, Says IDC · EMSNow - EMSNow" />
 
-<a href="https://www.sportskeeda.com/minecraft/how-get-bees-minecraft-easily" > In the dynamic world of Minecraft, players encounter a variety of interactive elements, among which bees play a significant role. </a> 
+<a href="https://www.emsnow.com/india-smartphone-market-remained-flat-yoy-in-3q23-with-44-million-units-says-idc/" > INDIA – According to the International Data Corporation ’s (IDC) Worldwide Quarterly Mobile Phone Tracker, India’s smartphone market remained flat YoY </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Diablo 4 Barbarian build chases Ball Lightning Sorcerer by one-shotting boss - Dexerto by Ethan Dean</summary>
+<summary>Bandai Namco Forms New Dev Studio Focused On Commissioned Projects - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://editors.dexerto.com/wp-content/uploads/2023/07/11/Diablo-4-Barbarian-Death-Toll-Armour-e1699841564140.jpg" alt="Diablo 4 Barbarian build chases Ball Lightning Sorcerer by one-shotting boss - Dexerto" />
+<img src="https://images.nintendolife.com/7dcd465fae3e3/1280x720.jpg" alt="Bandai Namco Forms New Dev Studio Focused On Commissioned Projects - Nintendo Life" />
 
-<a href="https://www.dexerto.com/diablo/diablo-4-barbarian-build-chases-ball-lightning-sorcerer-by-one-shotting-boss-2380283/" > Diablo 4 builds keep getting more and more OP with Barbarians joining the club that one-shots the new endgame bosses. </a> 
+<a href="https://www.nintendolife.com/news/2023/11/bandai-namco-forms-new-dev-studio-focused-on-commissioned-projects" > Nintendo appears to be a big part of the plans </a> 
 </p>
 <br />
 
