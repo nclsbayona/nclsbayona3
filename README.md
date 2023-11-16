@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tlhih're doing a qu' job&quot;</strong>
-  <i>-- &quot;You're doing a great job&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Tlhih're resourceful 'ej clever&quot;</strong>
+  <i>-- &quot;You're resourceful and clever&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rail Splitter</h4>
+<h4 align="center">A Gilligan's Island</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/stsuqq1441207660.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,8 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +72,7 @@
 
 
 <p align="center">
-Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
+Shaken, not stirred!
 </p>
 
 ----
@@ -133,23 +145,19 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 hours and 32 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 56 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 35 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 36 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 17 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 23 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 13 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">JSON</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 7 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
@@ -185,7 +193,7 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 58 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 15 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,14 +208,14 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">M1: The Incredible Expanding Crab - ©️ NASA @ 2023-11-15</h4>
+<h4 align="center">Daytime Moon Meets Morning Star - ©️ Katarzyna Kaczmarczyk @ 2023-11-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Crab_Webb_998.jpg" alt="M1: The Incredible Expanding Crab image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg" alt="Daytime Moon Meets Morning Star image" />
 
 </p>
  
-<h5 align="center">Cataloged as M1, the Crab Nebula is the first on Charles Messier's famous list of things which are not comets. In fact, the Crab Nebula is now known to be a supernova remnant, an expanding cloud of debris from the death explosion of a massive star. The violent birth of the Crab was witnessed by astronomers in the year 1054. Roughly 10 light-years across, the nebula is still expanding at a rate of about 1,500 kilometers per second. You can see the expansion by comparing these sharp images from the Hubble Space Telescope and James Webb Space Telescope. The Crab's dynamic, fragmented filaments were captured in visible light by Hubble in 2005 and Webb in infrared light in 2023. This cosmic crustacean lies about 6,500 light-years away in the constellation Taurus.</h5>
+<h5 align="center">Venus now appears as Earth's brilliant morning star, shining above the southeastern horizon before dawn. For early morning risers, the silvery celestial beacon rose predawn in a close pairing with a waning crescent Moon on Thursday, November 9. But from some northern locations, the Moon was seen to occult or pass in front of Venus. From much of Europe, the lunar occultation could be viewed in daylight skies. This time series composite follows the daytime approach of Moon and morning star in blue skies from Warsaw, Poland. The progression of eight sharp telescopic snapshots, made between 10:56am and 10:58am local time, runs from left to right, when Venus winked out behind the bright lunar limb.</h5>
 
 ----
 
@@ -220,21 +228,21 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
@@ -242,68 +250,68 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +327,55 @@ Mix sugar syrup with lemon juice in a tall glass. Fill up with ginger ale.
 <br />
 
 <details>
-<summary>Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 14. Here's How To Use - ABP Live by ABP News Bureau</summary>
+<summary>Google Sues to Block AI Ads Preying on Small Businesses - The Wall Street Journal by John D. McKinnon</summary>
 <p align="center">
-<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/10/26/b07fe5e468c475feb0065619dc94cae01698301971607402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Garena Free Fire Max: Exclusive Redeem Codes Unveiled For November 14. Here's How To Use - ABP Live" />
+<img src="https://images.wsj.net/im-885422/social" alt="Google Sues to Block AI Ads Preying on Small Businesses - The Wall Street Journal" />
 
-<a href="https://news.abplive.com/gaming/garena-free-fire-max-redeem-codes-nov-14-november-2023-daily-free-rewards-1642587" > Garena Free Fire Max redeem codes can unlock a handful of goodies, including weapons and skins. </a> 
+<a href="https://www.wsj.com/tech/google-sues-to-block-ai-ads-preying-on-small-businesses-5e9c01d5" > Lawsuit attributes the alleged scheme to hackers in India and Vietnam </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Here are Google's Black Friday deals, going live this Thursday - GSMArena.com by Vlad</summary>
+<summary>Quantum Space Eyes 2024 Launch Of Test Sensor For Cislunar Network - Aviation Week by None</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/11/google-black-friday-deals/-952x498w6/gsmarena_000.jpg" alt="Here are Google's Black Friday deals, going live this Thursday - GSMArena.com" />
+<img src="https://aviationweek.com/sites/default/files/2023-11/quantum_1.jpg" alt="Quantum Space Eyes 2024 Launch Of Test Sensor For Cislunar Network - Aviation Week" />
 
-<a href="https://www.gsmarena.com/here_are_googles_black_friday_deals_going_live_this_thursday-news-60570.php" > You can save $400 on the Pixel Fold. Today Google has published its Black Friday deals that will become available through its online store in the US this... </a> 
+<a href="https://aviationweek.com/aerospace/advanced-air-mobility/quantum-space-eyes-2024-launch-test-sensor-cislunar-network" > Quantum Space plans to launch its Scout-1 demonstration spacecraft on the SpaceX Transporter mission as soon as March 2024. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Alan Wake 2 and Baldur's Gate 3 lead 2023 Game Awards nominations - Digital Spy by Jess Lee</summary>
+<summary>Nothing Phone says it will hack into iMessage, bring blue bubbles to Android - Ars Technica by Ron Amadeo</summary>
 <p align="center">
-<img src="https://hips.hearstapps.com/hmg-prod/images/baldurs-gate-3-laezel-65171f928416c.jpg?crop=1.00xw:0.895xh;0,0.0114xh&resize=1200:*" alt="Alan Wake 2 and Baldur's Gate 3 lead 2023 Game Awards nominations - Digital Spy" />
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/100-760x380.jpg" alt="Nothing Phone says it will hack into iMessage, bring blue bubbles to Android - Ars Technica" />
 
-<a href="https://www.digitalspy.com/tech/a45828471/game-awards-2023-nominations/" > A really strong year for games. </a> 
+<a href="https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/" > Upstart Android OEM hopes Apple won't immediately shut the project down. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>India Smartphone Market Remained Flat YoY in 3Q23 with 44 Million Units, Says IDC · EMSNow - EMSNow by Jennifer Read</summary>
+<summary>Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16 - IGN by Kat Bailey</summary>
 <p align="center">
-<img src="https://www.emsnow.com/wp-content/uploads/2020/09/EMSnow-logo-1200x630-1-e1623708589690.png" alt="India Smartphone Market Remained Flat YoY in 3Q23 with 44 Million Units, Says IDC · EMSNow - EMSNow" />
+<img src="https://assets-prd.ignimgs.com/2023/11/07/abxy-1699384290078.png?width=1280" alt="Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16 - IGN" />
 
-<a href="https://www.emsnow.com/india-smartphone-market-remained-flat-yoy-in-3q23-with-44-million-units-says-idc/" > INDIA – According to the International Data Corporation ’s (IDC) Worldwide Quarterly Mobile Phone Tracker, India’s smartphone market remained flat YoY </a> 
+<a href="https://www.ign.com/articles/steam-deck-oled-release-date-time" > Valve has revealed what time the Steam Deck OLED will go on sale on November 16. It also announced how it plans to combat bots and resellers targeting the Limited Edition Steam Deck OLED. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Bandai Namco Forms New Dev Studio Focused On Commissioned Projects - Nintendo Life by Liam Doolan</summary>
+<summary>Today’s ‘Quordle’ Hints And Answers For Wednesday, November 15 - Forbes by Kris Holt</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/7dcd465fae3e3/1280x720.jpg" alt="Bandai Namco Forms New Dev Studio Focused On Commissioned Projects - Nintendo Life" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6553f0c05fe0ab340db88291/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Today’s ‘Quordle’ Hints And Answers For Wednesday, November 15 - Forbes" />
 
-<a href="https://www.nintendolife.com/news/2023/11/bandai-namco-forms-new-dev-studio-focused-on-commissioned-projects" > Nintendo appears to be a big part of the plans </a> 
+<a href="https://www.forbes.com/sites/krisholt/2023/11/14/todays-quordle-hints-and-answers-for-wednesday-november-15/" > Looking for some help with Wednesday's Quordle words? Some hints and the answers are right here. </a> 
 </p>
 <br />
 
