@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tlhih're resourceful 'ej clever&quot;</strong>
-  <i>-- &quot;You're resourceful and clever&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;You in the best place for the next moment,  doing the best at this moment puts.&quot;</strong>
+  <i>-- &quot;Doing the best at this moment puts you in the best place for the next moment.&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Gilligan's Island</h4>
+<h4 align="center">Queen Charlotte</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wysqut1461867176.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-Shaken, not stirred!
+Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
 </p>
 
 ----
@@ -149,7 +141,7 @@ Shaken, not stirred!
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 36 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 31 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
@@ -193,7 +185,7 @@ Shaken, not stirred!
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 15 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 10 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -208,14 +200,14 @@ Shaken, not stirred!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Daytime Moon Meets Morning Star - ©️ Katarzyna Kaczmarczyk @ 2023-11-16</h4>
+<h4 align="center">Nightlights in Qeqertaq - ©️ Dennis Lehtonen @ 2023-11-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Katarzyna20_1024.jpg" alt="Daytime Moon Meets Morning Star image" />
+<img src="https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg" alt="Nightlights in Qeqertaq image" />
 
 </p>
  
-<h5 align="center">Venus now appears as Earth's brilliant morning star, shining above the southeastern horizon before dawn. For early morning risers, the silvery celestial beacon rose predawn in a close pairing with a waning crescent Moon on Thursday, November 9. But from some northern locations, the Moon was seen to occult or pass in front of Venus. From much of Europe, the lunar occultation could be viewed in daylight skies. This time series composite follows the daytime approach of Moon and morning star in blue skies from Warsaw, Poland. The progression of eight sharp telescopic snapshots, made between 10:56am and 10:58am local time, runs from left to right, when Venus winked out behind the bright lunar limb.</h5>
+<h5 align="center">Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth's recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.</h5>
 
 ----
 
@@ -228,90 +220,90 @@ Shaken, not stirred!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -327,55 +319,55 @@ Shaken, not stirred!
 <br />
 
 <details>
-<summary>Google Sues to Block AI Ads Preying on Small Businesses - The Wall Street Journal by John D. McKinnon</summary>
+<summary>How to use Google Maps to plan a trip - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://images.wsj.net/im-885422/social" alt="Google Sues to Block AI Ads Preying on Small Businesses - The Wall Street Journal" />
+<img src="https://static.toiimg.com/thumb/msid-105249418,width-1070,height-580,imgsize-44214,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to use Google Maps to plan a trip - Times of India" />
 
-<a href="https://www.wsj.com/tech/google-sues-to-block-ai-ads-preying-on-small-businesses-5e9c01d5" > Lawsuit attributes the alleged scheme to hackers in India and Vietnam </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-use-google-maps-to-plan-a-trip/articleshow/105249445.cms" > Google Maps is a helpful tool for planning a trip, whether it's exploring a new city or mapping out a road trip. To begin, create a new map by going t </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Quantum Space Eyes 2024 Launch Of Test Sensor For Cislunar Network - Aviation Week by None</summary>
+<summary>Redmi Note 13R Pro Specifications, Price Tipped via China Telecom Listing - Gadgets 360 by Nithya P Nair, Manas Mitul</summary>
 <p align="center">
-<img src="https://aviationweek.com/sites/default/files/2023-11/quantum_1.jpg" alt="Quantum Space Eyes 2024 Launch Of Test Sensor For Cislunar Network - Aviation Week" />
+<img src="https://i.gadgets360cdn.com/large/redmi_note_12_pro_plus_5g_redmi_1682917710836.jpg" alt="Redmi Note 13R Pro Specifications, Price Tipped via China Telecom Listing - Gadgets 360" />
 
-<a href="https://aviationweek.com/aerospace/advanced-air-mobility/quantum-space-eyes-2024-launch-test-sensor-cislunar-network" > Quantum Space plans to launch its Scout-1 demonstration spacecraft on the SpaceX Transporter mission as soon as March 2024. </a> 
+<a href="https://www.gadgets360.com/mobiles/news/redmi-note-13r-pro-price-cny-1999-specifications-listing-china-telecom-database-features-4578100" > Redmi Note 13R Pro is said to be in the works. Now, a listing on China Telecom's website, one of China's leading telecom operators, has indicated the full specifications and price of the Redmi Note 13R Pro. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Nothing Phone says it will hack into iMessage, bring blue bubbles to Android - Ars Technica by Ron Amadeo</summary>
+<summary>Samsung Recognized for Reinventing the Future by Consumer Technology Association - Samsung by None</summary>
 <p align="center">
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/07/100-760x380.jpg" alt="Nothing Phone says it will hack into iMessage, bring blue bubbles to Android - Ars Technica" />
+<img src="https://img.global.news.samsung.com/my/wp-content/uploads/2023/11/CES-Innovation-Award-2024_thumb728.jpg" alt="Samsung Recognized for Reinventing the Future by Consumer Technology Association - Samsung" />
 
-<a href="https://arstechnica.com/gadgets/2023/11/nothing-phone-says-it-will-hack-into-imessage-bring-blue-bubbles-to-android/" > Upstart Android OEM hopes Apple won't immediately shut the project down. </a> 
+<a href="https://news.samsung.com/my/samsung-recognized-for-reinventing-the-future-by-consumer-technology-association" > CES® 2024 Innovation Awards have recognized Samsung for products showcasing class-leading technologies </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16 - IGN by Kat Bailey</summary>
+<summary>Microsoft Teams: Satya Nadella at Microsoft Ignite 2023 - Microsoft by None</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/11/07/abxy-1699384290078.png?width=1280" alt="Valve Reveals Time When Steam Deck OLED Will be Available to Purchase on November 16 - IGN" />
+<img src="https://i.ytimg.com/vi/co6sQQ64yfk/maxresdefault.jpg" alt="Microsoft Teams: Satya Nadella at Microsoft Ignite 2023 - Microsoft" />
 
-<a href="https://www.ign.com/articles/steam-deck-oled-release-date-time" > Valve has revealed what time the Steam Deck OLED will go on sale on November 16. It also announced how it plans to combat bots and resellers targeting the Limited Edition Steam Deck OLED. </a> 
+<a href="https://www.youtube.com/watch?v=co6sQQ64yfk" > Satya Nadella at Microsoft Ignite 2023 - Satya Nadella talks about innoations in Microsoft Teams.Subscribe to Microsoft on YouTube here: https://aka.ms/Subsc... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Today’s ‘Quordle’ Hints And Answers For Wednesday, November 15 - Forbes by Kris Holt</summary>
+<summary>NVIDIA Partnership: Satya Nadella at Microsoft Ignite 2023 - Microsoft by None</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6553f0c05fe0ab340db88291/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Today’s ‘Quordle’ Hints And Answers For Wednesday, November 15 - Forbes" />
+<img src="https://i.ytimg.com/vi/QsWtiop4IJA/maxresdefault.jpg" alt="NVIDIA Partnership: Satya Nadella at Microsoft Ignite 2023 - Microsoft" />
 
-<a href="https://www.forbes.com/sites/krisholt/2023/11/14/todays-quordle-hints-and-answers-for-wednesday-november-15/" > Looking for some help with Wednesday's Quordle words? Some hints and the answers are right here. </a> 
+<a href="https://www.youtube.com/watch?v=QsWtiop4IJA" > Satya Nadella at Microsoft Ignite 2023 - Microsoft's Satya Nadella talks to NVIDIA's Jensen Huang about their partnership.Subscribe to Microsoft on YouTube h... </a> 
 </p>
 <br />
 
