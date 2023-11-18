@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;You in the best place for the next moment,  doing the best at this moment puts.&quot;</strong>
-  <i>-- &quot;Doing the best at this moment puts you in the best place for the next moment.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;I admire ye fer takin' this on&quot;</strong>
+  <i>-- &quot;I admire you for taking this on&quot; in pirate language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Queen Charlotte</h4>
+<h4 align="center">Applecar</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,11 +48,15 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -137,7 +141,7 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 56 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 52 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
@@ -148,28 +152,20 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 23 minutes</td>
         </tr>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">HTML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 3 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 2 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Docker</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">TypeScript</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -185,7 +181,7 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 10 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 19 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -200,14 +196,14 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Nightlights in Qeqertaq - ©️ Dennis Lehtonen @ 2023-11-17</h4>
+<h4 align="center">Planet Earth from Orion - ©️ NASA @ 2023-11-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/lehtonen_dennisAuroraQeqertaq2_1200.jpg" alt="Nightlights in Qeqertaq image" />
+<img src="https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg" alt="Planet Earth from Orion image" />
 
 </p>
  
-<h5 align="center">Light pollution is usually not a problem in Qeqertaq. In western Greenland the remote coastal village boasted a population of 114 in 2020. Lights still shine in its dark skies though. During planet Earth's recent intense geomagnetic storm, on November 6 these beautiful curtains of aurora borealis fell over the arctic realm. On the eve of the coming weeks of polar night at 70 degrees north latitude, the inspiring display of northern lights is reflected in the waters of Disko Bay. In this view from the isolated settlement a lone iceberg is illuminated by shore lights as it drifts across the icy sea.  Weekend Watch: The Leonid Meteor Shower.</h5>
+<h5 align="center">One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center's historic Launch Complex 39B, one of Orion's external video cameras captured this view of its new perspective from space. In the foreground are Orion's Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module's 7-meter long extended solar array wings lies the spacecraft's beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again.</h5>
 
 ----
 
@@ -220,90 +216,90 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +315,55 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <br />
 
 <details>
-<summary>How to use Google Maps to plan a trip - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Apple to make messaging between iPhones and Androids easier: Report - ETTelecom by ET Telecom</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105249418,width-1070,height-580,imgsize-44214,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to use Google Maps to plan a trip - Times of India" />
+<img src="https://etimg.etb2bimg.com/thumb/msid-105275020,imgsize-50986,width-1200,height=765,overlay-ettelecom/mvas-apps/apple-to-make-messaging-between-iphones-and-androids-easier-report.jpg" alt="Apple to make messaging between iPhones and Androids easier: Report - ETTelecom" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-use-google-maps-to-plan-a-trip/articleshow/105249445.cms" > Google Maps is a helpful tool for planning a trip, whether it's exploring a new city or mapping out a road trip. To begin, create a new map by going t </a> 
+<a href="https://telecom.economictimes.indiatimes.com/news/mvas-apps/apple-to-make-messaging-between-iphones-and-androids-easier-report/105275020" > The company has been pushing back on the Rich Communication Services (RCS) standard for more than a year, even as Alphabet's Google and others have pressured the iPhone maker to adopt the technology, the report said. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Redmi Note 13R Pro Specifications, Price Tipped via China Telecom Listing - Gadgets 360 by Nithya P Nair, Manas Mitul</summary>
+<summary>Meta launches AI-based video editing tools - Moneycontrol by Reuters</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/redmi_note_12_pro_plus_5g_redmi_1682917710836.jpg" alt="Redmi Note 13R Pro Specifications, Price Tipped via China Telecom Listing - Gadgets 360" />
+<img src="https://images.moneycontrol.com/static-mcnews/2022/11/meta-fb-rep-770x433.jpg" alt="Meta launches AI-based video editing tools - Moneycontrol" />
 
-<a href="https://www.gadgets360.com/mobiles/news/redmi-note-13r-pro-price-cny-1999-specifications-listing-china-telecom-database-features-4578100" > Redmi Note 13R Pro is said to be in the works. Now, a listing on China Telecom's website, one of China's leading telecom operators, has indicated the full specifications and price of the Redmi Note 13R Pro. </a> 
+<a href="https://www.moneycontrol.com/news/world/meta-launches-ai-based-video-editing-tools-11758461.html" > The first is called Emu Video and it generates four-second long videos with a prompt of a caption, photo or an image, paired with a description. The other is known as Emu Edit that allows users to more easily alter or edit videos with text prompts. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung Recognized for Reinventing the Future by Consumer Technology Association - Samsung by None</summary>
+<summary>How to rename items in Minecraft - Sportskeeda by Jason Wright</summary>
 <p align="center">
-<img src="https://img.global.news.samsung.com/my/wp-content/uploads/2023/11/CES-Innovation-Award-2024_thumb728.jpg" alt="Samsung Recognized for Reinventing the Future by Consumer Technology Association - Samsung" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/40fdb-17001594212485-1920.jpg" alt="How to rename items in Minecraft - Sportskeeda" />
 
-<a href="https://news.samsung.com/my/samsung-recognized-for-reinventing-the-future-by-consumer-technology-association" > CES® 2024 Innovation Awards have recognized Samsung for products showcasing class-leading technologies </a> 
+<a href="https://www.sportskeeda.com/minecraft/how-rename-items-minecraft" > Renaming items in the world of Minecraft is not only a delightful activity but also a pathway to infuse your gameplay with a unique touch of personalization. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Microsoft Teams: Satya Nadella at Microsoft Ignite 2023 - Microsoft by None</summary>
+<summary>McLaren 750S: 6 BIG Improvements Over The 720S | Top Gear - Top Gear by None</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/co6sQQ64yfk/maxresdefault.jpg" alt="Microsoft Teams: Satya Nadella at Microsoft Ignite 2023 - Microsoft" />
+<img src="https://i.ytimg.com/vi/9vkLBBmBe2I/maxresdefault.jpg" alt="McLaren 750S: 6 BIG Improvements Over The 720S | Top Gear - Top Gear" />
 
-<a href="https://www.youtube.com/watch?v=co6sQQ64yfk" > Satya Nadella at Microsoft Ignite 2023 - Satya Nadella talks about innoations in Microsoft Teams.Subscribe to Microsoft on YouTube here: https://aka.ms/Subsc... </a> 
+<a href="https://www.youtube.com/watch?v=9vkLBBmBe2I" > Yes, it’s another new McLaren supercar that looks… exactly like the old McLaren supercar. But the idea with the new 750S isn’t to blow the poor old 720S into... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>NVIDIA Partnership: Satya Nadella at Microsoft Ignite 2023 - Microsoft by None</summary>
+<summary>Apple will offer RCS support starting in 2024 - Engadget by Cherlynn Low</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/QsWtiop4IJA/maxresdefault.jpg" alt="NVIDIA Partnership: Satya Nadella at Microsoft Ignite 2023 - Microsoft" />
+<img src="https://s.yimg.com/ny/api/res/1.2/e2XUYLjlmxslS6mrGx_Tyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/af47bdc0-51bc-11ee-bbd2-a930f6911fca" alt="Apple will offer RCS support starting in 2024 - Engadget" />
 
-<a href="https://www.youtube.com/watch?v=QsWtiop4IJA" > Satya Nadella at Microsoft Ignite 2023 - Microsoft's Satya Nadella talks to NVIDIA's Jensen Huang about their partnership.Subscribe to Microsoft on YouTube h... </a> 
+<a href="https://www.engadget.com/apple-will-start-supporting-rcs-in-2024-182232923.html" > Apple will support the RCS messaging standard next year. </a> 
 </p>
 <br />
 
