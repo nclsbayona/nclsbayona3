@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;I admire ye fer takin' this on&quot;</strong>
-  <i>-- &quot;I admire you for taking this on&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Those vea are possessed by nan'ei turab sei.&quot;</strong>
+  <i>-- &quot;Those who are possessed by nothing possess everything.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Applecar</h4>
+<h4 align="center">Absolutely Cranberry Smash</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Stir ingredients together. Serve over ice.
 </p>
 
 ----
@@ -196,14 +200,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Planet Earth from Orion - ©️ NASA @ 2023-11-18</h4>
+<h4 align="center">Space Station, Solar Prominences, Sun - ©️ Mehmet Ergün @ 2023-11-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2211/Orion_Spacecraft_Earth_Views_20221116-1067.jpg" alt="Planet Earth from Orion image" />
+<img src="https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_960.jpg" alt="Space Station, Solar Prominences, Sun image" />
 
 </p>
  
-<h5 align="center">One year ago a Space Launch System rocket left planet Earth on November 16, 2022 at 1:47am EST carrying the Orion spacecraft on the Artemis I mission, the first integrated test of NASA’s deep space exploration systems. Over an hour after liftoff from Kennedy Space Center's historic Launch Complex 39B, one of Orion's external video cameras captured this view of its new perspective from space. In the foreground are Orion's Orbital Maneuvering System engine and auxillary engines, at the bottom of the European Service Module. Beyond one of the module's 7-meter long extended solar array wings lies the spacecraft's beautiful home world. Making close flybys of the lunar surface and reaching a retrograde orbit 70,000 kilometers beyond the Moon, the uncrewed Artemis I mission lasted over 25 days, testing capabilities to enable human exploration of the Moon and Mars. Building on the success of Artemis I, no earlier than November 2024 the Artemis II mission with a crew of 4 will venture around the Moon and back again.</h5>
+<h5 align="center">That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun's chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station's silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese</h5>
 
 ----
 
@@ -216,13 +220,13 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -230,21 +234,21 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -252,54 +256,54 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -315,55 +319,55 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <br />
 
 <details>
-<summary>Apple to make messaging between iPhones and Androids easier: Report - ETTelecom by ET Telecom</summary>
+<summary>A Bunch Of PS5 Exclusives Are On Sale For Black Friday - GameSpot by Jon Bitner</summary>
 <p align="center">
-<img src="https://etimg.etb2bimg.com/thumb/msid-105275020,imgsize-50986,width-1200,height=765,overlay-ettelecom/mvas-apps/apple-to-make-messaging-between-iphones-and-androids-easier-report.jpg" alt="Apple to make messaging between iPhones and Androids easier: Report - ETTelecom" />
+<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4222284-sonygames.jpg" alt="A Bunch Of PS5 Exclusives Are On Sale For Black Friday - GameSpot" />
 
-<a href="https://telecom.economictimes.indiatimes.com/news/mvas-apps/apple-to-make-messaging-between-iphones-and-androids-easier-report/105275020" > The company has been pushing back on the Rich Communication Services (RCS) standard for more than a year, even as Alphabet's Google and others have pressured the iPhone maker to adopt the technology, the report said. </a> 
+<a href="https://www.gamespot.com/articles/a-bunch-of-ps5-exclusives-are-on-sale-for-black-friday/1100-6519276/" > Now's your chance to clear your backlog, with steep discounts on Demon's Souls, Horizon Forbidden West, and other iconic games. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Meta launches AI-based video editing tools - Moneycontrol by Reuters</summary>
+<summary>Is it worth getting Emperor ETR1 in GTA Online before the winter update 2023? - Sportskeeda by Neeraj Bansal</summary>
 <p align="center">
-<img src="https://images.moneycontrol.com/static-mcnews/2022/11/meta-fb-rep-770x433.jpg" alt="Meta launches AI-based video editing tools - Moneycontrol" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/7dff5-17002550390252-1920.jpg" alt="Is it worth getting Emperor ETR1 in GTA Online before the winter update 2023? - Sportskeeda" />
 
-<a href="https://www.moneycontrol.com/news/world/meta-launches-ai-based-video-editing-tools-11758461.html" > The first is called Emu Video and it generates four-second long videos with a prompt of a caption, photo or an image, paired with a description. The other is known as Emu Edit that allows users to more easily alter or edit videos with text prompts. </a> 
+<a href="https://www.sportskeeda.com/gta/is-worth-getting-emperor-etr1-gta-online-winter-update-2023" > Rockstar Games recently confirmed the GTA Online winter update in its latest newswire post. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How to rename items in Minecraft - Sportskeeda by Jason Wright</summary>
+<summary>Apple joins Facebook parent Meta, TikTok against EU’s ‘gatekeeper’ status - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/40fdb-17001594212485-1920.jpg" alt="How to rename items in Minecraft - Sportskeeda" />
+<img src="https://static.toiimg.com/thumb/msid-105303364,width-1070,height-580,imgsize-25086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple joins Facebook parent Meta, TikTok against EU’s ‘gatekeeper’ status - Times of India" />
 
-<a href="https://www.sportskeeda.com/minecraft/how-rename-items-minecraft" > Renaming items in the world of Minecraft is not only a delightful activity but also a pathway to infuse your gameplay with a unique touch of personalization. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/apple-joins-facebook-parent-meta-tiktok-against-eus-gatekeeper-status/articleshow/105303369.cms" > Apple has filed a legal case against decisions made by the European Commission under the Digital Markets Act (DMA). The company is joining Facebook Me </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>McLaren 750S: 6 BIG Improvements Over The 720S | Top Gear - Top Gear by None</summary>
+<summary>Risk of Rain Returns Foreign Fruit: Where to find, uses, and more - Sportskeeda by Suman Biswas</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/9vkLBBmBe2I/maxresdefault.jpg" alt="McLaren 750S: 6 BIG Improvements Over The 720S | Top Gear - Top Gear" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/93ee2-17002440168876-1920.jpg" alt="Risk of Rain Returns Foreign Fruit: Where to find, uses, and more - Sportskeeda" />
 
-<a href="https://www.youtube.com/watch?v=9vkLBBmBe2I" > Yes, it’s another new McLaren supercar that looks… exactly like the old McLaren supercar. But the idea with the new 750S isn’t to blow the poor old 720S into... </a> 
+<a href="https://www.sportskeeda.com/esports/risk-rain-returns-foreign-fruit-where-find-uses-and-more" > The Foreign Fruit is one of the most useful resources you will need to find and collect in Risk of Rain Returns. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple will offer RCS support starting in 2024 - Engadget by Cherlynn Low</summary>
+<summary>Sony announces The Last of Us Part II remaster for PS5 - The Verge by Jay Peters</summary>
 <p align="center">
-<img src="https://s.yimg.com/ny/api/res/1.2/e2XUYLjlmxslS6mrGx_Tyw--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD05MDA-/https://s.yimg.com/os/creatr-uploaded-images/2023-09/af47bdc0-51bc-11ee-bbd2-a930f6911fca" alt="Apple will offer RCS support starting in 2024 - Engadget" />
+<img src="https://cdn.vox-cdn.com/thumbor/DD3vM7_MCzyCtWupW4_E6WfR15c=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25093848/F_LSdhvWAAAigAY.jpg" alt="Sony announces The Last of Us Part II remaster for PS5 - The Verge" />
 
-<a href="https://www.engadget.com/apple-will-start-supporting-rcs-in-2024-182232923.html" > Apple will support the RCS messaging standard next year. </a> 
+<a href="https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks" > The Last of Us Part II Remastered will be released on PlayStation 5 on January 19th. Updates for this version of the game include a roguelike survival mode called No Return, 4K graphics, and more. </a> 
 </p>
 <br />
 
