@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Those vea are possessed by nan'ei turab sei.&quot;</strong>
-  <i>-- &quot;Those who are possessed by nothing possess everything.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Teamwork: se fuel bona allows quptenka people attain uncommon results.&quot;</strong>
+  <i>-- &quot;TEAMWORK: the fuel that allows common people attain uncommon results.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolutely Cranberry Smash</h4>
+<h4 align="center">B-52</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vqwstv1472811884.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Stir ingredients together. Serve over ice.
+Layer ingredients into a shot glass. Serve with a stirrer.
 </p>
 
 ----
@@ -200,14 +196,14 @@ Stir ingredients together. Serve over ice.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Space Station, Solar Prominences, Sun - ©️ Mehmet Ergün @ 2023-11-19</h4>
+<h4 align="center">The Horsehead Nebula - ©️ Mark Hanson &amp; Martin Pugh,SSRO, PROMPT, CTIO,NSF @ 2023-11-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/IssSun_Ergun_960.jpg" alt="Space Station, Solar Prominences, Sun image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg" alt="The Horsehead Nebula image" />
 
 </p>
  
-<h5 align="center">That's no sunspot. It's the International Space Station (ISS) caught passing in front of the Sun. Sunspots, individually, have a dark central umbra, a lighter surrounding penumbra, and no Dragon capsules attached.  By contrast, the ISS is a complex and multi-spired mechanism, one of the largest and most complicated spacecraft ever created by humanity.  Also, sunspots circle the Sun, whereas the ISS orbits the Earth.  Transiting the Sun is not very unusual for the ISS, which orbits the Earth about every 90 minutes, but getting one's location, timing and equipment just right for a great image is rare.  The featured picture combined three images all taken in 2021 from the same location and at nearly the same time. One image -- overexposed -- captured the faint prominences seen across the top of the Sun, a second image -- underexposed -- captured the complex texture of the Sun's chromosphere, while the third image -- the hardest to get -- captured the space station as it shot across the Sun in a fraction of a second.  Close inspection of the space station's silhouette even reveals a docked Dragon Crew capsule.   Follow APOD on Instagram in: Arabic, English, Persian, Portuguese, and Taiwanese</h5>
+<h5 align="center">Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years &quot;tall,&quot; the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram</h5>
 
 ----
 
@@ -220,90 +216,90 @@ Stir ingredients together. Serve over ice.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -319,55 +315,55 @@ Stir ingredients together. Serve over ice.
 <br />
 
 <details>
-<summary>A Bunch Of PS5 Exclusives Are On Sale For Black Friday - GameSpot by Jon Bitner</summary>
+<summary>Mario Kart 8 Deluxe Drops Out Of US "Top 20" Games Chart For First Time - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://www.gamespot.com/a/uploads/screen_kubrick/1595/15950357/4222284-sonygames.jpg" alt="A Bunch Of PS5 Exclusives Are On Sale For Black Friday - GameSpot" />
+<img src="https://images.nintendolife.com/de71b50324fb4/1280x720.jpg" alt="Mario Kart 8 Deluxe Drops Out Of US "Top 20" Games Chart For First Time - Nintendo Life" />
 
-<a href="https://www.gamespot.com/articles/a-bunch-of-ps5-exclusives-are-on-sale-for-black-friday/1100-6519276/" > Now's your chance to clear your backlog, with steep discounts on Demon's Souls, Horizon Forbidden West, and other iconic games. </a> 
+<a href="https://www.nintendolife.com/news/2023/11/mario-kart-8-deluxe-drops-out-of-us-top-20-games-chart-for-first-time" > Its 78 month streak is over </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Is it worth getting Emperor ETR1 in GTA Online before the winter update 2023? - Sportskeeda by Neeraj Bansal</summary>
+<summary>Gadgets Weekly: pTron Reflect Flash watch and more - Deccan Herald by DH Web Desk</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/7dff5-17002550390252-1920.jpg" alt="Is it worth getting Emperor ETR1 in GTA Online before the winter update 2023? - Sportskeeda" />
+<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F59bbcd56-310d-4e36-832a-d5ae8f31c267%2FScreenshot_2023_11_18_at_11_19_43_AM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="Gadgets Weekly: pTron Reflect Flash watch and more - Deccan Herald" />
 
-<a href="https://www.sportskeeda.com/gta/is-worth-getting-emperor-etr1-gta-online-winter-update-2023" > Rockstar Games recently confirmed the GTA Online winter update in its latest newswire post. </a> 
+<a href="https://www.deccanherald.com/technology/gadgets/gadgets-weekly-ptron-reflect-flash-watch-and-more-2776159" > None </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple joins Facebook parent Meta, TikTok against EU’s ‘gatekeeper’ status - Times of India by TIMESOFINDIA.COM</summary>
+<summary>LAWSUIT: Lian Li vs. Phanteks & Thermaltake | Special Report - Gamers Nexus by None</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105303364,width-1070,height-580,imgsize-25086,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Apple joins Facebook parent Meta, TikTok against EU’s ‘gatekeeper’ status - Times of India" />
+<img src="https://i.ytimg.com/vi/Jtb1uCz72RQ/maxresdefault.jpg" alt="LAWSUIT: Lian Li vs. Phanteks & Thermaltake | Special Report - Gamers Nexus" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/apple-joins-facebook-parent-meta-tiktok-against-eus-gatekeeper-status/articleshow/105303369.cms" > Apple has filed a legal case against decisions made by the European Commission under the Digital Markets Act (DMA). The company is joining Facebook Me </a> 
+<a href="https://www.youtube.com/watch?v=Jtb1uCz72RQ" > Sponsor: Thermal Grizzly Kryosheets https://geni.us/53ArNb and Thermal Grizzly Hydronaut Paste (Amazon - https://geni.us/Fsray )This special report covers th... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Risk of Rain Returns Foreign Fruit: Where to find, uses, and more - Sportskeeda by Suman Biswas</summary>
+<summary>Both models of the Apple Pencil are discounted for Black Friday - Digital Trends by Andrew Morrisey</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/93ee2-17002440168876-1920.jpg" alt="Risk of Rain Returns Foreign Fruit: Where to find, uses, and more - Sportskeeda" />
+<img src="https://www.digitaltrends.com/wp-content/uploads/2016/01/Apple_Pencil_1.jpg?resize=1200%2C630&p=1" alt="Both models of the Apple Pencil are discounted for Black Friday - Digital Trends" />
 
-<a href="https://www.sportskeeda.com/esports/risk-rain-returns-foreign-fruit-where-find-uses-and-more" > The Foreign Fruit is one of the most useful resources you will need to find and collect in Risk of Rain Returns. </a> 
+<a href="https://www.digitaltrends.com/mobile/apple-pencil-1st-gen-apple-pencil-2nd-gen-deal-amazon-november-2023/" > With these Black Friday deals at Amazon you can add an Apple Pencil to your iPad arsenal on the cheap. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Sony announces The Last of Us Part II remaster for PS5 - The Verge by Jay Peters</summary>
+<summary>Today’s ‘Quordle’ Hints And Answers For Sunday, November 19 - Forbes by Kris Holt</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/DD3vM7_MCzyCtWupW4_E6WfR15c=/0x0:1920x1080/1200x628/filters:focal(960x540:961x541)/cdn.vox-cdn.com/uploads/chorus_asset/file/25093848/F_LSdhvWAAAigAY.jpg" alt="Sony announces The Last of Us Part II remaster for PS5 - The Verge" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6291a131931aec2d6b6222c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Today’s ‘Quordle’ Hints And Answers For Sunday, November 19 - Forbes" />
 
-<a href="https://www.theverge.com/2023/11/17/23966254/the-last-of-us-part-ii-ps5-remaster-leaks" > The Last of Us Part II Remastered will be released on PlayStation 5 on January 19th. Updates for this version of the game include a roguelike survival mode called No Return, 4K graphics, and more. </a> 
+<a href="https://www.forbes.com/sites/krisholt/2023/11/18/todays-quordle-hints-and-answers-for-sunday-november-19/" > Looking for some help with Sunday's Quordle words? Some hints and the answers are right here. </a> 
 </p>
 <br />
 
