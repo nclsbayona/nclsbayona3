@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Teamwork: se fuel bona allows quptenka people attain uncommon results.&quot;</strong>
-  <i>-- &quot;TEAMWORK: the fuel that allows common people attain uncommon results.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;asa to err lib giesag, to'll kaylay ilkyuk, yikai. . pelo asa to ohwar excellence, giesag sama be etaerg.&quot;</strong>
+  <i>-- &quot;If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">B-52</h4>
+<h4 align="center">Artillery Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,36 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart black </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint Jamaican </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +88,7 @@
 
 
 <p align="center">
-Layer ingredients into a shot glass. Serve with a stirrer.
+Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.
 </p>
 
 ----
@@ -141,19 +161,19 @@ Layer ingredients into a shot glass. Serve with a stirrer.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 52 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 23 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 31 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 23 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 25 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 18 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
@@ -161,11 +181,7 @@ Layer ingredients into a shot glass. Serve with a stirrer.
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 2 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Docker</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -181,7 +197,7 @@ Layer ingredients into a shot glass. Serve with a stirrer.
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 hours and 19 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 36 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -196,14 +212,14 @@ Layer ingredients into a shot glass. Serve with a stirrer.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Horsehead Nebula - ©️ Mark Hanson &amp; Martin Pugh,SSRO, PROMPT, CTIO,NSF @ 2023-11-20</h4>
+<h4 align="center">Fleming's Triangular Wisp - ©️ Cristiano Gualco @ 2023-11-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Horsehead_Hanson_960.jpg" alt="The Horsehead Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg" alt="Fleming's Triangular Wisp image" />
 
 </p>
  
-<h5 align="center">Sculpted by stellar winds and radiation, a magnificent interstellar dust cloud by chance has assumed this recognizable shape.  Fittingly named the Horsehead Nebula, it is some 1,500 light-years distant, embedded in the vast Orion cloud complex. About five light-years &quot;tall,&quot; the dark cloud is cataloged as Barnard 33 and is visible only because its obscuring dust is silhouetted against the glowing red emission nebula IC 434.  Stars are forming within the dark cloud. Contrasting blue reflection nebula NGC 2023, surrounding a hot, young star, is at the lower left of the full image.  The featured gorgeous color image combines both narrowband and broadband images recorded using several different telescopes.    New: Follow APOD on Telegram</h5>
+<h5 align="center">These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram</h5>
 
 ----
 
@@ -216,90 +232,90 @@ Layer ingredients into a shot glass. Serve with a stirrer.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -315,55 +331,55 @@ Layer ingredients into a shot glass. Serve with a stirrer.
 <br />
 
 <details>
-<summary>Mario Kart 8 Deluxe Drops Out Of US "Top 20" Games Chart For First Time - Nintendo Life by Liam Doolan</summary>
+<summary>Quordle Hints & Answers: Check Out The Quordle Words For November 20 - ABP Live by ABP News Bureau</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/de71b50324fb4/1280x720.jpg" alt="Mario Kart 8 Deluxe Drops Out Of US "Top 20" Games Chart For First Time - Nintendo Life" />
+<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/15/4e5313ab4f7417ce265c7c60a0a4f3131700024253025402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Quordle Hints & Answers: Check Out The Quordle Words For November 20 - ABP Live" />
 
-<a href="https://www.nintendolife.com/news/2023/11/mario-kart-8-deluxe-drops-out-of-us-top-20-games-chart-for-first-time" > Its 78 month streak is over </a> 
+<a href="https://news.abplive.com/gaming/quordle-november-20-answer-today-hint-solution-word-how-to-improve-score-video-guide-watch-1643898" > Quordle November 20 Answer: Today’s words are definitely headscratchers </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Gadgets Weekly: pTron Reflect Flash watch and more - Deccan Herald by DH Web Desk</summary>
+<summary>Apple Pencil USB-C reduces monetary outlay, but onus is on you to choose wisely - Hindustan Times by Vishal Mathur</summary>
 <p align="center">
-<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F59bbcd56-310d-4e36-832a-d5ae8f31c267%2FScreenshot_2023_11_18_at_11_19_43_AM.png?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="Gadgets Weekly: pTron Reflect Flash watch and more - Deccan Herald" />
+<img src="https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/The-first-generation-Apple-Pencil-is-priced-at--9-_1700453288936.jpg" alt="Apple Pencil USB-C reduces monetary outlay, but onus is on you to choose wisely - Hindustan Times" />
 
-<a href="https://www.deccanherald.com/technology/gadgets/gadgets-weekly-ptron-reflect-flash-watch-and-more-2776159" > None </a> 
+<a href="https://www.hindustantimes.com/business/apple-pencil-usb-c-reduces-monetary-outlay-but-onus-is-on-you-to-choose-wisely-101700453295541.html" > This symbolises an already complex iPad accessory ecosystem and while a lower price tag is welcome, feature distinction won’t be easy to keep tabs on </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>LAWSUIT: Lian Li vs. Phanteks & Thermaltake | Special Report - Gamers Nexus by None</summary>
+<summary>Samsung Galaxy Fit 3 Colour Options Leaked; Said to Get Bigger Display - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://i.ytimg.com/vi/Jtb1uCz72RQ/maxresdefault.jpg" alt="LAWSUIT: Lian Li vs. Phanteks & Thermaltake | Special Report - Gamers Nexus" />
+<img src="https://i.gadgets360cdn.com/large/samsung_galaxy_fit_3_91mobiles_1_1700453078446.jpg" alt="Samsung Galaxy Fit 3 Colour Options Leaked; Said to Get Bigger Display - Gadgets 360" />
 
-<a href="https://www.youtube.com/watch?v=Jtb1uCz72RQ" > Sponsor: Thermal Grizzly Kryosheets https://geni.us/53ArNb and Thermal Grizzly Hydronaut Paste (Amazon - https://geni.us/Fsray )This special report covers th... </a> 
+<a href="https://www.gadgets360.com/wearables/news/samsung-fit-3-design-colour-options-renders-leak-galaxy-4588312" > Samsung Galaxy Fit 3 is said to succeed the Samsung Galaxy Fit 2, which was launched in October 2022. The South Korean tech giant has not yet officially announced the Galaxy Fit 3, but recent leaks suggest that the fitness tracker could launch soon. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Both models of the Apple Pencil are discounted for Black Friday - Digital Trends by Andrew Morrisey</summary>
+<summary>How to create photo slideshows using Google Photos - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://www.digitaltrends.com/wp-content/uploads/2016/01/Apple_Pencil_1.jpg?resize=1200%2C630&p=1" alt="Both models of the Apple Pencil are discounted for Black Friday - Digital Trends" />
+<img src="https://static.toiimg.com/thumb/msid-105342258,width-1070,height-580,imgsize-57548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to create photo slideshows using Google Photos - Times of India" />
 
-<a href="https://www.digitaltrends.com/mobile/apple-pencil-1st-gen-apple-pencil-2nd-gen-deal-amazon-november-2023/" > With these Black Friday deals at Amazon you can add an Apple Pencil to your iPad arsenal on the cheap. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-create-photo-slideshows-using-google-photos/articleshow/105342317.cms" > Google Photos provides a simple way to create photo slideshows. To begin, gather your desired photos in your Google Photos library. Then, open Google </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Today’s ‘Quordle’ Hints And Answers For Sunday, November 19 - Forbes by Kris Holt</summary>
+<summary>5 reasons why GTA Trilogy The Definitive Edition failed to impress fans - Sportskeeda by Swastik Sharma</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6291a131931aec2d6b6222c2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Today’s ‘Quordle’ Hints And Answers For Sunday, November 19 - Forbes" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/2148d-17004212875552-1920.jpg" alt="5 reasons why GTA Trilogy The Definitive Edition failed to impress fans - Sportskeeda" />
 
-<a href="https://www.forbes.com/sites/krisholt/2023/11/18/todays-quordle-hints-and-answers-for-sunday-november-19/" > Looking for some help with Sunday's Quordle words? Some hints and the answers are right here. </a> 
+<a href="https://www.sportskeeda.com/gta/5-reasons-gta-trilogy-the-definitive-edition-failed-impress-fans" > The GTA Trilogy Definitive Edition was a much-anticipated compilation that underdelivered on all the things that it promised. </a> 
 </p>
 <br />
 
