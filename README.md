@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;asa to err lib giesag, to'll kaylay ilkyuk, yikai. . pelo asa to ohwar excellence, giesag sama be etaerg.&quot;</strong>
-  <i>-- &quot;If you focus on success, you'll have stress. But if you pursue excellence, success will be guaranteed.&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;The greatest treasures are those invisible to the min 'ach found by the tiq.&quot;</strong>
+  <i>-- &quot;The greatest treasures are those invisible to the eye but found by the heart.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Artillery Punch</h4>
+<h4 align="center">Apricot punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/9a4vqb1493067692.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tuxxtp1472668667.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,36 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart black </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 qt </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rye whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 quart </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 fifth </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint Jamaican </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-Up</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 L </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 gal </td>
         </tr>
     </tbody>
 </table>
@@ -88,7 +76,7 @@
 
 
 <p align="center">
-Combine all the ingredients in a large punch bowl with a block of ice. If found too dry, sugar syrup may be added. Decorate with twists of lemon peel.
+Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.
 </p>
 
 ----
@@ -160,28 +148,20 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 hours and 23 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 25 minutes</td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 18 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 6 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">YAML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 5 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">XML</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 0 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -197,7 +177,7 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 hours and 36 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 31 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -212,14 +192,14 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Fleming's Triangular Wisp - ©️ Cristiano Gualco @ 2023-11-21</h4>
+<h4 align="center">IC 342: Hidden Galaxy in Camelopardalis - ©️ Steve Cannistra @ 2023-11-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/FlemingsWisp_Gualco_960.jpg" alt="Fleming's Triangular Wisp image" />
+<img src="https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg" alt="IC 342: Hidden Galaxy in Camelopardalis image" />
 
 </p>
  
-<h5 align="center">These chaotic and tangled filaments of shocked, glowing gas are spread across planet Earth's sky toward the constellation of Cygnus as part of the Veil Nebula. The Veil Nebula itself is a large supernova remnant, an expanding cloud born of the death explosion of a massive star. Light from the original supernova explosion likely reached Earth over 5,000 years ago. The glowing filaments are really more like long ripples in a sheet seen almost edge on, remarkably well separated into the glow of ionized hydrogen atoms shown in red and oxygen in blue hues. Also known as the Cygnus Loop and cataloged as NGC 6979, the Veil Nebula now spans about 6 times the diameter of the full Moon. The length of the wisp corresponds to about 30 light years, given its estimated distance of 2,400 light years.  Often identified as Pickering's Triangle for a director of Harvard College Observatory, it is perhaps better named for its discoverer, astronomer Williamina Fleming, as Fleming's Triangular Wisp.   New: Follow APOD on Telegram</h5>
+<h5 align="center">Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.</h5>
 
 ----
 
@@ -232,46 +212,46 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -279,29 +259,29 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
 <img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
@@ -309,13 +289,13 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -331,55 +311,55 @@ Combine all the ingredients in a large punch bowl with a block of ice. If found 
 <br />
 
 <details>
-<summary>Quordle Hints & Answers: Check Out The Quordle Words For November 20 - ABP Live by ABP News Bureau</summary>
+<summary>Fortnite Planning to Disable Age-Gated Cosmetic, Reveals v28.00 Update Release Date - IGN by Kat Bailey</summary>
 <p align="center">
-<img src="https://feeds.abplive.com/onecms/images/uploaded-images/2023/11/15/4e5313ab4f7417ce265c7c60a0a4f3131700024253025402_original.jpg?impolicy=abp_cdn&imwidth=1200&imheight=628" alt="Quordle Hints & Answers: Check Out The Quordle Words For November 20 - ABP Live" />
+<img src="https://assets-prd.ignimgs.com/2023/11/03/2023-11-03-10-28-24-mp4-00-00-12-05-still002-1699043239148.jpg?width=1280" alt="Fortnite Planning to Disable Age-Gated Cosmetic, Reveals v28.00 Update Release Date - IGN" />
 
-<a href="https://news.abplive.com/gaming/quordle-november-20-answer-today-hint-solution-word-how-to-improve-score-video-guide-watch-1643898" > Quordle November 20 Answer: Today’s words are definitely headscratchers </a> 
+<a href="https://www.ign.com/articles/fortnite-planning-to-disable-age-gated-cosmetic-reveals-v2800-update-release-date" > Following a backlash over what some fans have called the game's "worst update," Fortnite's developers announced plans to disable age-gating for most cosmetics and skins while revealing that version 28.00 will be released on December 3. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple Pencil USB-C reduces monetary outlay, but onus is on you to choose wisely - Hindustan Times by Vishal Mathur</summary>
+<summary>Nintendo Releases Update For Switch (Version 17.0.0), Here Are The Details - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://www.hindustantimes.com/ht-img/img/2023/11/20/1600x900/The-first-generation-Apple-Pencil-is-priced-at--9-_1700453288936.jpg" alt="Apple Pencil USB-C reduces monetary outlay, but onus is on you to choose wisely - Hindustan Times" />
+<img src="https://images.nintendolife.com/18578a24d8f2c/1280x720.jpg" alt="Nintendo Releases Update For Switch (Version 17.0.0), Here Are The Details - Nintendo Life" />
 
-<a href="https://www.hindustantimes.com/business/apple-pencil-usb-c-reduces-monetary-outlay-but-onus-is-on-you-to-choose-wisely-101700453295541.html" > This symbolises an already complex iPad accessory ecosystem and while a lower price tag is welcome, feature distinction won’t be easy to keep tabs on </a> 
+<a href="https://www.nintendolife.com/news/2023/11/nintendo-releases-update-for-switch-version-17-0-0-here-are-the-details" > Another "rebootless" update has arrived </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung Galaxy Fit 3 Colour Options Leaked; Said to Get Bigger Display - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
+<summary>5 amazing features GTA 6 should adopt from GTA Vice City - Sportskeeda by Suyash Sahay</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/samsung_galaxy_fit_3_91mobiles_1_1700453078446.jpg" alt="Samsung Galaxy Fit 3 Colour Options Leaked; Said to Get Bigger Display - Gadgets 360" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/94227-17004971731298-1920.jpg" alt="5 amazing features GTA 6 should adopt from GTA Vice City - Sportskeeda" />
 
-<a href="https://www.gadgets360.com/wearables/news/samsung-fit-3-design-colour-options-renders-leak-galaxy-4588312" > Samsung Galaxy Fit 3 is said to succeed the Samsung Galaxy Fit 2, which was launched in October 2022. The South Korean tech giant has not yet officially announced the Galaxy Fit 3, but recent leaks suggest that the fitness tracker could launch soon. </a> 
+<a href="https://www.sportskeeda.com/gta/5-amazing-features-gta-6-adopt-gta-vice-city" > 2002's Grand Theft Auto Vice City has many amazing features that should return in the series' next installment, GTA 6. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How to create photo slideshows using Google Photos - Times of India by TIMESOFINDIA.COM</summary>
+<summary>Xbox sale round-up November 21st, 2023 - TrueAchievements by None</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105342258,width-1070,height-580,imgsize-57548,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="How to create photo slideshows using Google Photos - Times of India" />
+<img src="https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg" alt="Xbox sale round-up November 21st, 2023 - TrueAchievements" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/how-to-create-photo-slideshows-using-google-photos/articleshow/105342317.cms" > Google Photos provides a simple way to create photo slideshows. To begin, gather your desired photos in your Google Photos library. Then, open Google </a> 
+<a href="https://www.trueachievements.com/n55617/xbox-sale-roundup-november-21st-2023" > Discounts on Snake Pass, Outbreak, Rabio , Escape Sequence , Bloomyth, Shady Part of Me, Planescape: Torment and Icewind Dale: Enhanced Editions and more </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 reasons why GTA Trilogy The Definitive Edition failed to impress fans - Sportskeeda by Swastik Sharma</summary>
+<summary>The allure of a jewellery design career - Deccan Herald by Purnima Goswami Sharma</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/2148d-17004212875552-1920.jpg" alt="5 reasons why GTA Trilogy The Definitive Edition failed to impress fans - Sportskeeda" />
+<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F36904ba2-72bc-47e0-9ba8-4399054c58a6%2FiStock_161816679.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="The allure of a jewellery design career - Deccan Herald" />
 
-<a href="https://www.sportskeeda.com/gta/5-reasons-gta-trilogy-the-definitive-edition-failed-impress-fans" > The GTA Trilogy Definitive Edition was a much-anticipated compilation that underdelivered on all the things that it promised. </a> 
+<a href="https://www.deccanherald.com/business/jobs-and-careers/the-allure-of-a-jewellery-design-career-2778266" > The allure of a jewellery design career </a> 
 </p>
 <br />
 
