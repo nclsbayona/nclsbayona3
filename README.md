@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The greatest treasures are those invisible to the min 'ach found by the tiq.&quot;</strong>
-  <i>-- &quot;The greatest treasures are those invisible to the eye but found by the heart.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Mes aras visa works kash progress&quot;</strong>
+  <i>-- &quot;We are all works in progress&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apricot punch</h4>
+<h4 align="center">Absolutly Screwed Up</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tuxxtp1472668667.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 qt </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 fifth </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-Up</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 L </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 gal </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill to top </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are peeled and divided.
+Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.
 </p>
 
 ----
@@ -151,18 +147,6 @@ Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are pee
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
         </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java Properties</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 6 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Java</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">SQL</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 1 minutes</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -177,7 +161,7 @@ Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are pee
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 31 minutes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
         </tr>
     </tbody>
 </table>
@@ -192,14 +176,14 @@ Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are pee
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">IC 342: Hidden Galaxy in Camelopardalis - ©️ Steve Cannistra @ 2023-11-22</h4>
+<h4 align="center">Along the Taurus Molecular Cloud - ©️ Yuexiao Shen @ 2023-11-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/ic342asi294large_1024.jpg" alt="IC 342: Hidden Galaxy in Camelopardalis image" />
+<img src="https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg" alt="Along the Taurus Molecular Cloud image" />
 
 </p>
  
-<h5 align="center">Similar in size to large, bright spiral galaxies in our neighborhood, IC 342 is a mere 10 million light-years distant in the long-necked, northern constellation Camelopardalis. A sprawling island universe, IC 342 would otherwise be a prominent galaxy in our night sky, but it is hidden from clear view and only glimpsed through the veil of stars, gas and dust clouds along the plane of our own Milky Way galaxy. Even though IC 342's light is dimmed and reddened by intervening cosmic clouds, this sharp telescopic image traces the galaxy's own obscuring dust, young star clusters, and glowing star forming regions along spiral arms that wind far from the galaxy's core. IC 342 has undergone a recent burst of star formation activity and is close enough to have gravitationally influenced the evolution of the local group of galaxies and the Milky Way.</h5>
+<h5 align="center">The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region's Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind's Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.</h5>
 
 ----
 
@@ -212,90 +196,90 @@ Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are pee
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -311,55 +295,55 @@ Pour all ingrediants into a large punch bowl. Add ice and 4 oranges that are pee
 <br />
 
 <details>
-<summary>Fortnite Planning to Disable Age-Gated Cosmetic, Reveals v28.00 Update Release Date - IGN by Kat Bailey</summary>
+<summary>‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use | Mint - Mint by Aman Gupta</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/11/03/2023-11-03-10-28-24-mp4-00-00-12-05-still002-1699043239148.jpg?width=1280" alt="Fortnite Planning to Disable Age-Gated Cosmetic, Reveals v28.00 Update Release Date - IGN" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg" alt="‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use | Mint - Mint" />
 
-<a href="https://www.ign.com/articles/fortnite-planning-to-disable-age-gated-cosmetic-reveals-v2800-update-release-date" > Following a backlash over what some fans have called the game's "worst update," Fortnite's developers announced plans to disable age-gating for most cosmetics and skins while revealing that version 28.00 will be released on December 3. </a> 
+<a href="https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html" > OpenAI's ChatGPT voice feature allows users to interact with the AI using five different voices, created with the help of professional voice actors. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Nintendo Releases Update For Switch (Version 17.0.0), Here Are The Details - Nintendo Life by Liam Doolan</summary>
+<summary>After Deepfake, researchers alert Windows and Mac users on ClearFake and warn against browser update - India Today by Divya Bhati</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/18578a24d8f2c/1280x720.jpg" alt="Nintendo Releases Update For Switch (Version 17.0.0), Here Are The Details - Nintendo Life" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/cyber-threat-223541793-16x9_0.jpg?VersionId=u4bI_b04wG8VsTtDF1TmftQ0F_sPdkle" alt="After Deepfake, researchers alert Windows and Mac users on ClearFake and warn against browser update - India Today" />
 
-<a href="https://www.nintendolife.com/news/2023/11/nintendo-releases-update-for-switch-version-17-0-0-here-are-the-details" > Another "rebootless" update has arrived </a> 
+<a href="https://www.indiatoday.in/technology/news/story/after-deepfake-researchers-alert-windows-and-mac-users-on-clearfake-and-warn-against-browser-update-2465983-2023-11-22" > Researchers have uncovered a new cyber threat, ClearFake, which is being used to install a dangerous malware called Atomic macOS Stealer (AMOS) on Mac and Windows devices. The malware primarily targets Apple users and steals sensitive data. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>5 amazing features GTA 6 should adopt from GTA Vice City - Sportskeeda by Suyash Sahay</summary>
+<summary>Rainbow Six Siege Operation Deep Freeze [Hands On] - Vamers by Edward Swardt, Edward Swardt</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/94227-17004971731298-1920.jpg" alt="5 amazing features GTA 6 should adopt from GTA Vice City - Sportskeeda" />
+<img src="https://vamers-com.exactdn.com/wp-content/uploads/2023/11/Vamers-Previews-Gaming-Operation-Deep-Freeze-03.jpg" alt="Rainbow Six Siege Operation Deep Freeze [Hands On] - Vamers" />
 
-<a href="https://www.sportskeeda.com/gta/5-amazing-features-gta-6-adopt-gta-vice-city" > 2002's Grand Theft Auto Vice City has many amazing features that should return in the series' next installment, GTA 6. </a> 
+<a href="https://vamers.com/2023/11/22/rainbow-six-operation-deep-freeze-hands-on/" > Rainbow Six Siege Operation Deep Freeze closes the eighth year with a new operator, brand-new map, and key QoL additions. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Xbox sale round-up November 21st, 2023 - TrueAchievements by None</summary>
+<summary>Apple boss Tim Cook hints at who might succeed him - Digital Trends by Trevor Mogg</summary>
 <p align="center">
-<img src="https://www.trueachievements.com/imgs/113480/xbox-weekly-sales.jpg" alt="Xbox sale round-up November 21st, 2023 - TrueAchievements" />
+<img src="https://www.digitaltrends.com/wp-content/uploads/2023/11/tim-cook-bbc-sounds.jpg?resize=1200%2C630&p=1" alt="Apple boss Tim Cook hints at who might succeed him - Digital Trends" />
 
-<a href="https://www.trueachievements.com/n55617/xbox-sale-roundup-november-21st-2023" > Discounts on Snake Pass, Outbreak, Rabio , Escape Sequence , Bloomyth, Shady Part of Me, Planescape: Torment and Icewind Dale: Enhanced Editions and more </a> 
+<a href="https://www.digitaltrends.com/news/apple-boss-tim-cook-hints-at-who-might-succeed-him/" > Estimated to be worth more than $1 billion, Apple CEO Tim Cook could retire any time he likes. But in a recent interview he said he's going nowhere. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>The allure of a jewellery design career - Deccan Herald by Purnima Goswami Sharma</summary>
+<summary>How Samsung Continues To Push Home Experiences to the Next Level [Samsung Home Appliances Core Tech Part 2] - Samsung by None</summary>
 <p align="center">
-<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F36904ba2-72bc-47e0-9ba8-4399054c58a6%2FiStock_161816679.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="The allure of a jewellery design career - Deccan Herald" />
+<img src="https://img.global.news.samsung.com/in/wp-content/uploads/2023/11/Edited-Core-Tech-Feature-Image.jpg" alt="How Samsung Continues To Push Home Experiences to the Next Level [Samsung Home Appliances Core Tech Part 2] - Samsung" />
 
-<a href="https://www.deccanherald.com/business/jobs-and-careers/the-allure-of-a-jewellery-design-career-2778266" > The allure of a jewellery design career </a> 
+<a href="https://news.samsung.com/in/how-samsung-continues-to-push-home-experiences-to-the-next-level-samsung-home-appliances-core-tech-part-2" > In the fast-paced world of technology, ingenuity is the driving force that propels brands into the future. Samsung unveiled “Core Tech” at this year’s IFA — </a> 
 </p>
 <br />
 
