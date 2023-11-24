@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Mes aras visa works kash progress&quot;</strong>
-  <i>-- &quot;We are all works in progress&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Do wompa thing miki day da scares u.&quot;</strong>
+  <i>-- &quot;Do one thing every day that scares you.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolutly Screwed Up</h4>
+<h4 align="center">Sangria</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yvxrwv1472669728.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill to top </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Shake it up it tasts better that way, but you can stir it if you want. 6 of those and you will be wasted for the rest of the night.
+Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.
 </p>
 
 ----
@@ -176,14 +176,14 @@ Shake it up it tasts better that way, but you can stir it if you want. 6 of thos
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Along the Taurus Molecular Cloud - ©️ Yuexiao Shen @ 2023-11-23</h4>
+<h4 align="center">Stereo Jupiter near Opposition - ©️ Marco Lorenzi @ 2023-11-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/ngc1555wide1024.jpg" alt="Along the Taurus Molecular Cloud image" />
+<img src="https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png" alt="Stereo Jupiter near Opposition image" />
 
 </p>
  
-<h5 align="center">The cosmic brush of star formation composed this interstellar canvas of emission, dust, and dark nebulae. A 5 degree wide telescopic mosaic, it frames a region found north of bright star Aldebaran on the sky, at an inner wall of the local bubble along the Taurus molecular cloud. At lower left, emission cataloged as Sh2-239 shows signs of embedded young stellar objects. The region's Herbig-Haro objects, nebulosities associated with newly born stars, are marked by tell-tale reddish jets of shocked hydrogen gas. Above and right T Tauri, the prototype of the class of T Tauri variable stars, is next to a yellowish nebula historically known as Hind's Variable Nebula (NGC 1555). T Tauri stars are now generally recognized as young, less than a few million years old, sun-like stars still in the early stages of formation.</h5>
+<h5 align="center">Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System's ruling gas giant in 3D.</h5>
 
 ----
 
@@ -196,35 +196,35 @@ Shake it up it tasts better that way, but you can stir it if you want. 6 of thos
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -232,18 +232,18 @@ Shake it up it tasts better that way, but you can stir it if you want. 6 of thos
 <img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
@@ -251,35 +251,35 @@ Shake it up it tasts better that way, but you can stir it if you want. 6 of thos
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -295,55 +295,55 @@ Shake it up it tasts better that way, but you can stir it if you want. 6 of thos
 <br />
 
 <details>
-<summary>‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use | Mint - Mint by Aman Gupta</summary>
+<summary>Microsoft Windows 10 users can now test this Windows 11-exclusive AI feature - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/22/1600x900/FILES-US-TECHNOLOGY-AI-ALTMAN-1_1700623250597_1700623286912.jpg" alt="‘Sound on’: ChatGPT Voice feature now available to all users. Here's how to use | Mint - Mint" />
+<img src="https://static.toiimg.com/thumb/msid-105425419,width-1070,height-580,imgsize-12024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Microsoft Windows 10 users can now test this Windows 11-exclusive AI feature - Times of India" />
 
-<a href="https://www.livemint.com/ai/artificial-intelligence/sound-on-chatgpt-voice-feature-now-available-to-all-users-heres-how-to-use-openai-sam-altman-11700623193758.html" > OpenAI's ChatGPT voice feature allows users to interact with the AI using five different voices, created with the help of professional voice actors. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/microsoft-windows-10-users-can-now-test-this-windows-11-exclusive-ai-feature/articleshow/105425416.cms" > Microsoft has launched a preview of its Copilot feature for Windows 10. Previously only available on Windows 11, Copilot is an AI-powered chatbot that </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>After Deepfake, researchers alert Windows and Mac users on ClearFake and warn against browser update - India Today by Divya Bhati</summary>
+<summary>Samsung Galaxy F14 receives a price cut in India - Times of India by TIMESOFINDIA.COM</summary>
 <p align="center">
-<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/cyber-threat-223541793-16x9_0.jpg?VersionId=u4bI_b04wG8VsTtDF1TmftQ0F_sPdkle" alt="After Deepfake, researchers alert Windows and Mac users on ClearFake and warn against browser update - India Today" />
+<img src="https://static.toiimg.com/thumb/msid-105425169,width-1070,height-580,imgsize-31692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Samsung Galaxy F14 receives a price cut in India - Times of India" />
 
-<a href="https://www.indiatoday.in/technology/news/story/after-deepfake-researchers-alert-windows-and-mac-users-on-clearfake-and-warn-against-browser-update-2465983-2023-11-22" > Researchers have uncovered a new cyber threat, ClearFake, which is being used to install a dangerous malware called Atomic macOS Stealer (AMOS) on Mac and Windows devices. The malware primarily targets Apple users and steals sensitive data. </a> 
+<a href="https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-f14-receives-a-price-cut-in-india/articleshow/105425170.cms" > Samsung has reduced the price of its Galaxy F14 5G smartphone in India by up to Rs 1,000. The phone, which comes in two variants, now costs Rs 13,990 </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Rainbow Six Siege Operation Deep Freeze [Hands On] - Vamers by Edward Swardt, Edward Swardt</summary>
+<summary>It's beginning to look a lot like Christmas, and Apple is 'feeling fuzzy' - afaqs! by afaqs! news bureau</summary>
 <p align="center">
-<img src="https://vamers-com.exactdn.com/wp-content/uploads/2023/11/Vamers-Previews-Gaming-Operation-Deep-Freeze-03.jpg" alt="Rainbow Six Siege Operation Deep Freeze [Hands On] - Vamers" />
+<img src="https://gumlet.assettype.com/afaqs%2F2023-11%2Fa70c73b2-32ae-4f7b-965a-b32dff123c64%2Fmaxresdefault.jpg?w=1200&auto=format%2Ccompress&ogImage=true" alt="It's beginning to look a lot like Christmas, and Apple is 'feeling fuzzy' - afaqs!" />
 
-<a href="https://vamers.com/2023/11/22/rainbow-six-operation-deep-freeze-hands-on/" > Rainbow Six Siege Operation Deep Freeze closes the eighth year with a new operator, brand-new map, and key QoL additions. </a> 
+<a href="https://www.afaqs.com/news/advertising/its-beginning-to-look-a-lot-like-christmas-and-apple-is-feeling-fuzzy" > Watch the brand plug its iPhone 15 Pro Max and MacBook Air in a stop-motion holiday film. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Apple boss Tim Cook hints at who might succeed him - Digital Trends by Trevor Mogg</summary>
+<summary>Sony slapped with nearly $8 billion lawsuit over PlayStation Store prices - Fox Business by Bradford Betz</summary>
 <p align="center">
-<img src="https://www.digitaltrends.com/wp-content/uploads/2023/11/tim-cook-bbc-sounds.jpg?resize=1200%2C630&p=1" alt="Apple boss Tim Cook hints at who might succeed him - Digital Trends" />
+<img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/PlayStation.jpg?ve=1&tl=1" alt="Sony slapped with nearly $8 billion lawsuit over PlayStation Store prices - Fox Business" />
 
-<a href="https://www.digitaltrends.com/news/apple-boss-tim-cook-hints-at-who-might-succeed-him/" > Estimated to be worth more than $1 billion, Apple CEO Tim Cook could retire any time he likes. But in a recent interview he said he's going nowhere. </a> 
+<a href="https://www.foxbusiness.com/fox-news-tech/sony-slapped-nearly-eight-billion-dollar-lawsuit-playstation-store-prices" > London Tribunal rules that a nearly $8 billion consumer advocate lawsuit against Sony, maker of the popular PlayStation console and content in its online store, alleging abuse of dominant position, can move forward. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>How Samsung Continues To Push Home Experiences to the Next Level [Samsung Home Appliances Core Tech Part 2] - Samsung by None</summary>
+<summary>China's Landspace aims to build a stainless steel rocket - SpaceNews by Andrew Jones</summary>
 <p align="center">
-<img src="https://img.global.news.samsung.com/in/wp-content/uploads/2023/11/Edited-Core-Tech-Feature-Image.jpg" alt="How Samsung Continues To Push Home Experiences to the Next Level [Samsung Home Appliances Core Tech Part 2] - Samsung" />
+<img src="https://spacenews.com/wp-content/uploads/2022/12/zhuque-2-Landspace-jiuquan-2022-2.jpg" alt="China's Landspace aims to build a stainless steel rocket - SpaceNews" />
 
-<a href="https://news.samsung.com/in/how-samsung-continues-to-push-home-experiences-to-the-next-level-samsung-home-appliances-core-tech-part-2" > In the fast-paced world of technology, ingenuity is the driving force that propels brands into the future. Samsung unveiled “Core Tech” at this year’s IFA — </a> 
+<a href="https://spacenews.com/chinas-landspace-aims-to-build-a-stainless-steel-rocket/" > China’s Landspace aims to build a stainless steel rocket Chinese launch startup Landspace has unveiled plans to develop a reusable stainless steel rocket. </a> 
 </p>
 <br />
 
