@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Do wompa thing miki day da scares u.&quot;</strong>
-  <i>-- &quot;Do one thing every day that scares you.&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot; {Simple} word−cwide, lômlic dæghwâmlic, canne oncirran êower onworpennes.&quot;</strong>
+  <i>-- &quot;Simple words, repeated daily, can change your life.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sangria</h4>
+<h4 align="center">A Furlong Too Late</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrvxpp1441249280.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 bottle </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to taste. Serve in wine glasses.
+Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
 </p>
 
 ----
@@ -143,10 +139,6 @@ Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Other</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -159,10 +151,6 @@ Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Windows</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0 hours and 21 minutes</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -176,14 +164,14 @@ Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Stereo Jupiter near Opposition - ©️ Marco Lorenzi @ 2023-11-24</h4>
+<h4 align="center">Little Planet Aurora - ©️ Victor Lima @ 2023-11-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/2023-11-17-1617_1632-Jupiter_Stereo1200.png" alt="Stereo Jupiter near Opposition image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg" alt="Little Planet Aurora image" />
 
 </p>
  
-<h5 align="center">Jupiter looks sharp in these two rooftop telescope images. Both were captured on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is still prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the Solar System's ruling gas giant in 3D.</h5>
+<h5 align="center">Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky.</h5>
 
 ----
 
@@ -196,90 +184,90 @@ Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -295,55 +283,55 @@ Mix all together in a pitcher and refrigerate. Add cloves and cinnamon sticks to
 <br />
 
 <details>
-<summary>Microsoft Windows 10 users can now test this Windows 11-exclusive AI feature - Times of India by TIMESOFINDIA.COM</summary>
+<summary>The Best Black Friday iPad Deals: Lowest Prices Ever on iPad, iPad Air, iPad Mini, and iPad Pro - IGN by Eric Song</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105425419,width-1070,height-580,imgsize-12024,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Microsoft Windows 10 users can now test this Windows 11-exclusive AI feature - Times of India" />
+<img src="https://assets-prd.ignimgs.com/2023/11/22/ipad-1700646016328.jpg?width=1280" alt="The Best Black Friday iPad Deals: Lowest Prices Ever on iPad, iPad Air, iPad Mini, and iPad Pro - IGN" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/microsoft-windows-10-users-can-now-test-this-windows-11-exclusive-ai-feature/articleshow/105425416.cms" > Microsoft has launched a preview of its Copilot feature for Windows 10. Previously only available on Windows 11, Copilot is an AI-powered chatbot that </a> 
+<a href="https://www.ign.com/articles/black-friday-ipad-deals-2023" > Get the current model iPad for only $349 </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung Galaxy F14 receives a price cut in India - Times of India by TIMESOFINDIA.COM</summary>
+<summary>List of GTA Online vehicles at Simeon's car showroom and Luxury Autos this week (November 24-29) - Sportskeeda by Neeraj Bansal</summary>
 <p align="center">
-<img src="https://static.toiimg.com/thumb/msid-105425169,width-1070,height-580,imgsize-31692,resizemode-75,overlay-toi_sw,pt-32,y_pad-40/photo.jpg" alt="Samsung Galaxy F14 receives a price cut in India - Times of India" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/619cd-17007859432672-1920.jpg" alt="List of GTA Online vehicles at Simeon's car showroom and Luxury Autos this week (November 24-29) - Sportskeeda" />
 
-<a href="https://timesofindia.indiatimes.com/gadgets-news/samsung-galaxy-f14-receives-a-price-cut-in-india/articleshow/105425170.cms" > Samsung has reduced the price of its Galaxy F14 5G smartphone in India by up to Rs 1,000. The phone, which comes in two variants, now costs Rs 13,990 </a> 
+<a href="https://www.sportskeeda.com/gta/list-gta-online-vehicles-simeon-s-car-showroom-luxury-autos-week-november-24-29" > GTA Online’s new weekly update has added new vehicles to Simeon’s car showroom and the Luxury Autos Showroom. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>It's beginning to look a lot like Christmas, and Apple is 'feeling fuzzy' - afaqs! by afaqs! news bureau</summary>
+<summary>Nintendo Updates Switch Online's N64 Release Schedule - Nintendo Life by Liam Doolan</summary>
 <p align="center">
-<img src="https://gumlet.assettype.com/afaqs%2F2023-11%2Fa70c73b2-32ae-4f7b-965a-b32dff123c64%2Fmaxresdefault.jpg?w=1200&auto=format%2Ccompress&ogImage=true" alt="It's beginning to look a lot like Christmas, and Apple is 'feeling fuzzy' - afaqs!" />
+<img src="https://images.nintendolife.com/c3ad7f1b3294d/1280x720.jpg" alt="Nintendo Updates Switch Online's N64 Release Schedule - Nintendo Life" />
 
-<a href="https://www.afaqs.com/news/advertising/its-beginning-to-look-a-lot-like-christmas-and-apple-is-feeling-fuzzy" > Watch the brand plug its iPhone 15 Pro Max and MacBook Air in a stop-motion holiday film. </a> 
+<a href="https://www.nintendolife.com/news/2023/11/nintendo-updates-switch-onlines-n64-release-schedule" > Multiple titles are still scheduled for 2023 </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Sony slapped with nearly $8 billion lawsuit over PlayStation Store prices - Fox Business by Bradford Betz</summary>
+<summary>Today’s Wordle #888 Hints, Clues And Answer For Friday, November 24th - Forbes by Erik Kain</summary>
 <p align="center">
-<img src="https://a57.foxnews.com/static.foxbusiness.com/foxbusiness.com/content/uploads/2023/11/0/0/PlayStation.jpg?ve=1&tl=1" alt="Sony slapped with nearly $8 billion lawsuit over PlayStation Store prices - Fox Business" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6209dc2871dc07b5bc2b0ac7/0x0.jpg?format=jpg&crop=3846,2163,x0,y191,safe&height=900&width=1600&fit=bounds" alt="Today’s Wordle #888 Hints, Clues And Answer For Friday, November 24th - Forbes" />
 
-<a href="https://www.foxbusiness.com/fox-news-tech/sony-slapped-nearly-eight-billion-dollar-lawsuit-playstation-store-prices" > London Tribunal rules that a nearly $8 billion consumer advocate lawsuit against Sony, maker of the popular PlayStation console and content in its online store, alleging abuse of dominant position, can move forward. </a> 
+<a href="https://www.forbes.com/sites/erikkain/2023/11/23/todays-wordle-888-hints-clues-and-answer-for-friday-november-24th/" > How to solve today's Wordle. Hints, clues and the daily Wordle answer. Also, play competitive Wordle and learn more about each day's word. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>China's Landspace aims to build a stainless steel rocket - SpaceNews by Andrew Jones</summary>
+<summary>Nintendo Switch Black Friday live updates: Get the Switch OLED for $296 at Walmart - Creative Bloq by Beren Neale, Georgia Coggan</summary>
 <p align="center">
-<img src="https://spacenews.com/wp-content/uploads/2022/12/zhuque-2-Landspace-jiuquan-2022-2.jpg" alt="China's Landspace aims to build a stainless steel rocket - SpaceNews" />
+<img src="https://cdn.mos.cms.futurecdn.net/2HhXu8HS9Uxt8gJKagN8ET-1200-80.jpg" alt="Nintendo Switch Black Friday live updates: Get the Switch OLED for $296 at Walmart - Creative Bloq" />
 
-<a href="https://spacenews.com/chinas-landspace-aims-to-build-a-stainless-steel-rocket/" > China’s Landspace aims to build a stainless steel rocket Chinese launch startup Landspace has unveiled plans to develop a reusable stainless steel rocket. </a> 
+<a href="https://www.creativebloq.com/live/news/black-friday-nintendo-switch" > We use our years of experience to share live updates on Nintendo Switch deals on consoles, games and accessories. </a> 
 </p>
 <br />
 
