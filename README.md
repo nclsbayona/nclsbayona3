@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {Simple} word−cwide, lômlic dæghwâmlic, canne oncirran êower onworpennes.&quot;</strong>
-  <i>-- &quot;Simple words, repeated daily, can change your life.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;U are learning valuable lessons tuta yourself miki day&quot;</strong>
+  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Furlong Too Late</h4>
+<h4 align="center">Strawberry Shivers</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ssxvww1472669166.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Pour the rum and ginger beer into a highball glass almost filled with ice cubes. Stir well. Garnish with the lemon twist.
+Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
 </p>
 
 ----
@@ -164,14 +164,14 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Little Planet Aurora - ©️ Victor Lima @ 2023-11-25</h4>
+<h4 align="center">A Dust Jet from the Surface of Comet 67P - ©️ NASA @ 2023-11-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Kirkjufell2023Nov9_1024.jpg" alt="Little Planet Aurora image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg" alt="A Dust Jet from the Surface of Comet 67P image" />
 
 </p>
  
-<h5 align="center">Immersed in an eerie greenish light, this rugged little planet appears to be home to stunning water falls and an impossibly tall mountain. It's planet Earth of course. On the night of November 9 the nadir-centered 360 degree mosaic was captured by digital camera from the Kirkjufell mountain area of western Iceland. Curtains of shimmering Aurora Borealis or Northern Lights provide the pale greenish illumination. The intense auroral display was caused by solar activity that rocked Earth's magnetosphere in early November and produced strong geomagnetic storms. Kirkjufell mountain itself stands at the top of the stereographic projection's circular horizon. Northern hemisphere skygazers will recognize the familiar stars of the Big Dipper just above Kirkjufell's peak. At lower right the compact Pleiades star cluster and truly giant planet Jupiter also shine in this little planet's night sky.</h5>
+<h5 align="center">Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface.</h5>
 
 ----
 
@@ -184,65 +184,65 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
@@ -250,24 +250,24 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -283,55 +283,55 @@ Pour the rum and ginger beer into a highball glass almost filled with ice cubes.
 <br />
 
 <details>
-<summary>The Best Black Friday iPad Deals: Lowest Prices Ever on iPad, iPad Air, iPad Mini, and iPad Pro - IGN by Eric Song</summary>
+<summary>31 Best Home Office Black Friday Deals 2023 - BuzzFeed by Heather Braga</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/11/22/ipad-1700646016328.jpg?width=1280" alt="The Best Black Friday iPad Deals: Lowest Prices Ever on iPad, iPad Air, iPad Mini, and iPad Pro - IGN" />
+<img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-11/24/22/enhanced/bedd66c55f1d/original-649-1700864626-2.jpg?crop=1581:830;0,0%26downsize=1250:*" alt="31 Best Home Office Black Friday Deals 2023 - BuzzFeed" />
 
-<a href="https://www.ign.com/articles/black-friday-ipad-deals-2023" > Get the current model iPad for only $349 </a> 
+<a href="https://www.buzzfeed.com/hbraga/home-office-black-friday-2023-deals" > You might be OOO, but these WFH deals are hard at work. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>List of GTA Online vehicles at Simeon's car showroom and Luxury Autos this week (November 24-29) - Sportskeeda by Neeraj Bansal</summary>
+<summary>All of the best Black Friday tech deals worth buying- save up to 70% Apple, Playstation and more - Yahoo Life by Patrick Hearn</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/619cd-17007859432672-1920.jpg" alt="List of GTA Online vehicles at Simeon's car showroom and Luxury Autos this week (November 24-29) - Sportskeeda" />
+<img src="https://s.yimg.com/ny/api/res/1.2/UOfnqzKBLG5t70n8XepF0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/87bd1040-8a77-11ee-bb33-78eea1f64aa1" alt="All of the best Black Friday tech deals worth buying- save up to 70% Apple, Playstation and more - Yahoo Life" />
 
-<a href="https://www.sportskeeda.com/gta/list-gta-online-vehicles-simeon-s-car-showroom-luxury-autos-week-november-24-29" > GTA Online’s new weekly update has added new vehicles to Simeon’s car showroom and the Luxury Autos Showroom. </a> 
+<a href="https://www.yahoo.com/lifestyle/all-of-the-best-black-friday-tech-deals-worth-buying--save-up-to-70-apple-playstation-and-more-124618978.html" > Find a reason to beat the turkey coma with amazing deals from Amazon, Walmart, Best Buy and more. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Nintendo Updates Switch Online's N64 Release Schedule - Nintendo Life by Liam Doolan</summary>
+<summary>Black Friday: Samsung US offers exclusive discounts on foldables, the S23 Ultra and more - GSMArena.com news - GSMArena.com by Peter</summary>
 <p align="center">
-<img src="https://images.nintendolife.com/c3ad7f1b3294d/1280x720.jpg" alt="Nintendo Updates Switch Online's N64 Release Schedule - Nintendo Life" />
+<img src="https://fdn.gsmarena.com/imgroot/news/23/11/samsung-us-black-friday-24/-952x498w6/gsmarena_000.jpg" alt="Black Friday: Samsung US offers exclusive discounts on foldables, the S23 Ultra and more - GSMArena.com news - GSMArena.com" />
 
-<a href="https://www.nintendolife.com/news/2023/11/nintendo-updates-switch-onlines-n64-release-schedule" > Multiple titles are still scheduled for 2023 </a> 
+<a href="https://www.gsmarena.com/black_friday_samsung_us_offers_exclusive_discounts_on_foldables_the_s23_ultra_and_more-news-60704.php" > You can get discounts through the Shop Samsung app, also the web store has student (and other) discounts active. You’ve been hearing about Black Friday... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Today’s Wordle #888 Hints, Clues And Answer For Friday, November 24th - Forbes by Erik Kain</summary>
+<summary>Best Black Friday deals on smartwatches and fitness trackers - The Verge by Victoria Song</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6209dc2871dc07b5bc2b0ac7/0x0.jpg?format=jpg&crop=3846,2163,x0,y191,safe&height=900&width=1600&fit=bounds" alt="Today’s Wordle #888 Hints, Clues And Answer For Friday, November 24th - Forbes" />
+<img src="https://cdn.vox-cdn.com/thumbor/mvYyZHSJ0uFzThN5k5awQ-zzhNg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933463/236790_Apple_watch_9_Ultra_2_AKrales_0902.jpg" alt="Best Black Friday deals on smartwatches and fitness trackers - The Verge" />
 
-<a href="https://www.forbes.com/sites/erikkain/2023/11/23/todays-wordle-888-hints-clues-and-answer-for-friday-november-24th/" > How to solve today's Wordle. Hints, clues and the daily Wordle answer. Also, play competitive Wordle and learn more about each day's word. </a> 
+<a href="https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday" > Hunting for a smartwatch or fitness tracker? Whether it’s an Apple Watch, Garmin, Galaxy Watch, or Pixel Watch, We’ve rounded up the best Black Friday deals right here. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Nintendo Switch Black Friday live updates: Get the Switch OLED for $296 at Walmart - Creative Bloq by Beren Neale, Georgia Coggan</summary>
+<summary>The best D&D Black Friday deals include the biggest D&D adventures - Polygon by Charlie Hall</summary>
 <p align="center">
-<img src="https://cdn.mos.cms.futurecdn.net/2HhXu8HS9Uxt8gJKagN8ET-1200-80.jpg" alt="Nintendo Switch Black Friday live updates: Get the Switch OLED for $296 at Walmart - Creative Bloq" />
+<img src="https://cdn.vox-cdn.com/thumbor/uxEov5d_Xx_CadJwvaFcl0NCKU8=/0x272:7538x4219/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23954244/329834___ch_1_opener___Art_by_Kieran_Yanner_copy.jpg" alt="The best D&D Black Friday deals include the biggest D&D adventures - Polygon" />
 
-<a href="https://www.creativebloq.com/live/news/black-friday-nintendo-switch" > We use our years of experience to share live updates on Nintendo Switch deals on consoles, games and accessories. </a> 
+<a href="https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday" > D&D’s discounted adventures are buy 2, get 1 free for Black Friday. Plus discounts on Dragonlance and Radiant Citadel. </a> 
 </p>
 <br />
 
