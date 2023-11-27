@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;U are learning valuable lessons tuta yourself miki day&quot;</strong>
-  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Choy? Jee-jee know sa do hasa,  choy? Jee-jee hagwa know sa an ocean.&quot;</strong>
+  <i>-- &quot;What we know is a drop, what we don't know is an ocean. &quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Strawberry Shivers</h4>
+<h4 align="center">Vodka Slime</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/9h1vvt1487603404.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
+Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 </p>
 
 ----
@@ -164,14 +180,14 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Dust Jet from the Surface of Comet 67P - ©️ NASA @ 2023-11-26</h4>
+<h4 align="center">LBN 86: The Eagle Ray Nebula - ©️ Vikas Chander @ 2023-11-27</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Jet67P_Rosetta_960.jpg" alt="A Dust Jet from the Surface of Comet 67P image" />
+<img src="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg" alt="LBN 86: The Eagle Ray Nebula image" />
 
 </p>
  
-<h5 align="center">Where do comet tails come from?  There are no obvious places on the nuclei of comets from which the jets that create comet tails emanate.  In 2016, though, ESA's Rosetta spacecraft not only imaged a jet emerging from Comet 67P/Churyumov-Gerasimenko, but flew right through it.  Featured is a telling picture showing a bright plume emerging from a small circular dip bounded on one side by a 10-meter high wall.  Analyses of Rosetta data show that the jet was composed of both dust and water-ice. The rugged but otherwise unremarkable terrain indicates that something likely happened far under the porous surface to create the plume.  This image was taken about two months before Rosetta's mission ended with a controlled impact onto Comet 67P's surface.</h5>
+<h5 align="center">This eagle ray glides across a cosmic sea.  Officially cataloged as SH2-63 and LBN 86, the dark nebula is composed of gas and dust that just happens to appear shaped like a common ocean fish.  The interstellar dust nebula appears light brown as it blocks and reddens visible light emitted behind it. Dark nebulas glow primarily in infrared light, but also reflect visible light from surrounding stars. The dust in dark nebulas is usually sub-millimeter chunks of carbon, silicon, and oxygen, frequently coated with frozen carbon monoxide and nitrogen.  Dark nebulas are also known as molecular clouds because they also contain relatively high amounts of molecular hydrogen and larger molecules. Previously unnamed, the here dubbed Eagle Ray Nebula is normally quite dim but has been imaged clearly over 20-hours through dark skies in Chile.    Follow APOD on: Discord</h5>
 
 ----
 
@@ -184,90 +200,90 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -283,55 +299,55 @@ Place all ingredients in the blender jar - cover and whiz on medium speed until 
 <br />
 
 <details>
-<summary>31 Best Home Office Black Friday Deals 2023 - BuzzFeed by Heather Braga</summary>
+<summary>Redmi Watch 4, Redmi Book 16 (2024), Redmi Buds 5 Pro Will Be Launched on November 29 - Gizchina.com by Marco Lancaster</summary>
 <p align="center">
-<img src="https://img.buzzfeed.com/buzzfeed-static/static/2023-11/24/22/enhanced/bedd66c55f1d/original-649-1700864626-2.jpg?crop=1581:830;0,0%26downsize=1250:*" alt="31 Best Home Office Black Friday Deals 2023 - BuzzFeed" />
+<img src="https://www.gizchina.com/wp-content/uploads/images/2023/11/imagem_2023-11-26_003111152-1200x534.png" alt="Redmi Watch 4, Redmi Book 16 (2024), Redmi Buds 5 Pro Will Be Launched on November 29 - Gizchina.com" />
 
-<a href="https://www.buzzfeed.com/hbraga/home-office-black-friday-2023-deals" > You might be OOO, but these WFH deals are hard at work. </a> 
+<a href="https://www.gizchina.com/2023/11/25/redmi-watch-4-redmi-book-16-2024-redmi-buds-5-pro-will-be-launched-on-november-29/" > Chinese Phone blog dedicated to providing breaking news, expert reviews, Chinese Phones, Android Apps, Chinese Android Tablets and how tos. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>All of the best Black Friday tech deals worth buying- save up to 70% Apple, Playstation and more - Yahoo Life by Patrick Hearn</summary>
+<summary>Best Apple Watch Black Friday & Cyber Monday Deals are Here - AppleInsider by AppleInsider Staff</summary>
 <p align="center">
-<img src="https://s.yimg.com/ny/api/res/1.2/UOfnqzKBLG5t70n8XepF0Q--/YXBwaWQ9aGlnaGxhbmRlcjt3PTEyMDA7aD02NzU-/https://s.yimg.com/os/creatr-uploaded-images/2023-11/87bd1040-8a77-11ee-bb33-78eea1f64aa1" alt="All of the best Black Friday tech deals worth buying- save up to 70% Apple, Playstation and more - Yahoo Life" />
+<img src="https://photos5.appleinsider.com/gallery/57162-117023-apple-watch-black-friday-cyber-monday-xl.jpg" alt="Best Apple Watch Black Friday & Cyber Monday Deals are Here - AppleInsider" />
 
-<a href="https://www.yahoo.com/lifestyle/all-of-the-best-black-friday-tech-deals-worth-buying--save-up-to-70-apple-playstation-and-more-124618978.html" > Find a reason to beat the turkey coma with amazing deals from Amazon, Walmart, Best Buy and more. </a> 
+<a href="https://appleinsider.com/articles/23/11/26/best-apple-watch-black-friday-weekend-deals-drop-prices-to-as-low-as-189" > The best Apple Watch Black Friday weekend deals are here with special discounts at popular retailers. Unbeatable deals on a variety of models - including Ultra 2, SE 2, Series 9, and more. Get your next watch at a great price this weekend into Cyber Monday. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Black Friday: Samsung US offers exclusive discounts on foldables, the S23 Ultra and more - GSMArena.com news - GSMArena.com by Peter</summary>
+<summary>Where to Buy a PS5 During Black Friday 2023 - IGN by Robert Anderson</summary>
 <p align="center">
-<img src="https://fdn.gsmarena.com/imgroot/news/23/11/samsung-us-black-friday-24/-952x498w6/gsmarena_000.jpg" alt="Black Friday: Samsung US offers exclusive discounts on foldables, the S23 Ultra and more - GSMArena.com news - GSMArena.com" />
+<img src="https://assets-prd.ignimgs.com/2023/11/25/where-to-buy-a-ps5-this-black-friday-cyber-monday-1700923281586.png?width=1280" alt="Where to Buy a PS5 During Black Friday 2023 - IGN" />
 
-<a href="https://www.gsmarena.com/black_friday_samsung_us_offers_exclusive_discounts_on_foldables_the_s23_ultra_and_more-news-60704.php" > You can get discounts through the Shop Samsung app, also the web store has student (and other) discounts active. You’ve been hearing about Black Friday... </a> 
+<a href="https://www.ign.com/articles/black-friday-where-to-buy-a-ps5-live-2023" > This is where you can buy a PS5 during the Black Friday sales, and there's even more discounts to consider. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Best Black Friday deals on smartwatches and fitness trackers - The Verge by Victoria Song</summary>
+<summary>Best gaming phones to buy under ₹20000 in November 2023: Realme Narzo 60, Motorola G54 and more | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/mvYyZHSJ0uFzThN5k5awQ-zzhNg=/0x0:2040x1360/1200x628/filters:focal(1020x680:1021x681)/cdn.vox-cdn.com/uploads/chorus_asset/file/24933463/236790_Apple_watch_9_Ultra_2_AKrales_0902.jpg" alt="Best Black Friday deals on smartwatches and fitness trackers - The Verge" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/26/1600x900/narzo_1688640366767_1700966876944.png" alt="Best gaming phones to buy under ₹20000 in November 2023: Realme Narzo 60, Motorola G54 and more | Mint - Mint" />
 
-<a href="https://www.theverge.com/23970876/black-friday-2023-smartwatch-fitness-tracker-deals-cyber-monday" > Hunting for a smartwatch or fitness tracker? Whether it’s an Apple Watch, Garmin, Galaxy Watch, or Pixel Watch, We’ve rounded up the best Black Friday deals right here. </a> 
+<a href="https://www.livemint.com/technology/gadgets/best-gaming-phones-to-buy-under-rs-20000-in-november-2023-realme-narzo-60-motorola-g54-and-more-11700962752201.html" > Smartphone makers from OnePlus to Realme are offering a lot of performance in the budget segment. Here's a look at the top gaming smartphones you can buy under  ₹20,000 in November 2023. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>The best D&D Black Friday deals include the biggest D&D adventures - Polygon by Charlie Hall</summary>
+<summary>Best camera smartphones under ₹20,000 in November 2023: Samsung Galaxy M34 5G, iQOO Z7s and more | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/uxEov5d_Xx_CadJwvaFcl0NCKU8=/0x272:7538x4219/fit-in/1200x630/cdn.vox-cdn.com/uploads/chorus_asset/file/23954244/329834___ch_1_opener___Art_by_Kieran_Yanner_copy.jpg" alt="The best D&D Black Friday deals include the biggest D&D adventures - Polygon" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/26/1600x900/8_1688908894796_1700961865856.jpg" alt="Best camera smartphones under ₹20,000 in November 2023: Samsung Galaxy M34 5G, iQOO Z7s and more | Mint - Mint" />
 
-<a href="https://www.polygon.com/23954541/dnd-dungeons-dragons-black-friday-deals-sale-cyber-monday" > D&D’s discounted adventures are buy 2, get 1 free for Black Friday. Plus discounts on Dragonlance and Radiant Citadel. </a> 
+<a href="https://www.livemint.com/technology/gadgets/best-camera-smartphones-under-rs-20-000-in-november-2023-samsung-galaxy-m34-5g-iqoo-z7s-oneplus-nord-ce-3-lite-5g-11700960172625.html" > From OnePlus Nord CE 3 Lite 5G to Poco X5 5G, here's an indept look on the best camera smartphones to buy under  ₹20,000. </a> 
 </p>
 <br />
 
