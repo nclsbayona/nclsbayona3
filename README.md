@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Choy? Jee-jee know sa do hasa,  choy? Jee-jee hagwa know sa an ocean.&quot;</strong>
-  <i>-- &quot;What we know is a drop, what we don't know is an ocean. &quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;pik tis non a munelk, pik tis a marathon.  da via ka a veela&quot;</strong>
+  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Vodka Slime</h4>
+<h4 align="center">Adonis Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/apex461643588115.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz dry </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
+Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
 </p>
 
 ----
@@ -180,14 +164,14 @@ Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">LBN 86: The Eagle Ray Nebula - ©️ Vikas Chander @ 2023-11-27</h4>
+<h4 align="center">Ganymede from Juno - ©️ NASA/JPL-Caltech/SwRI/MSSS;Processing &amp; License:Kevin M. Gill; @ 2023-11-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/EagleRay_Chander_960.jpg" alt="LBN 86: The Eagle Ray Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_960.jpg" alt="Ganymede from Juno image" />
 
 </p>
  
-<h5 align="center">This eagle ray glides across a cosmic sea.  Officially cataloged as SH2-63 and LBN 86, the dark nebula is composed of gas and dust that just happens to appear shaped like a common ocean fish.  The interstellar dust nebula appears light brown as it blocks and reddens visible light emitted behind it. Dark nebulas glow primarily in infrared light, but also reflect visible light from surrounding stars. The dust in dark nebulas is usually sub-millimeter chunks of carbon, silicon, and oxygen, frequently coated with frozen carbon monoxide and nitrogen.  Dark nebulas are also known as molecular clouds because they also contain relatively high amounts of molecular hydrogen and larger molecules. Previously unnamed, the here dubbed Eagle Ray Nebula is normally quite dim but has been imaged clearly over 20-hours through dark skies in Chile.    Follow APOD on: Discord</h5>
+<h5 align="center">What does the largest moon in the Solar System look like?  Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet's high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD's Images: on YouTube</h5>
 
 ----
 
@@ -200,57 +184,57 @@ Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -258,18 +242,18 @@ Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 <img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
@@ -280,10 +264,10 @@ Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 <img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -299,55 +283,55 @@ Fill glass with ice. Add vodka, 7-up then finish with the lime juice.
 <br />
 
 <details>
-<summary>Redmi Watch 4, Redmi Book 16 (2024), Redmi Buds 5 Pro Will Be Launched on November 29 - Gizchina.com by Marco Lancaster</summary>
+<summary>Cyber Monday Sonos deals: save on Era 100, Move, Roam, and more - Mashable by Christina Buff</summary>
 <p align="center">
-<img src="https://www.gizchina.com/wp-content/uploads/images/2023/11/imagem_2023-11-26_003111152-1200x534.png" alt="Redmi Watch 4, Redmi Book 16 (2024), Redmi Buds 5 Pro Will Be Launched on November 29 - Gizchina.com" />
+<img src="https://helios-i.mashable.com/imagery/articles/00JcGsVIjTumNfltjZWy0aP/hero-image.fill.size_1200x675.v1701048296.png" alt="Cyber Monday Sonos deals: save on Era 100, Move, Roam, and more - Mashable" />
 
-<a href="https://www.gizchina.com/2023/11/25/redmi-watch-4-redmi-book-16-2024-redmi-buds-5-pro-will-be-launched-on-november-29/" > Chinese Phone blog dedicated to providing breaking news, expert reviews, Chinese Phones, Android Apps, Chinese Android Tablets and how tos. </a> 
+<a href="https://mashable.com/article/cyber-monday-sonos-speaker-deals-2023" > Sonos discounts are rare, so snag them while you can. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Best Apple Watch Black Friday & Cyber Monday Deals are Here - AppleInsider by AppleInsider Staff</summary>
+<summary>Samsung Galaxy S24 Ultra's Alleged Hands-on Images Suggest Flat Display and Rear Panel - Gadgets 360 by Nithya P Nair, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://photos5.appleinsider.com/gallery/57162-117023-apple-watch-black-friday-cyber-monday-xl.jpg" alt="Best Apple Watch Black Friday & Cyber Monday Deals are Here - AppleInsider" />
+<img src="https://i.gadgets360cdn.com/large/galaxy_s24_ultra_david_martin_1701060457329.jpg" alt="Samsung Galaxy S24 Ultra's Alleged Hands-on Images Suggest Flat Display and Rear Panel - Gadgets 360" />
 
-<a href="https://appleinsider.com/articles/23/11/26/best-apple-watch-black-friday-weekend-deals-drop-prices-to-as-low-as-189" > The best Apple Watch Black Friday weekend deals are here with special discounts at popular retailers. Unbeatable deals on a variety of models - including Ultra 2, SE 2, Series 9, and more. Get your next watch at a great price this weekend into Cyber Monday. </a> 
+<a href="https://www.gadgets360.com/mobiles/news/samsung-s24-ultra-hands-on-images-renders-design-flat-display-specifications-galaxy-leak-4608928" > Samsung Galaxy S24 Ultra specifications and design have purportedly been leaked through live images that surfaced online. The upcoming Samsung phone seems to have a flat display and a flat rear panel, unlike its predecessor. It is expected to launch in Januar… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Where to Buy a PS5 During Black Friday 2023 - IGN by Robert Anderson</summary>
+<summary>Google Expands Bard’s YouTube Integration To Answer Questions About Videos - Forbes by Johan Moreno</summary>
 <p align="center">
-<img src="https://assets-prd.ignimgs.com/2023/11/25/where-to-buy-a-ps5-this-black-friday-cyber-monday-1700923281586.png?width=1280" alt="Where to Buy a PS5 During Black Friday 2023 - IGN" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6178d7b303a0829f4c4813b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Google Expands Bard’s YouTube Integration To Answer Questions About Videos - Forbes" />
 
-<a href="https://www.ign.com/articles/black-friday-where-to-buy-a-ps5-live-2023" > This is where you can buy a PS5 during the Black Friday sales, and there's even more discounts to consider. </a> 
+<a href="https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/" > In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Best gaming phones to buy under ₹20000 in November 2023: Realme Narzo 60, Motorola G54 and more | Mint - Mint by Livemint</summary>
+<summary>Minecraft 1.20.3 update for Java Edition: All you need to know - Sportskeeda by Spencer Whitworth</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/26/1600x900/narzo_1688640366767_1700966876944.png" alt="Best gaming phones to buy under ₹20000 in November 2023: Realme Narzo 60, Motorola G54 and more | Mint - Mint" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/10ff4-17010481069777-1920.jpg" alt="Minecraft 1.20.3 update for Java Edition: All you need to know - Sportskeeda" />
 
-<a href="https://www.livemint.com/technology/gadgets/best-gaming-phones-to-buy-under-rs-20000-in-november-2023-realme-narzo-60-motorola-g54-and-more-11700962752201.html" > Smartphone makers from OnePlus to Realme are offering a lot of performance in the budget segment. Here's a look at the top gaming smartphones you can buy under  ₹20,000 in November 2023. </a> 
+<a href="https://www.sportskeeda.com/minecraft/minecraft-1-20-3-update-java-edition-all-need-know" > After several Minecraft snapshots and pre-releases, the 1.20.3 update is rapidly approaching and should debut in December 2023 for Java Edition. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Best camera smartphones under ₹20,000 in November 2023: Samsung Galaxy M34 5G, iQOO Z7s and more | Mint - Mint by Livemint</summary>
+<summary>Redmi 13C Tipped to Launch in India Soon; Key Specifications Leaked - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/26/1600x900/8_1688908894796_1700961865856.jpg" alt="Best camera smartphones under ₹20,000 in November 2023: Samsung Galaxy M34 5G, iQOO Z7s and more | Mint - Mint" />
+<img src="https://i.gadgets360cdn.com/large/redmi_13c_xiaomi_1701058203190.jpg" alt="Redmi 13C Tipped to Launch in India Soon; Key Specifications Leaked - Gadgets 360" />
 
-<a href="https://www.livemint.com/technology/gadgets/best-camera-smartphones-under-rs-20-000-in-november-2023-samsung-galaxy-m34-5g-iqoo-z7s-oneplus-nord-ce-3-lite-5g-11700960172625.html" > From OnePlus Nord CE 3 Lite 5G to Poco X5 5G, here's an indept look on the best camera smartphones to buy under  ₹20,000. </a> 
+<a href="https://www.gadgets360.com/mobiles/news/redmi-13c-india-launch-specifications-features-leak-4608953" > Redmi 13C was launched globally earlier this month. The phone succeeds the Redmi 12C, which was unveiled in December 2022. The global variant of the Redmi 13C is powered by a 9nm MediaTek Helio G99 SoC. Now, a new report has suggested that the handset may lau… </a> 
 </p>
 <br />
 
