@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;pik tis non a munelk, pik tis a marathon.  da via ka a veela&quot;</strong>
-  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;People with goals succeed because they be knowin' whar they’re goin'&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Adonis Cocktail</h4>
+<h4 align="center">Smut</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrvruq1472812030.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz dry </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepsi Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
+Throw it all together and serve real cold.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Ganymede from Juno - ©️ NASA/JPL-Caltech/SwRI/MSSS;Processing &amp; License:Kevin M. Gill; @ 2023-11-28</h4>
+<h4 align="center">A Landspout Tornado over Kansas - ©️ Brad Hannon @ 2023-11-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/Ganymede2_JunoGill_960.jpg" alt="Ganymede from Juno image" />
+<img src="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg" alt="A Landspout Tornado over Kansas image" />
 
 </p>
  
-<h5 align="center">What does the largest moon in the Solar System look like?  Jupiter's moon Ganymede, larger than even Mercury and Pluto, has an icy surface speckled with bright young craters overlying a mixture of older, darker, more cratered terrain laced with grooves and ridges.  The cause of the grooved terrain remains a topic of research, with a leading hypothesis relating it to shifting ice plates.  Ganymede is thought to have an ocean layer that contains more water than Earth -- and might contain life.  Like Earth's Moon, Ganymede keeps the same face towards its central planet, in this case Jupiter.  The featured image was captured in 2021 by NASA's robotic Juno spacecraft when it passed by the immense moon.  The close pass reduced Juno's orbital period around Jupiter from 53 days to 43 days.  Juno continues to study the giant planet's high gravity, unusual magnetic field, and complex cloud structures.    Follow Podcasts about APOD's Images: on YouTube</h5>
+<h5 align="center">Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -184,90 +188,90 @@ Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -283,55 +287,55 @@ Stir all ingredients with ice, strain contents into a cocktail glass, and serve.
 <br />
 
 <details>
-<summary>Cyber Monday Sonos deals: save on Era 100, Move, Roam, and more - Mashable by Christina Buff</summary>
+<summary>Keeper Security rolls out dark mode experience for Android users, ETCIO SEA - ETCIO South East Asia by Online Bureau, ETCIO SEA</summary>
 <p align="center">
-<img src="https://helios-i.mashable.com/imagery/articles/00JcGsVIjTumNfltjZWy0aP/hero-image.fill.size_1200x675.v1701048296.png" alt="Cyber Monday Sonos deals: save on Era 100, Move, Roam, and more - Mashable" />
+<img src="https://etimg.etb2bimg.com/thumb/msid-105545790,imgsize-3542,width-1200,height=765,overlay-etciosea/news/consumer-tech/keeper-security-rolls-out-dark-mode-experience-for-android-users.jpg" alt="Keeper Security rolls out dark mode experience for Android users, ETCIO SEA - ETCIO South East Asia" />
 
-<a href="https://mashable.com/article/cyber-monday-sonos-speaker-deals-2023" > Sonos discounts are rare, so snag them while you can. </a> 
+<a href="https://ciosea.economictimes.indiatimes.com/news/consumer-tech/keeper-security-rolls-out-dark-mode-experience-for-android-users/105545790" > With this update, Keeper continues to deliver innovative interface design for maximum user comfort and customisation without sacrificing functionality or security. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Samsung Galaxy S24 Ultra's Alleged Hands-on Images Suggest Flat Display and Rear Panel - Gadgets 360 by Nithya P Nair, Siddharth Suvarna</summary>
+<summary>Snag this gaming PC for less than $500 at HP - ZDNet by Taylor Clemons</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/galaxy_s24_ultra_david_martin_1701060457329.jpg" alt="Samsung Galaxy S24 Ultra's Alleged Hands-on Images Suggest Flat Display and Rear Panel - Gadgets 360" />
+<img src="https://www.zdnet.com/a/img/resize/a5b21846d71da2cd7a0210e8f41af3818c7d5d28/2023/11/28/12d37ed3-39f2-4df2-b5dd-e9201dcb4cd5/hp-victus-cover-image.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Snag this gaming PC for less than $500 at HP - ZDNet" />
 
-<a href="https://www.gadgets360.com/mobiles/news/samsung-s24-ultra-hands-on-images-renders-design-flat-display-specifications-galaxy-leak-4608928" > Samsung Galaxy S24 Ultra specifications and design have purportedly been leaked through live images that surfaced online. The upcoming Samsung phone seems to have a flat display and a flat rear panel, unlike its predecessor. It is expected to launch in Januar… </a> 
+<a href="https://www.zdnet.com/home-and-office/home-entertainment/hp-victus-15l-gaming-desktop-cyber-monday-deal-nov-27-2023/" > Buying a new gaming PC doesn't have to break the bank, and HP has the Victus 15L for just $430 this Cyber Monday. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Google Expands Bard’s YouTube Integration To Answer Questions About Videos - Forbes by Johan Moreno</summary>
+<summary>The Dell Cyber Monday Sale Has the Best Deals on Alienware Gaming PCs and Laptops - IGN by IGN</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6178d7b303a0829f4c4813b2/0x0.jpg?format=jpg&height=900&width=1600&fit=bounds" alt="Google Expands Bard’s YouTube Integration To Answer Questions About Videos - Forbes" />
+<img src="None" alt="The Dell Cyber Monday Sale Has the Best Deals on Alienware Gaming PCs and Laptops - IGN" />
 
-<a href="https://www.forbes.com/sites/johanmoreno/2023/11/26/google-expands-bards-youtube-integration-to-answer-question-about-videos/" > In a recent update shared by Google, Bard AI expanded its understanding of YouTube videos. </a> 
+<a href="https://www.ign.com/articles/dell-cyber-monday-sale-2023-best-deals-on-alienware-gaming-pcs-and-laptops" > None </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Minecraft 1.20.3 update for Java Edition: All you need to know - Sportskeeda by Spencer Whitworth</summary>
+<summary>Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/10ff4-17010481069777-1920.jpg" alt="Minecraft 1.20.3 update for Java Edition: All you need to know - Sportskeeda" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/28/1600x900/xiaomi_pad_6_1686645245511_1701135063263.jpg" alt="Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more | Mint - Mint" />
 
-<a href="https://www.sportskeeda.com/minecraft/minecraft-1-20-3-update-java-edition-all-need-know" > After several Minecraft snapshots and pre-releases, the 1.20.3 update is rapidly approaching and should debut in December 2023 for Java Edition. </a> 
+<a href="https://www.livemint.com/technology/gadgets/xiaomi-pad-7-pro-may-feature-snapdragon-8-gen-2-chipset-144-hz-display-check-expected-features-launch-date-and-more-11701132614743.html" > Xiaomi is reportedly working on the Mi Pad 7 Pro, which may feature a Snapdragon 8 Gen 2 processor and a 10-inch LCD display with a 144 Hz refresh rate. The tablet is expected to launch in April next year alongside the Xiaomi 14 Ultra handset and may be restr… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Redmi 13C Tipped to Launch in India Soon; Key Specifications Leaked - Gadgets 360 by Sucharita Ganguly, Siddharth Suvarna</summary>
+<summary>Driver blasts Google Maps for desert road detour on trip to L.A. - KTLA Los Angeles by Josh DuBose</summary>
 <p align="center">
-<img src="https://i.gadgets360cdn.com/large/redmi_13c_xiaomi_1701058203190.jpg" alt="Redmi 13C Tipped to Launch in India Soon; Key Specifications Leaked - Gadgets 360" />
+<img src="https://ktla.com/wp-content/uploads/sites/4/2023/11/Google-Maps-disinfo-2.jpg?w=1280" alt="Driver blasts Google Maps for desert road detour on trip to L.A. - KTLA Los Angeles" />
 
-<a href="https://www.gadgets360.com/mobiles/news/redmi-13c-india-launch-specifications-features-leak-4608953" > Redmi 13C was launched globally earlier this month. The phone succeeds the Redmi 12C, which was unveiled in December 2022. The global variant of the Redmi 13C is powered by a 9nm MediaTek Helio G99 SoC. Now, a new report has suggested that the handset may lau… </a> 
+<a href="https://ktla.com/news/california/driver-blasts-google-maps-for-desert-road-detour-on-trip-to-l-a/" > Google Maps is being blamed for leading a number of drivers on their way back to Los Angeles from Las Vegas down a dirt road to nowhere during a dust storm in the Mojave Desert earlier this month.   The unsettling detour happened on Nov. 19 as Shelby Easler, … </a> 
 </p>
 <br />
 
