@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;People with goals succeed because they be knowin' whar they’re goin'&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot; {You} underniman more {than} êower underðencan&quot;</strong>
+  <i>-- &quot;You know more than you think&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Smut</h4>
+<h4 align="center">Damned if you do</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rx8k8e1504365812.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepsi Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Damn</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.25 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-Throw it all together and serve real cold.
+Pour into shot glass. Put in mouth. Repeat as deemed necessary.
 </p>
 
 ----
@@ -168,14 +160,14 @@ Throw it all together and serve real cold.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Landspout Tornado over Kansas - ©️ Brad Hannon @ 2023-11-29</h4>
+<h4 align="center">Artemis 1: Flight Day 13 - ©️ NASA @ 2023-11-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/LowerLandspout_Hannon_960.jpg" alt="A Landspout Tornado over Kansas image" />
+<img src="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg" alt="Artemis 1: Flight Day 13 image" />
 
 </p>
  
-<h5 align="center">Could there be a tornado inside another tornado? In general, no.  OK, but could there be a tornado inside a wider dust devil? No again, for one reason because tornados comes down from the sky, but dust devils rise up from the ground. What is pictured is a landspout, an unusual type of tornado known to occur on the edge of a violent thunderstorm. The featured landspout was imaged and identified in Kansas, USA, in June 2019 by an experienced storm chaser.  The real tornado is in the center, and the outer sheath was possibly created by large dust particles thrown out from the central tornado. So far, the only planet known to create tornados is Earth, although tornado-like activity has been found on the Sun and dust devils are common on Mars.   Almost Hyperspace: Random APOD Generator</h5>
+<h5 align="center">On flight day 13 (November 28, 2022) of the Artemis I mission, the Orion spacecraft reached its maximum distance from its home world. Over 430,000 kilometers from Earth in a distant retrograde orbit, Orion surpassed the record for most distant spacecraft designed to carry humans. That record was previously set in 1970 during the Apollo 13 mission to the Moon. Both Earth and Moon are in the same field of view in this video frame from Orion on Artemis I mission flight day 13. The planet and its large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective.</h5>
 
 ----
 
@@ -188,35 +180,35 @@ Throw it all together and serve real cold.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -224,40 +216,40 @@ Throw it all together and serve real cold.
 <img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
@@ -265,10 +257,10 @@ Throw it all together and serve real cold.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
@@ -287,55 +279,55 @@ Throw it all together and serve real cold.
 <br />
 
 <details>
-<summary>Keeper Security rolls out dark mode experience for Android users, ETCIO SEA - ETCIO South East Asia by Online Bureau, ETCIO SEA</summary>
+<summary>BGMI 2.9 update release delayed? Check what we know so far - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://etimg.etb2bimg.com/thumb/msid-105545790,imgsize-3542,width-1200,height=765,overlay-etciosea/news/consumer-tech/keeper-security-rolls-out-dark-mode-experience-for-android-users.jpg" alt="Keeper Security rolls out dark mode experience for Android users, ETCIO SEA - ETCIO South East Asia" />
+<img src="https://images.hindustantimes.com/tech/img/2023/11/29/1600x900/5_1686302615762_1701226903645.jpg" alt="BGMI 2.9 update release delayed? Check what we know so far - HT Tech" />
 
-<a href="https://ciosea.economictimes.indiatimes.com/news/consumer-tech/keeper-security-rolls-out-dark-mode-experience-for-android-users/105545790" > With this update, Keeper continues to deliver innovative interface design for maximum user comfort and customisation without sacrificing functionality or security. </a> 
+<a href="https://tech.hindustantimes.com/how-to/bgmi-2-9-update-release-delayed-check-what-we-know-so-far-71701226874253.html" > Players speculate that BGMI has delayed the 2.9 update release. Check out when the new BGMI 2.9 update is dropping to the game with Frozen Kingdom. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Snag this gaming PC for less than $500 at HP - ZDNet by Taylor Clemons</summary>
+<summary>Best gaming phones you can buy in November 2023: iPhone 15 Pro Max, Asus ROG Phone 7 and more | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://www.zdnet.com/a/img/resize/a5b21846d71da2cd7a0210e8f41af3818c7d5d28/2023/11/28/12d37ed3-39f2-4df2-b5dd-e9201dcb4cd5/hp-victus-cover-image.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Snag this gaming PC for less than $500 at HP - ZDNet" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/29/1600x900/ASUS_ROG_7_ULTIMATE_1681444246633_1701224548528.png" alt="Best gaming phones you can buy in November 2023: iPhone 15 Pro Max, Asus ROG Phone 7 and more | Mint - Mint" />
 
-<a href="https://www.zdnet.com/home-and-office/home-entertainment/hp-victus-15l-gaming-desktop-cyber-monday-deal-nov-27-2023/" > Buying a new gaming PC doesn't have to break the bank, and HP has the Victus 15L for just $430 this Cyber Monday. </a> 
+<a href="https://www.livemint.com/technology/gadgets/best-gaming-phones-you-can-buy-in-november-2023-iphone-15-pro-max-asus-rog-phone-7-and-more-11701219109818.html" > Top premium gaming phones in November 2023: iPhone 15 Pro Max with powerful A17 Pro chip and advanced display features, Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2 processor and impressive camera setup, Asus ROG Phone 7 Ultimate with Snapdragon 8 Gen 2 S… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>The Dell Cyber Monday Sale Has the Best Deals on Alienware Gaming PCs and Laptops - IGN by IGN</summary>
+<summary>When does Pokemon GO Battle League Season 16 (Adventures Abound update) end? - Sportskeeda by Abhipsito Das</summary>
 <p align="center">
-<img src="None" alt="The Dell Cyber Monday Sale Has the Best Deals on Alienware Gaming PCs and Laptops - IGN" />
+<img src="https://staticg.sportskeeda.com/editor/2023/11/4a449-17012223365688-1920.jpg" alt="When does Pokemon GO Battle League Season 16 (Adventures Abound update) end? - Sportskeeda" />
 
-<a href="https://www.ign.com/articles/dell-cyber-monday-sale-2023-best-deals-on-alienware-gaming-pcs-and-laptops" > None </a> 
+<a href="https://www.sportskeeda.com/pokemon/when-pokemon-go-battle-league-season-16-adventures-abound-update-end" > Pokemon GO's Adventures Abound season is about to come to an end. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more | Mint - Mint by Livemint</summary>
+<summary>ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation - Ars Technica by Dan Goodin</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/28/1600x900/xiaomi_pad_6_1686645245511_1701135063263.jpg" alt="Xiaomi Pad 7 Pro may feature Snapdragon 8 Gen 2 chipset, 144 Hz display. Check expected features, launch date and more | Mint - Mint" />
+<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg" alt="ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation - Ars Technica" />
 
-<a href="https://www.livemint.com/technology/gadgets/xiaomi-pad-7-pro-may-feature-snapdragon-8-gen-2-chipset-144-hz-display-check-expected-features-launch-date-and-more-11701132614743.html" > Xiaomi is reportedly working on the Mi Pad 7 Pro, which may feature a Snapdragon 8 Gen 2 processor and a 10-inch LCD display with a 144 Hz refresh rate. The tablet is expected to launch in April next year alongside the Xiaomi 14 Ultra handset and may be restr… </a> 
+<a href="https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/" > Easy-to-exploit flaw can give hackers passwords and cryptographic keys to vulnerable servers. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Driver blasts Google Maps for desert road detour on trip to L.A. - KTLA Los Angeles by Josh DuBose</summary>
+<summary>Today’s Wordle #893 Hints, Clues And Answer For Wednesday, November 29th - Forbes by Erik Kain</summary>
 <p align="center">
-<img src="https://ktla.com/wp-content/uploads/sites/4/2023/11/Google-Maps-disinfo-2.jpg?w=1280" alt="Driver blasts Google Maps for desert road detour on trip to L.A. - KTLA Los Angeles" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6222c207e957517e5b79a719/0x0.jpg?format=jpg&crop=3543,1992,x0,y183,safe&height=900&width=1600&fit=bounds" alt="Today’s Wordle #893 Hints, Clues And Answer For Wednesday, November 29th - Forbes" />
 
-<a href="https://ktla.com/news/california/driver-blasts-google-maps-for-desert-road-detour-on-trip-to-l-a/" > Google Maps is being blamed for leading a number of drivers on their way back to Los Angeles from Las Vegas down a dirt road to nowhere during a dust storm in the Mojave Desert earlier this month.   The unsettling detour happened on Nov. 19 as Shelby Easler, … </a> 
+<a href="https://www.forbes.com/sites/erikkain/2023/11/28/todays-wordle-893-hints-clues-and-answer-for-wednesday-november-29th/" > How to solve today's Wordle. Hints, clues and the daily Wordle answer. Also, play competitive Wordle and learn more about each day's word. </a> 
 </p>
 <br />
 
