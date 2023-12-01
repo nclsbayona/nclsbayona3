@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {You} underniman more {than} êower underðencan&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Greatness lies nopa noleeya being strong,  but noleeya doe right use of strength.&quot;</strong>
+  <i>-- &quot;Greatness lies not in being strong, but in the right use of strength.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Damned if you do</h4>
+<h4 align="center">Kiwi Lemon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ql7bmx1503565106.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/tpupvr1478251697.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Damn</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.25 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitter lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Pour into shot glass. Put in mouth. Repeat as deemed necessary.
+Mix in highball glass. Stirr. Garnish with slice of kiwi.
 </p>
 
 ----
@@ -160,14 +164,14 @@ Pour into shot glass. Put in mouth. Repeat as deemed necessary.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Artemis 1: Flight Day 13 - ©️ NASA @ 2023-11-30</h4>
+<h4 align="center">Milky Way Rising - ©️ José Rodrigues @ 2023-12-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2311/art001e000672-orig1024c.jpg" alt="Artemis 1: Flight Day 13 image" />
+<img src="https://apod.nasa.gov/apod/image/2312/_MG_2485-mod_APOD1024.jpg" alt="Milky Way Rising image" />
 
 </p>
  
-<h5 align="center">On flight day 13 (November 28, 2022) of the Artemis I mission, the Orion spacecraft reached its maximum distance from its home world. Over 430,000 kilometers from Earth in a distant retrograde orbit, Orion surpassed the record for most distant spacecraft designed to carry humans. That record was previously set in 1970 during the Apollo 13 mission to the Moon. Both Earth and Moon are in the same field of view in this video frame from Orion on Artemis I mission flight day 13. The planet and its large natural satellite even appear about the same apparent size from the uncrewed spacecraft's perspective.</h5>
+<h5 align="center">The core of the Milky Way is rising beyond the Chilean mountain-top La Silla Observatory in this deep night skyscape. Seen toward the constellation Sagittarius, our home galaxy's center is flanked on the left, by the European Southern Observatory's New Technology Telescope which pioneered the use of active optics to accurately control the shape of large telescope mirrors. To the right stands the ESO 3.6-meter Telescope, home of the exoplanet hunting HARPS and NIRPS spectrographs. Between them, the galaxy's central bulge is filled with obscuring clouds of interstellar dust, bright stars, clusters, and nebulae. Prominent reddish hydrogen emission from the star-forming Lagoon Nebula, M8, is near center. The Trifid Nebula, M20, combines blue light of a dusty reflection nebula with reddish emission just left of the cosmic Lagoon. Both are popular stops on telescopic tours of the galactic center. The composited image is a stack of separate exposures for ground and sky made in April 2023, all captured consecutively with the same framing and camera equipment.</h5>
 
 ----
 
@@ -180,13 +184,13 @@ Pour into shot glass. Put in mouth. Repeat as deemed necessary.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -194,76 +198,76 @@ Pour into shot glass. Put in mouth. Repeat as deemed necessary.
 <img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -279,55 +283,55 @@ Pour into shot glass. Put in mouth. Repeat as deemed necessary.
 <br />
 
 <details>
-<summary>BGMI 2.9 update release delayed? Check what we know so far - HT Tech by HT Tech</summary>
+<summary>Drove the Innova Hycross for 11 hours straight: 6 highlights & 2 issues - Team-BHP by Rahul Nagaraj</summary>
 <p align="center">
-<img src="https://images.hindustantimes.com/tech/img/2023/11/29/1600x900/5_1686302615762_1701226903645.jpg" alt="BGMI 2.9 update release delayed? Check what we know so far - HT Tech" />
+<img src="https://www.team-bhp.com/sites/default/files/styles/large/public/hycross_1.jpg" alt="Drove the Innova Hycross for 11 hours straight: 6 highlights & 2 issues - Team-BHP" />
 
-<a href="https://tech.hindustantimes.com/how-to/bgmi-2-9-update-release-delayed-check-what-we-know-so-far-71701226874253.html" > Players speculate that BGMI has delayed the 2.9 update release. Check out when the new BGMI 2.9 update is dropping to the game with Frozen Kingdom. </a> 
+<a href="https://www.team-bhp.com/news/drove-innova-hycross-11-hours-straight-6-highlights-2-issues" > BHPian jithin23 recently shared this with other enthusiasts. I took my Innova HyCross VX for an extended trip which went from Delhi to Chandigarh to Bir to Billing to Dharamshala to McLeodGanj and back to Delhi. I did McLeodganj to Delhi non-stop for 11 hr 15… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Best gaming phones you can buy in November 2023: iPhone 15 Pro Max, Asus ROG Phone 7 and more | Mint - Mint by Livemint</summary>
+<summary>Apple names the 14 best apps and games of 2023. Your next favorite app may be on the list - ZDNet by Sabrina Ortiz</summary>
 <p align="center">
-<img src="https://www.livemint.com/lm-img/img/2023/11/29/1600x900/ASUS_ROG_7_ULTIMATE_1681444246633_1701224548528.png" alt="Best gaming phones you can buy in November 2023: iPhone 15 Pro Max, Asus ROG Phone 7 and more | Mint - Mint" />
+<img src="https://www.zdnet.com/a/img/resize/77d6e64ac972e28abd9d17c7a595b1613b614a30/2023/11/29/2404f68e-46e4-4539-95d7-aa935286661d/img-5790.jpg?auto=webp&fit=crop&height=675&width=1200" alt="Apple names the 14 best apps and games of 2023. Your next favorite app may be on the list - ZDNet" />
 
-<a href="https://www.livemint.com/technology/gadgets/best-gaming-phones-you-can-buy-in-november-2023-iphone-15-pro-max-asus-rog-phone-7-and-more-11701219109818.html" > Top premium gaming phones in November 2023: iPhone 15 Pro Max with powerful A17 Pro chip and advanced display features, Samsung Galaxy S23 Ultra with Snapdragon 8 Gen 2 processor and impressive camera setup, Asus ROG Phone 7 Ultimate with Snapdragon 8 Gen 2 S… </a> 
+<a href="https://www.zdnet.com/article/apple-names-the-14-best-apps-and-games-of-2023/" > Out of the millions of apps on the app store, these fourteen took the crown. Here's what they are and why you may want to download them. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>When does Pokemon GO Battle League Season 16 (Adventures Abound update) end? - Sportskeeda by Abhipsito Das</summary>
+<summary>iQOO 12 pricing leaked ahead of launch, and it is quite a competitive pricing - India Today by Ankita Chakravarti</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/11/4a449-17012223365688-1920.jpg" alt="When does Pokemon GO Battle League Season 16 (Adventures Abound update) end? - Sportskeeda" />
+<img src="https://akm-img-a-in.tosshub.com/indiatoday/images/story/202311/iqoo-12-141656780-16x9_2.png?VersionId=D0yIpYtR0KKOTlHw4L_ib9WwF3g2d32q" alt="iQOO 12 pricing leaked ahead of launch, and it is quite a competitive pricing - India Today" />
 
-<a href="https://www.sportskeeda.com/pokemon/when-pokemon-go-battle-league-season-16-adventures-abound-update-end" > Pokemon GO's Adventures Abound season is about to come to an end. </a> 
+<a href="https://www.indiatoday.in/technology/news/story/iqoo-12-pricing-leaked-ahead-of-launch-and-it-is-quite-a-competitive-pricing-2469278-2023-11-30" > iQOO 12, a highly anticipated smartphone set to launch in India on December 12, has had its pricing details leaked ahead of the event. The device, which is rumoured to come with Android 14 pre-installed and a Qualcomm Snapdragon 8 Gen 3 processor, is expected… </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation - Ars Technica by Dan Goodin</summary>
+<summary>Google Play's best apps, games of 2023 in India: Level SuperMind, Battle Stars, others - Moneycontrol by Moneycontrol News</summary>
 <p align="center">
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2023/01/exploit-760x380.jpg" alt="ownCloud vulnerability with maximum 10 severity score comes under “mass” exploitation - Ars Technica" />
+<img src="https://images.moneycontrol.com/static-mcnews/2022/12/Google-Play-Best-Of-770x433.png" alt="Google Play's best apps, games of 2023 in India: Level SuperMind, Battle Stars, others - Moneycontrol" />
 
-<a href="https://arstechnica.com/security/2023/11/owncloud-vulnerability-with-a-maximum-10-severity-rating-comes-under-mass-exploitation/" > Easy-to-exploit flaw can give hackers passwords and cryptographic keys to vulnerable servers. </a> 
+<a href="https://www.moneycontrol.com/news/technology/google-plays-best-apps-games-of-2023-in-india-level-supermind-battle-stars-others-11830961.html" > Google has selected apps across 24 categories on the India Play Store for its Best of 2023 list and many apps are from local developers. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Today’s Wordle #893 Hints, Clues And Answer For Wednesday, November 29th - Forbes by Erik Kain</summary>
+<summary>Redmi 13C 5G with 50MP camera set to debut in India on Dec 6: Check expected features, pricing and more | Mint - Mint by Livemint</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6222c207e957517e5b79a719/0x0.jpg?format=jpg&crop=3543,1992,x0,y183,safe&height=900&width=1600&fit=bounds" alt="Today’s Wordle #893 Hints, Clues And Answer For Wednesday, November 29th - Forbes" />
+<img src="https://www.livemint.com/lm-img/img/2023/11/30/1600x900/Untitled-2_02_1701310727699_1701310746468.jpg" alt="Redmi 13C 5G with 50MP camera set to debut in India on Dec 6: Check expected features, pricing and more | Mint - Mint" />
 
-<a href="https://www.forbes.com/sites/erikkain/2023/11/28/todays-wordle-893-hints-clues-and-answer-for-wednesday-november-29th/" > How to solve today's Wordle. Hints, clues and the daily Wordle answer. Also, play competitive Wordle and learn more about each day's word. </a> 
+<a href="https://www.livemint.com/technology/gadgets/redmi-13c-5g-with-50mp-camera-set-to-debut-in-india-on-dec-6-check-expected-features-pricing-and-more-11701305333563.html" > Redmi confirms the launch of its Redmi 13C 5G smartphone in India on December 6. The phone will be the first in Redmi's budget-friendly 'C' series to have 5G support. </a> 
 </p>
 <br />
 
