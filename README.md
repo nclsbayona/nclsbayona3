@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;A Quitter avvos wins - ma - a najahak avvos quits.&quot;</strong>
-  <i>-- &quot;A Quitter never wins - and - a Winner never quits.&quot; in dothraki language --</i>
+  <strong align="center">Someone once said: &quot;Startin' be th' most difficult step - but ye can do it&quot;</strong>
+  <i>-- &quot;Starting is the most difficult step - but you can do it&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Cosmopolitan Martini</h4>
+<h4 align="center">Sea breeze</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cointreau</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.
+Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Pour all ingredients in mixing glass half filled with ice, shake and strain into
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Moon Setting Behind Teide Volcano - ©️ El Cielo de Canarias @ 2023-12-03</h4>
+<h4 align="center">Plane Crossing Crescent Moon - ©️ Juned Patel @ 2023-12-04</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/afHfMMC-MJE?rel=0" alt="Moon Setting Behind Teide Volcano image" />
+<img src="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg" alt="Plane Crossing Crescent Moon image" />
 
 </p>
  
-<h5 align="center">These people are not in danger. What is coming down from the left is just the Moon, far in the distance. Luna appears so large here because she is being photographed through a telescopic lens.  What is moving is mostly the Earth, whose spin causes the Moon to slowly disappear behind Mount Teide, a volcano in the Canary Islands off the northwest coast of Africa. The people pictured are 16 kilometers away and  many are facing the camera because they are watching the Sun rise behind the photographer. It is not a coincidence that a full moon rises just when the Sun sets because the Sun is always on the opposite side of the sky from a full moon. The featured video was made in 2018 during the full Milk Moon.  The video is not time-lapse -- this was really how fast the Moon was setting.</h5>
+<h5 align="center">No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Pour all ingredients in mixing glass half filled with ice, shake and strain into
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -287,55 +283,55 @@ Pour all ingredients in mixing glass half filled with ice, shake and strain into
 <br />
 
 <details>
-<summary>5 effective ways to get early kills in Call Of Duty: Mobile - Sportskeeda by Bhargav Ghosh</summary>
+<summary>How Apple devices are empowering people with disabilities to live more independently - Deccan Herald by Rohit KVN</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/12/7fada-17014752423924-1920.jpg" alt="5 effective ways to get early kills in Call Of Duty: Mobile - Sportskeeda" />
+<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F793a188c-486d-45d6-87f3-01e6005cfbcb%2FApple_20BKC_20Sel_204.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="How Apple devices are empowering people with disabilities to live more independently - Deccan Herald" />
 
-<a href="https://www.sportskeeda.com/esports/5-effective-ways-get-early-kills-call-of-duty-mobile" > Call of Duty: Mobile in 2023 is a must-try multiplayer mobile game. </a> 
+<a href="https://www.deccanherald.com/technology/how-apple-devices-are-empowering-people-with-disabilities-to-live-more-independently-2793253" > None </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Federal judge vows to investigate Google for intentionally destroying chats - The Verge by Sean Hollister</summary>
+<summary>GTA - GTA 6 TikTok map leak drives fans curious, authenticity yet to be confirmed - Sportskeeda by Neeraj Bansal</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/UusJXwQZlZ-Loyr2-_IKa3cQ-2M=/0x0:6081x4054/1200x628/filters:focal(1394x1708:1395x1709)/cdn.vox-cdn.com/uploads/chorus_asset/file/25126920/1820421553.jpg" alt="Federal judge vows to investigate Google for intentionally destroying chats - The Verge" />
+<img src="https://staticg.sportskeeda.com/editor/2023/12/c2a81-17015517507477-1920.jpg" alt="GTA - GTA 6 TikTok map leak drives fans curious, authenticity yet to be confirmed - Sportskeeda" />
 
-<a href="https://www.theverge.com/2023/12/1/23984902/judge-james-donato-investigate-google" > Judge James Donato vowed to investigate Google for intentionally and systematically suppressing evidence, calling the company’s conduct “a frontal assault on the fair administration of justice.” </a> 
+<a href="https://www.sportskeeda.com/gta/news-gta-6-tiktok-map-leak-drives-fans-curious-authenticity-yet-confirmed" > A new GTA 6 map leak seems to have surfaced on TikTok. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Chrome's next weapon in the War on Ad Blockers: Slower extension updates - Ars Technica by Ron Amadeo</summary>
+<summary>Cyberpunk 2077 is getting a fully functional metro system next week - Rock Paper Shotgun by Graham Smith</summary>
 <p align="center">
-<img src="https://cdn.arstechnica.net/wp-content/uploads/2021/08/Google-Monopoly-760x380.jpg" alt="Chrome's next weapon in the War on Ad Blockers: Slower extension updates - Ars Technica" />
+<img src="https://assetsio.reedpopcdn.com/cyberpunk-2077-metro.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Cyberpunk 2077 is getting a fully functional metro system next week - Rock Paper Shotgun" />
 
-<a href="https://arstechnica.com/google/2023/12/chromes-next-weapon-in-the-war-on-ad-blockers-slower-extension-updates/" > When ad blocking is a cat-and-mouse game, make the mouse slower. </a> 
+<a href="https://www.rockpapershotgun.com/cyberpunk-2077-is-getting-a-fully-functional-metro-system-next-week" > Cyberpunk 2077 is getting another major patch, which will add a functioning metro system, romantic hangouts, and more cats to Night City. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>All the Samsung Galaxy S24, Plus, and Ultra leaks - The Verge by Umar Shakir</summary>
+<summary>iOS 17.1.2: Apple Suddenly Releases Urgent Update For All iPhone Users - Forbes by David Phelan</summary>
 <p align="center">
-<img src="https://cdn.vox-cdn.com/thumbor/3DfHYY6rdHwoDk3ilQEOQb-xXKQ=/0x0:930x620/1200x628/filters:focal(465x310:466x311)/cdn.vox-cdn.com/uploads/chorus_asset/file/25126719/Galaxy_S24_revealed_930x620.jpeg" alt="All the Samsung Galaxy S24, Plus, and Ultra leaks - The Verge" />
+<img src="https://imageio.forbes.com/specials-images/imageserve/6568d171b76eae7eadd0c32f/0x0.jpg?format=jpg&crop=2087,1175,x0,y140,safe&height=900&width=1600&fit=bounds" alt="iOS 17.1.2: Apple Suddenly Releases Urgent Update For All iPhone Users - Forbes" />
 
-<a href="https://www.theverge.com/2023/12/1/23984653/samsung-galaxy-s24-ultra-plus-leaks-rumors-snapdragon-ai" > New leaks show Samsung’s Galaxy S24 Ultra with a flat screen, new S24 and Plus models with new colors, more on-device AI features, and a Qualcomm Snapdragon 8 Gen 3 chip. </a> 
+<a href="https://www.forbes.com/sites/davidphelan/2023/12/02/ios-1712-apple-suddenly-releases-urgent-update-for-all-iphone-users/" > The next iPhone update has just landed. Here’s what’s in it, who it’s for and how to get it. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Paramount Global Shares Pop On Possible Bundling Of Paramount+ With Apple TV+ - Deadline by Jill Goldsmith</summary>
+<summary>This is the worst plane passenger habit: 'They deserve a jail sentence for life' - New York Post  by Brooke Kato</summary>
 <p align="center">
-<img src="https://deadline.com/wp-content/uploads/2023/12/logos.jpg?w=1024" alt="Paramount Global Shares Pop On Possible Bundling Of Paramount+ With Apple TV+ - Deadline" />
+<img src="https://nypost.com/wp-content/uploads/sites/2/2023/12/worst-plane-passenger-habit-www-73148951-1.jpg?quality=75&strip=all&w=1024" alt="This is the worst plane passenger habit: 'They deserve a jail sentence for life' - New York Post " />
 
-<a href="https://deadline.com/2023/12/paramount-global-streaming-bundle-paramount-appletv-apple-1235648682/" > Paramount Global shares closed up nearly 10% Friday, leading entertainment stocks higher after the Wall Street Journal reported that Paramount Global and Apple are discussing bundling their respect… </a> 
+<a href="https://nypost.com/2023/12/02/lifestyle/this-is-the-worst-plane-passenger-habit-they-deserve-a-jail-sentence-for-life/" > Hint: it’s not reclining your seat the entire way. </a> 
 </p>
 <br />
 
