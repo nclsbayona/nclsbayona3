@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Startin' be th' most difficult step - but ye can do it&quot;</strong>
-  <i>-- &quot;Starting is the most difficult step - but you can do it&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Fashion fades,  mērī style remains keskydoso.&quot;</strong>
+  <i>-- &quot;Fashion fades, only style remains the same.&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sea breeze</h4>
+<h4 align="center">Karsk</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7rfuks1504371562.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/808mxk1487602471.jpg" alt="Drink image" />
 
 </p>
  
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grain alcohol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Build all ingredients in a highball glass filled with ice. Garnish with lime wedge.
+Put a copper coin in a coffe-cup and fill up with coffee until you no longer see the coin, then add alcohol until you see the coin. Norwegian speciality.
 </p>
 
 ----
@@ -164,14 +160,14 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Plane Crossing Crescent Moon - ©️ Juned Patel @ 2023-12-04</h4>
+<h4 align="center">Energetic Particle Strikes the Earth - ©️ NASA @ 2023-12-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2312/BowArrow_Patel_960.jpg" alt="Plane Crossing Crescent Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2312/Exaray_OsakaU_1080.jpg" alt="Energetic Particle Strikes the Earth image" />
 
 </p>
  
-<h5 align="center">No, the Moon is not a bow, and no, it did not shoot out a plane like an arrow. What is pictured is a chance superposition.  The plane's contrail would normally appear white, but the large volume of air toward the rising Sun preferentially knocked away blue light, not only making the sky blue, but giving the reflected trail a bright red hue.  Far in the distance, well behind the plane, the crescent Moon also appears slightly reddened. Captured early last month from Bolton, UK, the featured image was taken so soon after sunrise that the plane was sunlit from below, as was its contrail.  Within minutes, unfortunately, the impromptu sky show ended.  The plane moved out of sight.  The Moon kept rising but became harder to see through a brightening sky.  And the contrail gradually dispersed.</h5>
+<h5 align="center">It was one of the most energetic particles ever known to strike the Earth -- but where did it come from?  Dubbed Amaterasu after the Shinto sun goddess, this particle, as do all cosmic rays that strike the Earth's atmosphere, caused an air shower of electrons, protons, and other elementary particles to spray down onto the Earth below. In the featured illustration, a cosmic ray air shower is pictured striking the Telescope Array in Utah, USA, which recorded the Amaterasu event in 2021 May.  Cosmic ray air showers are common enough that you likely have been in a particle spray yourself, although you likely wouldn't have noticed.  The origin of this energetic particle, likely the nucleus of an atom, remains a mystery in two ways. First, it is not known how any single particle or atomic nucleus can practically acquire so much energy, and second, attempts to trace the particle back to where it originated did not indicate any likely potential source.    Open Science: Browse 3,200+ codes in the Astrophysics Source Code Library</h5>
 
 ----
 
@@ -184,43 +180,43 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
@@ -228,46 +224,46 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -283,55 +279,55 @@ Build all ingredients in a highball glass filled with ice. Garnish with lime wed
 <br />
 
 <details>
-<summary>How Apple devices are empowering people with disabilities to live more independently - Deccan Herald by Rohit KVN</summary>
+<summary>Realme GT 5 Pro key specifications confirmed ahead of December 7 launch - Mint by Livemint</summary>
 <p align="center">
-<img src="https://images.deccanherald.com/deccanherald%2F2023-11%2F793a188c-486d-45d6-87f3-01e6005cfbcb%2FApple_20BKC_20Sel_204.jpg?w=1200&ar=40%3A21&auto=format%2Ccompress&ogImage=true&mode=crop" alt="How Apple devices are empowering people with disabilities to live more independently - Deccan Herald" />
+<img src="https://www.livemint.com/lm-img/img/2023/12/04/1600x900/007g2cosgy1hkea01gjuzj31uo2gwe82_1701663101166_1701663115644.jpg" alt="Realme GT 5 Pro key specifications confirmed ahead of December 7 launch - Mint" />
 
-<a href="https://www.deccanherald.com/technology/how-apple-devices-are-empowering-people-with-disabilities-to-live-more-independently-2793253" > None </a> 
+<a href="https://www.livemint.com/technology/gadgets/realme-gt-5-pro-key-specifications-confirmed-ahead-of-december-7-launch-check-expected-price-specs-and-more-11701661762934.html" > Realme GT 5 Pro confirmed to come with up to 1 TB storage and USB 3.2 support, run on Android 14 with Realme UI 5.0, and receive three years of Android OS upgrades and four years of security upgrades. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>GTA - GTA 6 TikTok map leak drives fans curious, authenticity yet to be confirmed - Sportskeeda by Neeraj Bansal</summary>
+<summary>Samsung Galaxy S24, Galaxy S24+, Galaxy S24 Ultra Renders, Full Specifications Leak Online - Gadgets 360 by Nithya P Nair, Siddharth Suvarna</summary>
 <p align="center">
-<img src="https://staticg.sportskeeda.com/editor/2023/12/c2a81-17015517507477-1920.jpg" alt="GTA - GTA 6 TikTok map leak drives fans curious, authenticity yet to be confirmed - Sportskeeda" />
+<img src="https://i.gadgets360cdn.com/large/samsung_galaxy_s23_series_1675273558643.jpg" alt="Samsung Galaxy S24, Galaxy S24+, Galaxy S24 Ultra Renders, Full Specifications Leak Online - Gadgets 360" />
 
-<a href="https://www.sportskeeda.com/gta/news-gta-6-tiktok-map-leak-drives-fans-curious-authenticity-yet-confirmed" > A new GTA 6 map leak seems to have surfaced on TikTok. </a> 
+<a href="https://www.gadgets360.com/mobiles/news/samsung-s24-plus-ultra-renders-design-specifications-leak-galaxy-4631309" > Samsung is gearing up to launch the next generation Galaxy S series smartphones early next year. Ahead of any official announcements, renders of the Galaxy S24, Galaxy S24+, Galaxy S24 Ultra, and their full specifications have been leaked online. Both Galaxy … </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>Cyberpunk 2077 is getting a fully functional metro system next week - Rock Paper Shotgun by Graham Smith</summary>
+<summary>Gadgets 360 With TG: Porsche Panamera (3rd Gen), Tesla’s Dog Mode, Spotting Fake AirPods, and More - Gadgets 360 by None</summary>
 <p align="center">
-<img src="https://assetsio.reedpopcdn.com/cyberpunk-2077-metro.png?width=1200&height=630&fit=crop&enable=upscale&auto=webp" alt="Cyberpunk 2077 is getting a fully functional metro system next week - Rock Paper Shotgun" />
+<img src="https://i.ytimg.com/vi/GBMY0ZclqVw/maxresdefault.jpg" alt="Gadgets 360 With TG: Porsche Panamera (3rd Gen), Tesla’s Dog Mode, Spotting Fake AirPods, and More - Gadgets 360" />
 
-<a href="https://www.rockpapershotgun.com/cyberpunk-2077-is-getting-a-fully-functional-metro-system-next-week" > Cyberpunk 2077 is getting another major patch, which will add a functioning metro system, romantic hangouts, and more cats to Night City. </a> 
+<a href="https://www.youtube.com/watch?v=GBMY0ZclqVw" > There’s a new luxury car in town, and it’s a very expensive one. Porsche has released its Panamera (third generation) model as well as Royal Enfield’s Shotgu... </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>iOS 17.1.2: Apple Suddenly Releases Urgent Update For All iPhone Users - Forbes by David Phelan</summary>
+<summary>Garena Free Fire Redeem Codes for December 4: Booyah Pass for December is now LIVE! - HT Tech by HT Tech</summary>
 <p align="center">
-<img src="https://imageio.forbes.com/specials-images/imageserve/6568d171b76eae7eadd0c32f/0x0.jpg?format=jpg&crop=2087,1175,x0,y140,safe&height=900&width=1600&fit=bounds" alt="iOS 17.1.2: Apple Suddenly Releases Urgent Update For All iPhone Users - Forbes" />
+<img src="https://images.hindustantimes.com/tech/img/2023/12/04/1600x900/2fcc5c02713a4849fc70377839279331jpg_1629424017477_1701663017316.jpg" alt="Garena Free Fire Redeem Codes for December 4: Booyah Pass for December is now LIVE! - HT Tech" />
 
-<a href="https://www.forbes.com/sites/davidphelan/2023/12/02/ios-1712-apple-suddenly-releases-urgent-update-for-all-iphone-users/" > The next iPhone update has just landed. Here’s what’s in it, who it’s for and how to get it. </a> 
+<a href="https://tech.hindustantimes.com/how-to/garena-free-fire-redeem-codes-for-december-4-booyah-pass-for-december-is-now-live-71701662407002.html" > Garena Free Fire Redeem Codes for December 4: The new Booyah Pass for the month of December is finally live in Garena Free Fire. Also, check out Garena Free Fire redeem codes for December 4 to get your hands on free items. </a> 
 </p>
 <br />
 
 </details>
 
 <details>
-<summary>This is the worst plane passenger habit: 'They deserve a jail sentence for life' - New York Post  by Brooke Kato</summary>
+<summary>Apple iPhone 16 Pro, iPhone 16 Pro Max To Come With Tetraprism Camera Technology - News18 by Bharat Upadhyay</summary>
 <p align="center">
-<img src="https://nypost.com/wp-content/uploads/sites/2/2023/12/worst-plane-passenger-habit-www-73148951-1.jpg?quality=75&strip=all&w=1024" alt="This is the worst plane passenger habit: 'They deserve a jail sentence for life' - New York Post " />
+<img src="https://images.news18.com/ibnlive/uploads/2023/09/iphone-15-pro-price-india-169458762816x9.jpg" alt="Apple iPhone 16 Pro, iPhone 16 Pro Max To Come With Tetraprism Camera Technology - News18" />
 
-<a href="https://nypost.com/2023/12/02/lifestyle/this-is-the-worst-plane-passenger-habit-they-deserve-a-jail-sentence-for-life/" > Hint: it’s not reclining your seat the entire way. </a> 
+<a href="https://www.news18.com/tech/apple-iphone-16-pro-iphone-16-pro-max-to-come-with-tetraprism-camera-technology-8688321.html" > Apple analyst Ming-Chi Kuo has consistently predicted the adoption of the tetraprism lens, offering up to 5x optical zoom, in both the iPhone 16 Pro and iPhone 16 Pro Max next year. </a> 
 </p>
 <br />
 
