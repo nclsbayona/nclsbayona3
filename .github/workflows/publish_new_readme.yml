@@ -15,4 +15,3 @@ jobs:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             GH_TOKEN: ${{ secrets.GH_TOKEN }}
             NASA_KEY: ${{ secrets.NASA_KEY }}
-            NEWS_API_KEY: ${{ secrets.NEWS_API_KEY }}
