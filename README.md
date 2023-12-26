@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {No} hengen, hê {is} {said}, canne âlêodan st¯ælan boldwela sôðlic sîn {roots} l¯ædan neoð−an oð hellestôw.&quot;</strong>
-  <i>-- &quot;No tree, it is said, can grow to heaven unless its roots reach down to hell.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Bloom nuqdaq tlhih are planted!&quot;</strong>
+  <i>-- &quot;Bloom where you are planted!&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bubble Gum</h4>
+<h4 align="center">Kir</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/spuurv1468878783.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 parts </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-Layer in order into a shot glass.
+Add the crème de cassis to the bottom of the glass, then top up with wine.
 </p>
 
 ----
@@ -168,14 +160,14 @@ Layer in order into a shot glass.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Cathedral, Mountain, Moon - ©️ Valerio Minato @ 2023-12-25</h4>
+<h4 align="center">IC 443: The Jellyfish Nebula - ©️ David Payne @ 2023-12-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2312/MoonAligned_Minato_960.jpg" alt="Cathedral, Mountain, Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2312/Jellyfish_Payne_960.jpg" alt="IC 443: The Jellyfish Nebula image" />
 
 </p>
  
-<h5 align="center">Single shots like this require planning.  The first step is to realize that such an amazing triple-alignment actually takes place. The second step is to find the best location to photograph it. But it was the third step: being there at exactly the right time -- and when the sky was clear -- that was the hardest. Five times over six years the photographer tried and found bad weather.  Finally, just ten days ago, the weather was perfect, and a photographic dream was realized. Taken in Piemonte, Italy, the cathedral in the foreground is the Basilica of Superga, the mountain in the middle is Monviso, and, well, you know which moon is in the background. Here, even though the setting Moon was captured in a crescent phase, the exposure was long enough for doubly reflected Earthlight, called the da Vinci glow, to illuminate the entire top of the Moon.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">Why is this jellyfish swimming in a sea of stars? Drifting near bright star Eta Geminorum, seen at the right, the Jellyfish Nebula extends its tentacles from the bright arcing ridge of emission left of center.  In fact, the cosmic jellyfish is part of bubble-shaped supernova remnant IC 443, the expanding debris cloud from a massive star that exploded.  Light from the explosion first reached planet Earth over 30,000 years ago.  Like its cousin in astronomical waters, the Crab Nebula supernova remnant IC 443 is known to harbor a neutron star -- the remnant of the collapsed stellar core.  The Jellyfish Nebula is about 5,000 light-years away.  At that distance, the featured image would span about 140 light-years across.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -188,90 +180,90 @@ Layer in order into a shot glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
