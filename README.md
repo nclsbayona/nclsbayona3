@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Du fai-tor weht do du nah-tor&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Doe best um most beautiful things noleeya doe world cannot be seen mo even touched - they must be felt gee doe heart.&quot;</strong>
+  <i>-- &quot;The best and most beautiful things in the world cannot be seen or even touched - they must be felt with the heart.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Martini</h4>
+<h4 align="center">Mudslinger</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/hepk6h1504885554.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 2/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Southern Comfort</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 L </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pepsi Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">750 ml </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.
+Add all contents to a large jug or punch bowl. Stir well!
 </p>
 
 ----
@@ -164,14 +164,14 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rainbow Aurora over Icelandic Waterfall - ©️ Stefano Pellegrini @ 2023-12-27</h4>
+<h4 align="center">Jupiter and the Geminid - ©️ Gaurav Singh @ 2023-12-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2312/ArchFalls_Pellegrini_960.jpg" alt="Rainbow Aurora over Icelandic Waterfall image" />
+<img src="https://apod.nasa.gov/apod/image/2312/G0030446_1100.jpg" alt="Jupiter and the Geminid image" />
 
 </p>
  
-<h5 align="center">Yes, but can your aurora do this? First, yes, auroras can look like rainbows even though they are completely different phenomena. Auroras are caused by Sun-created particles being channeled into Earth's atmosphere by Earth's magnetic field, and create colors by exciting atoms at different heights. Conversely, rainbows are created by sunlight backscattering off falling raindrops, and different colors are refracted by slightly different angles.  Unfortunately, auroras can’t create waterfalls, but if you plan well and are lucky enough, you can photograph them together. The featured picture is composed of several images taken on the same night last month near the Skógafoss waterfall in Iceland. The planning centered on capturing the central band of our Milky Way galaxy over the picturesque cascade. By luck, a spectacular aurora soon appeared just below the curving arch of the Milky Way. Far in the background, the Pleiades star cluster and the Andromeda galaxy can be found.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">For a brief moment, this brilliant fireball meteor outshone Jupiter in planet Earth's night. The serendipitous image was captured while hunting meteors under cold Canadian skies with a camera in timelapse mode on December 14, near the peak of the Geminid meteor shower. The Geminid meteor shower, asteroid 3200 Phaethon's annual gift, always arrives in December. Dust shed along the orbit of the mysterious asteroid causes the meteor streaks, as the vaporizing grains plow through our fair planet's upper atmosphere at 22 kilometers per second. Of course Geminid shower meteors appear to radiate from a point in the constellation of the Twins. That's below and left of this frame. With bright Jupiter on the right, also in the December night skyview are the Pleiades and Hyades star clusters.</h5>
 
 ----
 
@@ -184,65 +184,65 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
@@ -250,24 +250,24 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
