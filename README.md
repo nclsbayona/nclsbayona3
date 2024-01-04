@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Part of learning,  struggling is&quot;</strong>
-  <i>-- &quot;Struggling is part of learning&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Kash yeri are tough she yourself,  atthirar is going to be infinitely easier she yeri.&quot;</strong>
+  <i>-- &quot;When you are tough on yourself, life is going to be infinitely easier on you.  &quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Abilene</h4>
+<h4 align="center">B-52</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/smb2oe1582479072.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach nectar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Pour all of the ingredients into a highball glass almost filled with ice cubes. Stir well.
+Layer ingredients into a shot glass. Serve with a stirrer.
 </p>
 
 ----
@@ -164,14 +164,14 @@ Pour all of the ingredients into a highball glass almost filled with ice cubes. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A SAR Arc from New Zealand - ©️ Tristian McDonald;Text: Tiffany Lewis (Michigan Tech U.) @ 2024-01-03</h4>
+<h4 align="center">Zeta Oph: Runaway Star - ©️ NASA @ 2024-01-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/SarArcNz_McDonald_960.jpg" alt="A SAR Arc from New Zealand image" />
+<img src="https://apod.nasa.gov/apod/image/2401/ZetaOph_spitzer_960.jpg" alt="Zeta Oph: Runaway Star image" />
 
 </p>
  
-<h5 align="center">What is that unusual red halo surrounding this aurora?  It is a Stable Auroral Red (SAR) arc. SAR arcs are rare and have only been acknowledged and studied since 1954.  The featured wide-angle photograph, capturing nearly an entire SAR arc surrounding more common green and red aurora, was taken earlier this month from Poolburn, New Zealand, during an especially energetic geomagnetic storm. Why SAR arcs form remains a topic of research, but is likely related to Earth's protective magnetic field, a field created by molten iron flowing deep inside the Earth.  This magnetic field usually redirects incoming charged particles from the Sun's wind toward the Earth's poles. However, it also traps a ring of ions closer to the equator, where they can gain energy from the magnetosphere during high solar activity. The energetic electrons in this ion ring can collide with and excite oxygen higher in Earth's ionosphere than typical auroras, causing the oxygen to glow red. Ongoing research has uncovered evidence that a red SAR arc can even transform into a purple and green STEVE.</h5>
+<h5 align="center">Like a ship plowing through cosmic seas, runaway star Zeta Ophiuchi produces the arcing interstellar bow wave or bow shock seen in this stunning infrared portrait. In the false-color view, bluish Zeta Oph, a star about 20 times more massive than the Sun, lies near the center of the frame, moving toward the left at 24 kilometers per second. Its strong stellar wind precedes it, compressing and heating the dusty interstellar material and shaping the curved shock front. What set this star in motion? Zeta Oph was likely once a member of a binary star system, its companion star was more massive and hence shorter lived. When the companion exploded as a supernova catastrophically losing mass, Zeta Oph was flung out of the system.  About 460 light-years away, Zeta Oph is 65,000 times more luminous than the Sun and would be one of the brighter stars in the sky if it weren't surrounded by obscuring dust. The image spans about 1.5 degrees or 12 light-years at the estimated distance of Zeta Ophiuchi. In January 2020, NASA placed the Spitzer Space Telescope in safe mode, ending its 16 successful years of exploring the cosmos.</h5>
 
 ----
 
@@ -184,35 +184,35 @@ Pour all of the ingredients into a highball glass almost filled with ice cubes. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -220,54 +220,54 @@ Pour all of the ingredients into a highball glass almost filled with ice cubes. 
 <img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
