@@ -16,8 +16,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;It’s choy? U practice noleeya private da u will be rewarded che noleeya public&quot;</strong>
-  <i>-- &quot;It’s what you practice in private that you will be rewarded for in public&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;to're braver rep to tilten, yee edhsea rep to uns, yee smarter rep to pensa.&quot;</strong>
+  <i>-- &quot;You're braver than you believe, and stronger than you seem, and smarter than you think.&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details>
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kiwi Martini</h4>
+<h4 align="center">Avalanche</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uppqty1472720165.jpg" alt="Drink image" />
 
 </p>
  
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Shake</h5>
 
 <h5 align="center">Neccesary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +68,7 @@
 
 
 <p align="center">
-The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
-
-For this recipe, you'll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It's a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.
+Mix in highball glass over ice, shake well.
 </p>
 
 ----
@@ -182,14 +164,14 @@ For this recipe, you'll simply muddle slices of kiwi with simple syrup, then sha
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Phases of Venus - ©️ NASA @ 2024-01-08</h4>
+<h4 align="center">Thor's Helmet - ©️ Ritesh Biswas @ 2024-01-09</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/VenusPhases_Gonzales_960.jpg" alt="The Phases of Venus image" />
+<img src="https://apod.nasa.gov/apod/image/2401/ThorsHelmet_Biswas_960.jpg" alt="Thor's Helmet image" />
 
 </p>
  
-<h5 align="center">Venus goes through phases.  Just like our Moon, Venus can appear as a full circular disk, a thin crescent, or anything in between.  Venus, frequently the brightest object in the post-sunset or pre-sunrise sky, appears so small, however, that it usually requires binoculars or a small telescope to clearly see its current phase.  The featured time-lapse sequence was taken over the course of six months in 2015 from Surgères, Charente-Maritime, France, and shows not only how Venus changes phase, but changes angular size as well. When Venus is on the far side of the Sun from the Earth, it appears angularly smallest and nearest to full phase, while when Venus and Earth are on the same side of the Sun, Venus appears larger, but as a crescent. This month Venus rises before dawn in waxing gibbous phases.    Free APOD Lecture: January 9, 2024 to the Amateur Astronomers of Association of New York</h5>
+<h5 align="center">Thor not only has his own day (Thursday), but a helmet in the heavens.  Popularly called Thor's Helmet, NGC 2359 is a hat-shaped cosmic cloud with wing-like appendages. Heroically sized even for a Norse god, Thor's Helmet is about 30 light-years across. In fact, the cosmic head-covering is more like an interstellar bubble, blown with a fast wind from the bright, massive star near the bubble's center. Known as a Wolf-Rayet star, the central star is an extremely hot giant thought to be in a brief, pre-supernova stage of evolution. NGC 2359 is located about 15,000 light-years away toward the constellation of the Great Overdog. This remarkably sharp image is a mixed cocktail of data from  narrowband filters, capturing not only natural looking stars but details of the nebula's filamentary structures. The star in the center of Thor's Helmet is expected to explode in a spectacular supernova sometime within the next few thousand years.</h5>
 
 ----
 
@@ -205,87 +187,87 @@ For this recipe, you'll simply muddle slices of kiwi with simple syrup, then sha
 <img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
