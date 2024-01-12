@@ -1,6 +1,8 @@
 name: README Build
 on:
+  # Runs on request
   workflow_dispatch:
+  # Runs everyday at 05:00 UTC
   schedule:
     - cron: "0 5 * * *"
     
