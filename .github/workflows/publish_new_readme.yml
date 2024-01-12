@@ -5,6 +5,8 @@ on:
     - cron: "0 5 * * *"
     
 # Sets permissions of the GITHUB_TOKEN to allow repository push
+permissions:
+  contents: write
   
 jobs:
   build:
