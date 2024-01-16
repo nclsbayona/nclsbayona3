@@ -1,0 +1,21 @@
+<p align="center">
+
+  <img src="https://socialify.git.ci/USERNAME_HERE/USERNAME_HERE/image?description=1&descriptionEditable=Come%20check%20my%20profile!&font=Bitter&pattern=Signal&theme=Dark" alt="USERNAME_HERE" width="640" height="320" />
+
+</p>
+
+<h2 align="center">👋 Hey there 👋</h2>
+
+<h3 align="center">I'm really grateful that you came here 😎</h3>
+
+<!--p  align="center">
+<img src="logo.png" alt="Logo" width="480">
+</p-->
+
+
+<p align="center">
+
+  <strong align="center">{{ text_affirmation1 }}</strong>
+  <i>{{ text_affirmation2 }}</i>
+
+</p>
