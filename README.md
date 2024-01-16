@@ -25,14 +25,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lassi - A South Indian Drink</h4>
+<h4 align="center">Campari Beer</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/iq6scx1487603980.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xsqrup1441249130.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -46,7 +46,7 @@
 
 
 <p align="center">
-Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.
+Use a 15 oz glass. Add Campari first. Fill with beer.
 </p>
 
 ----
@@ -146,90 +146,90 @@ Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, an
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
