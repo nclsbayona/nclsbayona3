@@ -20,9 +20,9 @@ jobs:
         - name: Generate README file
           uses: nclsbayona/nclsbayona-readme-action@master
           with:
-            WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            USERNAME: ${{ github.repository_owner }}
-            NASA_KEY: ${{ secrets.NASA_KEY }}
+            wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
+            username: ${{ github.repository_owner }}
+            nasa-api-key: ${{ secrets.NASA_KEY }}
         - name: Commit files
           run: |
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
