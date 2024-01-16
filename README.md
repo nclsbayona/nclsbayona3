@@ -22,6 +22,221 @@
 
 ----
 
+<details name="info">
+<summary>Maybe you're looking for a drink? 🍹</summary>
+<br />
+<h4 align="center">Lassi - A South Indian Drink</h4>
+<p align="center">
+
+<img src="https://www.thecocktaildb.com/images/media/drink/iq6scx1487603980.jpg" alt="Drink image" />
+
+</p>
+
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
+
+<h5 align="center">Necessary ingredients</h5>
+<table align="center">
+<tr>
+<td>
+
+</td>
+</tr>
+</table>
+
+
+
+<p align="center">
+Blend in a blender for 3 seconds. Lassi is one of the easiest things to make, and there are many ways of making it. Basically, it is buttermilk (yoghurt whisked with water), and you can choose almost any consistency that you like, from the thinnest to the thickest. Serve cold.
+</p>
+
+----
+
+</details>
+
+
+<details name="info">
+<summary>Maybe you're interested in learning more about my profile? 🪂</summary>
+<br />
+<h5 align="center">👀 Visitor count</h5>
+<p align="center">
+
+<img src="https://profile-counter.glitch.me/nclsbayona/count.svg"/>
+
+</p>
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
+
+</p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
+
+</p>
+
+----
+
+</details>
+
+<details name="info">
+<summary>Maybe you're interested in checking out my stats? 🐣</summary>
+<br />
+<h4 align="center">General GitHub Stats 🌀</h4>
+
+<p align="center">
+
+<!--h5>😃 General Overview</h5-->
+<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="260">
+
+<!--h5>Life-Time Stats Overview 😃</h5-->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="260">
+
+</p>
+
+<br />
+
+<h4 align="center">🤖 Programming Languages Stats</h4>
+
+<p align="center">
+
+<!--h5>Most Used Languages Stats 💾</h5-->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight">
+
+</p>
+
+<br />
+
+<h4 align="center">⌚General Weekly-Stats</h4>
+<table align="center">
+<tr>
+<td>
+
+</td>
+<td>
+
+</td>
+</tr>
+</table>
+
+----
+</details>
+
+<details name="info">
+<summary>Maybe you're looking to see something about our universe? 🔭</summary>
+
+<br />
+<h4 align="center">The Orion You Can Almost See - ©️ Michele Guzzini @ 2024-01-16</h4>
+<p align="center">
+
+<img src="https://apod.nasa.gov/apod/image/2401/OrionMcc_Guzzini_960.jpg" alt="The Orion You Can Almost See image" />
+
+</p>
+
+<h5 align="center">Do you recognize this constellation?  Although it is one of the most recognizable star groupings on the sky, this is a more full Orion than you can see -- an Orion only revealed with long exposure digital camera imaging and post- processing.  Here the cool red giant Betelgeuse takes on a strong orange tint as the brightest star on the upper left.  Orion's hot blue stars are numerous, with supergiant Rigel balancing Betelgeuse on the lower right, and Bellatrix at the upper right. Lined up in Orion's belt are three stars all about 1,500 light-years away, born from the constellation's well-studied interstellar clouds. Just below Orion's belt is a bright but fuzzy patch that might also look familiar -- the stellar nursery known as Orion's Nebula.  Finally, just barely visible to the unaided eye but quite striking here is Barnard's Loop -- a huge gaseous emission nebula surrounding Orion's Belt and Nebula discovered over 100 years ago by the pioneering Orion photographer E. E. Barnard.</h5>
+
+----
+
+</details>
+
+<details name="info">
+<summary>Maybe you're looking for some cool animal pictures? 👁️</summary>
+
+<br />
+<table align="center">
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+</td>
+</tr>
+</table>
+
+----
+
+</details>
 
 
 ----
