@@ -1,0 +1,30 @@
+<details name="info">
+<summary>Maybe you're looking for a drink? 🍹</summary>
+<br />
+<h4 align="center">{{ drink_name }}</h4>
+<p align="center">
+
+<img src="{{ drink_image }}" alt="Drink image" />
+
+</p>
+
+<h5 align="center">{{ drink_alcoholic_category }} - {{ drink_category }}</h5>
+
+<h5 align="center">Necessary ingredients</h5>
+<table align="center">
+<tr>
+<td>
+{{{ table_drink }}}
+</td>
+</tr>
+</table>
+
+
+
+<p align="center">
+{{ drink_instructions }}
+</p>
+
+----
+
+</details>
