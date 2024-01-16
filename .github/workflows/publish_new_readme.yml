@@ -19,5 +19,5 @@ jobs:
           uses: nclsbayona/nclsbayona-readme-action@master
           env:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
-            GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+            USERNAME: ${{ github.repository_owner }}
             NASA_KEY: ${{ secrets.NASA_KEY }}
