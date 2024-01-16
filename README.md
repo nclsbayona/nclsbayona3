@@ -1,6 +1,6 @@
 <p align="center">
 
-  <img src="https://socialify.git.ci/nclsbayona/nclsbayona/image?description=1&descriptionEditable=Come%20check%20my%20profile!&font=Bitter&pattern=Signal&theme=Dark" alt="nclsbayona" width="640" height="320" />
+  <img src="https://socialify.git.ci///image?description=1&descriptionEditable=Come%20check%20my%20profile!&font=Bitter&pattern=Signal&theme=Dark" alt="" width="640" height="320" />
 
 </p>
 
@@ -13,306 +13,38 @@
 </p-->
 
 
-
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Sucking rȳ mirros iksos se ēlī dekuragon va being sȳz rȳ mirros&quot;</strong>
-  <i>-- &quot;Sucking at something is the first step towards being good at something&quot; in valyrian language --</i>
+  <strong align="center"></strong>
+  <i></i>
 
 </p>
 
 ----
 
-<details name="info">
-<summary>Maybe you're looking for a drink? 🍹</summary>
-<br />
-<h4 align="center">Jitterbug</h4>
-<p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wwqvrq1441245318.jpg" alt="Drink image" />
-
-</p>
- 
-<h5 align="center">Alcoholic - Cocktail</h5>
-
-<h5 align="center">Neccesary ingredients</h5>
-<table align="center">
-<tr>
-<td>
-<table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Ingredient</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Measure</th>
-        </tr>
-    </thead>
-    <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 jiggers </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 jigger </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Around rim put 1 pinch </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill to top with </td>
-        </tr>
-    </tbody>
-</table>
-</td>
-</tr>
-</table>
-
-
-
-<p align="center">
-Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that simple!
-</p>
-
-----
-
-</details>
-
-<details name="info">
-<summary>Maybe you're interested in learning more about my profile? 🪂</summary>
-<br />
-<h5 align="center">👀 Visitor count</h5>
-<p align="center">
-
-<img src="https://profile-counter.glitch.me/nclsbayona/count.svg"/>
-
-</p>
-<p align="center">
-
-<img src="https://img.shields.io/github/followers/nclsbayona?color=003153&logo=github&style=for-the-badge"/>
-<img src="https://img.shields.io/github/last-commit/nclsbayona/nclsbayona?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
-
-</p>
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=nclsbayona&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
-
-</p>
-
-----
-
-</details>
-<details name="info">
-<summary>Maybe you're interested in checking out my stats? 🐣</summary>
-<br />
-<h4 align="center">General GitHub Stats 🌀</h4>
-
-<p align="center">
-
-<!--h5>😃 General Overview</h5-->
-<img src="https://github-readme-stats.vercel.app/api?username=nclsbayona&show_icons=true&count_private=true&include_all_commits=true&locale=en&theme=tokyonight" width="260">
-
-<!--h5>Life-Time Stats Overview 😃</h5-->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=nclsbayona&theme=algolia" width="260">
-
-</p>
-
-<br />
-
-<h4 align="center">🤖 Programming Languages Stats</h4>
-
-<p align="center">
-
-<!--h5>Most Used Languages Stats 💾</h5-->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nclsbayona&show_icons=true&locale=en&langs_count=5&theme=tokyonight">
-
-</p>
-
-<br />
-
-<h4 align="center">⌚General Weekly-Stats</h4>
-<table align="center">
-<tr>
-<td>
-<table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Language name</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
-</td>
-<td>
-<table frame="box" rules="cols">
-    <thead>
-        <tr>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">OS name</th>
-            <th style="padding-left: 1em; padding-right: 1em; text-align: center">Time spent</th>
-        </tr>
-    </thead>
-    <tbody>
-    </tbody>
-</table>
-</td>
-</tr>
-</table>
-
-----
-</details>
-
-<details name="info">
-<summary>Maybe you're looking to see something about our universe? 🔭</summary>
-
-<br />
-<h4 align="center">Star Cluster IC 348 from Webb - ©️ NASA @ 2024-01-15</h4>
-<p align="center">
-
-<img src="https://apod.nasa.gov/apod/image/2401/IC348_webb_960.jpg" alt="Star Cluster IC 348 from Webb image" />
-
-</p>
- 
-<h5 align="center">Sometimes, it's the stars that are the hardest to see that are the most interesting. IC 348 is a young star cluster that illuminates surrounding filamentary dust.  The stringy and winding dust appears pink in this recently released infrared image from the Webb Space Telescope. In visible light, this dust reflects mostly blue light, giving the surrounding material the familiar blue hue of a reflection nebula.  Besides bright stars, several cool objects have been located in IC 348, visible because they glow brighter in infrared light.  These objects are hypothesized to be low mass brown dwarfs.  Evidence for this includes the detection of an unidentified atmospheric chemical, likely a hydrocarbon, seen previously in the atmosphere of Saturn. These objects appear to have masses slightly greater than known planets, only a few times greater than Jupiter.  Together, these indicate that this young star cluster contains something noteworthy -- young planet-mass brown dwarfs that float free, not orbiting any other star.</h5>
-
-----
-
-</details>
-
-<details name="info">
-<summary>Maybe you're looking for some cool animal pictures? 👁️</summary>
-
-<br />
-<table align="center">
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
-</td>
-</tr>
-</table>
-
-----
-
-</details>
 
 ----
 
 <h3 align="center">Contact me! 📇</h3>
 
 <p align="center">
-<a href="https://github.com/nclsbayona" target="_blank">
+<a href="https://github.com/" target="_blank">
  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312180E.svg?&style=for-the-badge&logo=Github&logoColor=white">
 </a>
-<a href="https://twitter.com/nclsbayona" target="_blank">
+<a href="https://twitter.com/" target="_blank">
  <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://instagram.com/nclsbayona" target="_blank">
+<a href="https://instagram.com/" target="_blank">
  <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-<a href="https://t.me/nclsbayona" target="_blank">
+<a href="https://t.me/" target="_blank">
  <img alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-blue?&style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://www.discord.com/channels/@nclsbayona#6681" target="_blank">
+<a href="https://www.discord.com/channels/@#6681" target="_blank">
  <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/nclsbayona" target="_blank">
+<a href="https://www.linkedin.com/in/" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-lightblue?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
 
@@ -323,7 +55,7 @@ Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that s
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg">
+<img src="https://raw.githubusercontent.com//Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg">
 
 </p>
 
@@ -331,7 +63,7 @@ Wet glass, dip rim in sugar. Then add Ice. Then add everything else. It's that s
 
 <p align="center">
 
-<a href="https://nclsbayona.github.io" target="_blank">
+<a href="https://.github.io" target="_blank">
  <img src="QR.png">
 </a>
 
