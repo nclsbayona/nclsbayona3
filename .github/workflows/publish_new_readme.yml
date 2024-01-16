@@ -19,7 +19,7 @@ jobs:
           uses: actions/checkout@v4
         - name: Generate README file
           uses: nclsbayona/nclsbayona-readme-action@master
-          env:
+          with:
             WAKATIME_API_KEY: ${{ secrets.WAKATIME_API_KEY }}
             USERNAME: ${{ github.repository_owner }}
             NASA_KEY: ${{ secrets.NASA_KEY }}
