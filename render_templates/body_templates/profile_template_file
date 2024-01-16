@@ -1,0 +1,24 @@
+<details name="info">
+<summary>Maybe you're interested in learning more about my profile? 🪂</summary>
+<br />
+<h5 align="center">👀 Visitor count</h5>
+<p align="center">
+
+<img src="https://profile-counter.glitch.me/{{ username }}/count.svg"/>
+
+</p>
+<p align="center">
+
+<img src="https://img.shields.io/github/followers/{{ username }}?color=003153&logo=github&style=for-the-badge"/>
+<img src="https://img.shields.io/github/last-commit/{{ username }}/{{ username }}?color=003153&logo=github&style=for-the-badge&label=Latest%20Profile%20Commit">
+
+</p>
+<p align="center">
+
+<img src="https://github-profile-trophy.vercel.app/?username={{ username }}&theme=dracula&no-frame=false&margin-w=5&margin-h=5&no-bg=true&column=4">
+
+</p>
+
+----
+
+</details>
