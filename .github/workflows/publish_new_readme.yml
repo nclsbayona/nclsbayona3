@@ -21,7 +21,7 @@ jobs:
           uses: nclsbayona/nclsbayona-readme-action@master
           with:
             wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
-            username: ${{ github.repository_owner }}
+            github-username: ${{ github.repository_owner }}
             nasa-api-key: ${{ secrets.NASA_KEY }}
         - name: Commit files
           run: |
