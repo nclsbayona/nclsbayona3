@@ -25,10 +25,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Russian Spring Punch</h4>
+<h4 align="center">Stinger</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/2ahv791504352433.jpg" alt="Drink image" />
 
 </p>
 
@@ -46,7 +46,7 @@
 
 
 <p align="center">
-Pour the ingredients into an highball glass, top with Sparkling wine.
+Pour in a mixing glass with ice, stir and strain into a cocktail glass. May also be served on rocks in a rocks glass.
 </p>
 
 ----
@@ -126,14 +126,14 @@ Pour the ingredients into an highball glass, top with Sparkling wine.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">America and the Sea of Serenity - ©️ Gene Cernan @ 2024-01-17</h4>
+<h4 align="center">Northern Lights from the Stratosphere - ©️ Ralf Rohner @ 2024-01-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/22466-22467anaVantuyne900.jpg" alt="America and the Sea of Serenity image" />
+<img src="https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg" alt="Northern Lights from the Stratosphere image" />
 
 </p>
 
-<h5 align="center">Get out your red/blue glasses and check out this stereo view of another world. The scene was recorded by Apollo 17 mission commander Eugene Cernan on December 11, 1972, one orbit before descending to land on the Moon. The stereo anaglyph was assembled from two photographs (AS17-147-22465, AS17-147-22466) captured from his vantage point on board the Lunar Module Challenger as he and Dr. Harrison Schmitt flew over Apollo 17's landing site in the Taurus-Littrow Valley. The broad, sunlit face of the mountain dubbed South Massif rises near the center of the frame, above the dark floor of Taurus-Littrow to its left. Piloted by Ron Evans, the Command Module America is visible in orbit in the foreground against the South Massif's peak. Beyond the mountains, toward the lunar limb, lies the Moon's Mare Serenitatis. Four astronauts will venture around the Moon and back again on the Artemis II mission, scheduled for launch no earlier than September 2025.</h5>
+<h5 align="center">Northern lights shine in this night skyview from planet Earth's stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth's magnetic field at the planet's polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora's characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.</h5>
 
 ----
 
@@ -146,35 +146,35 @@ Pour the ingredients into an highball glass, top with Sparkling wine.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -182,43 +182,43 @@ Pour the ingredients into an highball glass, top with Sparkling wine.
 <img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -226,10 +226,10 @@ Pour the ingredients into an highball glass, top with Sparkling wine.
 <img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
