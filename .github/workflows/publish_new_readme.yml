@@ -22,7 +22,6 @@ jobs:
           with:
             wakatime-api-key: ${{ secrets.WAKATIME_API_KEY }}
             github-username: ${{ github.repository_owner }}
-            nasa-api-key: ${{ secrets.NASA_KEY }}
         - name: Commit files
           run: |
             git config --local user.email "41898282+github-actions[bot]@users.noreply.github.com"
