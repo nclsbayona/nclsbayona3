@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Emerged the strongest souls; the most massive characters are seared with scars,  out of suffering have.&quot;</strong>
-  <i>-- &quot;Out of suffering have emerged the strongest souls; the most massive characters are seared with scars.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Forget mistakes. Forget yeni. Forget everything except fini yeri are going to hash ajjin ma hash anna. Asshekh is yeri lucky asshekh!&quot;</strong>
+  <i>-- &quot;Forget mistakes. Forget failure. Forget everything except what you are going to do now and do it. Today is your lucky day!&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">After Supper Cocktail</h4>
+<h4 align="center">Zipperhead</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/r2qzhu1485620235.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Fill glass with rocks, add straw before putting in liquor. Then add the ingredients in order, trying to keep layered as much as possible (i.e. Chambord on bottom, then Vodka, Then soda on top).
 </p>
 
 ----
@@ -173,79 +173,79 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -253,10 +253,10 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
@@ -271,24 +271,30 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <h3 align="center">Contact me! 📇</h3>
 
 <p align="center">
-<a href="https://github.com/" target="_blank">
+<a href="https://github.com/nclsbayona" target="_blank">
  <img alt="Github" src="https://img.shields.io/badge/GitHub-%2312180E.svg?&style=for-the-badge&logo=Github&logoColor=white">
 </a>
-<a href="https://twitter.com/" target="_blank">
- <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
-</a>
-<a href="https://instagram.com/" target="_blank">
- <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
-</a>
-<a href="https://t.me/" target="_blank">
+
+<a href="https://t.me/nclsbayona" target="_blank">
  <img alt="Telegram" src="https://img.shields.io/badge/-TELEGRAM-blue?&style=for-the-badge&logo=telegram&logoColor=white">
 </a>
-<a href="https://www.discord.com/channels/@#6681" target="_blank">
- <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white">
+
+<a href="https://twitter.com/nclsbayona" target="_blank">
+ <img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white">
 </a>
-<a href="https://www.linkedin.com/in/" target="_blank">
+
+<a href="https://www.linkedin.com/in/nclsbayona" target="_blank">
  <img alt="LinkedIn" src="https://img.shields.io/badge/-LINKEDIN-lightblue?&style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
+
+<!-- <a href="https://instagram.com/" target="_blank">
+ <img alt="Instagram" src="https://img.shields.io/badge/-INSTAGRAM-critical?&style=for-the-badge&logo=instagram&logoColor=white">
+</a>
+
+<a href="https://www.discord.com/channels/" target="_blank">
+ <img alt="Discord" src="https://img.shields.io/badge/-DISCORD-darkblue?&style=for-the-badge&logo=discord&logoColor=white">
+</a> !-->
+
 
 </p>
 
@@ -297,16 +303,15 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com//Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg">
+<img src="https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg">
 
 </p>
+
 
 <h3 align="center">Visit my webpage 🛸</h3>
-
-<p align="center">
-
-<a href="https://.github.io" target="_blank">
+<p align="center"><a href="https://nclsbayona.github.io" target="_blank">
  <img src="QR.png">
-</a>
+</a></p>
 
 </p>
+
