@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tu aras sviemas kainzan lessons sulig tu'saen visas diena&quot;</strong>
-  <i>-- &quot;You are learning valuable lessons from yourself every day&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;We be all works in progress&quot;</strong>
+  <i>-- &quot;We are all works in progress&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Dubonnet Cocktail</h4>
+<h4 align="center">Lunch Box</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pfz3hz1582483111.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qywpvt1454512546.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dubonnet Rouge</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 bottle </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
+Fill a pint glass almost full with beer. Then fill the rest with orange juice (careful not to fill it to the top). Then take the shot of Amaretto and drop it in.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Stir all ingredients (except lemon peel) with ice and strain into a cocktail gla
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Northern Lights from the Stratosphere - ©️ Ralf Rohner @ 2024-01-18</h4>
+<h4 align="center">Jupiter over 2 Hours and 30 Minutes - ©️ NASA @ 2024-01-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/MagneticStormRohner1024.jpg" alt="Northern Lights from the Stratosphere image" />
+<img src="https://apod.nasa.gov/apod/image/2401/2024_01_15-Jup-2h30-Chronograph600.png" alt="Jupiter over 2 Hours and 30 Minutes image" />
 
 </p>
 
-<h5 align="center">Northern lights shine in this night skyview from planet Earth's stratosphere, captured on January 15. The single, 5 second exposure was made with a hand-held camera on board an aircraft above Winnipeg, Canada. During the exposure, terrestrial lights below leave colorful trails along the direction of motion of the speeding aircraft. Above the more distant horizon, energetic particles accelerated along Earth's magnetic field at the planet's polar regions excite atomic oxygen to create the shimmering display of Aurora Borealis. The aurora's characteristic greenish hue is generated at altitudes of 100-300 kilometers and red at even higher altitudes and lower atmospheric densities. The luminous glow of faint stars along the plane of our Milky Way galaxy arcs through the night, while the Andromeda galaxy extends this northern skyview to extragalactic space. A diffuse hint of Andromeda, the closest large spiral to the Milky Way, can just be seen to the upper left.</h5>
+<h5 align="center">Jupiter, our Solar System's ruling gas giant, is also the fastest spinning planet, rotating once in less than 10 hours. The gas giant doesn't rotate like a solid body though. A day on Jupiter is about 9 hours and 56 minutes long at the poles, decreasing to 9 hours and 50 minutes near the equator. The giant planet's fast rotation creates strong jet streams, separating its clouds into planet girdling bands of dark belts and bright zones. You can easily follow Jupiter's rapid rotation in this sharp sequence of images from the night of January 15, all taken with a camera and small telescope outside of Paris, France. Located just south of the equator, the giant planet's giant storm system, also known as the Great Red Spot, can be seen moving left to right with the planet's rotation. From lower left to upper right, the sequence spans about 2 hours and 30 minutes.</h5>
 
 ----
 
@@ -192,90 +188,90 @@ Stir all ingredients (except lemon peel) with ice and strain into a cocktail gla
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
