@@ -25,7 +25,7 @@ jobs:
             telegram-username: ${{ github.repository_owner }}
             twitter-username: ${{ github.repository_owner }}
             linkedin-username: ${{ github.repository_owner }}
-            nasa-api-key: ${{ secrets.NASA_API_KEY }}
+            nasa-api-key: ${{ secrets.NASA_KEY }}
             webpage-url: 'https://nclsbayona.github.io'
             webpage-qr: 'QR.png'
             contributions-url: 'https://raw.githubusercontent.com/nclsbayona/Daily.dev-devcard-books/output/github-contribution-grid-snake-sissa.svg'
