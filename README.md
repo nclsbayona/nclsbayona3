@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Doe opposite of courage noleeya our society sa nopa cowardice. It sa conformity&quot;</strong>
-  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Opportunity sarlah lu du continually kwitaya fa'rak.&quot;</strong>
+  <i>-- &quot;Opportunity comes when you continually push forward.&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Hot Creamy Bush</h4>
+<h4 align="center">Absolut Stress #2</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/spvrtp1472668037.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 oz hot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Combine all ingredients in glass
+Mix well. Garnish with Orange and Cherry. Enjoy
 </p>
 
 ----
@@ -168,14 +176,14 @@ Combine all ingredients in glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Falcon Heavy Boostback Burn - ©️ Dennis Huff @ 2024-01-20</h4>
+<h4 align="center">The Upper Michigan Blizzard of 1938 - ©️ NASA @ 2024-01-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/DSC07781_12Huff800.jpg" alt="Falcon Heavy Boostback Burn image" />
+<img src="https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg" alt="The Upper Michigan Blizzard of 1938 image" />
 
 </p>
 
-<h5 align="center">The December 28 night launch of a Falcon Heavy rocket from Kennedy Space Center in Florida marked the fifth launch for the rocket's reusable side boosters. About 2 minutes 20 seconds into the flight, the two side boosters separated from the rocket's core stage. Starting just after booster separation, this three minute long exposure captures the pair's remarkable boostback burns, maneuvers executed prior to their return to landing zones on planet Earth. While no attempt was made to recover the Falcon Heavy's core stage, both side boosters landed successfully and can be flown again. The four previous flights for these side boosters included last October's launch of NASA's asteroid-bound Psyche mission.</h5>
+<h5 align="center">Yes, but can your blizzard do this? In the Upper Peninsula of Michigan's Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.</h5>
 
 ----
 
@@ -188,79 +196,79 @@ Combine all ingredients in glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +276,10 @@ Combine all ingredients in glass
 <img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
