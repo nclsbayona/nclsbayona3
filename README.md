@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Opportunity sarlah lu du continually kwitaya fa'rak.&quot;</strong>
-  <i>-- &quot;Opportunity comes when you continually push forward.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Dha most wasted day of all is dat on which wesa have not laughed.&quot;</strong>
+  <i>-- &quot;The most wasted day of all is that on which we have not laughed.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolut Stress #2</h4>
+<h4 align="center">Between The Sheets</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xuyqrw1472811825.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/of1rj41504348346.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-Mix well. Garnish with Orange and Cherry. Enjoy
+Pour all ingredients into shaker with ice cubes, shake, strain into chilled cocktail glass.
 </p>
 
 ----
@@ -176,14 +172,14 @@ Mix well. Garnish with Orange and Cherry. Enjoy
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Upper Michigan Blizzard of 1938 - ©️ NASA @ 2024-01-21</h4>
+<h4 align="center">Shadows of Mountain and Moon - ©️ Enzo Massa Micon @ 2024-01-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/snowpoles_brinkman_960.jpg" alt="The Upper Michigan Blizzard of 1938 image" />
+<img src="https://apod.nasa.gov/apod/image/2401/GrivolaMoon_Micon_1080.jpg" alt="Shadows of Mountain and Moon image" />
 
 </p>
 
-<h5 align="center">Yes, but can your blizzard do this? In the Upper Peninsula of Michigan's Storm of the Century in 1938, some snow drifts reached the level of utility poles. Nearly a meter of new and unexpected snow fell over two days in a storm that started 86 years ago this week.  As snow fell and gale-force winds piled snow to surreal heights, many roads became not only impassable but unplowable; people became stranded, cars, school buses and a train became mired, and even a dangerous fire raged. Two people were killed and some students were forced to spend several consecutive days at school.  The featured image was taken by a local resident soon after the storm. Although all of this snow eventually melted, repeated snow storms like this help build lasting glaciers in snowy regions of our planet Earth.</h5>
+<h5 align="center">Can the Moon and a mountain really cast similar shadows? Yes, but the division between light and dark does not have to be aligned. Pictured, a quarter moon was captured above the mountain Grivola in Italy in early October of 2022.  The Sun is to the right of the featured picturesque landscape, illuminating the right side of the Moon in a similar way that it illuminates the right side of the mountain. This lunar phase is called &quot;quarter&quot; because the lit fraction visible from Earth is one quarter of the entire lunar surface.  Digital post-processing of this single exposure gave both  gigantic objects more prominence. Capturing the terminator of this quarter moon in close alignment with nearly vertical mountain ridge required careful timing because the Earth rotates once a day.</h5>
 
 ----
 
@@ -196,87 +192,87 @@ Mix well. Garnish with Orange and Cherry. Enjoy
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
