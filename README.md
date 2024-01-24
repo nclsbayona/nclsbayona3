@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vucum vea belittle vucum,  csarcican't vacosehn LITTLE vucum,  vim csarcican't ttan'ocah cssah Little&quot;</strong>
-  <i>-- &quot;People who belittle people, will be LITTLE people, and will accomplish very Little&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Do life sa already do miracle of chance waiting che u tah shape its destiny&quot;</strong>
+  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Classic Old-Fashioned</h4>
+<h4 align="center">Dirty Nipple</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/w8cxqv1582485254.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,30 +47,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -80,7 +56,7 @@
 
 
 <p align="center">
-In an old-fashioned glass, muddle the bitters and water into the sugar cube, using the back of a teaspoon. Almost fill the glass with ice cubes and add the bourbon. Garnish with the orange slice and the cherry. Serve with a swizzle stick.
+This is a layered shot - the Bailey's must be on top
 </p>
 
 ----
@@ -180,14 +156,14 @@ In an old-fashioned glass, muddle the bitters and water into the sugar cube, usi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Deep Nebulas: From Seagull to California - ©️ Alistair Symon @ 2024-01-23</h4>
+<h4 align="center">Earth and Moon from Beyond - ©️ NASA @ 2024-01-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/SeagullToCalifornia_Symon_960.jpg" alt="Deep Nebulas: From Seagull to California image" />
+<img src="https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_960.jpg" alt="Earth and Moon from Beyond image" />
 
 </p>
 
-<h5 align="center">How well do you know the night sky? OK, but how well can you identify famous sky objects in a very deep image? Either way, here is a test: see if you can find some well-known night-sky icons in a deep image filled with faint nebulosity.  This image contains the Pleiades star cluster, Barnard's Loop, Horsehead Nebula, Orion Nebula, Rosette Nebula, Cone Nebula, Rigel, Jellyfish Nebula, Monkey Head Nebula, Flaming Star Nebula, Tadpole Nebula, Aldebaran, Simeis 147, Seagull Nebula and the California Nebula. To find their real locations, here is an annotated image version.  The reason this task might be difficult is similar to the reason it is initially hard to identify familiar constellations in a very dark sky: the tapestry of our night sky has an extremely deep hidden complexity.  The featured composite reveals some of this complexity in a mosaic of 28 images taken over 800 hours from dark skies over Arizona, USA.</h5>
+<h5 align="center">What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA's Artemis I mission as it looped around Earth's most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA's robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.   Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -200,90 +176,90 @@ In an old-fashioned glass, muddle the bitters and water into the sugar cube, usi
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
