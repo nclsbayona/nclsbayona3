@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Do life sa already do miracle of chance waiting che u tah shape its destiny&quot;</strong>
-  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Don't worry if tlhih tu' flaws in your past creations,  'oh's because tlhih've evolved&quot;</strong>
+  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Dirty Nipple</h4>
+<h4 align="center">Applecar</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vtyqrt1461866508.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,6 +47,18 @@
         </tr>
     </thead>
     <tbody>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
     </tbody>
 </table>
 </td>
@@ -56,7 +68,7 @@
 
 
 <p align="center">
-This is a layered shot - the Bailey's must be on top
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -156,14 +168,14 @@ This is a layered shot - the Bailey's must be on top
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Earth and Moon from Beyond - ©️ NASA @ 2024-01-24</h4>
+<h4 align="center">Jyväskylä in the Sky - ©️ Harri Kiiskinen @ 2024-01-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/EarthMoon_Artemis1Saunders_960.jpg" alt="Earth and Moon from Beyond image" />
+<img src="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg" alt="Jyväskylä in the Sky image" />
 
 </p>
 
-<h5 align="center">What do the Earth and Moon look like from beyond the Moon? Although frequently photographed together, the familiar duo was captured with this unusual perspective in late 2022 by the robotic Orion spacecraft of NASA's Artemis I mission as it looped around Earth's most massive satellite and looked back toward its home world. Since our Earth is about four times the diameter of the Moon, the satellite’s seemingly large size was caused by the capsule being closer to the smaller body. Artemis II, the next launch in NASA’s Artemis series, is currently scheduled to take people around the Moon in 2025, while Artemis III is planned to return humans to lunar surface in late 2026. Last week,  JAXA's robotic SLIM spacecraft, launched from Japan, landed on the Moon and released two hopping rovers.   Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.</h5>
 
 ----
 
@@ -176,87 +188,87 @@ This is a layered shot - the Bailey's must be on top
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
