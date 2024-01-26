@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Don't worry if tlhih tu' flaws in your past creations,  'oh's because tlhih've evolved&quot;</strong>
-  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;10x tatsow nama a myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Applecar</h4>
+<h4 align="center">Army special</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/55muhh1493068062.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice cordial</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">45 ml </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass crushed </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Pour Vodka, Gin and lime cordial into glass, and top up with crushed ice. Wait for ice to melt slightly and sip without a straw.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Jyväskylä in the Sky - ©️ Harri Kiiskinen @ 2024-01-25</h4>
+<h4 align="center">Epsilon Tauri: Star with Planet - ©️ Reg Pratt @ 2024-01-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/image-20240116164558_v11024.jpg" alt="Jyväskylä in the Sky image" />
+<img src="https://apod.nasa.gov/apod/image/2401/Ain_1024.jpg" alt="Epsilon Tauri: Star with Planet image" />
 
 </p>
 
-<h5 align="center">You might not immediately recognize this street map of a neighborhood in Jyväskylä, Finland, planet Earth. But that's probably because the map was projected into the night sky and captured with an allsky camera on January 16. The temperature recorded on that northern winter night was around minus 20 degrees Celsius. As ice crystals formed in the atmosphere overhead, street lights spilling illumination into the sky above produced visible light pillars, their ethereal appearance due to specular reflections from the fluttering crystals' flat surfaces. Of course, the projected light pillars trace a map of the brightly lit local streets, though reversed right to left in the upward looking camera's view. This light pillar street map was seen to hover for hours in the Jyväskylä night.</h5>
+<h5 align="center">silon Tauri lies 146 light-years away. A K-type red giant star, epsilon Tau is cooler than the Sun, but with about 13 times the solar radius it has nearly 100 times the solar luminosity. A member of the Hyades open star cluster the giant star is known by the proper name Ain, and along with brighter giant star Aldebaran, forms the eyes of Taurus the Bull. Surrounded by dusty, dark clouds in Taurus, epsilon Tau is also known to have a planet. Discovered by radial velocity measurements in 2006, Epsilon Tauri b is a gas giant planet larger than Jupiter with an orbital period of 1.6 years. And though the exoplanet can't be seen directly, on a dark night its parent star epsilon Tauri is easily visible to the unaided eye.</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
