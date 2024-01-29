@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;U'll find do way&quot;</strong>
-  <i>-- &quot;You'll find a way&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Ek' du bolaya nam-tor wuh dotor,  wuh roadmap,  heh wuh courage tor hish-tor fi' tor ish-veh destination&quot;</strong>
+  <i>-- &quot;All you need is the plan, the roadmap, and the courage to press on to your destination&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Mary Pickford</h4>
+<h4 align="center">Royal Gin Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/f9erqb1504350557.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pe1x1c1504735672.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 whole </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-Shake and strain into a chilled large cocktail glass
+Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
 </p>
 
 ----
@@ -176,14 +172,14 @@ Shake and strain into a chilled large cocktail glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Pluto in True Color - ©️ NASA @ 2024-01-28</h4>
+<h4 align="center">The Pleiades: Seven Dusty Sisters - ©️ Craig Stocks @ 2024-01-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/PlutoTrueColor_NewHorizons_960.jpg" alt="Pluto in True Color image" />
+<img src="https://apod.nasa.gov/apod/image/2401/Pleiades_Stocks_960.jpg" alt="The Pleiades: Seven Dusty Sisters image" />
 
 </p>
 
-<h5 align="center">What color is Pluto, really? It took some effort to figure out.  Even given all of the images sent back to Earth when the robotic New Horizons spacecraft sped past Pluto in 2015, processing these multi-spectral frames to approximate what the human eye would see was challenging. The result featured here, released three years after the raw data was acquired by New Horizons, is the highest resolution true color image of Pluto ever taken. Visible in the image is the light-colored, heart-shaped, Tombaugh Regio, with the unexpectedly smooth Sputnik Planitia, made of frozen nitrogen, filling its western lobe. New Horizons found the dwarf planet to have a surprisingly complex surface composed of many regions having perceptibly different hues.  In total, though, Pluto is mostly brown, with much of its muted color originating from small amounts of surface methane energized by ultraviolet light from the Sun. 	</h5>
+<h5 align="center">The well-known Pleiades star cluster is slowly destroying part of a passing cloud of gas and dust. The Pleiades is the brightest open cluster of stars on Earth's sky and can be seen from almost any northerly location with the unaided eye.  Over the past 100,000 years, a field of gas and dust is moving by chance right through the Pleiades star cluster and is causing a strong reaction between the stars and dust. The passing cloud might be part of the Radcliffe wave, a newly discovered structure of gas and dust connecting several regions of star formation in the nearby part of our Milky Way galaxy.  Pressure from the stars' light significantly repels the dust in the surrounding blue reflection nebula, with smaller dust particles being repelled more strongly.  A short-term result is that parts of the dust cloud have become filamentary and stratified. The featured deep image incorporates nearly 9 hours of exposure and was captured from Utah Desert Remote Observatory in Utah, USA, last year.</h5>
 
 ----
 
@@ -196,90 +192,90 @@ Shake and strain into a chilled large cocktail glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
