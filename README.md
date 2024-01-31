@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Wilat khrash reigns,  utvau nam-tor kobat.&quot;</strong>
-  <i>-- &quot;Where violence reigns, reason is weak.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Pa' is qo' path to roj. Roj is the path.&quot;</strong>
+  <i>-- &quot;There is no path to Peace. Peace is the path.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Tia-Maria</h4>
+<h4 align="center">Applecar</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sih81u1504367097.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Homemade Liqueur</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4-1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put in clean bottle(s) and leave for 1 week before using.
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -196,24 +188,24 @@ Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put i
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -221,65 +213,65 @@ Boil water, sugar and coffe for 10 mins and let cool. Add rum and vanilla. Put i
 <img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
