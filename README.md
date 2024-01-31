@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Pa' is qo' path to roj. Roj is the path.&quot;</strong>
-  <i>-- &quot;There is no path to Peace. Peace is the path.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot; {The} {greatest} hettend un−l¯æd fr¯æge {is} n¯ænig pro unglêawnes, {it's} ðone as grîma of gearowita.&quot;</strong>
+  <i>-- &quot;The greatest enemy of knowledge is not ignorance, it's the illusion of knowledge.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Applecar</h4>
+<h4 align="center">Strawberry Lemonade</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spvvxp1468924425.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8-10 ripe </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Throw everything into a blender and mix until fairly smooth. Serve over ice.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">SLIM Lands on the Moon - ©️ JAXA, Takara Tomy, Sony Co., Doshisha U. @ 2024-01-30</h4>
+<h4 align="center">Camera Orion Rising - ©️ Marcin Ślipko @ 2024-01-31</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2401/Slim_jaxa_960.jpg" alt="SLIM Lands on the Moon image" />
+<img src="https://apod.nasa.gov/apod/image/2401/OrionRising_Slipko_960.jpg" alt="Camera Orion Rising image" />
 
 </p>
 
-<h5 align="center">New landers are on the Moon. Nearly two weeks ago, Japan's Smart Lander for Investigating Moon (SLIM) released two rovers as it descended, before its main lander touched down itself. The larger of the two rovers can hop like a frog, while the smaller rover is about the size of a baseball and can move after pulling itself apart like a transformer. The main lander, nicknamed Moon Sniper, is seen in the featured image taken by the smaller rover. Inspection of the image shows that Moon Sniper's thrusters are facing up, meaning that the lander is upside down from its descent configuration and on its side from its intended landing configuration.  One result is that Moon Sniper's solar panels are not in the expected orientation, so that powering the lander had to be curtailed and adapted.  SLIM's lander has already succeeded as a technology demonstration, its main mission, but was not designed to withstand the lunar night -- which starts tomorrow.</h5>
+<h5 align="center">What does Orion rising look like to a camera? During this time of the year, the famous constellation is visible to the southeast just after sunset. From most Earthly locations, Orion's familiar star pattern, highlighted by the three-stars-in-a-row belt stars, rises sideways. An entire section of the night sky that includes Orion was photographed rising above Śnieżka, a mountain on the border between Poland and the Czech Republic.  The long duration exposure sequence brings up many faint features including the Orion and Flame Nebulas, both encompassed by the curving Barnard's Loop. The featured wide-angle camera composite also captured night sky icons including the blue Pleiades star cluster at the image top and the red Rosette Nebula to the left of Orion. Famous stars in the frame include Sirius, Betelgeuse, Rigel and Aldebaran. Orion will appear successively higher in the sky at sunset during the coming months.</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
