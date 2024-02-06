@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Courage iksos zūgagon bona emagon vestretan its prayers se decided naejot jikagon naejot anyway.&quot;</strong>
-  <i>-- &quot;Courage is fear that has said its prayers and decided to go forward anyway.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Strugglin' means ye're learnin'&quot;</strong>
+  <i>-- &quot;Struggling means you're learning&quot; in pirate language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">A Day at the Beach</h4>
+<h4 align="center">Angel Face</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/trptts1454514474.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over ice into a highball glass. Add Grenadine and garnish with a Pineapple Wedge and a Strawberry.
+Shake all ingredients with ice and strain contents into a cocktail glass.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">In the Core of the Carina Nebula - ©️ Carlos Taylor @ 2024-02-05</h4>
+<h4 align="center">NGC 1566: A Spiral Galaxy from Webb and Hubble - ©️ NASA, ESA, CSA, STScI, J. Lee (STScI), T. Williams (Oxford), R. Chandar (UToledo), D. Calzetti (UMass), PHANGS Team @ 2024-02-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2402/Carina_Taylor_960.jpg" alt="In the Core of the Carina Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2402/Ngc1566_HubbleWebb_960.jpg" alt="NGC 1566: A Spiral Galaxy from Webb and Hubble image" />
 
 </p>
 
-<h5 align="center">What's happening in the core of the Carina Nebula?  Stars are forming, dying, and leaving an impressive tapestry of dark dusty filaments.  The entire Carina Nebula, cataloged as NGC 3372, spans over 300 light years and lies about 8,500 light-years away in the constellation of Carina. The nebula is composed predominantly of hydrogen gas, which emits the pervasive red and orange glows seen mostly in the center of this highly detailed featured image.  The blue glow around the edges is created primarily by a trace amount of glowing oxygen. Young and massive stars located in the nebula's center expel dust when they explode in supernovas.  Eta Carinae, the most energetic star in the nebula's center, was one of the brightest stars in the sky in the 1830s, but then faded dramatically.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">What's different about this galaxy? Very little, which makes the Spanish Dancer galaxy, NGC 1566, one of the most typical and photogenic spirals on the sky. There is something different about this galaxy image, though, because it is a diagonal combination of two images: one by the Hubble Space Telescope on the upper left, and the other by the James Webb Space Telescope on the lower right.  The Hubble image was taken in ultraviolet light and highlights the locations of bright blue stars and dark dust along the galaxy's impressive spiral arms. In contrast, the Webb image was taken in infrared light and highlights where the same dust emits more light than it absorbed. In the rollover image, the other two sides of these images are revealed. Blinking between the two images shows which stars are particularly hot because they glow brighter in ultraviolet light, and the difference between seemingly empty space and infrared-glowing dust.   Image Crunching Opportunity:  Take NASA's Astrophoto Challenge</h5>
 
 ----
 
@@ -192,10 +188,10 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
@@ -203,79 +199,79 @@ Shake Rum, Amaretto, and Orange Juice in a shaker filled with ice. Strain over i
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
