@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Isse se beginner's mind konīr issi naenie possibilities,  yn isse se expert's mind konīr issi dorolvie.&quot;</strong>
-  <i>-- &quot;In the beginner's mind there are many possibilities, but in the expert's mind there are few.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Ch'ah rsah vah'll rt'asi hah out&quot;</strong>
+  <i>-- &quot;I know you'll sort it out&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Applecar</h4>
+<h4 align="center">Funk and Soul</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sbffau1504389764.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtv83q1596015790.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Applejack</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot Nectar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pomegranate juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Mix all ingredients together and strain into a Collins glass. Use Jamaican rum where possible for a more authentic taste.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">When Roses Aren't Red - ©️ Tommy Lease @ 2024-02-09</h4>
+<h4 align="center">The Shadow of Ingenuity's Damaged Rotor Blade - ©️ NASA @ 2024-02-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2402/Rosette2024newt533mmcopy1024.png" alt="When Roses Aren't Red image" />
+<img src="https://apod.nasa.gov/apod/image/2402/PIA26243-1024.jpg" alt="The Shadow of Ingenuity's Damaged Rotor Blade image" />
 
 </p>
 
-<h5 align="center">Not all roses are red of course, but they can still be very pretty. Likewise, the beautiful Rosette Nebula and other star forming regions are often shown in astronomical images with a predominately red hue, in part because the dominant emission in the nebula is from hydrogen atoms. Hydrogen's strongest optical emission line, known as H-alpha, is in the red region of the spectrum. But the beauty of an emission nebula need not be appreciated in red light alone. Other atoms in the nebula are also excited by energetic starlight and produce narrow emission lines as well. In this close-up view of the Rosette Nebula, narrowband images are mapped into broadband colors to show emission from Sulfur atoms in red, Hydrogen in green, and Oxygen in blue. In fact, the scheme of mapping these narrow atomic emission lines (SHO) into the broader colors (RGB) is adopted in many Hubble images of emission nebulae. This image spans about 50 light-years across the center of the Rosette Nebula. The nebula lies some 3,000 light-years away in the constellation Monoceros.</h5>
+<h5 align="center">On January 18, 2024, during its 72nd flight in the thin Martian atmosphere, autonomous Mars Helicopter Ingenuity rose to an altitude of 12 meters (40 feet) and hovered for 4.5 seconds above the Red Planet.  Ingenuity's 72nd landing was a rough one though. During descent it lost contact with the Perseverance rover about 1 meter above the Martian surface. Ingenuity was able to transmit this image after contact was re-established, showing the shadow of one of its rotor blades likely damaged during landing. And so, after wildly exceeding expectations during over 1,000 days of exploring Mars, the history-making Ingenuity has ended its flight operations. Nicknamed Ginny, Mars Helicopter Ingenuity became the first aircraft to achieve powered, controlled flight on another planet on April 19, 2021. Before launch, a small piece of material from the lower-left wing of the Wright Brothers Flyer 1, the first aircraft to achieve powered, controlled flight on planet Earth, was fixed to the underside of Ingenuity's solar panel.</h5>
 
 ----
 
@@ -188,90 +204,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
