@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Those 'iv qem sunshine into the lives of others cannot pol 'oh from themselves.&quot;</strong>
-  <i>-- &quot;Those who bring sunshine into the lives of others cannot keep it from themselves.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot; {The} môd ðone as {gives}, {gathers}.&quot;</strong>
+  <i>-- &quot;The heart that gives, gathers.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto And Cream</h4>
+<h4 align="center">Holloween Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/dj8n0r1504375018.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/lfeoe41504888925.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grape juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">, orange<br></td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +60,7 @@
 
 
 <p align="center">
-Shake well with cracked ice, strain contents into a cocktail glass, and serve.
+Take a bunch of grape juice and a bunch of fizzy stuff (club soda, ginger ale, lemonlime, whatever). Mix them in a punch bowl. Take orange sherbet and lime sherbet. Scoop out scoops and float them in the punch, let them melt a little so that a nasty film spreads all over the top of the punch but there are still &quot;bubbles&quot; in it in the form of sherbet scoops. Looks horrible, tastes just fine.
 </p>
 
 ----
@@ -164,14 +160,14 @@ Shake well with cracked ice, strain contents into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">HFG1 &amp; Abell 6: Planetary Nebulae - ©️ Julien Cadena &amp; Mickael Coulon; Text: Natalia Lewandowska (SUNY Oswego) @ 2024-02-12</h4>
+<h4 align="center">A January Wolf Moon - ©️ Antoni Zegarski @ 2024-02-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2402/Hfg1Abell6_CadenaCoulon_1080.jpg" alt="HFG1 &amp; Abell 6: Planetary Nebulae image" />
+<img src="https://apod.nasa.gov/apod/image/2402/WolfMoon_Zegarski_960.jpg" alt="A January Wolf Moon image" />
 
 </p>
 
-<h5 align="center">Planetary nebulae like Heckathorn-Fesen-Gull 1 (HFG1) and Abell 6 in the constellation Cassiopeia are remnants from the last phase of a medium sized star like our Sun.  In spite of their shapes, planetary nebulae have nothing in common with actual planets.  Located in the bottom left part of the featured photo, HFG1 was created by the binary star system V664 Cas, which consists of a white dwarf star and a red giant star. Both stars orbit their center of mass over about half an Earth day.  Traveling with the entire nebula at a speed about 300 times faster than the fastest train on Earth, V664 Cas generates a bluish arc shaped shock wave. The wave interacts most strongly with the surrounding interstellar medium in the areas where the arc is brightest. After roughly 10,000 years, planetary nebulae become invisible due to a lack of ultraviolet light being emitted by the stars that create them.  Displaying beautiful shapes and structures, planetary nebulae are highly desired objects for astrophotographers.</h5>
+<h5 align="center">Did you see the full moon last month? During every month, on average, a full moon occurs in the skies over planet Earth. This is because the Moon takes a month to complete another orbit around our home planet, goes through all of its phases, and once again has its entire Earth-facing half lit by reflected sunlight.  Many indigenous cultures give each full moon a name, and this past full moon's names include the Ice Moon, the Stay at Home Moon, and the Quiet Moon. Occurring in January on the modern western calendar, several cultures have also named the most recent full moon the Wolf Moon, in honor of the famous howling animal. Featured here above the Italian Alps mountains, this past Wolf Moon was captured in combined long and short exposure images.  The image is striking because, to some, the surrounding clouds appear as a wolf's mouth ready to swallow the Wolf Moon, while others see the Moon as a wolf's eye.</h5>
 
 ----
 
@@ -184,90 +180,90 @@ Shake well with cracked ice, strain contents into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
