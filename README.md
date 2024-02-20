@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {You} brêman nâteshwôn {what} êow smêan êow m¯æran, {You} fricca nealles {what} {others} underðencan êow medemian, {You} frêogan {what} êower hycgan {others} smêan êow cypren.&quot;</strong>
-  <i>-- &quot;You are not what you think you are, You are not what others think you are, You are what you think others think you are.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;More from a foolish question than a fool can learn from a wise answer,  a wise man can learn.&quot;</strong>
+  <i>-- &quot;A wise man can learn more from a foolish question than a fool can learn from a wise answer.  &quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Boston Sour</h4>
+<h4 align="center">B-52</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/kxlgbi1504366100.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5a3vg61504372070.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +68,7 @@
 
 
 <p align="center">
-Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracked ice and strain into a whiskey sour glass. Add the slice of lemon, top with the cherry, and serve.
+Layer ingredients into a shot glass. Serve with a stirrer.
 </p>
 
 ----
@@ -180,14 +168,14 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Looking Sideways from the Parker Solar Probe - ©️ NASA @ 2024-02-19</h4>
+<h4 align="center">AM1054: Stars Form as Galaxies Collide - ©️ NASA @ 2024-02-20</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/x-wX-wClfig?rel=0" alt="Looking Sideways from the Parker Solar Probe image" />
+<img src="https://apod.nasa.gov/apod/image/2402/AM1054_Hubble_960.jpg" alt="AM1054: Stars Form as Galaxies Collide image" />
 
 </p>
 
-<h5 align="center">What's happening near the Sun?  To help find out, NASA launched the robotic Parker Solar Probe (PSP) to investigate regions closer to the Sun than ever before. The PSP's looping orbit brings it nearer to the Sun each time around -- every few months. The featured time-lapse video shows the view looking sideways from behind PSP's Sun shield during its 16th approach to the Sun last year -- from well within the orbit of Mercury.  The PSP's Wide Field Imager for Solar Probe (WISPR) cameras took the images over eleven days, but they are digitally compressed here into about one minute video.  The waving of the solar corona is visible, as is a coronal mass ejection, with stars, planets, and even the central band of our Milky Way Galaxy streaming by in the background as the PSP orbits the Sun. PSP has found the solar neighborhood to be surprisingly complex and to include switchbacks -- times when the Sun's magnetic field briefly reverses itself.</h5>
+<h5 align="center">When galaxies collide, how many stars are born?  For AM1054-325, featured here in a recently released image by the Hubble Space Telescope, the answer is millions. Instead of stars being destroyed as galaxy AM1054-325 and a nearby galaxy circle each other, their gravity and motion has ignited stellar creation.  Star formation occurs rapidly in the gaseous debris stretching from AM1054-325’s yellowish body due to the other galaxy’s gravitational pull.  Hydrogen gas surrounding newborn stars glows pink.  Bright infant stars shine blue and cluster together in compact nurseries of thousands to millions of stars. AM1054-325 possesses over 100 of these intense-blue, dot-like star clusters, some appearing like a string of pearls.  Analyzing ultraviolet light helped determine that most of these stars are less than 10 million years old: stellar babies.  Many of these nurseries may grow up to be globular star clusters, while the bundle of young stars at the bottom tip may even detach and form a small galaxy.</h5>
 
 ----
 
@@ -200,65 +188,65 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
@@ -266,24 +254,24 @@ Shake juice of lemon, powdered sugar, blended whiskey, and egg white with cracke
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
