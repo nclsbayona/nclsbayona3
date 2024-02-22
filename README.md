@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;'oh'll hot magical ghorgh 'oh's working&quot;</strong>
-  <i>-- &quot;It'll feel magical when it's working&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;O'r an chaos ogir is a cosmos,  o'r an disorder a ranov'la ke'gyce.&quot;</strong>
+  <i>-- &quot;In all chaos there is a cosmos, in all disorder a secret order.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Tequila Sour</h4>
+<h4 align="center">Apple Karate</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ek0mlq1504820601.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/syusvw1468876634.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 slice </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Carrot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 large </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +64,7 @@
 
 
 <p align="center">
-Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whiskey sour glass. Add the half-slice of lemon, top with the cherry, and serve.
+Place all ingredients in the blender jar - cover and whiz on medium speed until well blended. Pour in one tall, 2 medium or 3 small glasses and drink up.
 </p>
 
 ----
@@ -176,14 +164,14 @@ Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Seagull Nebula over Pinnacles' Peak - ©️ Dheera Venkatraman @ 2024-02-21</h4>
+<h4 align="center">A View Toward M106 - ©️ Kyunghoon Lim @ 2024-02-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2402/SeagullPinnacles_Venkatraman_960.jpg" alt="Seagull Nebula over Pinnacles' Peak image" />
+<img src="https://apod.nasa.gov/apod/image/2402/M106field_KyunghoonLim1024.jpg" alt="A View Toward M106 image" />
 
 </p>
 
-<h5 align="center">The bird is bigger than the peak.  Nicknamed for its avian shape, the Seagull Nebula is an emission nebula on the night sky that is vast, spanning an angle over five times the diameter of the full moon and over 200 light years.  The head of the nebula is catalogued as IC 2177, and the star cluster under its right wing is catalogued as NGC 2343. Consisting of mostly red-glowing hydrogen gas, the Seagull Nebula incorporates some dust lanes and is forming stars.  The peak over which this Seagull seems to soar occurs at Pinnacles National Park in California, USA.  The featured image is a composite of long exposure images of the background sky and short exposure images of the foreground, all taken consecutively with the same camera and from the same location.    Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">Big, bright, beautiful spiral, Messier 106 dominates this cosmic vista. The nearly two degree wide telescopic field of view looks toward the well-trained constellation Canes Venatici, near the handle of the Big Dipper. Also known as NGC 4258, M106 is about 80,000 light-years across and 23.5 million light-years away, the largest member of the Canes II galaxy group. For a far far away galaxy, the distance to M106 is well-known in part because it can be directly measured by tracking this galaxy's remarkable maser, or microwave laser emission. Very rare but naturally occurring, the maser emission is produced by water molecules in molecular clouds orbiting its active galactic nucleus. Another prominent spiral galaxy on the scene, viewed nearly edge-on, is NGC 4217 below and right of M106. The distance to NGC 4217 is much less well-known, estimated to be about 60 million light-years, but the bright spiky stars are in the foreground, well inside our own Milky Way galaxy.</h5>
 
 ----
 
@@ -196,90 +184,90 @@ Shake tequila, juice of lemon, and powdered sugar with ice and strain into a whi
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
