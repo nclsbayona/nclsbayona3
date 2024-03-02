@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;be watroc, non ickfey.&quot;</strong>
-  <i>-- &quot;Be confident, not certain.&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Dha less yousa try to impress,  dha more peaceful yousa can be.&quot;</strong>
+  <i>-- &quot;The less you try to impress, the more peaceful you can be.&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Harvey Wallbanger</h4>
+<h4 align="center">Slippery Nipple</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.
+Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Stir the vodka and orange juice with ice in the glass, then float the Galliano o
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Odysseus and The Dish - ©️ John Sarkissian @ 2024-03-01</h4>
+<h4 align="center">Odysseus on the Moon - ©️ NASA @ 2024-03-02</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2403/The_Dish_Tracking_IM-1_22February2024_04s.jpg" alt="Odysseus and The Dish image" />
+<img src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png" alt="Odysseus on the Moon image" />
 
 </p>
 
-<h5 align="center">Murriyang, the CSIRO’s Parkes radio telescope points toward a nearly Full Moon in this image from New South Wales, Australia, planet Earth. Bathed in moonlight, the 64 meter dish is receiving weak radio signals from Odysseus, following the robotic lander's February 22 touch down some 300 kilometers north of the Moon's south pole. The landing of Odysseus represents the first U.S. landing on the Moon since the Apollo 17 mission in 1972. Odysseus' tilted orientation on the lunar surface prevents its high-gain antenna from pointing toward Earth. But the sensitivity of the large, steerable Parkes dish significantly improved the reception of data from the experiments delivered to the lunar surface by the robotic moon lander. Of course the Parkes Radio Telescope dish became famous for its superior lunar television reception during the Apollo 11 mission in 1969, allowing denizens of planet Earth to watch the first moonwalk.</h5>
+<h5 align="center">Methalox rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Stir the vodka and orange juice with ice in the glass, then float the Galliano o
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
