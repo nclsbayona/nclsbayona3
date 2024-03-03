@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Dha less yousa try to impress,  dha more peaceful yousa can be.&quot;</strong>
-  <i>-- &quot;The less you try to impress, the more peaceful you can be.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Sahrafel svi' sahr-tor-tor,  na' svi' au nam-tor wuh ipik temep tor ek'wak'es.&quot;</strong>
+  <i>-- &quot;Trust in dreams, for in them is the hidden gate to eternity.  &quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Slippery Nipple</h4>
+<h4 align="center">Flaming Lamborghini</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/l9tgru1551439725.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yywpss1461866587.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the two liquids do not mix.
+Pour the Sambuca and Kahlua into the Cocktail Glass and give the drinker a straw. Pour the Baileys and Blue Curacao into two sepsrate shot glasses either side of the cocktail glass. Set light the concotion in the cocktail glass and start to drink through the straw (this drink should be drunk in one) , as the bottom of the glass is reached put out the fire by pouring the Baileys and Blue Curacao into the cocktail glass and keep drinking till it's all gone!!
 </p>
 
 ----
@@ -164,14 +172,14 @@ Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Odysseus on the Moon - ©️ NASA @ 2024-03-02</h4>
+<h4 align="center">A Total Solar Eclipse Close-Up in Real Time - ©️ Jun Ho Oh (KAIST, HuboLab);  Music: Flowing Air by Mattia Vlad Morleo @ 2024-03-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2403/IM_Odysseus_landing-1100x600.png" alt="Odysseus on the Moon image" />
+<img src="https://www.youtube.com/embed/5D9j-8Vhyto?rel=0&amp;showinfo=0" alt="A Total Solar Eclipse Close-Up in Real Time image" />
 
 </p>
 
-<h5 align="center">Methalox rocket engine firing, Odysseus' landing legs absorb first contact with the lunar surface in this wide-angle snapshot from a camera on board the robotic Intuitive Machines Nova-C moon lander. Following the landing on February 22, broken landing legs, visible in the image, ultimately left the lander at rest but tilted. Odysseus' gentle lean into a sloping lunar surface preserved the phone booth-sized lander's ability to operate, collect solar power, and return images and data to Earth. Its exact landing site in the Moon's far south polar region was imaged by NASA's Lunar Reconnaissance Orbiter. Donated by NASA, the American flag seen on the lander's central panel is 1970 Apollo program flight hardware.</h5>
+<h5 align="center">How would you feel if the Sun disappeared? Many eclipse watchers across the USA surprised themselves in 2017 with the awe that they felt and the exclamations that they made as the Sun momentarily disappeared behind the Moon. Perhaps expecting just a brief moment of dusk, the spectacle of unusually rapid darkness, breathtakingly bright glowing beads around the Moon's edge, shockingly pink solar prominences, and a strangely detailed corona stretching across the sky caught many a curmudgeon by surprise.  Many of these attributes  were captured in the featured real-time, three-minute video of 2017's total solar eclipse. The video frames were acquired in  Warm Springs, Oregon with equipment specifically designed by Jun Ho Oh to track a close-up of the Sun's periphery during eclipse.  As the video ends, the Sun is seen being reborn on the other side of the Moon from where it departed.  Next month, on April 8th, a new total solar eclipse will be visible in a thin band across North America.</h5>
 
 ----
 
@@ -184,57 +192,57 @@ Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -242,32 +250,32 @@ Pour the Sambuca into a shot glass, then pour the Irish Cream on top so that the
 <img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
