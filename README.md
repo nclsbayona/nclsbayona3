@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vuv other people's feelings. 'oh might mean pagh to tlhih,  'ach 'oh could mean hoch to chah.&quot;</strong>
-  <i>-- &quot;Respect other people's feelings. It might mean nothing to you, but it could mean everything to them.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Estel means believing i unbelievable.&quot;</strong>
+  <i>-- &quot;Faith means believing the unbelievable.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orange Crush</h4>
+<h4 align="center">9 1/2 Weeks</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/zvoics1504885926.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xvwusr1472669302.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Add all ingredients to tumbler-Pour as shot
+Combine all ingredients in glass mixer. Chill and strain into Cocktail glass. Garnish with sliced strawberry.
 </p>
 
 ----
@@ -188,51 +192,51 @@ Add all ingredients to tumbler-Pour as shot
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
@@ -243,35 +247,35 @@ Add all ingredients to tumbler-Pour as shot
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
