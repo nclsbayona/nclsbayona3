@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tolvie mēre hen īlva iksos se sum total hen zȳhon own thoughts.&quot;</strong>
-  <i>-- &quot;Every one of us is the sum total of his own thoughts.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;10x mishek nam-tor wuh myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Pisco Sour</h4>
+<h4 align="center">Quentin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tsssur1439907622.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pisco</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1-2 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
         </tr>
     </tbody>
 </table>
@@ -72,8 +72,7 @@
 
 
 <p align="center">
-Vigorously shake and strain contents in a cocktail shaker with ice cubes, then pour into glass and garnish with bitters.
-
+In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.
 </p>
 
 ----
@@ -173,14 +172,14 @@ Vigorously shake and strain contents in a cocktail shaker with ice cubes, then p
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Galileo's Europa - ©️ NASA @ 2024-03-29</h4>
+<h4 align="center">Medieval Astronomy from Melk Abbey - ©️ Library of Melk Abbey, Frag. 229 @ 2024-03-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2403/PIA19048europa1024.jpg" alt="Galileo's Europa image" />
+<img src="https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg" alt="Medieval Astronomy from Melk Abbey image" />
 
 </p>
 
-<h5 align="center">Looping through the Jovian system in the late 1990s, the Galileo spacecraft recorded stunning views of Europa and uncovered evidence that the moon's icy surface likely hides a deep, global ocean. Galileo's Europa image data has been remastered here, with improved calibrations to produce a color image approximating what the human eye might see. Europa's long curving fractures hint at the subsurface liquid water.  The tidal flexing the large moon experiences in its elliptical orbit around Jupiter supplies the energy to keep the ocean liquid. But more tantalizing is the possibility that even in the absence of sunlight that process could also supply the energy to support life, making Europa one of the best places to look for life beyond Earth. The Juno spacecraft currently in Jovian orbit has also made repeated flybys of the water world, returning images along with data exploring Europa's habitability. This October will see the launch of the NASA's Europa Clipper on a voyage of exploration. The spacecraft will make nearly 50 flybys, approaching to within 25 kilometers of Europa's icy surface.</h5>
+<h5 align="center">Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria.</h5>
 
 ----
 
@@ -193,90 +192,90 @@ Vigorously shake and strain contents in a cocktail shaker with ice cubes, then p
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
