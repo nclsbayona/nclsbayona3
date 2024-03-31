@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;10x mishek nam-tor wuh myth&quot;</strong>
-  <i>-- &quot;10x engineers are a myth&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Full of brilliant ideas,  your mind is&quot;</strong>
+  <i>-- &quot;Your mind is full of brilliant ideas&quot; in yoda language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Quentin</h4>
+<h4 align="center">Caipirinha</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/spxtqp1478963398.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jgvn7p1582484435.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Nutmeg</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/8 tsp grated </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cachaca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shake well. Strain into a cocktail glass and garnish with the nutmeg.
+Place lime and sugar into old fashioned glass and muddle (mash the two ingredients together using a muddler or a wooden spoon). Fill the glass with ice and add the Cachaça.
 </p>
 
 ----
@@ -172,14 +168,14 @@ In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shak
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Medieval Astronomy from Melk Abbey - ©️ Library of Melk Abbey, Frag. 229 @ 2024-03-30</h4>
+<h4 align="center">Total Solar Eclipse Below the Bottom of the World - ©️ Petr Horálek(ESOPhoto Ambassador,Inst. of Physics in Opava) ; Acknowledgement: Xavier Jubier @ 2024-03-31</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2403/medieval_fragmentW600.jpg" alt="Medieval Astronomy from Melk Abbey image" />
+<img src="https://apod.nasa.gov/apod/image/2403/EclipseAntarctica_Horalek_1080.jpg" alt="Total Solar Eclipse Below the Bottom of the World image" />
 
 </p>
 
-<h5 align="center">Discovered by accident, this manuscript page provides graphical insight to astronomy in medieval times, before the Renaissance and the influence of Nicolaus Copernicus, Tycho de Brahe, Johannes Kepler, and Galileo. The intriguing page is from lecture notes on astronomy compiled by the monk Magister Wolfgang de Styria before the year 1490. The top panels clearly illustrate the necessary geometry for a lunar (left) and solar eclipse in the Earth-centered Ptolemaic system. At lower left is a diagram of the Ptolemaic view of the Solar System with text at the upper right to explain the movement of the planets according to Ptolemy's geocentric model. At the lower right is a chart to calculate the date of Easter Sunday in the Julian calendar. The illustrated manuscript page was found at historic Melk Abbey in Austria.</h5>
+<h5 align="center">In late 2021 there was a total solar eclipse visible only at the end of the Earth.  To capture the unusual phenomenon, airplanes took flight below the clouded seascape of Southern Ocean. The featured image shows one relatively spectacular capture where the bright spot is the outer corona of the Sun and the eclipsing Moon is seen as the dark spot in the center.  A wing and engine of the airplane are visible across the left and bottom of the image, while another airplane observing the eclipse is visible on the far left. The dark area of the sky surrounding the eclipsed Sun is called a shadow cone. It is dark because you are looking down a long corridor of air shadowed by the Moon. A careful inspection of the eclipsed Sun will reveal the planet Mercury just to the right. You won't have to travel to the end of the Earth to see the next total solar eclipse. The total eclipse path will cross North America on 2024 April 8, just over one week from today.   NASA Coverage: Total Solar Eclipse of 2024 April 8</h5>
 
 ----
 
@@ -192,54 +188,54 @@ In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shak
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
@@ -247,35 +243,35 @@ In a shaker half-filled with ice cubes, combine the rum, Kahlua, and cream. Shak
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
