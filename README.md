@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Naas is impossible. Te miit ast says 'ni’m ret'yc!'&quot;</strong>
-  <i>-- &quot;Nothing is impossible. The word itself says 'I’m possible!'&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Ch'at best rt'eseci-altering bsuhi carcir ch'at vasu'as.&quot;</strong>
+  <i>-- &quot;The best mind-altering drug is the truth.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bailey's Dream Shake</h4>
+<h4 align="center">Green Goblin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qxrvqw1472718959.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Soft Drink</h5>
+<h5 align="center">Alcoholic - Beer</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint hard </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla ice-cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !
+Cider First, Lager then Curacao
 </p>
 
 ----
@@ -164,14 +168,14 @@ Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet Pons-Brooks at Night - ©️ Dan Bartlett @ 2024-04-04</h4>
+<h4 align="center">The Solar Corona Unwrapped - ©️ Barden Ridge Observatory @ 2024-04-05</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/12P_Pons_Brooks_2024_03_30_JuneLake_DEBartlett1024.jpg" alt="Comet Pons-Brooks at Night image" />
+<img src="https://apod.nasa.gov/apod/image/2404/CoronaGraph_1024.jpg" alt="The Solar Corona Unwrapped image" />
 
 </p>
 
-<h5 align="center">In dark evening skies over June Lake, northern hemisphere, planet Earth, Comet 12P/Pons-Brooks stood just above the western horizon on March 30. Its twisted turbulent ion tail and diffuse greenish coma are captured in this two degree wide telescopic field of view along with bright yellowish star Hamal also known as Alpha Arietis. Now Pons-Brooks has moved out of the northern night though, approaching perihelion on April 21. On April 8 you might still spot the comet in daytime skies. But to do it, you will have to stand in the path of totality and look away from the spectacle of an alluring solar corona and totally eclipsed Sun.   NASA Coverage: Total Solar Eclipse of 2024 April 8</h5>
+<h5 align="center">Changes in the alluring solar corona are detailed in this creative composite image mapping the dynamic outer atmosphere of the Sun during two separate total solar eclipses. Unwrapped from the complete circle of the eclipsed Sun's edge to a rectangle and mirrored, the entire solar corona is shown during the 2017 eclipse (bottom) seen from Jackson Hole, Wyoming, and the 2023 eclipse from Exmouth, Western Australia. While the 2017 eclipse was near a minimum in the Sun's 11 year activity cycle, the 2023 eclipse was closer to solar maximum. The 2023 solar corona hints at the dramatically different character of the active Sun, with many streamers and pinkish prominences arising along the solar limb. Of course, the solar corona is only easily visible to the eye while standing in the shadow of the Moon.   NASA Coverage: Total Solar Eclipse of 2024 April 8</h5>
 
 ----
 
@@ -184,57 +188,57 @@ Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -242,21 +246,21 @@ Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !
 <img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -264,10 +268,10 @@ Blend ingredients for 30 seconds. Definitely refreshing for a hot summer's day !
 <img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
