@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Worthy and deserving of respect,  you are&quot;</strong>
-  <i>-- &quot;You are worthy and deserving of respect&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot; {Beware} râd lêassagol scêad, sê {is} furðor further plihtlic {than} unwîsnes.&quot;</strong>
+  <i>-- &quot;Beware of false knowledge, it is more dangerous than ignorance.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Boxcar</h4>
+<h4 align="center">Godchild</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pwgtpa1504366376.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/m5nhtr1504820829.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg white</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine all of the ingredients. Shake well. Strain into a sour glass.
+Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.
 </p>
 
 ----
@@ -176,14 +168,14 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Unwinding M51 - ©️ Hubble Heritage Project @ 2024-04-06</h4>
+<h4 align="center">A Total Solar Eclipse over Wyoming - ©️ Ben Cooper @ 2024-04-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/M51Unwound_crop600.jpg" alt="Unwinding M51 image" />
+<img src="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg" alt="A Total Solar Eclipse over Wyoming image" />
 
 </p>
 
-<h5 align="center">The arms of a grand design spiral galaxy 60,000 light-years across are unwound in this digital transformation of the magnificent 2005 Hubble Space Telescope portrait of M51. In fact, M51 is one of the original spiral nebulae, its winding arms described by a mathematical curve known as a logarithmic spiral, a spiral whose separation grows in a geometric way with increasing distance from the center. Applying logarithms to shift the pixel coordinates in the Hubble image relative to the center of M51 maps the galaxy's spiral arms into diagonal straight lines. The transformed image dramatically shows the arms themselves are traced by star formation, lined with pinkish starforming regions and young blue star clusters. Companion galaxy NGC 5195 (top) seems to alter the track of the arm in front of it though, and itself remains relatively unaffected by this unwinding of M51. Also known as the spira mirabilis, logarthimic spirals can be found in nature on all scales. For example, logarithmic spirals can also describe hurricanes, the tracks of subatomic particles in a bubble chamber and, of course, cauliflower.   NASA Coverage: Total Solar Eclipse of 2024 April 8</h5>
+<h5 align="center">Will the sky be clear enough to see the eclipse? This question is already on the minds of many North Americans hoping to see tomorrow's solar eclipse.  This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in August 2017.  Then, the path of total darkness shot across the mainland of the USA from coast to coast, from Oregon to South Carolina -- but, like tomorrow's event, a partial eclipse occurred above most of North America.  Unfortunately, in 2017, many locations saw predominantly clouds. One location that did not was a bank of the Green River Lakes, Wyoming.  Intermittent clouds were far enough away to allow the center image of the featured composite sequence to be taken, an image that shows the corona of the Sun extending out past the central dark Moon that blocks our familiar Sun. The surrounding images show the partial phases of the solar eclipse both before and after totality.   NASA Coverage: Tomorrow's Total Solar Eclipse</h5>
 
 ----
 
@@ -196,10 +188,10 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
@@ -207,43 +199,43 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
@@ -251,35 +243,35 @@ In a shaker half-filled with ice cubes, combine all of the ingredients. Shake we
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
