@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {Beware} râd lêassagol scêad, sê {is} furðor further plihtlic {than} unwîsnes.&quot;</strong>
-  <i>-- &quot;Beware of false knowledge, it is more dangerous than ignorance.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot; {The} mearcpæð oferniman fremming {is} unnan 1 an feccan {massive}, stîðhygd underfeng&quot;</strong>
+  <i>-- &quot;The path to success is to take massive, determined action&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Godchild</h4>
+<h4 align="center">Russian Spring Punch</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/m5nhtr1504820829.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ctt20s1504373488.jpg" alt="Drink image" />
 
 </p>
 
@@ -49,15 +49,19 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2.5 cl</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients well with cracked ice, strain into a champagne flute, and serve.
+Pour the ingredients into an highball glass, top with Sparkling wine.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Shake all ingredients well with cracked ice, strain into a champagne flute, and 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Total Solar Eclipse over Wyoming - ©️ Ben Cooper @ 2024-04-07</h4>
+<h4 align="center">The Changing Ion Tail of Comet Pons-Brooks - ©️ Shengyu Li &amp; Shaining @ 2024-04-08</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/EclipseWyoming_Cooper_960.jpg" alt="A Total Solar Eclipse over Wyoming image" />
+<img src="https://apod.nasa.gov/apod/image/2404/Comet12pTails_ShengyuLi_960.jpg" alt="The Changing Ion Tail of Comet Pons-Brooks image" />
 
 </p>
 
-<h5 align="center">Will the sky be clear enough to see the eclipse? This question is already on the minds of many North Americans hoping to see tomorrow's solar eclipse.  This question was also on the mind of many people attempting to see the total solar eclipse that crossed North America in August 2017.  Then, the path of total darkness shot across the mainland of the USA from coast to coast, from Oregon to South Carolina -- but, like tomorrow's event, a partial eclipse occurred above most of North America.  Unfortunately, in 2017, many locations saw predominantly clouds. One location that did not was a bank of the Green River Lakes, Wyoming.  Intermittent clouds were far enough away to allow the center image of the featured composite sequence to be taken, an image that shows the corona of the Sun extending out past the central dark Moon that blocks our familiar Sun. The surrounding images show the partial phases of the solar eclipse both before and after totality.   NASA Coverage: Tomorrow's Total Solar Eclipse</h5>
+<h5 align="center">How does a comet tail change? It depends on the comet.  The ion tail of Comet 12P/Pons–Brooks has been changing markedly, as detailed in the featured image sequenced over nine days from March 6 to 14 (top to bottom).  On some days, the comet's ion tail was relatively long and complex, but not every day.  Reasons for tail changes include the rate of ejection of material from the comet's nucleus, the strength and complexity of the passing solar wind, and the rotation rate of the comet.  Over the course of a week, apparent changes even include a change of perspective from the Earth. In general, a comet's ion tail will point away from the Sun, as gas expelled is pushed out by the Sun's wind. Today, Pons-Brooks may become a rare comet suddenly visible in the middle of the day for those able to see the Sun totally eclipsed by the Moon.   NASA Coverage: Today's Total Solar Eclipse  Total Eclipse Imagery: Notable Submissions to APOD</h5>
 
 ----
 
@@ -188,24 +192,24 @@ Shake all ingredients well with cracked ice, strain into a champagne flute, and 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -213,54 +217,54 @@ Shake all ingredients well with cracked ice, strain into a champagne flute, and 
 <img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +272,10 @@ Shake all ingredients well with cracked ice, strain into a champagne flute, and 
 <img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
