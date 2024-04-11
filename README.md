@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vah rsah tta g'et vah tan'rah&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;ye can't be tellin' big dreams t' small minded people.&quot;</strong>
+  <i>-- &quot;You can't tell big dreams to small minded people.&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brave Bull Shooter</h4>
+<h4 align="center">Addison Special</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yrtypx1473344625.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4vo5651493068493.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Pour Tabasco into bottom of shot glass and fill with tequila.
+Combine ingredients in the order listed into a shaker. Fill half full with ice and shake well. Strain into glass with ice and garnish with a cherry and orange wedge.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Pour Tabasco into bottom of shot glass and fill with tequila.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Planets Around a Total Eclipse - ©️ NASA @ 2024-04-10</h4>
+<h4 align="center">Eclipse in Seven - ©️ April 8's @ 2024-04-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/EclipsePlanets_Vetter_960.jpg" alt="Planets Around a Total Eclipse image" />
+<img src="https://apod.nasa.gov/apod/image/2404/2024_Eclipse_05XTan1024.jpg" alt="Eclipse in Seven image" />
 
 </p>
 
-<h5 align="center">What wonders appear when the Moon blocks the Sun? For many eager observers of Monday’s total eclipse of the Sun, the suddenly dark sky included the expected corona and two (perhaps surprise) planets: Venus and Jupiter. Normally, in recent days, Venus is visible only in the morning when the Sun and Jupiter are below the horizon, while Jupiter appears bright only in the evening.  On Monday, though, for well-placed observers, both planets became easily visible during the day right in line with the totally eclipsed Sun. This line was captured Monday afternoon in the featured image from Mount Nebo, Arkansas, USA, along with a line of curious observers — and a picturesque tree.   Monday's Eclipse Imagery: Notable Submissions to APOD</h5>
+<h5 align="center">Start at the upper left above and you can follow the progress of April 8's total eclipse of the Sun in seven sharp, separate exposures. The image sequence was recorded with a telescope and camera located within the narrow path of totality as the Moon's shadow swept across Newport, Vermont, USA. At center is a spectacular view of the solar corona. The tenuous outer atmosphere of the Sun is only easily visible to the eye in clear dark skies during the total eclipse phase. Seen from Newport, the total phase for this solar eclipse lasted about 3 minutes and 26 seconds.   Monday's Eclipse Imagery: Notable Submissions to APOD</h5>
 
 ----
 
@@ -184,21 +188,21 @@ Pour Tabasco into bottom of shot glass and fill with tequila.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
@@ -206,68 +210,68 @@ Pour Tabasco into bottom of shot glass and fill with tequila.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
 </td>
 </tr>
 </table>
