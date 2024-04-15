@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Your yin is already a miracle of 'eb waiting for tlhih to shape its destiny&quot;</strong>
-  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Failure be just another way t' learn how t' do somethin' right&quot;</strong>
+  <i>-- &quot;Failure is just another way to learn how to do something right&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Affair</h4>
+<h4 align="center">Orangeade</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 cl </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.
+Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. T
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">How a Total Solar Eclipse Ended - ©️ David Duarte @ 2024-04-14</h4>
+<h4 align="center">The Cigar Galaxy from Hubble and Webb - ©️ NASA @ 2024-04-15</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/w5uUcq__vMo?rel=0" alt="How a Total Solar Eclipse Ended image" />
+<img src="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg" alt="The Cigar Galaxy from Hubble and Webb image" />
 
 </p>
 
-<h5 align="center">How does a total solar eclipse end? Yes, the Moon moves out from fully blocking the Sun, but in the first few seconds of transition, interesting things appear. The first is called a diamond ring. Light might stream between mountains or through relative lowlands around the Moon's edge, as seen from your location, making this sudden first light, when combined with the corona that surrounds the Moon, look like a diamond ring. Within seconds other light streams appear that are called, collectively, Bailey's beads. In the featured video, it may seem that the pink triangular prominence on the Sun is somehow related to where the Sun begins to reappear, but it is not. Observers from other locations saw Bailey's beads emerge from different places around the Moon, away from the iconic triangular solar prominence visible to all. The video was captured with specialized equipment from New Boston, Texas, USA on April 8, 2024.   Solar Eclipse Imagery: Notable Submissions to APOD</h5>
+<h5 align="center">Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. T
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
