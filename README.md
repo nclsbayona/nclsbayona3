@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Failure be just another way t' learn how t' do somethin' right&quot;</strong>
-  <i>-- &quot;Failure is just another way to learn how to do something right&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;A asshekh oma laughter is a asshekh wasted.&quot;</strong>
+  <i>-- &quot;A day without laughter is a day wasted.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orangeade</h4>
+<h4 align="center">Orange Rosemary Collins</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ytsxxw1441167732.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mokcas1604179977.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosemary Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rosemary</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Place some ice cubes in a large tumbler or highball glass, add lemon juice, orange juice, sugar syrup, and stir well. Top up with cold soda water, serve with a drinking straw.
+Add the spirits to the bottom of the glass and top equally with the mixer drinks. Garnish with orange slices inside the glass as well as some rosemary on top.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Place some ice cubes in a large tumbler or highball glass, add lemon juice, oran
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Cigar Galaxy from Hubble and Webb - ©️ NASA @ 2024-04-15</h4>
+<h4 align="center">Filaments of the Vela Supernova Remnant - ©️ NASA @ 2024-04-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/M82Center_HubbleWebb_1080.jpg" alt="The Cigar Galaxy from Hubble and Webb image" />
+<img src="https://apod.nasa.gov/apod/image/2404/VelaSnr_CTIO_960.jpg" alt="Filaments of the Vela Supernova Remnant image" />
 
 </p>
 
-<h5 align="center">Something strange happened to this galaxy, but what? Known as the Cigar Galaxy and cataloged as M82, red glowing gas and dust are being cast out from the center.  Although this starburst galaxy was surely stirred up by a recent pass near its neighbor, large spiral galaxy M81, this doesn't fully explain the source of the red-glowing outwardly expanding gas and dust.  Evidence indicates that this material is being driven out by the combined emerging particle winds of many stars, together creating a galactic superwind. In the featured images, a Hubble Space Telescope image in visible light is shown on the left, while a James Webb Space Telescope image of the central region in infrared light is shown on the right.  Detailed inspection of the new Webb image shows, unexpectedly, that this red-glowing dust is associated with hot plasma. Research into the nature of this strange nearby galaxy will surely continue.    Total Eclipse Imagery: Notable Submissions to APOD</h5>
+<h5 align="center">The explosion is over, but the consequences continue.  About eleven thousand years ago, a star in the constellation of Vela could be seen to explode, creating a strange point of light briefly visible to humans living near the beginning of recorded history.  The outer layers of the star crashed into the interstellar medium, driving a shock wave that is still visible today.  The featured image captures some of that filamentary and gigantic shock in visible light. As gas flies away from the detonated star, it decays and reacts with the interstellar medium, producing light in many different colors and energy bands. Remaining at the center of the Vela Supernova Remnant is a pulsar, a star as dense as nuclear matter that spins around more than ten times in a single second.   Monday's Eclipse Imagery: Notable Submissions to APOD</h5>
 
 ----
 
@@ -188,90 +204,90 @@ Place some ice cubes in a large tumbler or highball glass, add lemon juice, oran
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
