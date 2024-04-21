@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {There} gleng twêgen nu {shortcuts} âweorpan welhwilc pro friðoðêawas medemnes sîð. &quot;</strong>
-  <i>-- &quot;There are no shortcuts to any place worth going. &quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Prefer kia buti anulija kash tave akiva iv tave wise than kia excel among fools.&quot;</strong>
+  <i>-- &quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot; in sith language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Archbishop</h4>
+<h4 align="center">Angel Face</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/4g6xds1582579703.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-In an old-fashioned glass almost filled with ice cubes, combine all of the ingredients. Stir well.
+Shake all ingredients with ice and strain contents into a cocktail glass.
 </p>
 
 ----
@@ -172,14 +168,14 @@ In an old-fashioned glass almost filled with ice cubes, combine all of the ingre
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Diamonds in the Sky - ©️ Wright Dobbs @ 2024-04-20</h4>
+<h4 align="center">Perijove 16: Passing Jupiter - ©️ NASA @ 2024-04-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/tse2024Dobbs_1024.jpg" alt="Diamonds in the Sky image" />
+<img src="https://www.youtube.com/embed/c4TU3arrZR8?rel=0" alt="Perijove 16: Passing Jupiter image" />
 
 </p>
 
-<h5 align="center">When the dark shadow of the Moon raced across North America on April 8, sky watchers along the shadow's narrow central path were treated to a total solar eclipse. During the New Moon's shadow play diamonds glistened twice in the eclipse-darkened skies. The transient celestial jewels appeared immediately before and after the total eclipse phase. That's when the rays of a vanishing and then emerging sliver of solar disk are just visible behind the silhouetted Moon's edge, creating the appearance of a shiny diamond set in a dark ring. This dramatic timelapse composite from north-central Arkansas captures both diamond ring moments of this total solar eclipse. The diamond rings are separated by the ethereal beauty of the solar corona visible during totality.</h5>
+<h5 align="center">Watch Juno zoom past Jupiter.  NASA's robotic spacecraft Juno is continuing on its now month-long, highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 16, the sixteenth time that Juno passed near Jupiter since it arrived in mid-2016. Each perijove passes near a slightly different part of Jupiter's cloud tops.  This color-enhanced video has been digitally composed from 21 JunoCam still images, resulting in a 125-fold time-lapse. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  As Juno moves away, the remarkable dolphin-shaped cloud is visible.  After the perijove, Jupiter recedes into the distance, now displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</h5>
 
 ----
 
@@ -192,57 +188,57 @@ In an old-fashioned glass almost filled with ice cubes, combine all of the ingre
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -250,32 +246,32 @@ In an old-fashioned glass almost filled with ice cubes, combine all of the ingre
 <img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
