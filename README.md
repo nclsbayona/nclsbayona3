@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Prefer kia buti anulija kash tave akiva iv tave wise than kia excel among fools.&quot;</strong>
-  <i>-- &quot;Prefer to be defeated in the presence of the wise than to excel among fools.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;It sa doe nature of doe wise tah resist pleasures,  but doe foolish tah be do shag tah hoohah.&quot;</strong>
+  <i>-- &quot;It is the nature of the wise to resist pleasures, but the foolish to be a slave to them.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Angel Face</h4>
+<h4 align="center">Lazy Coconut Paloma</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vaukir1606772580.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rytuex1598719770.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut Liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">75 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice and strain contents into a cocktail glass.
+Mix the coconut liqueur (preferably tequila) with the grapefruit juice and top with soda water. Garnish with a large grapefruit slice against the inside of the glass.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Shake all ingredients with ice and strain contents into a cocktail glass.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Perijove 16: Passing Jupiter - ©️ NASA @ 2024-04-21</h4>
+<h4 align="center">Moon and Smoke Rings from Mt. Etna - ©️ Dario Giannobile @ 2024-04-22</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/c4TU3arrZR8?rel=0" alt="Perijove 16: Passing Jupiter image" />
+<img src="https://apod.nasa.gov/apod/image/2404/EtnaRingsMoonCrop_Giannobile_960.jpg" alt="Moon and Smoke Rings from Mt. Etna image" />
 
 </p>
 
-<h5 align="center">Watch Juno zoom past Jupiter.  NASA's robotic spacecraft Juno is continuing on its now month-long, highly-elongated orbits around our Solar System's largest planet.  The featured video is from perijove 16, the sixteenth time that Juno passed near Jupiter since it arrived in mid-2016. Each perijove passes near a slightly different part of Jupiter's cloud tops.  This color-enhanced video has been digitally composed from 21 JunoCam still images, resulting in a 125-fold time-lapse. The video begins with Jupiter rising as Juno approaches from the north. As Juno reaches its closest view -- from about 3,500 kilometers over Jupiter's cloud tops -- the spacecraft captures the great planet in tremendous detail. Juno passes light zones and dark belts of clouds that circle the planet, as well as numerous swirling circular storms, many of which are larger than hurricanes on Earth.  As Juno moves away, the remarkable dolphin-shaped cloud is visible.  After the perijove, Jupiter recedes into the distance, now displaying the unusual clouds that appear over Jupiter's south.  To get desired science data, Juno swoops so close to Jupiter that its instruments are exposed to very high levels of radiation.</h5>
+<h5 align="center">Yes, but can your volcano do this? To the surprise of some, Mt. Etna emits, on occasion, smoke rings. Technically known as vortex rings, the walls of the volcano slightly slow the outside of emitted smoke puffs, causing the inside gas to move faster.  A circle of low pressure develops so that the emitted puff of volcanic gas and ash loops around in a ring, a familiar geometric structure that can be surprisingly stable as it rises. Smoke rings are quite rare and need a coincidence of the right geometry  of the vent, the right speed of ejected smoke, and the relative calmness of the outside atmosphere.  In the featured image taken about two weeks ago from Gangi, Sicily, Italy, multiple volcanic smoke rings are visible.  The scene is shaded by the red light of a dawn Sun, while a crescent Moon is visible in the background.</h5>
 
 ----
 
@@ -188,32 +204,32 @@ Shake all ingredients with ice and strain contents into a cocktail glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
@@ -221,43 +237,43 @@ Shake all ingredients with ice and strain contents into a cocktail glass.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
@@ -265,13 +281,13 @@ Shake all ingredients with ice and strain contents into a cocktail glass.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
