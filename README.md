@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;In the van,  'oh's not the years in your yin 'e' togh. 'oh's the yin in your years.&quot;</strong>
-  <i>-- &quot;In the end, it's not the years in your life that count. It's the life in your years.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Rovsari carcir built sequentially. Hah's in'a thing mah ch'a csact'i.&quot;</strong>
+  <i>-- &quot;Success is built sequentially. It's one thing at a time.&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Broadside</h4>
+<h4 align="center">69 Special</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/l2o6xu1582476870.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqyxqx1472669095.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz dry </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7-Up</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 drops</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wormwood</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Fresh</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum, scotch and butters, then serve!
+Pour 2 oz. gin. Add 4 oz. 7-up. Add Lemon Juice for flavor. If you are weak, top up glass with more 7-Up.
 </p>
 
 ----
@@ -184,14 +168,14 @@ Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum,
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Contrail Shadow X - ©️ Fatih Ekmen @ 2024-04-23</h4>
+<h4 align="center">Dragon's Egg Bipolar Emission Nebula - ©️ Rowan Prangley @ 2024-04-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/ContrailX_Ekmen_960.jpg" alt="Contrail Shadow X image" />
+<img src="https://apod.nasa.gov/apod/image/2404/DragonsEgg_Prangley_960.jpg" alt="Dragon's Egg Bipolar Emission Nebula image" />
 
 </p>
 
-<h5 align="center">What created this giant X in the clouds? It was the shadow of contrails illuminated from below. When airplanes fly, humid engine exhaust may form water droplets that might freeze in Earth's cold upper atmosphere.  These persistent streams of water and ice scatter light from the Sun above and so appear bright from below. On rare occasions, though, when the Sun is near the horizon, contrails can be lit from below.  These contrails cast long shadows upwards, shadows that usually go unseen unless there is a high cloud deck. But that was just the case over Istanbul, Türkiye, earlier this month. Contrails occur all over planet Earth and, generally, warm the Earth when the trap infrared light but cool the Earth when they efficiently reflect sunlight. The image was taken by a surprised photographer in the morning on the way to work.</h5>
+<h5 align="center">How did a star form this beautiful nebula?  In the middle of emission nebula NGC 6164 is an unusually massive star.  The central star has been compared to an oyster's pearl and an egg protected by the mythical sky dragons of Ara.  The star, visible in the center of the featured image and catalogued as HD 148937, is so hot that the ultraviolet light it emits heats up gas that surrounds it.  That gas was likely thrown off from the star previously, possibly the result of a gravitational interaction with a looping stellar companion.  Expelled material might have been channeled by the magnetic field of the massive star, in all creating the symmetric shape of the bipolar nebula.  NGC 6164 spans about four light years and is located about 3,600 light years away toward the southern constellation Norma.   New Mirror: APOD now available via WhatsApp</h5>
 
 ----
 
@@ -204,90 +188,90 @@ Half fill the glass with ice cubes. Crush the wormwood and add to ice. Pour rum,
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
