@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Off until tomorrow what you are willing to die having left undone,  only put.&quot;</strong>
-  <i>-- &quot;Only put off until tomorrow what you are willing to die having left undone.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;People with goals succeed because they be knowin' whar they’re goin'&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Victor</h4>
+<h4 align="center">Pure Passion</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/voapgc1492976416.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4tymma1604179273.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">40 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 ml</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Mix up all ingredients with a cocktail stirrer and serve with crushed ice with mint and edible flour if available.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rings Around the Ring Nebula - ©️ Robert Gendler @ 2024-04-28</h4>
+<h4 align="center">Comet, Planet, Moon - ©️ Juan Carlos Casado @ 2024-04-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2404/M57Ring_HubbleGendler_960.jpg" alt="Rings Around the Ring Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2404/CometTriple_Casado_1080.jpg" alt="Comet, Planet, Moon image" />
 
 </p>
 
-<h5 align="center">The Ring Nebula (M57) is more complicated than it appears through a small telescope.  The easily visible central ring is about one light-year across, but this remarkably deep exposure - a collaborative effort combining data from three different large telescopes - explores the looping filaments of glowing gas extending much farther from the nebula's central star. This composite image includes red light emitted by hydrogen as well as visible and infrared light. The Ring Nebula is an elongated planetary nebula, a type of nebula created when a Sun-like star evolves to throw off its outer atmosphere and become a white dwarf star.  The Ring Nebula is about 2,500 light-years away toward the musical constellation Lyra.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">Three bright objects satisfied seasoned stargazers of the western sky just after sunset earlier this month. The most familiar was the Moon, seen on the upper left in a crescent phase. The rest of the Moon was faintly visible by sunlight first reflected by the Earth. The bright planet Jupiter, the largest planet in the Solar System, is seen to the upper left.  Most unusual was Comet 12P/Pons-Brooks, below the Moon and showing a stubby dust tail on the right but an impressive ion tail extending upwards.  The featured image, a composite of several images taken consecutively at the same location and with the same camera, was taken near the village of Llers, in Spain's Girona province.  Comet Pons-Brooks passed its closest to the Sun last week and is now dimming as it moves into southern skies and returns to the outer Solar System.   Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -188,90 +204,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
