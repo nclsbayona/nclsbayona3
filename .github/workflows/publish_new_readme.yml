@@ -2,9 +2,9 @@ name: README Build
 on:
   # Runs on request
   workflow_dispatch:
-  # Runs everyday at 05:00 UTC
+  # Runs everyday at 05:30 UTC
   schedule:
-    - cron: "0 5 * * *"
+    - cron: "30 5 * * *"
     
 # Sets permissions of the GITHUB_TOKEN to allow repository push
 permissions:
