@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Wuh dvun-tor svep tu'adayek worla meilokul. Flowing masu worla tor'ovau stagnant.&quot;</strong>
-  <i>-- &quot;A moving door hinge never corrodes. Flowing water never grows stagnant.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot; {The} ânlic wafung s¯æmra {than} wiht bedrêosan {is} twihynde +siht sôðhweðere ðêos sihð.&quot;</strong>
+  <i>-- &quot;The only thing worse than being blind is having sight but no vision.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apple Pie with A Crust</h4>
+<h4 align="center">Orange Oasis</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qspqxt1472720078.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/su1olx1582473812.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 parts </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heated.
+Shake brandy, gin, and orange juice with ice and strain into a highball glass over ice cubes. Fill with ginger ale, stir, and serve.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heat
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Simulation: Two Black Holes Merge - ©️ NASA @ 2024-05-10</h4>
+<h4 align="center">AR 3664: Giant Sunspot Group - ©️ Franco Fantasia &amp; Guiseppe Conzo (Gruppo Astrofili Palidoro) @ 2024-05-11</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/I_88S8DWbcU?rel=0" alt="Simulation: Two Black Holes Merge image" />
+<img src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Fantasia_960.jpg" alt="AR 3664: Giant Sunspot Group image" />
 
 </p>
 
-<h5 align="center">Relax and watch two black holes merge. Inspired by the first direct detection of gravitational waves in 2015, this simulation plays in slow motion but would take about one third of a second if run in real time. Set on a cosmic stage, the black holes are posed in front of stars, gas, and dust. Their extreme gravity lenses the light from behind them into Einstein rings as they spiral closer and finally merge into one. The otherwise invisible gravitational waves generated as the massive objects rapidly coalesce cause the visible image to ripple and slosh both inside and outside the Einstein rings even after the black holes have merged. Dubbed GW150914, the gravitational waves detected by LIGO are consistent with the merger of 36 and 31 solar mass black holes at a distance of 1.3 billion light-years. The final, single black hole has 63 times the mass of the Sun, with the remaining 3 solar masses converted into energy radiated in gravitational waves.   Today's Event Horizon: It's Black Hole Week at NASA!</h5>
+<h5 align="center">Right now, one of the largest sunspot groups in recent history is crossing the Sun. Active Region 3664 is not only big -- it's violent, throwing off clouds of particles into the Solar System. Some of these CMEs are already impacting the Earth, and others might follow.  At the extreme, these solar storms could cause some Earth-orbiting satellites to malfunction, the Earth's atmosphere to slightly distort, and electrical power grids to surge. When impacting Earth's upper atmosphere, these particles can produce beautiful auroras, with some auroras already being reported unusually far south.  Pictured here, AR3664 and its dark sunspots were captured yesterday in visible light from Rome, Italy. The AR3664 sunspot group is so large that it is visible just with glasses designed to view last month's total solar eclipse.  This weekend, skygazing enthusiasts will be keenly watching the night skies all over the globe for bright and unusual auroras.   Gallery: Active Region 6443 on the Sun</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Just mix the two liquids and sprinkle in the cinnamon. Serve either cold or heat
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
