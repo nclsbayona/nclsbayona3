@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ry īlva knowledge emagon its origins isse īlva perceptions.&quot;</strong>
-  <i>-- &quot;All our knowledge has its origins in our perceptions.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;huma wat daw piaten feguin feila cono donde feila’re pata&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">410 Gone</h4>
+<h4 align="center">Vodka Lemon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 cl</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +84,7 @@
 
 
 <p align="center">
-
+The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.
 </p>
 
 ----
@@ -160,14 +184,14 @@
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Red Aurora over Poland - ©️ Mariusz Durlej @ 2024-05-12</h4>
+<h4 align="center">AR 3664 on a Setting Sun - ©️ Marco Meniero @ 2024-05-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2405/AuroraPoland_Durlej_960.jpg" alt="Red Aurora over Poland image" />
+<img src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg" alt="AR 3664 on a Setting Sun image" />
 
 </p>
 
-<h5 align="center">Northern lights don't usually reach this far south.  Magnetic chaos in the Sun's huge Active Region 3664, however, produced a surface explosion that sent a burst of electrons, protons, and more massive, charged nuclei into the Solar System. A few days later, that coronal mass ejection (CME) impacted the Earth and triggered auroras that are being reported unusually far from our planet's north and south poles.  The free sky show might not be over -- the sunspot rich AR3664 has ejected even more CMEs that might also impact the Earth tonight or tomorrow. That active region is now near the Sun's edge, though, and will soon be rotating away from the Earth.  Pictured, a red and rayed aurora was captured in a single 6-second exposure from Racibórz, Poland early last night.  The photographer's friend, seeing an aurora for the first time, is visible in the distance also taking images of the beautifully colorful nighttime sky.   Gallery: Global Aurora from Solar Active Region 6443</h5>
+<h5 align="center">It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 6443</h5>
 
 ----
 
@@ -180,10 +204,10 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
@@ -191,79 +215,79 @@
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
