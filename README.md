@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;huma wat daw piaten feguin feila cono donde feila’re pata&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Whenever mes’re afraid,  zhol’s because mes don’t zenoti gana. Ar mes protingas gana,  mes tariam niekada buti afraid&quot;</strong>
+  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Vodka Lemon</h4>
+<h4 align="center">Zambeer</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bje5401485619578.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Soft Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 10 oz </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.
+Mix sambuca with rootbeer and stir. Add ice
 </p>
 
 ----
@@ -184,14 +168,14 @@ The vodka lemon is prepared directly in a highball glass or in a large tumbler: 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">AR 3664 on a Setting Sun - ©️ Marco Meniero @ 2024-05-13</h4>
+<h4 align="center">The 37 Cluster - ©️ Sergio Eguivar @ 2024-05-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2405/SunAr3664_Menario_960.jpg" alt="AR 3664 on a Setting Sun image" />
+<img src="https://apod.nasa.gov/apod/image/2405/NGC2169LRGBQHY183HR_c1024.jpg" alt="The 37 Cluster image" />
 
 </p>
 
-<h5 align="center">It was larger than the Earth. It was so big you could actually see it on the Sun's surface without magnification. It contained powerful and tangled magnetic fields as well as numerous dark sunspots. Labelled AR 3664, it developed into one of the most energetic areas seen on the Sun in recent years, unleashing a series of explosions that led to a surge of energetic particles striking the Earth, which created beautiful auroras. And might continue.  Although active regions on the Sun like AR 3664 can be quite dangerous, this region's Coronal Mass Ejections have not done, as yet, much damage to Earth-orbiting satellites or Earth-surface electrical grids. Pictured, the enormous active region was captured on the setting Sun a few days ago from  Civitavecchia, Rome, Italy. The composite image includes a very short exposure taken of just the Sun's surface, but mimics what was actually visible.  Finally, AR 3664 is now rotating away from the Earth, although the region may survive long enough to come around again.    Gallery: Earth Aurora from Solar Active Region 6443</h5>
+<h5 align="center">For the mostly harmless denizens of planet Earth, the brighter stars of open cluster NGC 2169 seem to form a cosmic 37. Did you expect 42? From our perspective, the improbable numerical asterism appears solely by chance. It lies at an estimated distance of 3,300 light-years toward the constellation Orion. As far as galactic or open star clusters go, NGC 2169 is a small one, spanning about 7 light-years.  Formed at the same time from the same cloud of dust and gas, the stars of NGC 2169 are only about 11 million years old. Such clusters are expected to disperse over time as they encounter other stars, interstellar clouds, and experience gravitational tides while hitchhiking through the galaxy. Over four billion years ago, our own Sun was likely formed in a similar open cluster of stars.   Gallery: Earth Aurora from Solar Active Region 3664</h5>
 
 ----
 
@@ -204,90 +188,90 @@ The vodka lemon is prepared directly in a highball glass or in a large tumbler: 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
