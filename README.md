@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Glaeson iksos ampa percent skoros ao experience se vōrēpsa percent skorkydoso ao udligon naejot ziry.&quot;</strong>
-  <i>-- &quot;Life is ten percent what you experience and ninety percent how you respond to it.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Yeri know alikh than yeri think&quot;</strong>
+  <i>-- &quot;You know more than you think&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Cosmopolitan Martini</h4>
+<h4 align="center">Brain Fart</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/upxxpq1439907580.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rz5aun1504389701.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cointreau</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Everclear</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 fifth Smirnoff red label </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mountain Dew</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 L </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 splash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 L </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 small bottle </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 pint </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +80,7 @@
 
 
 <p align="center">
-Pour all ingredients in mixing glass half filled with ice, shake and strain into chilled Martini glass.
+Mix all ingredients together. Slowly and gently. Works best if ice is added to punch bowl and soda's are very cold.
 </p>
 
 ----
@@ -172,14 +180,14 @@ Pour all ingredients in mixing glass half filled with ice, shake and strain into
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 2403 in Camelopardalis - ©️ (Team F.A.C.T.) @ 2024-06-03</h4>
+<h4 align="center">Comet Pons-Brooks Develops Opposing Tails - ©️ Rolando Ligustri &amp; Lukas Demetz  @ 2024-06-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2405/NGC2403-LRGB+Ha+Oiii-v25-f1024.jpg" alt="NGC 2403 in Camelopardalis image" />
+<img src="https://apod.nasa.gov/apod/image/2406/Comet12P_Ligustri_960.jpg" alt="Comet Pons-Brooks Develops Opposing Tails image" />
 
 </p>
 
-<h5 align="center">Magnificent island universe NGC 2403 stands within the boundaries of the long-necked constellation Camelopardalis. Some 10 million light-years distant and about 50,000 light-years across, the spiral galaxy also seems to have more than its fair share of giant star forming HII regions, marked by the telltale reddish glow of atomic hydrogen gas. The giant HII regions are energized by clusters of hot, massive stars that explode as bright supernovae at the end of their short and furious lives. A member of the M81 group of galaxies, NGC 2403 closely resembles a galaxy in our own local galaxy group with an abundance of star forming regions, M33, the Triangulum Galaxy. Spiky in appearance, bright stars in this portrait of NGC 2403 are in the foreground, within our own Milky Way. Also in the foreground of the deep, wide-field, telescopic image are the Milky Way's dim and dusty interstellar clouds also known as galactic cirrus or integrated flux nebulae. But faint features that seem to extend from NGC 2403 itself are likely tidal stellar streams drawn out by gravitational interactions with neighboring galaxies.</h5>
+<h5 align="center">Why does Comet Pons-Brooks now have tails pointing in opposite directions?  The most spectacular tail is the blue-glowing ion tail that is visible flowing down the image.  The ion tail is pushed directly out from the Sun by the solar wind. On the upper right is the glowing central coma of Comet 12P/Pons–Brooks. Fanning out from the coma, mostly to the left, is the comet's dust tail. Pushed out and slowed down by the pressure of sunlight, the dust tail tends to trail the comet along its orbit and, from some viewing angles, can appear opposite to the ion tail.  The distant, bright star Alpha Leporis is seen at the bottom of the featured image captured last week from Namibia. Two days ago, the comet passed its closest to the Earth and is now best visible from southern skies as it dims and glides back to the outer Solar System.</h5>
 
 ----
 
@@ -192,90 +200,90 @@ Pour all ingredients in mixing glass half filled with ice, shake and strain into
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
