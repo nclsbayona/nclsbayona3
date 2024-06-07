@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Magical when it's working,  it'll feel&quot;</strong>
-  <i>-- &quot;It'll feel magical when it's working&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Yeri atthirar is qisi to be incredible&quot;</strong>
+  <i>-- &quot;Your life is about to be incredible&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zenmeister</h4>
+<h4 align="center">After Supper Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qyuvsu1479209462.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quyxwu1483387610.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Root beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apricot brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Mix together and enjoy
+Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Mix together and enjoy
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 4565: Galaxy on Edge - ©️ Lóránd Fényes @ 2024-06-06</h4>
+<h4 align="center">SH2-308: The Dolphin Head Nebula - ©️ Prabhu Kutti @ 2024-06-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/278_lorand_fenyes_ngc4565_1024.jpg" alt="NGC 4565: Galaxy on Edge image" />
+<img src="https://apod.nasa.gov/apod/image/2406/DolphinNebulaHOO_1024.jpg" alt="SH2-308: The Dolphin Head Nebula image" />
 
 </p>
 
-<h5 align="center">Magnificent spiral galaxy NGC 4565 is viewed edge-on from planet Earth. Also known as the Needle Galaxy for its narrow profile, bright NGC 4565 is a stop on many telescopic tours of the northern sky, in the faint but well-groomed constellation Coma Berenices. This sharp, colorful image reveals the galaxy's boxy, bulging central core cut by obscuring dust lanes that lace NGC 4565's thin galactic plane. NGC 4565 itself lies about 40 million light-years distant and spans some 100,000 light-years.  Easily spotted with small telescopes, sky enthusiasts consider NGC 4565 to be a prominent celestial masterpiece Messier missed.</h5>
+<h5 align="center">Blown by fast winds from a hot, massive star, this cosmic bubble is huge. Cataloged as Sharpless 2-308 it lies some 5,000 light-years away toward the well-trained constellation Canis Major and covers slightly more of the sky than a Full Moon. That corresponds to a diameter of 60 light-years at its estimated distance. The massive star that created the bubble, a Wolf-Rayet star, is the bright one near the center of the nebula. Wolf-Rayet stars have over 20 times the mass of the Sun and are thought to be in a brief, pre-supernova phase of massive star evolution. Fast winds from this Wolf-Rayet star create the bubble-shaped nebula as they sweep up slower moving material from an earlier phase of evolution. The windblown nebula has an age of about 70,000 years. Relatively faint emission captured by narrowband filters in the deep image is dominated by the glow of ionized oxygen atoms mapped to a blue hue. Presenting a mostly harmless outline, SH2-308 is also known as The Dolphin-head Nebula.</h5>
 
 ----
 
@@ -184,90 +188,90 @@ Mix together and enjoy
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
