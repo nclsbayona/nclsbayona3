@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Se past does daor gīda se future&quot;</strong>
-  <i>-- &quot;The past does not equal the future&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Vah rsah tta g'et vah tan'rah&quot;</strong>
+  <i>-- &quot;You know more than you think&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Jamaica Kiss</h4>
+<h4 align="center">Harvey Wallbanger</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/urpvvv1441249549.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot Jamaican </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican light rum. Fill the tumbler with milk. Blend until smooth and serve immediately.
+Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican li
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">How to Identify that Light in the Sky - ©️ HK (The League of Lost Causes) @ 2024-06-09</h4>
+<h4 align="center">Sh2-132: The Lion Nebula - ©️ Imran Badr;Text: Natalia Lewandowska (SUNY Oswego) @ 2024-06-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/astronomy101_hk_960.jpg" alt="How to Identify that Light in the Sky image" />
+<img src="https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg" alt="Sh2-132: The Lion Nebula image" />
 
 </p>
 
-<h5 align="center">What is that light in the sky? The answer to one of humanity's more common questions may emerge from a few quick observations.  For example -- is it moving or blinking? If so, and if you live near a city, the answer is typically an airplane, since planes are so numerous and so few stars and satellites are bright enough to be seen over the glare of artificial city lights. If not, and if you live far from a city, that bright light is likely a planet such as Venus or Mars -- the former of which is constrained to appear near the horizon just before dawn or after dusk.  Sometimes the low apparent motion of a distant airplane near the horizon makes it hard to tell from a bright planet, but even this can usually be discerned by the plane's motion over a few minutes. Still unsure?   The featured chart gives a sometimes-humorous but mostly-accurate assessment.  Dedicated sky enthusiasts will likely note -- and are encouraged to provide -- polite corrections.   Chart translations: Italian, German, Latvian, Persian, Polish, Spanish, and Turkish</h5>
+<h5 align="center">Is the Lion Nebula the real ruler of the constellation Cepheus?  This powerful feline appearing nebula is powered by two massive stars, each with a mass over 20 times greater than our Sun.  Formed from shells of ionized gas that have expanded, the nebula's energetic matter not only glows, but is dense enough to contract gravitationally and form stars.  The angular size of the Lion Nebula, officially named Sh2-132,  is slightly greater than that of the full moon.  The gaseous iconic region resides about 10,000 light years away in a constellation named after the King of Aethopia in Greek mythology.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -188,43 +188,43 @@ Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican li
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
@@ -232,35 +232,35 @@ Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican li
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +268,10 @@ Fill a tumbler with ice cubes. Add a shot of Tia Maria and a shot of Jamaican li
 <img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
