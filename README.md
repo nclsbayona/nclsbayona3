@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vah rsah tta g'et vah tan'rah&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Bloom finne yeri are planted!&quot;</strong>
+  <i>-- &quot;Bloom where you are planted!&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Harvey Wallbanger</h4>
+<h4 align="center">Blue Lagoon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7os4gs1606854357.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/5wm4zo1582579154.jpg" alt="Drink image" />
 
 </p>
 
@@ -52,12 +52,8 @@
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Stir the vodka and orange juice with ice in the glass, then float the Galliano on top. Garnish and serve.
+Pour vodka and curacao over ice in a highball glass. Fill with lemonade, top with the cherry, and serve.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Stir the vodka and orange juice with ice in the glass, then float the Galliano o
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Sh2-132: The Lion Nebula - ©️ Imran Badr;Text: Natalia Lewandowska (SUNY Oswego) @ 2024-06-10</h4>
+<h4 align="center">Colorful Stars and Clouds near Rho Ophiuchi - ©️ Craig Stocks @ 2024-06-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/LionNeb_Badr_960.jpg" alt="Sh2-132: The Lion Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2406/RhoAntares_Stocks_1080.jpg" alt="Colorful Stars and Clouds near Rho Ophiuchi image" />
 
 </p>
 
-<h5 align="center">Is the Lion Nebula the real ruler of the constellation Cepheus?  This powerful feline appearing nebula is powered by two massive stars, each with a mass over 20 times greater than our Sun.  Formed from shells of ionized gas that have expanded, the nebula's energetic matter not only glows, but is dense enough to contract gravitationally and form stars.  The angular size of the Lion Nebula, officially named Sh2-132,  is slightly greater than that of the full moon.  The gaseous iconic region resides about 10,000 light years away in a constellation named after the King of Aethopia in Greek mythology.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">Why is the sky near Antares and Rho Ophiuchi so colorful, yet dusty?  The colors result from a mixture of objects and processes.  Fine dust -- illuminated by starlight -- produces blue reflection nebulae. Gaseous clouds whose atoms are excited by ultraviolet starlight produce reddish emission nebulae. Backlit dust clouds block starlight and so appear dark.   Antares, a red supergiant and one of the brighter stars in the night sky, lights up the yellow-red clouds on the upper right of the featured image. The Rho Ophiuchi star system lies at the center of the blue reflection nebula on the left, while a different reflection nebula, IC 4605, lies just below and right of the image center.  These star clouds are even more colorful than humans can see, emitting light across the electromagnetic spectrum.   Open Science: Browse 3,400+ codes in the Astrophysics Source Code Library</h5>
 
 ----
 
@@ -188,32 +184,32 @@ Stir the vodka and orange juice with ice in the glass, then float the Galliano o
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
@@ -221,57 +217,57 @@ Stir the vodka and orange juice with ice in the glass, then float the Galliano o
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
