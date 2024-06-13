@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Afraid to stand for what you believe in,  don't be,Standing alone,  even if that means.&quot;</strong>
-  <i>-- &quot;Don't be afraid to stand for what you believe in, even if that means standing alone.&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Wa' machine can do the vum of fifty ordinary men. Qo' machine can do the vum of wa' extraordinary lod.&quot;</strong>
+  <i>-- &quot;One machine can do the work of fifty ordinary men. No machine can do the work of one extraordinary man.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Algonquin</h4>
+<h4 align="center">Boozy Snickers Milkshake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/861tzm1504784164.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla Ice-Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cups </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Godiva liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">for topping</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">caramel sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tablespoons<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">chocolate sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 tablespoons<br></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mini-snickers bars</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15<br></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.
+Place the snickers bars in a plastic bag and roll over them with a rolling pin until crushed. Add crushed snickers pieces, ice cream, milk, caramel sauce, chocolate sauce, and chocolate liquor to a blender. Blend until shake is thick and frothy. Pour into glasses and top with chocolate liquor and whip cream.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Combine and shake all ingredients with ice, strain contents into a cocktail glas
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Aurora over Karkonosze Mountains - ©️ Daniel Koszela @ 2024-06-12</h4>
+<h4 align="center">Messier 66 Close Up - ©️ NASA @ 2024-06-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/AuroraKarkonosze_Koszela_1080.jpg" alt="Aurora over Karkonosze Mountains image" />
+<img src="https://apod.nasa.gov/apod/image/2406/heic1006a_M66_1024.jpg" alt="Messier 66 Close Up image" />
 
 </p>
 
-<h5 align="center">It was the first time ever. At least, the first time this photographer had ever seen aurora from his home mountains.  And what a spectacular aurora it was. The Karkonosze Mountains in Poland are usually too far south to see any auroras.  But on the amazing night of May 10 - 11, purple and green colors lit up much of the night sky, a surprising spectacle that  also appeared over many mid-latitude locations around the Earth.  The featured image is a composite of six vertical exposures taken during the auroral peak. The futuristic buildings on the right are part of a meteorological observatory located on the highest peak of the Karkonosze Mountains.  The purple color is primarily due to Sun-triggered, high-energy electrons impacting nitrogen molecules in Earth's atmosphere.  Our Sun is reaching its maximum surface activity over the next two years, and although many more auroras are predicted, most will occur over regions closer to the Earth's poles.</h5>
+<h5 align="center">Big, beautiful spiral galaxy Messier 66 lies a mere 35 million light-years away. The gorgeous island universe is about 100 thousand light-years across, similar in size to the Milky Way. This Hubble Space Telescope close-up view spans a region about 30,000 light-years wide around the galactic core. It shows the galaxy's disk dramatically inclined to our line-of-sight. Surrounding its bright core, the likely home of a supermassive black hole, obscuring dust lanes and young, blue star clusters sweep along spiral arms dotted with the tell-tale glow of pinkish star forming regions. Messier 66, also known as NGC 3627, is the brightest of the three galaxies in the gravitationally interacting Leo Triplet.</h5>
 
 ----
 
@@ -188,43 +204,43 @@ Combine and shake all ingredients with ice, strain contents into a cocktail glas
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
@@ -232,46 +248,46 @@ Combine and shake all ingredients with ice, strain contents into a cocktail glas
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
