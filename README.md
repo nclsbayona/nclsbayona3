@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Believe noleeya wompa thing peetch much um u have noah room che newpa ideas.&quot;</strong>
-  <i>-- &quot;Believe in one thing too much and you have no room for new ideas.  &quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Do not go whar th' path may lead, go instead whar there be no path and weigh anchor a trail.&quot;</strong>
+  <i>-- &quot;Do not go where the path may lead, go instead where there is no path and leave a trail.&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Salted Toffee Martini</h4>
+<h4 align="center">Kentucky B And B</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/3s6mlr1509551211.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sqxsxp1478820236.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">50 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate liqueur</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate Sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salted Chocolate</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grated</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -76,9 +64,7 @@
 
 
 <p align="center">
-Add ice, toffee gin, chocolate liqueur and Amaretto to a cocktail shaker and shake vigorously. 
-Pour the chocolate syrup into a saucer and dip the top of a martini glass into the sauce. Grate some of the Willie\'s sea salt chocolate into another saucer and dip the coated glass, so the flakes stick to the sauce, creating a chocolate rim!
-Pour the contents of the shaker into your chocolatey glass and sprinkle with more grated chocolate - enjoy!  
+Pour the bourbon and Benedictine into a brandy snifter.
 </p>
 
 ----
@@ -178,14 +164,14 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Prominences and Filaments on the Active Sun - ©️ solar cycle 25 @ 2024-06-15</h4>
+<h4 align="center">Animation: Black Hole Destroys Star - ©️ NASA @ 2024-06-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/Halpha_sondergaard1024.jpg" alt="Prominences and Filaments on the Active Sun image" />
+<img src="https://www.youtube.com/embed/ubBzcSD8G8k?rel=0" alt="Animation: Black Hole Destroys Star image" />
 
 </p>
 
-<h5 align="center">This colorized and sharpened image of the Sun is composed of frames recording emission from hydrogen atoms in the solar chromosphere on May 15. Approaching the maximum of solar cycle 25, a multitude of active regions and twisting, snake-like solar filaments are seen to sprawl across the surface of the active Sun.  Suspend in the active regions' strong magnetic fields, the filaments of plasma lofted above the Sun's edge appear as bright solar prominences. The large prominences seen near 4 o'clock, and just before 9 o'clock around the solar limb are post flare loops from two powerful X-class solar flares that both occurred on that day. In fact, the 4 o'clock prominence is associated with the monster active region AR 3664 just rotating off the Sun's edge.</h5>
+<h5 align="center">What happens if a star gets too close to a black hole? The black hole can rip it apart -- but how? It's not the high gravitational attraction itself that's the problem -- it's the difference in gravitational pull across the star that creates the destruction.  In the featured animated video illustrating this disintegration, you first see a star approaching the black hole.  Increasing in orbital speed, the star's outer atmosphere is ripped away during closest approach.  Much of the star's atmosphere disperses into deep space, but some continues to orbit the black hole and forms an accretion disk. The animation then takes you into the accretion disk while looking toward the black hole. Including the strange visual effects of gravitational lensing, you can even see the far side of the disk.  Finally, you look along one of the jets being expelled along the spin axis.  Theoretical models indicate that these jets not only expel energetic gas, but also create energetic neutrinos -- one of which may have been seen recently on Earth.    Almost Hyperspace: Random APOD Generator</h5>
 
 ----
 
@@ -198,79 +184,79 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -278,10 +264,10 @@ Pour the contents of the shaker into your chocolatey glass and sprinkle with mor
 <img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
