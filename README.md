@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Hair and now. Breathe and relax. In battle and in life.&quot;</strong>
-  <i>-- &quot;Here and now...breathe and relax...in battle and in life.&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Yeri don't need to be better than anyone else,  yeri disse need to be better than yeri used to be.&quot;</strong>
+  <i>-- &quot;You don't need to be better than anyone else, you just need to be better than you used to be.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Girl From Ipanema</h4>
+<h4 align="center">Algonquin</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xypspq1469090633.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwryxx1483387873.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cachaca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 ml</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Agave Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 ml</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake until ice cold. Pour into a chilled flute and top-up with Champagne
+Combine and shake all ingredients with ice, strain contents into a cocktail glass, and serve.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake u
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Dark Doodad Nebula - ©️ Martin Pugh &amp;  Rocco Sung @ 2024-06-25</h4>
+<h4 align="center">Timelapse: Aurora, SAR, and the Milky Way - ©️ Jeff Dai(TWAN); Music (License): Suite bergamasque by Claude Debussy @ 2024-06-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/Doodad_PughSung_1080.jpg" alt="The Dark Doodad Nebula image" />
+<img src="https://www.youtube.com/embed/fisAZYNwDgk?rel=0" alt="Timelapse: Aurora, SAR, and the Milky Way image" />
 
 </p>
 
-<h5 align="center">What is that strange brown ribbon on the sky?  When observing the star cluster NGC 4372, observers frequently take note of an unusual dark streak nearby running about three degrees in length. The streak, actually a long molecular cloud, has become known as the Dark Doodad Nebula.  (Doodad is slang for a thingy or a whatchamacallit.)  Pictured here, the Dark Doodad Nebula sweeps across the center of a rich and colorful starfield.  Its dark color comes from a high concentration of interstellar dust that preferentially scatters visible light.  The globular star cluster NGC 4372 is visible as the fuzzy white spot on the far left, while the bright blue star gamma Muscae is seen to the cluster's upper right. The Dark Doodad Nebula can be found with strong binoculars toward the southern constellation of the Fly (Musca).</h5>
+<h5 align="center">What's happening in the sky this unusual night? Most striking in the featured 4.5-hour 360-degree panoramic video, perhaps, is the pink and purple aurora. That's because this night, encompassing May 11, was famous for its auroral skies around the world. As the night progresses, auroral bands shimmer, the central band of our Milky Way Galaxy rises, and stars shift as the Earth rotates beneath them.  Captured here simultaneously is a rare red band running above the aurora: a SAR arc, seen to change only slightly. The flashing below the horizon is caused by passing cars, while the moving spots in the sky are satellites and airplanes.  The featured video was captured from Xinjiang, China with four separate cameras.</h5>
 
 ----
 
@@ -192,43 +188,43 @@ Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake u
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
@@ -236,32 +232,32 @@ Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake u
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
@@ -269,13 +265,13 @@ Add the cachaca, lemon juice and syrup to your boston glass. Add ice and shake u
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
