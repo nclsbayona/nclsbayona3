@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tis carcir nah ch'at k'usarcu'ibi bah vun'ktevci,  rab ch'at csitan'ci ch'at cope bah hah.&quot;</strong>
-  <i>-- &quot;Peace is not the absence of conflict, but the ability to cope with it.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Never do t' others what ye would not like them t' do t' ye, pass the grog!  And swab the deck! &quot;</strong>
+  <i>-- &quot;Never do to others what you would not like them to do to you. &quot; in pirate language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lemon Drop</h4>
+<h4 align="center">Vodka Tonic</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mtpxgk1504373297.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg" alt="Drink image" />
 
 </p>
 
@@ -49,15 +49,31 @@
     <tbody>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cointreau</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 wedge </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,11 @@
 
 
 <p align="center">
-Shake and strain into a chilled cocktail glass rimmed with sugar.
+Wash and cut 1 wedge and 1 slice of lime or lemon.
+Fill a tumbler with fresh ice.
+Pour the desired dose of vodka and top up with the tonic.
+Squeeze the lime wedge into the glass and decorate with the slice.
+That's all, very simple: it's just the recipe for happiness!
 </p>
 
 ----
@@ -168,14 +188,14 @@ Shake and strain into a chilled cocktail glass rimmed with sugar.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet 13P/Olbers - ©️ Dan Bartlett @ 2024-06-28</h4>
+<h4 align="center">A Solstice Moon - ©️ Tunc Tezel @ 2024-06-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/13P_Olbers_2024_06_24_215434PDT_DEBartlett1024.jpg" alt="Comet 13P/Olbers image" />
+<img src="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg" alt="A Solstice Moon image" />
 
 </p>
 
-<h5 align="center">Not a paradox, Comet 13P/Olbers is returning to the inner Solar System after 68 years. The periodic, Halley-type comet will reach its next perihelion or closest approach to the Sun on June 30 and has become a target for binocular viewing low in planet Earth's northern hemisphere night skies. But this sharp telescopic image of 13P is composed of stacked exposures made on the night of June 25. It easily reveals shifting details in the bright comet's torn and tattered ion tail buffeted by the wind from an active Sun, along with a broad, fanned-out dust tail and slightly greenish coma. The frame spans over two degrees across a background of faint stars toward the constellation Lynx.</h5>
+<h5 align="center">Rising opposite the setting Sun, June's Full Moon occurred within about 28 hours of the solstice. The Moon stays close to the Sun's path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June's Full Moon remained low that night as seen from northern latitudes. In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset. In 2024 the Moon also reached a major lunar standstill, an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, this June solstice Full Moon was at its southernmost moonrise and moonset along the horizon.</h5>
 
 ----
 
@@ -188,90 +208,90 @@ Shake and strain into a chilled cocktail glass rimmed with sugar.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
