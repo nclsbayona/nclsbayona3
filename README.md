@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Never do t' others what ye would not like them t' do t' ye, pass the grog!  And swab the deck! &quot;</strong>
-  <i>-- &quot;Never do to others what you would not like them to do to you. &quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Cin'll rad- a té&quot;</strong>
+  <i>-- &quot;You'll find a way&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Vodka Tonic</h4>
+<h4 align="center">Flander's Flake-Out</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/9koz3f1643821062.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sqvqrx1461866705.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 glass </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sarsaparilla</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 glass </td>
         </tr>
     </tbody>
 </table>
@@ -84,11 +64,7 @@
 
 
 <p align="center">
-Wash and cut 1 wedge and 1 slice of lime or lemon.
-Fill a tumbler with fresh ice.
-Pour the desired dose of vodka and top up with the tonic.
-Squeeze the lime wedge into the glass and decorate with the slice.
-That's all, very simple: it's just the recipe for happiness!
+Bang 'em both in.
 </p>
 
 ----
@@ -188,14 +164,14 @@ That's all, very simple: it's just the recipe for happiness!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A Solstice Moon - ©️ Tunc Tezel @ 2024-06-29</h4>
+<h4 align="center">Earthrise: A Video Reconstruction - ©️ NASA @ 2024-06-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2406/SolsMoon2024c1024.jpg" alt="A Solstice Moon image" />
+<img src="https://www.youtube.com/embed/1R5QqhPq1Ik?rel=0" alt="Earthrise: A Video Reconstruction image" />
 
 </p>
 
-<h5 align="center">Rising opposite the setting Sun, June's Full Moon occurred within about 28 hours of the solstice. The Moon stays close to the Sun's path along the ecliptic plane and so while the solstice Sun climbed high in daytime skies, June's Full Moon remained low that night as seen from northern latitudes. In fact, the Full Moon hugs the horizon in this June 21 rooftop night sky view from Bursa, Turkey, constructed from exposures made every 10 minutes between moonrise and moonset. In 2024 the Moon also reached a major lunar standstill, an extreme in the monthly north-south range of moonrise and moonset caused by the precession of the Moon's orbit over an 18.6 year cycle. As a result, this June solstice Full Moon was at its southernmost moonrise and moonset along the horizon.</h5>
+<h5 align="center">About 12 seconds into this video, something unusual happens. The Earth begins to rise.  Never seen by humans before, the rise of the Earth over the limb of the Moon occurred about 55.5 years ago and surprised and amazed the crew of Apollo 8. The crew immediately scrambled to take still images of the stunning vista caused by Apollo 8's orbit around the Moon. The featured video is a modern reconstruction of the event as it would have looked were it recorded with a modern movie camera. The colorful orb of our Earth stood out as a familiar icon rising above a distant and unfamiliar moonscape, the whole scene the conceptual reverse of a more familiar moonrise as seen from Earth. To many, the scene also spoke about the unity of humanity: that big blue marble -- that's us -- we all live there. The two-minute video is not time-lapse -- this is the real speed of the Earth rising through the windows of Apollo 8. Seven months and three missions later, Apollo 11 astronauts would not only circle Earth's moon, but land on it.   NASA Administrator Remembers Earthrise Photographer William Anders</h5>
 
 ----
 
@@ -208,13 +184,13 @@ That's all, very simple: it's just the recipe for happiness!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -222,29 +198,29 @@ That's all, very simple: it's just the recipe for happiness!
 <img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
@@ -252,21 +228,21 @@ That's all, very simple: it's just the recipe for happiness!
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
@@ -274,21 +250,21 @@ That's all, very simple: it's just the recipe for happiness!
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
