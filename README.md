@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Startin' be th' most difficult step - but ye can do it&quot;</strong>
-  <i>-- &quot;Starting is the most difficult step - but you can do it&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;If u naga tah moova do vision into reality,  u have tah give 100% um never stop believing noleeya do dream.&quot;</strong>
+  <i>-- &quot;If you want to turn a vision into reality, you have to give 100% and never stop believing in your dream.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Hawaiian Cocktail</h4>
+<h4 align="center">Zoksel</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ujoh9x1504882987.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ft8ed01485620930.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Soft Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> slice<br></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +60,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+No specific mixinginstructions, just poor every ingredient in one glass. The lemon goes with it.
 </p>
 
 ----
@@ -168,14 +160,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Exoplanet Zoo: Other Stars - ©️ Martin Vargic, Halcyon Maps  @ 2024-07-08</h4>
+<h4 align="center">Noctilucent Clouds over Florida - ©️ Pascal Fouquet @ 2024-07-09</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2407/ExoplanetZoo_Vargic_1080.jpg" alt="Exoplanet Zoo: Other Stars image" />
+<img src="https://apod.nasa.gov/apod/image/2407/NoctilucentFlorida_Pouquet_960.jpg" alt="Noctilucent Clouds over Florida image" />
 
 </p>
 
-<h5 align="center">Do other stars have planets like our Sun? Surely they do, and evidence includes slight star wobbles created by the gravity of orbiting exoplanets and slight star dimmings caused by orbiting planets moving in front. In all, there have now been over 5,500 exoplanets discovered, including thousands by NASA's space-based Kepler and TESS missions, and over 100 by ESO's ground-based HARPS instrument.  Featured here is an illustrated guess as to what some of these exoplanets might look like. Neptune-type planets occupy the middle and are colored blue because of blue-scattering atmospheric methane they might contain. On the sides of the illustration, Jupiter-type planets are shown, colored tan and red from the scatterings of atmospheric gases that likely include small amounts of carbon.  Interspersed are many Earth-type rocky planets of many colors. As more exoplanets are discovered and investigated, humanity is developing a better understanding of how common Earth-like planets are, and how common life might be in the universe.</h5>
+<h5 align="center">These clouds are doubly unusual. First, they are rare noctilucent clouds, meaning that they are visible at night -- but only just before sunrise or just after sunset.  Second, the source of these noctilucent clouds is actually known. In this rare case, the source of the sunlight-reflecting ice-crystals in the upper atmosphere can be traced back to the launch of a nearby SpaceX rocket about 30 minutes earlier.  Known more formally as polar mesospheric clouds, the vertex of these icy wisps happens to converge just in front of a rising crescent Moon. The featured image -- and accompanying video -- were captured over Orlando, Florida, USA about a week ago.  The bright spot to the right of the Moon is the planet Jupiter, while the dotted lights above the horizon on the right are from an airplane.</h5>
 
 ----
 
@@ -188,35 +180,35 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -224,18 +216,18 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
@@ -243,21 +235,21 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
@@ -265,13 +257,13 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
 </td>
 </tr>
 </table>
