@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tlhih're doing a qu' job&quot;</strong>
-  <i>-- &quot;You're doing a great job&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Yousa're resourceful and piknab&quot;</strong>
+  <i>-- &quot;You're resourceful and clever&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Imperial Cocktail</h4>
+<h4 align="center">H.D.</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/upusyu1472667977.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whisky</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 cl </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Shake with ice and strain into cocktail glass.
+Mix the whisky and Baileys Cream in a beer-glass (at least 50 cl). Fill the rest of the glass with coffee.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Shake with ice and strain into cocktail glass.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Tadpole Galaxy from Hubble - ©️ NASA @ 2024-07-15</h4>
+<h4 align="center">Cometary Globules - ©️ Mark Hanson &amp; Martin Pugh,    Observatorio El Sauce @ 2024-07-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2407/TadpoleGalaxy_HubblePathak_960.jpg" alt="The Tadpole Galaxy from Hubble image" />
+<img src="https://apod.nasa.gov/apod/image/2407/CometaryGlobs_Pugh_1080.jpg" alt="Cometary Globules image" />
 
 </p>
 
-<h5 align="center">Why does this galaxy have such a long tail?  In this stunning vista, based on image data from the Hubble Legacy Archive, distant galaxies form a dramatic backdrop for disrupted spiral galaxy Arp 188, the Tadpole Galaxy. The cosmic tadpole is a mere 420 million light-years distant toward the northern constellation of the Dragon (Draco). Its eye-catching tail is about 280 thousand light-years long and features massive, bright blue star clusters. One story goes that a more compact intruder galaxy crossed in front of Arp 188 - from right to left in this view - and was slung around behind the Tadpole by their gravitational attraction. During the close encounter, tidal forces drew out the spiral galaxy's stars, gas, and dust forming the spectacular tail. The intruder galaxy itself, estimated to lie about 300 thousand light-years behind the Tadpole, can be seen through foreground spiral arms at the upper right. Following its terrestrial namesake, the Tadpole Galaxy will likely lose its tail as it grows older, the tail's star clusters forming smaller satellites of the large spiral galaxy.   APOD in world languages: Arabic (IG), Bulgarian, Catalan, Chinese (Beijing), Chinese (Taiwan), Czech, Dutch, Farsi, French, German, Hebrew, Japanese, Portuguese, Russian, Serbian, Slovenian,  Spanish, Taiwanese, Turkish, and  Ukrainian</h5>
+<h5 align="center">What are these unusual interstellar structures? Bright-rimmed, flowing shapes gather near the center of this rich starfield toward the borders of the nautical southern constellations Pupis and Vela. Composed of interstellar gas and dust, the grouping of light-year sized cometary globules is about 1300 light-years distant. Energetic ultraviolet light from nearby hot stars has molded the globules and ionized their bright rims. The globules also stream away from the Vela supernova remnant which may have influenced their swept-back shapes. Within them, cores of cold gas and dust are likely collapsing to form low mass stars, whose formation will ultimately cause the globules to disperse. In fact, cometary globule CG 30 (on the upper left) sports a small reddish glow near its head, a telltale sign of energetic jets from a star in the early stages of formation.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Shake with ice and strain into cocktail glass.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
