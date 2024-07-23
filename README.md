@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Du nam-tor nash-gad wilat nahp ma katau du.&quot;</strong>
-  <i>-- &quot;You are today where your thoughts have brought you.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;Cín cuil na- alreadui a miracle -o chance waiting an cin na cant- its destinui&quot;</strong>
+  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bellini Martini</h4>
+<h4 align="center">Imperial Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/3h9wv51504389379.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bcsj2e1487603625.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach nectar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Aperol</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
     </tbody>
 </table>
@@ -76,13 +68,7 @@
 
 
 <p align="center">
-Add ice cubes to shaker.
-Add vodka.
-Add peach schnapps.
-Add peach nectar.
-Shake.
-Strain into glass.
-Add lemon twist peel.
+Shake with ice and strain into cocktail glass.
 </p>
 
 ----
@@ -182,14 +168,14 @@ Add lemon twist peel.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Chamaeleon Dark Nebulas - ©️ Chang Lee @ 2024-07-22</h4>
+<h4 align="center">The Crab Nebula from Visible to X-Ray - ©️ NASA @ 2024-07-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2407/VeeChamaeleon_Lee_960.jpg" alt="Chamaeleon Dark Nebulas image" />
+<img src="https://apod.nasa.gov/apod/image/2407/Crab_MultiChandra_960.jpg" alt="The Crab Nebula from Visible to X-Ray image" />
 
 </p>
 
-<h5 align="center">Sometimes the dark dust of interstellar space has an angular elegance.  Such is the case toward the far-south constellation of Chamaeleon. Normally too faint to see, dark dust is best known for blocking visible light from stars and galaxies behind it. In this 36.6-hour exposure, however, the dust is seen mostly in light of its own, with its strong red and near-infrared colors creating a brown hue. Contrastingly blue, the bright star Beta Chamaeleontis is visible on the upper right, with the dust that surrounds it preferentially reflecting blue light from its primarily blue-white color.  All of the pictured stars and dust occur in our own Milky Way Galaxy with one notable exception: the white spot just below Beta Chamaeleontis is the galaxy IC 3104 which lies far in the distance.  Interstellar dust is mostly created in the cool atmospheres of giant stars and dispersed into space by stellar light, stellar winds, and stellar explosions such as supernovas.</h5>
+<h5 align="center">What powers the Crab Nebula? A city-sized magnetized neutron star spinning around 30 times a second. Known as the Crab Pulsar, it is the bright spot in the center of the gaseous swirl at the nebula's core.  About 10 light-years across, the spectacular picture of the Crab Nebula (M1) frames a swirling central disk and complex filaments of surrounding and expanding glowing gas. The picture combines visible light from the Hubble Space Telescope in red and blue with X-ray light from the Chandra X-ray Observatory shown in white, and diffuse X-ray emission detected by Imaging X-ray Polarimetry Explorer (IXPE) in diffuse purple.  The central pulsar powers the Crab Nebula's emission and expansion by slightly slowing its spin rate, which drives out a wind of energetic electrons.  The featured image released today, the 25th Anniversary of the launch of NASA's flagship-class X-ray Observatory: Chandra.    Many Discoveries: Chandra Celebrates 25th Anniversary</h5>
 
 ----
 
@@ -202,10 +188,10 @@ Add lemon twist peel.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
@@ -213,79 +199,79 @@ Add lemon twist peel.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
