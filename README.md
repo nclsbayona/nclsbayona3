@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;If hoch was easy tlhih'd qu' bored&quot;</strong>
-  <i>-- &quot;If everything was easy you'd be bored&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;ta jo da giesag tis da nupi upomun, refwry ellsou&quot;</strong>
+  <i>-- &quot;The path to success is to take massive, determined action&quot; in minion language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bourbon Sour</h4>
+<h4 align="center">Cuba Libre</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/dms3io1504366318.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wmkbfj1606853905.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp superfine </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +64,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and sugar. Shake well. Strain into a whiskey sour glass, garnish with the orange slice and cherry.
+Build all ingredients in a Collins glass filled with ice. Garnish with lime wedge.
 </p>
 
 ----
@@ -176,14 +164,14 @@ In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and su
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 7023: The Iris Nebula - ©️ Robert Shepherd @ 2024-07-25</h4>
+<h4 align="center">Facing NGC 6946 - ©️ Roberto Marinoni @ 2024-07-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2407/NGC7023_LRGB_fin_sig1024.jpg" alt="NGC 7023: The Iris Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2407/NGC6946_verB1024c.jpg" alt="Facing NGC 6946 image" />
 
 </p>
 
-<h5 align="center">These cosmic clouds have blossomed 1,300 light-years away in the fertile starfields of the constellation Cepheus. Called the Iris Nebula, NGC 7023 is not the only nebula to evoke the imagery of flowers. Still, this deep telescopic image shows off the Iris Nebula's range of colors and symmetries embedded in surrounding fields of interstellar dust. Within the Iris itself, dusty nebular material surrounds a hot, young star. The dominant color of the brighter reflection nebula is blue, characteristic of dust grains reflecting starlight. Central filaments of the reflection nebula glow with a faint reddish photoluminescence as some dust grains effectively convert the star's invisible ultraviolet radiation to visible red light. Infrared observations indicate that this nebula contains complex carbon molecules known as PAHs. The dusty blue petals of the Iris Nebula span about six light-years.</h5>
+<h5 align="center">From our vantage point in the Milky Way Galaxy, we see NGC 6946 face-on. The big, beautiful spiral galaxy is located just 20 million light-years away, behind a veil of foreground dust and stars in the high and far-off constellation Cepheus. In this sharp telescopic portrait, from the core outward the galaxy's colors change from the yellowish light of old stars in the center to young blue star clusters and reddish star forming regions along the loose, fragmented spiral arms. NGC 6946 is also bright in infrared light and rich in gas and dust, exhibiting a high star birth and death rate. In fact, since the early 20th century ten confirmed supernovae, the death explosions of massive stars, were discovered in NGC 6946. Nearly 40,000 light-years across, NGC 6946 is also known as the Fireworks Galaxy.</h5>
 
 ----
 
@@ -196,90 +184,90 @@ In a shaker half-filled with ice cubes, combine the bourbon, lemon juice, and su
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
