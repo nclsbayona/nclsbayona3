@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;You're resourceful and clever&quot;</strong>
-  <i>-- &quot;You're resourceful and clever&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Ha'll feel magical ir ha's working&quot;</strong>
+  <i>-- &quot;It'll feel magical when it's working&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolutely Fabulous</h4>
+<h4 align="center">Kurant Tea</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/abcpwr1504817734.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Kurant</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Turkish apple </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top up with</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (if needed)<br></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. Top up with Champagne.
+Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!
 </p>
 
 ----
@@ -168,14 +168,14 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Glory and Fog Bow - ©️ Cem Özkeser @ 2024-08-03</h4>
+<h4 align="center">Gaia: Here Comes the Sun - ©️ NASA @ 2024-08-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/GloryFog_label.png" alt="Glory and Fog Bow image" />
+<img src="https://www.youtube.com/embed/XORui0wFKnE?rel=0" alt="Gaia: Here Comes the Sun image" />
 
 </p>
 
-<h5 align="center">On a road trip up Mount Uludağ in Bursa province, Turkey these motorcyclists found themselves above low clouds and fog in late June. With the bright Sun directly behind them, the view down the side of the great mountain revealed a beautiful, atmospheric glory and fog bow. Known to some as the heiligenschein or the Specter of the Brocken, a glory can also sometimes be seen from airplanes or even high buildings. It often appears to be a dark giant surrounded by a bright halo. Of course the dark giant is just the shadow of the observer (90MB video) cast opposite the Sun. The clouds and fog are composed of very small water droplets, smaller than rain drops, that refract and reflect sunlight to create the glory's colorful halo and this more extensive fog bow.</h5>
+<h5 align="center">What would it look like to return home from outside our galaxy? Although designed to answer greater questions, data from ESA's robotic Gaia mission is helping to provide a uniquely modern perspective on humanity's place in the universe.  Gaia orbits the Sun near the Earth and resolves stars' positions so precisely that it can determine a slight shift from its changing vantage point over the course of a year, a shift that is proportionately smaller for more distant stars -- and so determines distance.  In the first sequence of the video, an illustration of the Milky Way is shown that soon resolves into a three-dimensional visualization of Gaia star data.  A few notable stars are labelled with their common names, while others stars are labelled with numbers from a Gaia catalog. Eventually, the viewer arrives in our stellar neighborhood where many stars were tracked by Gaia, and soon at our home star Sol, the Sun. At the video's end, the reflective glow of Sol's third planet becomes visible: Earth.</h5>
 
 ----
 
@@ -188,24 +188,24 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -213,51 +213,51 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 <img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
@@ -265,13 +265,13 @@ Mix the Vodka and Cranberry juice together in a shaker and strain into a glass. 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
