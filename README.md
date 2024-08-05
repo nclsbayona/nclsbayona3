@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ha'll feel magical ir ha's working&quot;</strong>
-  <i>-- &quot;It'll feel magical when it's working&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Don't worry if yousa find flaws in yous past creations,  it's because yousa've evolved&quot;</strong>
+  <i>-- &quot;Don't worry if you find flaws in your past creations, it's because you've evolved&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Kurant Tea</h4>
+<h4 align="center">Dark Caipirinha</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrsrpr1441247464.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uwstrx1472406058.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Kurant</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">demerara Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tea</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Turkish apple </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> (if needed)<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cachaca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 oz</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,10 @@
 
 
 <p align="center">
-Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple tea and, if you like, some sugar. Enjoy!
+Muddle the sugar into the lime wedges in an old-fashioned glass.
+Fill the glass with ice cubes.
+Pour the cachaca into the glass.
+Stir well.
 </p>
 
 ----
@@ -168,14 +171,14 @@ Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Gaia: Here Comes the Sun - ©️ NASA @ 2024-08-04</h4>
+<h4 align="center">Milky Way Over Tunisia - ©️ Makrem Larnaout @ 2024-08-05</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/XORui0wFKnE?rel=0" alt="Gaia: Here Comes the Sun image" />
+<img src="https://apod.nasa.gov/apod/image/2408/LarsMilkyWay_Larnaout_960.jpg" alt="Milky Way Over Tunisia image" />
 
 </p>
 
-<h5 align="center">What would it look like to return home from outside our galaxy? Although designed to answer greater questions, data from ESA's robotic Gaia mission is helping to provide a uniquely modern perspective on humanity's place in the universe.  Gaia orbits the Sun near the Earth and resolves stars' positions so precisely that it can determine a slight shift from its changing vantage point over the course of a year, a shift that is proportionately smaller for more distant stars -- and so determines distance.  In the first sequence of the video, an illustration of the Milky Way is shown that soon resolves into a three-dimensional visualization of Gaia star data.  A few notable stars are labelled with their common names, while others stars are labelled with numbers from a Gaia catalog. Eventually, the viewer arrives in our stellar neighborhood where many stars were tracked by Gaia, and soon at our home star Sol, the Sun. At the video's end, the reflective glow of Sol's third planet becomes visible: Earth.</h5>
+<h5 align="center">That's no moon. On the ground, that's the Lars Homestead in Tunisia. And that's not just any galaxy. That's the central band of our own Milky Way galaxy. Last, that's not just any meteor. It is a bright fireball likely from last year's Perseids meteor shower. The featured image composite combines consecutive exposures taken by the same camera from the same location.  This year's Perseids peak during the coming weekend is expected to show the most meteors after the first quarter moon sets, near midnight.  To best experience a meteor shower, you should have clear and dark skies, a comfortable seat, and patience.</h5>
 
 ----
 
@@ -188,90 +191,90 @@ Pour Absolut Kurant into a comfortably big tea-cup. Add the not too hot(!) apple
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
