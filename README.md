@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Full of brilliant ideas,  your mind is&quot;</strong>
-  <i>-- &quot;Your mind is full of brilliant ideas&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot; ic pro canne nânne behwirfan sam mîn {dreams} ârweorðung dôð belimp râd mîn mâðmcleofa mæsse−ûhta mîn mâðmcleofa dôð wyrd un−l¯æd mîn {dreams}.&quot;</strong>
+  <i>-- &quot;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Highland Fling Cocktail</h4>
+<h4 align="center">Apello</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/0bkwca1492975553.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,19 +48,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
         </tr>
     </tbody>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Stir all ingredients (except olive) with ice and strain into a cocktail glass. Add the olive and serve.
+Stirr. Grnish with maraschino cherry.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Meteors and Aurora over Germany - ©️ Chantal Anders @ 2024-08-14</h4>
+<h4 align="center">Late Night Vallentuna - ©️ Clear Skies @ 2024-08-15</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/AuroraPerseids_Anders_1080.jpg" alt="Meteors and Aurora over Germany image" />
+<img src="https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg" alt="Late Night Vallentuna image" />
 
 </p>
 
-<h5 align="center">This was an unusual night. For one thing, the night sky of August 11 and 12, earlier this week, occurred near the peak of the annual Perseid Meteor Shower. Therefore, meteors streaked across the dark night as small bits cast off from Comet Swift-Tuttle came crashing into the Earth's atmosphere. Even more unusually, for central Germany at least, the night sky glowed purple. The red-blue hue was due to aurora caused by an explosion of particles from the Sun a few days before. This auroral storm was so intense that it was seen as far south as Texas and Italy, in Earth's northern hemisphere.  The featured image composite was built from 7 exposures taken over 26 minutes from Ense, Germany. The Perseids occur predictably every August, but auroras visible this far south are more unusual and less predictable.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
+<h5 align="center">Bright Mars and even brighter Jupiter are in close conjunction just above the pine trees in this post-midnight skyscape from Vallentuna, Sweden. Taken on August 12 during a geomagnetic storm, the snapshot records the glow of aurora borealis or northern lights, beaming from the left side of the frame. Of course on that date Perseid meteors rained through planet Earth's skies, grains of dust from the shower's parent, periodic comet Swift-Tuttle. The meteor streak at the upper right is a Perseid plowing through the atmosphere at about 60 kilometers per second. Also well-known in in Earth's night sky, the bright Pleides star cluster shines below the Perseid meteor streak. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. The Pleiades and their parents' names are given to the cluster's nine brightest stars.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
 
 ----
 
@@ -192,90 +192,90 @@ Stir all ingredients (except olive) with ice and strain into a cocktail glass. A
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
