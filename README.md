@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; ic pro canne nânne behwirfan sam mîn {dreams} ârweorðung dôð belimp râd mîn mâðmcleofa mæsse−ûhta mîn mâðmcleofa dôð wyrd un−l¯æd mîn {dreams}.&quot;</strong>
-  <i>-- &quot;I can never decide whether my dreams are the result of my thoughts or my thoughts the result of my dreams.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Do not chop at the bait of bel,  till tlhih sov pa' is qo' hook beneath 'oh.&quot;</strong>
+  <i>-- &quot;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apello</h4>
+<h4 align="center">Bobby Burns Cocktail</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/km6se51484411608.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Benedictine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/4 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Stirr. Grnish with maraschino cherry.
+Stir all ingredients (except lemon peel) with ice and strain into a cocktail glass. Add the twist of lemon peel and serve.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Stirr. Grnish with maraschino cherry.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Late Night Vallentuna - ©️ Clear Skies @ 2024-08-15</h4>
+<h4 align="center">Meteor Borealis - ©️ Jason Dain @ 2024-08-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/PerseidM45Aurora_Heden1024.jpg" alt="Late Night Vallentuna image" />
+<img src="https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg" alt="Meteor Borealis image" />
 
 </p>
 
-<h5 align="center">Bright Mars and even brighter Jupiter are in close conjunction just above the pine trees in this post-midnight skyscape from Vallentuna, Sweden. Taken on August 12 during a geomagnetic storm, the snapshot records the glow of aurora borealis or northern lights, beaming from the left side of the frame. Of course on that date Perseid meteors rained through planet Earth's skies, grains of dust from the shower's parent, periodic comet Swift-Tuttle. The meteor streak at the upper right is a Perseid plowing through the atmosphere at about 60 kilometers per second. Also well-known in in Earth's night sky, the bright Pleides star cluster shines below the Perseid meteor streak. In Greek myth, the Pleiades were seven daughters of the astronomical titan Atlas and sea-nymph Pleione. The Pleiades and their parents' names are given to the cluster's nine brightest stars.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
+<h5 align="center">A single exposure made with a camera pointed almost due north on August 12 recorded this bright Perseid meteor in the night sky west of Halifax, Nova Scotia, Canada. The meteor's incandescent trace is fleeting. It appears to cross the stars of the Big Dipper, famous northern asterism and celestial kitchen utensil, while shimmering curtains of aurora borealis, also known as the northern lights, dance in the night. Doubling the wow factor for night skywatchers near the peak of this year's Perseid meteor shower auroral activity on planet Earth was enhanced by geomagnetic storms. The intense space weather was triggered by flares from an active Sun.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
 
 ----
 
@@ -192,68 +192,68 @@ Stirr. Grnish with maraschino cherry.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -261,21 +261,21 @@ Stirr. Grnish with maraschino cherry.
 <img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
