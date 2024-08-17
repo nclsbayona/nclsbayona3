@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Do not chop at the bait of bel,  till tlhih sov pa' is qo' hook beneath 'oh.&quot;</strong>
-  <i>-- &quot;Do not bite at the bait of pleasure, till you know there is no hook beneath it.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Naqis progress is zin progress&quot;</strong>
+  <i>-- &quot;Small progress is still progress&quot; in dothraki language --</i>
 
 </p>
 
@@ -172,14 +172,14 @@ Stir all ingredients (except lemon peel) with ice and strain into a cocktail gla
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Meteor Borealis - ©️ Jason Dain @ 2024-08-16</h4>
+<h4 align="center">Sky Full of Arcs - ©️ Rory Gannaway @ 2024-08-17</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/JZ8_3744Dain_1024c.jpg" alt="Meteor Borealis image" />
+<img src="https://apod.nasa.gov/apod/image/2408/RocketGannaway_1100c.jpg" alt="Sky Full of Arcs image" />
 
 </p>
 
-<h5 align="center">A single exposure made with a camera pointed almost due north on August 12 recorded this bright Perseid meteor in the night sky west of Halifax, Nova Scotia, Canada. The meteor's incandescent trace is fleeting. It appears to cross the stars of the Big Dipper, famous northern asterism and celestial kitchen utensil, while shimmering curtains of aurora borealis, also known as the northern lights, dance in the night. Doubling the wow factor for night skywatchers near the peak of this year's Perseid meteor shower auroral activity on planet Earth was enhanced by geomagnetic storms. The intense space weather was triggered by flares from an active Sun.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
+<h5 align="center">On August 11 a Rocket Lab Electron rocket launched from a rotating planet. With a small satellite on board its mission was dubbed A Sky Full of SARs (Synthetic Aperture Radar satellites), departing for low Earth orbit from Mahia Peninsula on New Zealand's north island. The fiery trace of the Electron's graceful launch arc is toward the east in this southern sea and skyscape, a composite of 50 consecutive frames taken over 2.5 hours. Fixed to a tripod, the camera was pointing directly at the South Celestial Pole, the extension of planet Earth's axis of rotation in to space. But no bright star marks that location in the southern hemisphere's night sky. Still, the South Celestial Pole is easy to spot. It lies at the center of the concentric star trail arcs that fill the skyward field of view.   Gallery: Perseid Meteor Shower 2024 and Aurorae</h5>
 
 ----
 
@@ -192,90 +192,90 @@ Stir all ingredients (except lemon peel) with ice and strain into a cocktail gla
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
