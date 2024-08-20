@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nykeā dream ao dream mērī iksos mērī nykeā dream. Nykeā dream ao dream hēnkirī iksos reality.&quot;</strong>
-  <i>-- &quot;A dream you dream alone is only a dream. A dream you dream together is reality.&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Realistic núr ceri- ú- accomplish extraordinarui things.&quot;</strong>
+  <i>-- &quot;Realistic people do not accomplish extraordinary things.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lord And Lady</h4>
+<h4 align="center">Brainteaser</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml white </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tia maria</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Erin Cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Advocaat</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 ml </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.
+layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">IC 5146: The Cocoon Nebula - ©️ Luis Romero Ventura @ 2024-08-19</h4>
+<h4 align="center">Supermoon Beyond the Temple of Poseidon - ©️ NASA @ 2024-08-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/Cocoon_Ventura_960.jpg" alt="IC 5146: The Cocoon Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg" alt="Supermoon Beyond the Temple of Poseidon image" />
 
 </p>
 
-<h5 align="center">Inside the Cocoon Nebula is a newly developing cluster of stars. Cataloged as IC 5146, the beautiful nebula is nearly 15 light-years wide. Soaring high in northern summer night skies, it's located some 4,000 light years away toward the constellation of the Swan (Cygnus).  Like other star forming regions, it stands out in red, glowing, hydrogen gas excited by young, hot stars, and dust-reflected starlight at the edge of an otherwise invisible molecular cloud.  In fact, the bright star found near the center of this nebula is likely only a few hundred thousand years old, powering the nebular glow as it clears out a cavity in the molecular cloud's star forming dust and gas. A 48-hour long integration resulted in this exceptionally deep color view tracing tantalizing features within and surrounding the dusty stellar nursery.</h5>
+<h5 align="center">A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.</h5>
 
 ----
 
@@ -184,87 +188,87 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
