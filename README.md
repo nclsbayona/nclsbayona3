@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Realistic núr ceri- ú- accomplish extraordinarui things.&quot;</strong>
-  <i>-- &quot;Realistic people do not accomplish extraordinary things.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;ta tegpul tis no mas gidpox rep ta ughrec.&quot;</strong>
+  <i>-- &quot;The future is no more uncertain than the present.&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Brainteaser</h4>
+<h4 align="center">Quick-sand</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ruywtq1461866066.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vprxqv1478963533.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml white </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Black Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">25 ml </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Erin Cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">30 ml </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Advocaat</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 ml </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add 250 ml </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-layered erin first, then sambuca and then avocart(should sit in middle of other two. To drink: use a straw to suck up avocart then shot the rest and then suck fumes up through straw.
+Simply add the orange juice, quite a quick pour in order to mix the sambucca with the orange juice. The juice MUST have fruit pulp!
 </p>
 
 ----
@@ -168,14 +164,14 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Supermoon Beyond the Temple of Poseidon - ©️ NASA @ 2024-08-20</h4>
+<h4 align="center">Fermi's 12-year All-Sky Gamma-ray Map - ©️ NASA @ 2024-08-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/SupermoonPoseidon_Maragos_960.jpg" alt="Supermoon Beyond the Temple of Poseidon image" />
+<img src="https://apod.nasa.gov/apod/image/2408/12YearMap_Fermi_1080.jpg" alt="Fermi's 12-year All-Sky Gamma-ray Map image" />
 
 </p>
 
-<h5 align="center">A supermoon occurred yesterday. And tonight's moon should also look impressive.  Supermoons appear slightly larger and brighter than most full moons because they reach their full phase when slightly nearer to the Earth -- closer than 90 percent of all full moons.  This supermoon was also a blue moon given the definition that it is the third of four full moons occurring during a single season.  Blue moons are not usually blue, and a different definition holds that a blue moon is the second full moon that occurs during a single month.  The featured image captured the blue supermoon right near its peak size yesterday as it was rising beyond the Temple of Poseidon in Greece. This supermoon is particularly unusual in that it is the first of four successive supermoons, the next three occurring in September, October, and November.</h5>
+<h5 align="center">Forget X-ray vision — imagine what you could see with gamma-ray vision!  The featured all-sky map shows what the universe looks like to NASA's Fermi Gamma-ray Space Telescope.  Fermi sees light with energies about a billion times what the human eye can see, and the map combines 12 years of Fermi observations.  The colors represent the brightness of the gamma-ray sources, with brighter sources appearing lighter in color.  The prominent stripe across the middle is the central plane of our Milky Way galaxy.  Most of the red and yellow dots scattered above and below the Milky Way’s plane are very distant galaxies, while most of those within the plane are nearby pulsars.  The blue background that fills the image is the diffuse glow of gamma-rays from distant sources that are too dim to be detected individually.  Some gamma-ray sources remain unidentified and topics of research — currently no one knows what they are.</h5>
 
 ----
 
@@ -188,10 +184,10 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
@@ -199,21 +195,21 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
@@ -221,57 +217,57 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
