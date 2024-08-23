@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Choh is hard at wa'dich,  messy in the botlh 'ej gorgeous at the van.&quot;</strong>
-  <i>-- &quot;Change is hard at first, messy in the middle and gorgeous at the end.&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;ye make a difference in th' world by simply existin' in it&quot;</strong>
+  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Figgy Thyme</h4>
+<h4 align="center">White Lady</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/pbw4e51606766578.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jofsaz1504352991.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Figs</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Thyme</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Sprig</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2cl</td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your precious ice into a collins glass. In a cocktail shaker, muddle the figs and thyme together. Add honey vodka, lemon juice, and a large ice cube (@glacioice). Shake until well chilled, and strain into glass. Add tonic water and finally 2 dashes of angostura bitters. Garnish with sliced figs and thyme.
+Add all ingredients into cocktail shaker filled with ice. Shake well and strain into large cocktail glass.
 </p>
 
 ----
@@ -184,14 +168,14 @@ In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your p
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Dark Tower in Scorpius - ©️ Mike Selby @ 2024-08-22</h4>
+<h4 align="center">Supernova Remnant CTA 1 - ©️ Thomas Lelu @ 2024-08-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/DarkTowerCDK700-Selby1024.jpg" alt="The Dark Tower in Scorpius image" />
+<img src="https://apod.nasa.gov/apod/image/2408/CTA1_15_75_Lelu1024.jpg" alt="Supernova Remnant CTA 1 image" />
 
 </p>
 
-<h5 align="center">In silhouette against a crowded star field along the tail of the arachnological constellation Scorpius, this dusty cosmic cloud evokes for some the image of an ominous dark tower. In fact, monstrous clumps of dust and molecular gas collapsing to form stars may well lurk within the dark nebula, a structure that spans almost 40 light-years across this gorgeous telescopic portrait. A cometary globule, the swept-back cloud is shaped by intense ultraviolet radiation from the OB association of very hot stars in NGC 6231, off the upper right corner of the scene. That energetic ultraviolet light also powers the globule's bordering reddish glow of hydrogen gas. Hot stars embedded in the dust can be seen as bluish reflection nebulae. This dark tower and associated nebulae are about 5,000 light-years away.   Growing Gallery: Moon Eclipses Saturn in August 2024</h5>
+<h5 align="center">There is a quiet pulsar at the heart of CTA 1. The supernova remnant was discovered as a source of emission at radio wavelengths by astronomers in 1960 and since identified as the result of the death explosion of a massive star. But no radio pulses were detected from the expected pulsar, the rotating neutron star remnant of the massive star's collapsed core. Seen about 10,000 years after the initial supernova explosion, the interstellar debris cloud is faint at optical wavelengths. CTA 1's visible wavelength emission from still expanding shock fronts is revealed in this deep telescopic image, a frame that spans about 2 degrees across a starfield in the northern constellation of Cepheus. While no pulsar has since been found at radio wavelengths, in 2008 the Fermi Gamma-ray Space Telescope detected pulsed emission from CTA 1, identifying the supernova remnant's rotating neutron star. The source has been recognized as the first in a growing class of pulsars that are quiet at radio wavelengths but pulse in high-energy gamma-rays.</h5>
 
 ----
 
@@ -204,90 +188,90 @@ In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your p
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
