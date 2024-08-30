@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;A addlepate sees himself as another, but a wise lubber sees others as himself.&quot;</strong>
-  <i>-- &quot;A fool sees himself as another, but a wise man sees others as himself.&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Ch'ah rsah vah'll rt'asi hah out&quot;</strong>
+  <i>-- &quot;I know you'll sort it out&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Dragonfly</h4>
+<h4 align="center">Banana Milk Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uc63bh1582483589.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl cold </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ginger ale</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-In a highball glass almost filled with ice cubes, combine the gin and ginger ale. Stir well. Garnish with the lime wedge.
+Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
 </p>
 
 ----
@@ -168,14 +172,14 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Star Factory Messier 17 - ©️ Gaetan Maxant @ 2024-08-29</h4>
+<h4 align="center">Southern Moonscape - ©️ Lorand Fenyes @ 2024-08-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/M17SwanMaxant_1024.jpg" alt="Star Factory Messier 17 image" />
+<img src="https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg" alt="Southern Moonscape image" />
 
 </p>
 
-<h5 align="center">A nearby star factory known as Messier 17 lies some 5,500 light-years away in the nebula-rich constellation Sagittarius. At that distance, this 1.5 degree wide field-of-view would span about 150 light-years. In the sharp color composite image faint details of the region's gas and dust clouds are highlighted with narrowband image data against a backdrop of central Milky Way stars. The stellar winds and energetic radiation from hot, massive stars already formed from M17's stock of cosmic gas and dust have slowly carved away at the remaining interstellar material, producing the nebula's cavernous appearance and the undulating shapes within. A popular stop on telescopic tours of the cosmos, M17 is also known as the Omega or the Swan Nebula.</h5>
+<h5 align="center">The Moon's south pole is toward the top left of this detailed telescopic moonscape. Captured on August 23, it looks across the rugged southern lunar highlands. The view's foreshortened perspective heightens the impression of a dense field of craters and makes the craters themselves appear more oval shaped close to the lunar limb. Prominent near center is 114 kilometer diameter crater Moretus. Moretus is young for a large lunar crater and features terraced inner walls and a 2.1 kilometer high, central peak, similar in appearance to the more northerly young crater Tycho. Mountains visible along the lunar limb at the top can rise about 6 kilometers or so above the surrounding terrain. Close to the lunar south pole, permanently shadowed crater floors with expected reservoirs of water-ice have made the rugged south polar region of the Moon a popular target for exploration.</h5>
 
 ----
 
@@ -188,68 +192,68 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -257,21 +261,21 @@ In a highball glass almost filled with ice cubes, combine the gin and ginger ale
 <img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
