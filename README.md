@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ch'ah rsah vah'll rt'asi hah out&quot;</strong>
-  <i>-- &quot;I know you'll sort it out&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot; {Death} {smiles} ætrihte ûs of pro ic {all}. {All} we canne ræfn−an {is} smearcian hinderling.&quot;</strong>
+  <i>-- &quot;Death smiles at us all. All we can do is smile back.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Banana Milk Shake</h4>
+<h4 align="center">Black Forest Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/rtwwsx1472720307.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl cold </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +60,7 @@
 
 
 <p align="center">
-Blend very well, preferably in a household mixer. Serve in a wine glass, garnish with whipped cream and a piece of banana.
+In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
 </p>
 
 ----
@@ -172,14 +160,14 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Southern Moonscape - ©️ Lorand Fenyes @ 2024-08-30</h4>
+<h4 align="center">IFN and the NGC 7771 Group - ©️ Steve Mandel @ 2024-08-31</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/lorand_fenyes_hold_0016_Moretus_hegyvidek1024c.jpg" alt="Southern Moonscape image" />
+<img src="https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg" alt="IFN and the NGC 7771 Group image" />
 
 </p>
 
-<h5 align="center">The Moon's south pole is toward the top left of this detailed telescopic moonscape. Captured on August 23, it looks across the rugged southern lunar highlands. The view's foreshortened perspective heightens the impression of a dense field of craters and makes the craters themselves appear more oval shaped close to the lunar limb. Prominent near center is 114 kilometer diameter crater Moretus. Moretus is young for a large lunar crater and features terraced inner walls and a 2.1 kilometer high, central peak, similar in appearance to the more northerly young crater Tycho. Mountains visible along the lunar limb at the top can rise about 6 kilometers or so above the surrounding terrain. Close to the lunar south pole, permanently shadowed crater floors with expected reservoirs of water-ice have made the rugged south polar region of the Moon a popular target for exploration.</h5>
+<h5 align="center">Galaxies of the NGC 7771 Group are featured in this intriguing skyscape. Some 200 million light-years distant toward the constellation Pegasus, NGC 7771 is the large, edge-on spiral near center, about 75,000 light-years across, with two smaller galaxies below it. Large spiral NGC 7769 is seen face-on to the right. Galaxies of the NGC 7771 group are interacting, making repeated close passages that will ultimately result in galaxy-galaxy mergers on a cosmic timescale. The interactions can be traced by distortions in the shape of the galaxies themselves and faint streams of stars created by their mutual gravitational tides. But a clear view of this galaxy group is difficult to come by as the deep image also reveals extensive clouds of foreground dust sweeping across the field of view. The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae. The faint IFN reflect starlight from our own Milky Way Galaxy and lie only a few hundred light-years above the galactic plane.</h5>
 
 ----
 
@@ -192,90 +180,90 @@ Blend very well, preferably in a household mixer. Serve in a wine glass, garnish
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
