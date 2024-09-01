@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {Death} {smiles} ætrihte ûs of pro ic {all}. {All} we canne ræfn−an {is} smearcian hinderling.&quot;</strong>
-  <i>-- &quot;Death smiles at us all. All we can do is smile back.&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Struggling means u're learning&quot;</strong>
+  <i>-- &quot;Struggling means you're learning&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Black Forest Shake</h4>
+<h4 align="center">Tequila Sunrise</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xxtxsu1472720505.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quqyqp1480879103.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shake</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 measures </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +60,7 @@
 
 
 <p align="center">
-In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Blend very well.
+Pour the tequila and orange juice into glass over ice. Add the grenadine, which will sink to the bottom. Stir gently to create the sunrise effect. Garnish and serve.
 </p>
 
 ----
@@ -160,14 +160,14 @@ In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Ble
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">IFN and the NGC 7771 Group - ©️ Steve Mandel @ 2024-08-31</h4>
+<h4 align="center">The Moon Dressed Like Saturn - ©️ Francisco Sojuel @ 2024-09-01</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2408/NGC7769_70_71_Mandel_1024.jpg" alt="IFN and the NGC 7771 Group image" />
+<img src="https://apod.nasa.gov/apod/image/2409/SaturnMoon_Sojuel_960.jpg" alt="The Moon Dressed Like Saturn image" />
 
 </p>
 
-<h5 align="center">Galaxies of the NGC 7771 Group are featured in this intriguing skyscape. Some 200 million light-years distant toward the constellation Pegasus, NGC 7771 is the large, edge-on spiral near center, about 75,000 light-years across, with two smaller galaxies below it. Large spiral NGC 7769 is seen face-on to the right. Galaxies of the NGC 7771 group are interacting, making repeated close passages that will ultimately result in galaxy-galaxy mergers on a cosmic timescale. The interactions can be traced by distortions in the shape of the galaxies themselves and faint streams of stars created by their mutual gravitational tides. But a clear view of this galaxy group is difficult to come by as the deep image also reveals extensive clouds of foreground dust sweeping across the field of view. The dim, dusty galactic cirrus clouds are known as Integrated Flux Nebulae. The faint IFN reflect starlight from our own Milky Way Galaxy and lie only a few hundred light-years above the galactic plane.</h5>
+<h5 align="center">Why does Saturn appear so big? It doesn't -- what is pictured are foreground clouds on Earth crossing in front of the Moon. The Moon shows a slight crescent phase with most of its surface visible by reflected Earthlight, known as Da Vinci glow. The Sun directly illuminates the brightly lit lunar crescent from the bottom, which means that the Sun must be below the horizon and so the image was taken before sunrise.  This double take-inducing picture was captured on 2019 December 24, two days before the Moon slid in front of the Sun to create a solar eclipse. In the foreground, lights from small Guatemalan towns are visible behind the huge volcano Pacaya.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -180,79 +180,79 @@ In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Ble
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -260,10 +260,10 @@ In a blender put ice cubes, chocolate syrup, cherry brandy, vodka, and milk. Ble
 <img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
