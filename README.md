@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;īlon issi ry works isse verdagon&quot;</strong>
-  <i>-- &quot;We are all works in progress&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;th' path t' success be t' take massive, determined action&quot;</strong>
+  <i>-- &quot;The path to success is to take massive, determined action&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Royal Bitch</h4>
+<h4 align="center">Brigadier</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qupuyr1441210090.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nl89tf1518947401.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Chocolate</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Heering</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-Into a shot glass layer the Crown Royal on top of the Frangelico.
+Mix ingredients in a warmed mug and stir.
 </p>
 
 ----
@@ -164,14 +168,14 @@ Into a shot glass layer the Crown Royal on top of the Frangelico.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 247 and Friends - ©️ Eric Benson @ 2024-09-05</h4>
+<h4 align="center">Ringed Ice Giant Neptune - ©️ NASA @ 2024-09-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2409/NGC247-Hag-Ben1024.JPG" alt="NGC 247 and Friends image" />
+<img src="https://apod.nasa.gov/apod/image/2409/NeptuneTriton_webb1059.png" alt="Ringed Ice Giant Neptune image" />
 
 </p>
 
-<h5 align="center">About 70,000 light-years across, NGC 247 is a spiral galaxy smaller than our Milky Way. Measured to be only 11 million light-years distant it is nearby though. Tilted nearly edge-on as seen from our perspective, it dominates this telescopic field of view toward the southern constellation Cetus. The pronounced void on one side of the galaxy's disk recalls for some its popular name, the Needle's Eye galaxy. Many background galaxies are visible in this sharp galaxy portrait, including the remarkable string of four galaxies just below and left of NGC 247 known as Burbidge's Chain. Burbidge's Chain galaxies are about 300 million light-years distant. NGC 247 itself is part of the Sculptor Group of galaxies along with shiny spiral NGC 253.</h5>
+<h5 align="center">Ringed ice giant Neptune lies near the center of this sharp near-infrared image from the James Webb Space Telescope. The dim and distant world is the farthest planet from the Sun, about 30 times farther away than planet Earth. But in the stunning Webb view, the planet's dark and ghostly appearance is due to atmospheric methane that absorbs infrared light. High altitude clouds that reach above most of Neptune's absorbing methane easily stand out in the image though. Coated with frozen nitrogen, Neptune's largest moon Triton is brighter than Neptune in reflected sunlight, seen at the upper left sporting the Webb telescope's characteristic diffraction spikes. Including Triton, seven of Neptune's 14 known moons can be identified in the field of view. Neptune's faint rings are striking in this space-based planetary portrait. Details of the complex ring system are seen here for the first time since Neptune was visited by the Voyager 2 spacecraft in August 1989.</h5>
 
 ----
 
@@ -184,90 +188,90 @@ Into a shot glass layer the Crown Royal on top of the Frangelico.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
