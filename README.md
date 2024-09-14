@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;A way,  you'll find&quot;</strong>
-  <i>-- &quot;You'll find a way&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Jee-jee tinka peetch much um feel peetch little.&quot;</strong>
+  <i>-- &quot;We think too much and feel too little.&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Irish Coffee</h4>
+<h4 align="center">Quick F**K</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wvtwpp1478963454.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Midori melon liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
+In a shot glass add 1/3 Kahlua first. Then 1/3 Miduri, topping it off with a 1/3 bailey's irish cream
 </p>
 
 ----
@@ -172,14 +168,14 @@ Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cr
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Aurora Australis and the International Space Station - ©️ NASA @ 2024-09-13</h4>
+<h4 align="center">The Moona Lisa - ©️ Gianni Sarcone @ 2024-09-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2409/iss071e564695_1024.jpg" alt="Aurora Australis and the International Space Station image" />
+<img src="https://apod.nasa.gov/apod/image/2409/Moonalisa_Example1024.jpg" alt="The Moona Lisa image" />
 
 </p>
 
-<h5 align="center">This snapshot from the International Space Station was taken on August 11 while orbiting about 430 kilometers above the Indian Ocean, Southern Hemisphere, planet Earth. The spectacular view looks south and east, down toward the planet's horizon and through red and green curtains of aurora australis. The auroral glow is caused by emission from excited oxygen atoms in the extremely rarefied upper atmosphere still present at the level of the orbiting outpost. Green emission from atomic oxygen dominates this scene at altitudes of 100 to 250 kilometers, while red emission from atomic oxygen can extend as high as 500 kilometers altitude. Beyond the glow of these southern lights, this view from low Earth orbit reveals the starry sky from a southern hemisphere perspective. Stars in Orion's belt and the Orion Nebula are near the Earth's limb just left of center. Sirius, alpha star of Canis Major and brightest star in planet Earth's night is above center along the right edge of the southern orbital skyscape.  Looking Up: International Observe the Moon Night</h5>
+<h5 align="center">Only natural colors of the Moon in planet Earth's sky appear in this creative visual presentation. Arranged as pixels in a framed image, the lunar disks were photographed at different times. Their varying hues are ultimately due to reflected sunlight affected by changing atmospheric conditions and the alignment geometry of Moon, Earth, and Sun. Here, the darkest lunar disks are the colors of earthshine. A description of earthshine, in terms of sunlight reflected by Earth's oceans illuminating the Moon's dark surface, was written over 500 years ago by Leonardo da Vinci.  But stand farther back from your screen or just shift your gaze to the smaller versions of the image. You might also see one of da Vinci's most famous works of art.  Tonight: International Observe the Moon Night</h5>
 
 ----
 
@@ -192,90 +188,90 @@ Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cr
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
