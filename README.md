@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;be ta lipdee watcher mud tu obape yee jotat.  to nama wadken ta thinker.&quot;</strong>
-  <i>-- &quot;Be the silent watcher of your thoughts and behavior. You are beneath the thinker.&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Tlhih'll tu' a way&quot;</strong>
+  <i>-- &quot;You'll find a way&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">57 Chevy with a White License Plate</h4>
+<h4 align="center">24k nightmare</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qyyvtu1468878544.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yyrwty1468877498.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz white </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Goldschlager</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Jägermeister</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rumple Minze</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">151 proof rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz Bacardi </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-1. Fill a rocks glass with ice 2.add white creme de cacao and vodka 3.stir
+Add over ice,shake and pour.
 </p>
 
 ----
@@ -164,14 +172,14 @@
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet Tsuchinshan-ATLAS Approaches - ©️ Brian Valente&amp; Greg Stein @ 2024-09-23</h4>
+<h4 align="center">NGC 6727: The Rampaging Baboon Nebula - ©️ Alpha Zhang &amp; Ting Yu @ 2024-09-24</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2409/Comet23A3_Valente_960.jpg" alt="Comet Tsuchinshan-ATLAS Approaches image" />
+<img src="https://apod.nasa.gov/apod/image/2409/Baboon_ZhangYu_960.jpg" alt="NGC 6727: The Rampaging Baboon Nebula image" />
 
 </p>
 
-<h5 align="center">What will happen as this already bright comet approaches?  Optimistic predictions have Comet C/2023 A3 (Tsuchinshan–ATLAS) briefly becoming easily visible to the unaided eye -- although the future brightness of comets are notoriously hard to predict, and this comet may even break up in warming sunlight. What is certain is that the comet is now unexpectedly bright and is on track to pass its closest to the Sun (0.39 AU) later this week and closest to the Earth (0.47 AU) early next month.  The featured image was taken in late May as Comet Tsuchinshan–ATLAS, discovered only last year, passed nearly in front of two distant galaxies.  The comet can now be found with binoculars in the early morning sky rising just before the Sun, while over the next few weeks it will brighten as it moves to the early evening sky.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">This dusty region is forming stars. Part of a sprawling molecular cloud complex that resembles, to some, a rampaging baboon, the region is a relatively close by 500 light-years away toward the constellation Corona Australis. That's about one third the distance of the more famous stellar nursery known as the Orion Nebula.  Mixed with bright nebulosities, the brown dust clouds effectively block light from more distant background stars in the Milky Way and obscure from view embedded stars still in the process of formation.  The eyes of the dust creature in the featured image are actually blue reflection nebulas cataloged as NGC 6726, 6727, 6729, and IC 4812, while the red mouth glows with light emitted by hydrogen gas.  Just to the upper left of the baboon's head is NGC 6723, a whole globular cluster of stars nearly 30,000 light years in the distance.    Explore Your Universe: Random APOD Generator</h5>
 
 ----
 
@@ -184,90 +192,90 @@
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
