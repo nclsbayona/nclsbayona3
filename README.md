@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vaabir something worth remembering.&quot;</strong>
-  <i>-- &quot;Do something worth remembering.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;to're mido a gopa caree&quot;</strong>
+  <i>-- &quot;You're doing a great job&quot; in minion language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Snowball</h4>
+<h4 align="center">Barracuda</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7ibfs61504735416.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jwmr1x1504372337.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,20 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Advocaat</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8-10 oz cold </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1.5 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> 1 dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Prosecco</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">top up </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +76,7 @@
 
 
 <p align="center">
-Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass with lemonade and decorate with a slice of lemon. Serve at once.
+Shake pour ingredients with ice. Strain into glass, top with Sparkling wine.
 </p>
 
 ----
@@ -172,14 +176,14 @@ Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Stellar Streams in the Local Universe - ©️ NASA @ 2024-09-27</h4>
+<h4 align="center">Rocket Eclipse at Sunset - ©️ Ben Cooper @ 2024-09-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2409/SSSGreatestHits1024.png" alt="Stellar Streams in the Local Universe image" />
+<img src="https://apod.nasa.gov/apod/image/2409/Galileo_L13_DSC_9929.jpg" alt="Rocket Eclipse at Sunset image" />
 
 </p>
 
-<h5 align="center">The twenty galaxies arrayed in these panels are part of an ambitious astronomical survey of tidal stellar streams. Each panel presents a composite view; a deep, inverted image taken from publicly available imaging surveys of a field that surrounds a nearby massive galaxy image. The inverted images reveal faint cosmic structures, star streams hundreds of thousands of light-years across, that result from the gravitational disruption and eventual merger of satellite galaxies in the local universe. Such surveys of mergers and gravitational tidal interactions between massive galaxies and their dwarf satellites are crucial guides for current models of galaxy formation and cosmology. Of course, the detection of stellar streams in the neighboring Andromeda Galaxy and our own Milky Way also offers spectacular evidence for ongoing satellite galaxy disruption within our more local galaxy group.</h5>
+<h5 align="center">Shockwaves ripple across the glare as a launch eclipses the setting Sun in this exciting close-up. Captured on September 17, the roaring Falcon 9 rocket carried European Galileo L13 navigation satellites to medium Earth orbit after a lift-off from Cape Canaveral on Florida's space coast.  The Falcon 9 booster returned safely to Earth about 8.5 minutes later, notching the 22nd launch and landing for the reusable workhorse launch vehicle. But where did it land? Just Read the Instructions.</h5>
 
 ----
 
@@ -192,32 +196,32 @@ Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
@@ -225,43 +229,43 @@ Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
@@ -269,13 +273,13 @@ Place one ice cube in the glass and add 1 1/2 oz of Advocaat. Fill up the glass 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
