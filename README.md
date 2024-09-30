@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tave ny kovothis pagal klotis kash shutting xok lig zhol.&quot;</strong>
-  <i>-- &quot;The biggest challenge after success is shutting up about it.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Life bal kyr'am are be manda kando. Ca'nara swiftly passes de bal balac is echoy'la.&quot;</strong>
+  <i>-- &quot;Life and death are of supreme importance. Time swiftly passes by and opportunity is lost.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sidecar Cocktail</h4>
+<h4 align="center">Blue Hurricane</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ewjxui1504820428.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/nwx02s1515795822.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 parts</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passoa</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and Sour</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 parts</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +80,12 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+If each part is 1/2 oz then use about 2.5 cups of ice.
+
+Blend it all together. 
+Drink it with a big straw if you have one.
+
+
 </p>
 
 ----
@@ -168,14 +185,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Seven Dusty Sisters - ©️ NASA @ 2024-09-29</h4>
+<h4 align="center">Comet Tsuchinshan-ATLAS over Mexico - ©️ Daniel Korona @ 2024-09-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2409/Pleiades_WiseAntonucci_960.jpg" alt="Seven Dusty Sisters image" />
+<img src="https://apod.nasa.gov/apod/image/2409/CometA3_Korona_1080.jpg" alt="Comet Tsuchinshan-ATLAS over Mexico image" />
 
 </p>
 
-<h5 align="center">Is this really the famous Pleiades star cluster? Known for its iconic blue stars, the Pleiades is shown here in infrared light where the surrounding dust outshines the stars. Here, three infrared colors have been mapped into visual colors (R=24, G=12, B=4.6 microns). The base images were taken by NASA's orbiting Wide Field Infrared Survey Explorer (WISE) spacecraft. Cataloged as M45 and nicknamed the Seven Sisters, the Pleiades star cluster is by chance situated in a passing dust cloud. The light and winds from the massive Pleiades stars preferentially repel smaller dust particles, causing the dust to become stratified into filaments, as seen. The featured image spans about 20 light years at the distance of the Pleiades, which lies about 450 light years distant toward the constellation of the Bull (Taurus).</h5>
+<h5 align="center">The new comet has passed its closest to the Sun and is now moving closer to the Earth. C/2023 A3 (Tsuchinshan–ATLAS) is currently moving out from inside the orbit of Venus and on track to pass its nearest to the Earth in about two weeks.  Comet Tsuchinshan-ATLAS, pronounced &quot;Choo-cheen-shahn At-less,&quot;, is near naked-eye visibility and easily picked up by long-exposure cameras.  The comet can also now be found by observers in Earth's northern hemisphere as well as the south.  The featured image was captured just a few days ago above Zacatecas, Mexico. Because clouds were obscuring much of the pre-dawn sky, the astrophotographer released a drone to take pictures from higher up, several of which were later merged to enhance the comet's visibility. Although the future brightness of comets is hard to predict, there is increasing hope that Comet Tsuchinshan-ATLAS will further brighten as it enters the early evening sky.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</h5>
 
 ----
 
@@ -188,21 +205,21 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
@@ -210,54 +227,54 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
@@ -265,13 +282,13 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
