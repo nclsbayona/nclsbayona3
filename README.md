@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Cin know more than cin knew yesterdaui&quot;</strong>
-  <i>-- &quot;You know more than you knew yesterday&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;I opposite -o huor in mín societui na- ú- cowardice. Ha na- conformitui&quot;</strong>
+  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Martini</h4>
+<h4 align="center">Bourbon Sling</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/71t8581504353095.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/3s36ql1504366260.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 2/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Olive</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Strain in chilled martini cocktail glass. Squeeze oil from lemon peel onto the drink, or garnish with olive.
+In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.
 </p>
 
 ----
@@ -168,14 +176,14 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Large Magellanic Cloud Galaxy - ©️ Ireneusz Nowak;  Text: Natalia Lewandowska (SUNY Oswego) @ 2024-10-02</h4>
+<h4 align="center">Eclipse at Sunrise - ©️ Wang Letian @ 2024-10-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/LMC_Nowak_1080.jpg" alt="The Large Magellanic Cloud Galaxy image" />
+<img src="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg" alt="Eclipse at Sunrise image" />
 
 </p>
 
-<h5 align="center">It is the largest satellite galaxy of our home Milky Way Galaxy. If you live in the south, the Large Magellanic Cloud (LMC) is quite noticeable, spanning about 10 degrees across the night sky, which is 20 times larger than the full moon towards the southern constellation of the dolphinfish (Dorado). Being only about 160,000 light years away, many details of the LMC's structure can be seen, such as its central bar and its single spiral arm. The LMC harbors numerous stellar nurseries where new stars are being born, which appear in pink in the featured image. It is home to the Tarantula Nebula, the currently most active star forming region in the entire Local Group, a small collection of nearby galaxies dominated by the massive Andromeda and Milky Way galaxies. Studies of the LMC and the Small Magellanic Cloud (SMC) by Henrietta Swan Leavitt led to the discovery of the period-luminosity relationship of Cepheid variable stars that are used to measure distances across the nearby universe.   Survey: Color Blindness and Astronomical Images</h5>
+<h5 align="center">The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.</h5>
 
 ----
 
@@ -188,68 +196,68 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -257,21 +265,21 @@ Straight: Pour all ingredients into mixing glass with ice cubes. Stir well. Stra
 <img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
