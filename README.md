@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;I opposite -o huor in mín societui na- ú- cowardice. Ha na- conformitui&quot;</strong>
-  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Shi ni liser am ner life. Nayc solus liser vaabir bic par ni.&quot;</strong>
+  <i>-- &quot;Only I can change my life. No one can do it for me.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bourbon Sling</h4>
+<h4 align="center">Owen's Grandmother's Revenge</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/3s36ql1504366260.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/0wt4uo1503565321.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp superfine </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemonade</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">12 oz frozen </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bourbon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 twist of </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup crushed </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, and bourbon. Shake well. Strain well. Strain into a highball glass. Garnish with the lemon twist.
+Add ingredients and mix in blender.
 </p>
 
 ----
@@ -176,14 +172,14 @@ In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, a
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Eclipse at Sunrise - ©️ Wang Letian @ 2024-10-03</h4>
+<h4 align="center">Comet at Moonrise - ©️ Gabriel Zaparolli @ 2024-10-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/earliestsolareclipse1024.jpg" alt="Eclipse at Sunrise image" />
+<img src="https://apod.nasa.gov/apod/image/2410/zaparolliA3_1024.png" alt="Comet at Moonrise image" />
 
 </p>
 
-<h5 align="center">The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, crossing land near the southern tip of South America, and ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Still, a partial eclipse of the Sun was experienced over a wide region. Captured at one of its earliest moments, October's eclipsed Sun is seen just above the clouds near sunrise in this snapshot. The partially eclipsed solar disk is close to the maximum eclipse as seen from Mauna Kea Observatory Visitor Center, Island of Hawaii, planet Earth.</h5>
+<h5 align="center">Comet C/2023 A3 (Tsuchinshan–ATLAS) is growing brighter in planet Earth's sky. Fondly known as comet A3, this new visitor to the inner Solar System is traveling from the distant Oort cloud. The comet reached perihelion, its closest approach to the Sun, on September 27 and will reach perigee, its closest to our fair planet, on October 12, by then becoming an evening sky apparition. But comet A3 was an early morning riser on September 30 when this image was made. Its bright coma and already long tail share a pre-dawn skyscape from Praia Grande, Santa Catarina in southern Brazil with the waning crescent Moon just peeking above the eastern horizon. While the behaviour of comets is notoriously unpredictable, Tsuchinshan–ATLAS could become a comet visually rivaling C/2020 F3 (NEOWISE). Comet NEOWISE wowed skygazers in the summer of 2020.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</h5>
 
 ----
 
@@ -196,35 +192,35 @@ In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, a
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/25.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -232,54 +228,54 @@ In a shaker half-filled with ice cubes, combine the sugar, water, lemon juice, a
 <img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
