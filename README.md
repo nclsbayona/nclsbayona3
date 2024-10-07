@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Yousa a capable hisen&quot;</strong>
-  <i>-- &quot;You are a capable human&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Ao'll figure ziry hen&quot;</strong>
+  <i>-- &quot;You'll figure it out&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Gin Squirt</h4>
+<h4 align="center">B-53</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xrbhz61504883702.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/rwqxrv1461866023.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kahlua</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sambuca</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 chunks</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 shot </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-Stir gin, grenadine, and powdered sugar with ice and strain into a highball glass over ice cubes. Fill with carbonated water and stir. Decorate with the pineapple chunks and the strawberries and serve.
+Layer the Kahlua, Sambucca and Grand Marnier into a shot glas in that order. Better than B-52
 </p>
 
 ----
@@ -176,14 +168,14 @@ Stir gin, grenadine, and powdered sugar with ice and strain into a highball glas
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Magnificent Tail of Comet McNaught - ©️ Robert H. McNaught @ 2024-10-06</h4>
+<h4 align="center">The Long Tails Comet Tsuchinshan-ATLAS - ©️ Jose Santivañez Mueras @ 2024-10-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/comet_mcnaught_960.jpg" alt="The Magnificent Tail of Comet McNaught image" />
+<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Mueras_1080.jpg" alt="The Long Tails Comet Tsuchinshan-ATLAS image" />
 
 </p>
 
-<h5 align="center">Comet McNaught, the Great Comet of 2007, grew a spectacularly long and filamentary tail.  The magnificent tail spread across the sky and was visible for several days to Southern Hemisphere observers just after sunset.  The amazing ion tail showed its greatest extent on long-duration, wide-angle camera exposures.  During some times, just the tail itself was visible just above the horizon for many northern observers as well. Comet C/2006 P1 (McNaught), estimated to have attained a peak brightness of  magnitude -5 (minus five), was caught by the comet's discoverer in the featured image just after sunset in January 2007 from Siding Spring Observatory in Australia. Comet McNaught, the brightest comet in decades, then  faded as it moved further into southern skies and away from the Sun and Earth. Over the next month, Comet Tsuchinshan–ATLAS, a candidate for the Great Comet of 2024, should display its most spectacular tails  visible from the Earth.</h5>
+<h5 align="center">A bright comet is moving into the evening skies. C/2023 A3 (Tsuchinshan–ATLAS) has brightened and even though it is now easily visible to the unaided eye, it is so near to the Sun that it is still difficult to see. Pictured, Comet Tsuchinshan–ATLAS was captured just before sunrise from an Andes Mountain in Peru. Braving cold weather, this unusually high perch gave the astrophotographer such a low eastern horizon that the comet was obvious in the pre-dawn sky.  Visible in the featured image is not only an impressively long dust tail extending over many degrees, but an impressively long and blue ion tail, too.  This month, as the comet moves out from the Sun and passes the Earth, evening observers should be able to see the huge dirty ice ball toward the west just after sunset.   Growing Gallery: Comet Tsuchinsan-ATLAS in 2024</h5>
 
 ----
 
@@ -196,13 +188,13 @@ Stir gin, grenadine, and powdered sugar with ice and strain into a highball glas
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -210,10 +202,10 @@ Stir gin, grenadine, and powdered sugar with ice and strain into a highball glas
 <img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -221,18 +213,18 @@ Stir gin, grenadine, and powdered sugar with ice and strain into a highball glas
 <img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
@@ -240,46 +232,46 @@ Stir gin, grenadine, and powdered sugar with ice and strain into a highball glas
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
