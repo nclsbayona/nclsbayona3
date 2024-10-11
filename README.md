@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tu'iea dvasi kash gausus iv brilliant ideas&quot;</strong>
-  <i>-- &quot;Your mind is full of brilliant ideas&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Tu'iea setback kash tezn zo pretas nuo zo comeback.&quot;</strong>
+  <i>-- &quot;Your setback is just a setup for a comeback.&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orange Crush</h4>
+<h4 align="center">New York Lemonade</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/zvoics1504885926.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,15 +48,19 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweetened </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
     </tbody>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Add all ingredients to tumbler-Pour as shot
+Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Add all ingredients to tumbler-Pour as shot
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Five Bright Comets from SOHO - ©️ NASA @ 2024-10-10</h4>
+<h4 align="center">Ring of Fire over Easter Island - ©️ Yuri Beletsky @ 2024-10-11</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/SohoKy3_1024.jpg" alt="Five Bright Comets from SOHO image" />
+<img src="https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg" alt="Ring of Fire over Easter Island image" />
 
 </p>
 
-<h5 align="center">Five bright comets are compared in these panels, recorded by a coronograph on board the long-lived, sun-staring SOHO spacecraft. Arranged chronologically all are recognizable by their tails streaming away from the Sun at the center of each field of view, where a direct view of the overwhelmingly bright Sun is blocked by the coronagraph's occulting disk. Each comet was memorable for earthbound skygazers, starting at top left with Comet McNaught, the 21st century's brightest comet (so far). C/2023 A3 Tsuchinshan-Atlas, approaching its perihelion with the active Sun at bottom center, has most recently grabbed the attention of comet watchers around the globe. By the end of October 2024, the blank 6th panel may be filled with bright sungrazer comet C/2024 S1 Atlas. ... or not.</h5>
+<h5 align="center">The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing denizens to follow all phases of the annular eclipse. Framed by palm tree leaves this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the maximum annular phase. The New Moon's silhouette appears just off center, though still engulfed by the bright disk of the active Sun.</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Add all ingredients to tumbler-Pour as shot
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
