@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Tu'iea setback kash tezn zo pretas nuo zo comeback.&quot;</strong>
-  <i>-- &quot;Your setback is just a setup for a comeback.&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;Whenever īlon’re zūgagon,  ziry’s kesrio syt īlon don’t gīmigon enough. Lo īlon understood enough,  īlon would dōrī sagon zūgagon&quot;</strong>
+  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">New York Lemonade</h4>
+<h4 align="center">Imperial Fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/b3n0ge1503565473.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/zj1usl1504884548.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grand Marnier</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz sweetened </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,7 @@
 
 
 <p align="center">
-Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.
+Shake all ingredients (except carbonated water) with ice and strain into a highball glass over two ice cubes. Fill with carbonated water, stir, and serve.
 </p>
 
 ----
@@ -172,14 +172,14 @@ Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Ring of Fire over Easter Island - ©️ Yuri Beletsky @ 2024-10-11</h4>
+<h4 align="center">Northern Lights, West Virginia - ©️ Jonathan Eggleston @ 2024-10-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/eclipse_02_1024.jpg" alt="Ring of Fire over Easter Island image" />
+<img src="https://apod.nasa.gov/apod/image/2410/241010_eggleston_1024.jpg" alt="Northern Lights, West Virginia image" />
 
 </p>
 
-<h5 align="center">The second solar eclipse of 2024 began in the Pacific. On October 2nd the Moon's shadow swept from west to east, with an annular eclipse visible along a narrow antumbral shadow path tracking mostly over ocean, making its only major landfall near the southern tip of South America, and then ending in the southern Atlantic. The dramatic total annular eclipse phase is known to some as a ring of fire. Also tracking across islands in the southern Pacific, the Moon's antumbral shadow grazed Easter Island allowing denizens to follow all phases of the annular eclipse. Framed by palm tree leaves this clear island view is a stack of two images, one taken with and one taken without a solar filter near the moment of the maximum annular phase. The New Moon's silhouette appears just off center, though still engulfed by the bright disk of the active Sun.</h5>
+<h5 align="center">A gravel country lane gently winds through this colorful rural night skyscape. Captured from Monroe County in southern West Virginia on the evening of October 10, the starry sky above is a familiar sight. Shimmering curtains of aurora borealis or northern lights definitely do not make regular appearances here, though. Surprisingly vivid auroral displays were present on that night at very low latitudes around the globe, far from their usual northern and southern high latitude realms. The extensive auroral activity was evidence of a severe geomagnetic storm triggered by the impact of a coronal mass ejection (CME), an immense magnetized cloud of energetic plasma. The CME was launched toward Earth from the active Sun following a powerful X-class solar flare.   Growing Gallery: Global aurora during October 10/11, 2024</h5>
 
 ----
 
@@ -192,90 +192,90 @@ Serve in a chilled cocktail glass. Lemon and sugar the rim. Stir and Strain.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
