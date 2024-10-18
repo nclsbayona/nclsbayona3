@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nah vuhn carcir tta cheated g'et ch'at cahuerco vuhn.&quot;</strong>
-  <i>-- &quot;No man is more cheated than the selfish man.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Cin got hi&quot;</strong>
+  <i>-- &quot;You got this&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Red Snapper</h4>
+<h4 align="center">Michelada</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/7p607y1504735343.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Shot</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Crown Royal</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Worcestershire Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soy Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,9 @@
 
 
 <p align="center">
-One shot each, shake n shoot
+Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
+Served In a chilled, salt-rimmed glass
+
 </p>
 
 ----
@@ -168,14 +186,14 @@ One shot each, shake n shoot
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Clipper and the Comet - ©️ Ben Cooper @ 2024-10-17</h4>
+<h4 align="center">Most of Comet Tsuchinshan-ATLAS - ©️ Adam Block @ 2024-10-18</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/EuropaComet_cooper3.jpg" alt="The Clipper and the Comet image" />
+<img src="https://apod.nasa.gov/apod/image/2410/a3_20241014_s1200.jpg" alt="Most of Comet Tsuchinshan-ATLAS image" />
 
 </p>
 
-<h5 align="center">NASA's Europa Clipper is now headed toward an ocean world beyond Earth. The large spacecraft is tucked into the payload fairing atop the Falcon Heavy rocket in this photo, taken at Kennedy Space Center the day before the mission's successful October 14 launch. Europa Clipper's interplanetary voyage will first take it to Mars, then back to Earth, and then on to Jupiter on gravity assist trajectories that will allow it to enter orbit around Jupiter in April 2030. Once orbiting Jupiter, the spacecraft will fly past Europa 49 times, exploring a Jovian moon with a global subsurface ocean that may have conditions to support life. Posing in the background next to the floodlit rocket is Comet Tsuchinsan-ATLAS, about a day after the comet's closest approach to Earth. A current darling of evening skies, the naked-eye comet is a vistor from the distant Oort cloud  Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</h5>
+<h5 align="center">On October 14 it was hard to capture a full view of Comet C/2023 A3 Tsuchinshan-ATLAS. Taken after the comet's closest approach to our fair planet, this evening skyview almost does though. With two telephoto frames combined, the image stretches about 26 degrees across the sky from top to bottom, looking west from Gates Pass, Tucson, Arizona. Comet watchers that night could even identify globular star cluster M5 and the faint apparition of periodic comet 13P Olbers near the long the path of Tsuchinshan-ATLAS's whitish dust tail above the bright comet's coma. Due to perspective as the Earth is crossing the comet's orbital plane, Tsuchinshan-ATLAS also has a pronounced antitail. The antitail is composed of dust previously released and fanning out away from the Sun along the comet's orbit, visible as a needle-like extension below the bright coma toward the rugged western horizon.   Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</h5>
 
 ----
 
@@ -188,90 +206,90 @@ One shot each, shake n shoot
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
