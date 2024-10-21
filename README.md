@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;If cin believe cin tur-,  cin tur-. If cin believe cin tur-'t,  then,  eithel cin tur-'t.&quot;</strong>
-  <i>-- &quot;If you believe you can, you can. If you believe you can't, then, well you can't.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot; {We} {ordinary} nîððas must wîse ûser hæbbe fægernes.&quot;</strong>
+  <i>-- &quot;We ordinary people must forge our own beauty.&quot; in oldenglish language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Wine Cooler</h4>
+<h4 align="center">A midsummernight dream</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yutxtv1473344210.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/ysqvqp1461867292.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Optional alcohol - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz white or </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon-lime soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kirschwasser</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Mix wine and soft drink. Pour into glass. Add ice.
+Mix the strawberrys in a blender Pour it together with the vodka,kirch and strawberry liquer over ice in a shaker. Shake well and pour in a highballglass. Fill up with the Russchian water
 </p>
 
 ----
@@ -168,14 +172,14 @@ Mix wine and soft drink. Pour into glass. Add ice.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Dark Matter in a Simulated Universe - ©️ Tom Abel &amp; Ralf Kaehler (KIPAC, SLAC), AMNH @ 2024-10-20</h4>
+<h4 align="center">Comet Tsuchinshan-ATLAS over California - ©️ Brian Fulda @ 2024-10-21</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/DarkMatter_KipacAmnh_960.jpg" alt="Dark Matter in a Simulated Universe image" />
+<img src="https://apod.nasa.gov/apod/image/2410/CometA3_Fulda_960.jpg" alt="Comet Tsuchinshan-ATLAS over California image" />
 
 </p>
 
-<h5 align="center">Is our universe haunted?  It might look that way on this dark matter map.  The gravity of unseen dark matter is the leading explanation for why galaxies rotate so fast, why galaxies orbit clusters so fast, why gravitational lenses so strongly deflect light, and why visible matter is distributed as it is both in the local universe and on the cosmic microwave background.  The featured image from the American Museum of Natural History's Hayden Planetarium Space Show Dark Universe highlights one example of how pervasive dark matter might haunt our universe.  In this frame from a detailed computer simulation, complex filaments of dark matter, shown in black, are strewn about the universe like spider webs, while the relatively rare clumps of familiar baryonic matter are colored orange. These simulations are good statistical matches to astronomical observations.  In what is perhaps a scarier turn of events, dark matter -- although quite strange and in an unknown form -- is no longer thought to be the strangest source of gravity in the universe. That honor now falls to dark energy, a more uniform source of repulsive gravity that seems to now dominate the expansion of the entire universe.    Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">The tails of Comet Tsuchinshan-ATLAS were a sight to behold. Pictured, C/2023 A3 (Tsuchinshan–ATLAS) was captured near peak impressiveness last week over the Eastern Sierra Mountains in California, USA.  The comet not only showed a bright tail, but a distinct anti-tail pointing in nearly the opposite direction. The globular star cluster M5 can be seen on the right, far in the distance.  As it approached, it was unclear if this crumbling iceberg would disintegrate completely as it warmed in the bright sunlight. In reality, the comet survived to become brighter than any star in the night (magnitude -4.9), but unfortunately was then so nearly in front of the Sun that it was hard for many casual observers to locate. Whether Comet Tsuchinshan-Atlas becomes known as the Great Comet of 2024 now depends, in part, on how impressive incoming comet C/2024 S1 (ATLAS) becomes over the next two weeks.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -188,79 +192,79 @@ Mix wine and soft drink. Pour into glass. Add ice.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -268,10 +272,10 @@ Mix wine and soft drink. Pour into glass. Add ice.
 <img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
