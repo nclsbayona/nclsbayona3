@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;migfag domo haga to for refass&quot;</strong>
-  <i>-- &quot;Mistakes don't make you less capable&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;A problem in your life or not depends upon your own attitude,  whether you have,Your own understanding.&quot;</strong>
+  <i>-- &quot;Whether you have a problem in your life or not depends upon your own attitude, your own understanding.&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Cherry Electric Lemonade</h4>
+<h4 align="center">Lone Tree Cooler</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/tquyyt1451299548.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wsyqry1479298485.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -47,38 +47,6 @@
         </tr>
     </thead>
     <tbody>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple Sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Club soda</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz</td>
-        </tr>
     </tbody>
 </table>
 </td>
@@ -88,7 +56,7 @@
 
 
 <p align="center">
-Now stir vigorously and then pour over a large cup of ice. Now drink it with a straw and stir occasionally.
+Stir powdered sugar and 2 oz. carbonated water in a collins glass. Fill glass with ice, add gin and vermouth, and stir. Fill with carbonated water and stir again. Add the twist of lemon peel and the orange spiral so that the end dangles over rim of glass.
 </p>
 
 ----
@@ -188,14 +156,14 @@ Now stir vigorously and then pour over a large cup of ice. Now drink it with a s
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">M16: Pillars of Star Creation - ©️ NASA @ 2024-10-22</h4>
+<h4 align="center">Aurora Borealis - Aurora Borealis by Tobias Bjørkli at Pexels</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/M16_HubbleWebbPisano_960.jpg" alt="M16: Pillars of Star Creation image" />
+<img src="https://images.pexels.com/photos/1938351/pexels-photo-1938351.jpeg?auto=compress&amp;cs=tinysrgb&amp;w=1260&amp;h=750&amp;dpr=1" alt="Aurora Borealis image" />
 
 </p>
 
-<h5 align="center">These dark pillars may look destructive, but they are creating stars.  This pillar-capturing picture of the Eagle Nebula combines visible light exposures taken with the Hubble Space Telescope with infrared images taken with the James Webb Space Telescope to highlight evaporating gaseous globules (EGGs) emerging from pillars of molecular hydrogen gas and dust.  The giant pillars are light years in length and are so dense that interior gas contracts gravitationally to form stars.  At each pillar's end, the intense radiation of bright young stars causes low density material to boil away, leaving stellar nurseries of dense EGGs exposed.  The Eagle Nebula, associated with the open star cluster M16, lies about 7000 light years away.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Picture of a beautiful place on earth</h5>
 
 ----
 
@@ -208,87 +176,87 @@ Now stir vigorously and then pour over a large cup of ice. Now drink it with a s
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
