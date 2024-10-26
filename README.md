@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Mistakes don't ech- cin less capable&quot;</strong>
-  <i>-- &quot;Mistakes don't make you less capable&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Myself permission to do what is right for me,  I give&quot;</strong>
+  <i>-- &quot;I give myself permission to do what is right for me&quot; in yoda language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Spiced Peach Punch</h4>
+<h4 align="center">Figgy Thyme</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qxvypq1468924331.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/pbw4e51606766578.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach nectar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">46 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">20 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brown sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Figs</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cinnamon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 3-inch </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Thyme</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Sprig</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cloves</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Angostura Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tonic Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +84,7 @@
 
 
 <p align="center">
-Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinnamon and cloves in a small cheesecloth bag. Drop into saucepan. Heat slowly, stirring constantly, until sugar dissolves. Simmer 10 minutes. Stir in lime juice. Serve in hot mugs.
+In a lewis bag, crush up some ice like a baller/maniac (@glacioice). Pour your precious ice into a collins glass. In a cocktail shaker, muddle the figs and thyme together. Add honey vodka, lemon juice, and a large ice cube (@glacioice). Shake until well chilled, and strain into glass. Add tonic water and finally 2 dashes of angostura bitters. Garnish with sliced figs and thyme.
 </p>
 
 ----
@@ -180,14 +184,14 @@ Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinn
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Globular Star Cluster NGC 6752 - ©️ Massimo Di Fusco @ 2024-10-25</h4>
+<h4 align="center">Phantoms in Cassiopeia - ©️ Christophe Vergnes @ 2024-10-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/NGC6752_DiFusco1024.jpg" alt="Globular Star Cluster NGC 6752 image" />
+<img src="https://apod.nasa.gov/apod/image/2410/IC63_1024.jpg" alt="Phantoms in Cassiopeia image" />
 
 </p>
 
-<h5 align="center">Some 13,000 light-years away toward the southern constellation Pavo, the globular star cluster NGC 6752 roams the halo of our Milky Way galaxy. Over 10 billion years old, NGC 6752 follows clusters Omega Centauri, 47 Tucanae, and Messier 22 as the fourth brightest globular in planet Earth's night sky. It holds over 100 thousand stars in a sphere about 100 light-years in diameter. Telescopic explorations of NGC 6752 have found that a remarkable fraction of the stars near the cluster's core, are multiple star systems. They also reveal the presence of blue straggle stars, stars which appear to be too young and massive to exist in a cluster whose stars are all expected to be at least twice as old as the Sun. The blue stragglers are thought to be formed by star mergers and collisions in the dense stellar environment at the cluster's core. This sharp color composite also features the cluster's ancient red giant stars in yellowish hues. (Note: The bright, spiky blue star about 8 o'clock from the cluster center is a foreground star along the line-of-sight to NGC 6752)</h5>
+<h5 align="center">These brightly outlined flowing shapes look ghostly on a cosmic scale. A telescopic view toward the constellation Cassiopeia, the colorful skyscape features the swept-back, comet-shaped clouds IC 59 (left) and IC 63. About 600 light-years distant, the clouds aren't actually ghosts. They are slowly disappearing though, under the influence of energetic radiation from hot, luminous star gamma Cas. Gamma Cas is physically located only 3 to 4 light-years from the nebulae and lies just above the right edge of the frame. Slightly closer to gamma Cas, IC 63 is dominated by red H-alpha light emitted as hydrogen atoms ionized by the hot star's ultraviolet radiation recombine with electrons. Farther from the star, IC 59 shows less H-alpha emission but more of the characteristic blue tint of dust reflected star light. The field of view spans over 1 degree or 10 light-years at the estimated distance of the interstellar apparitions.</h5>
 
 ----
 
@@ -200,32 +204,32 @@ Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinn
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
@@ -233,57 +237,57 @@ Combine peach nectar, orange juice and brown sugar in a large saucepan. Tie cinn
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
