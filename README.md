@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Struggling means gar're learning&quot;</strong>
-  <i>-- &quot;Struggling means you're learning&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;People with goals qap because chah sov nuqdaq chah’re going&quot;</strong>
+  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in klingon language --</i>
 
 </p>
 
@@ -168,14 +168,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">LDN 43: The Cosmic Bat Nebula - ©️ Mark Hanson and Mike Selby;Text: Michelle Thaller (NASA's GSFC) @ 2024-10-27</h4>
+<h4 align="center">STEVE: A Glowing River over France - ©️ Louis LEROUX-GÉRÉ @ 2024-10-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/LDN43_SelbyHanson_960.jpg" alt="LDN 43: The Cosmic Bat Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_1080.jpg" alt="STEVE: A Glowing River over France image" />
 
 </p>
 
-<h5 align="center">What is the most spook-tacular nebula in the galaxy?   One contender is LDN 43, which bears an astonishing resemblance to a vast cosmic bat flying amongst the stars on a dark Halloween night.  Located about 1400 light years away in the constellation Ophiuchus, this molecular cloud is dense enough to block light not only from background stars, but from wisps of gas lit up by the nearby reflection nebula LBN 7.  Far from being a harbinger of death, this 12-light year-long filament of gas and dust is actually a stellar nursery.  Glowing with eerie light, the bat is lit up from inside by dense gaseous knots that have just formed young stars.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">Sometimes a river of hot gas flows over your head. In this case the river created a Strong Thermal Emission Velocity Enhancement (STEVE) that glowed bright red, white, and pink. Details of how STEVEs work remain a topic of research, but recent evidence holds that their glow results from a fast-moving river of hot ions flowing over a hundred kilometers up in the Earth's atmosphere: the ionosphere. The more expansive dull red glow might be related to the flowing STEVE, but alternatively might be a Stable Auroral Red (SAR) arc, a more general heat-related glow. The featured picture, taken earlier this month in Côte d'Opale, France, is a wide-angle digital composite made as the STEVE arc formed nearly overhead.  Although the apparition lasted only a few minutes, this was long enough for the quick-thinking astrophotographer to get in the picture -- can you find him?</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/23.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
