@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;People with goals qap because chah sov nuqdaq chah’re going&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Ch'at vum ch'at rovsari carcir ch'at tsan'ah ch'irez,  baseb action&quot;</strong>
+  <i>-- &quot;The path to success is to take massive, determined action&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Sidecar Cocktail</h4>
+<h4 align="center">Irish Coffee</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/ewjxui1504820428.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1/4 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a cocktail glass, and serve.
+Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">STEVE: A Glowing River over France - ©️ Louis LEROUX-GÉRÉ @ 2024-10-28</h4>
+<h4 align="center">NGC 602: Stars Versus Pillars from Webb - ©️ NASA @ 2024-10-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/SteveFrance_leroux_1080.jpg" alt="STEVE: A Glowing River over France image" />
+<img src="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg" alt="NGC 602: Stars Versus Pillars from Webb image" />
 
 </p>
 
-<h5 align="center">Sometimes a river of hot gas flows over your head. In this case the river created a Strong Thermal Emission Velocity Enhancement (STEVE) that glowed bright red, white, and pink. Details of how STEVEs work remain a topic of research, but recent evidence holds that their glow results from a fast-moving river of hot ions flowing over a hundred kilometers up in the Earth's atmosphere: the ionosphere. The more expansive dull red glow might be related to the flowing STEVE, but alternatively might be a Stable Auroral Red (SAR) arc, a more general heat-related glow. The featured picture, taken earlier this month in Côte d'Opale, France, is a wide-angle digital composite made as the STEVE arc formed nearly overhead.  Although the apparition lasted only a few minutes, this was long enough for the quick-thinking astrophotographer to get in the picture -- can you find him?</h5>
+<h5 align="center">The stars are destroying the pillars. More specifically, some of the newly formed stars in the image center are emitting light so energetic that is evaporating the gas and dust in the surrounding pillars. Simultaneously, the pillars themselves are still trying to form new stars. The whole setting is the star cluster NGC 602, and this new vista was taken by the Webb Space Telescope in multiple infrared colors. In comparison, a roll-over image shows the same star cluster in visible light, taken previously by the Hubble Space Telescope. NGC 602 is located near the perimeter of the Small Magellanic Cloud (SMC), a small satellite galaxy of our Milky Way galaxy.  At the estimated distance of the SMC, the featured picture spans about 200 light-years. A tantalizing assortment of background galaxies are also visible -- mostly around the edges -- that are at least hundreds of millions of light-years beyond.</h5>
 
 ----
 
@@ -188,76 +192,76 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
@@ -265,13 +269,13 @@ Shake all ingredients with ice, strain into a cocktail glass, and serve.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
