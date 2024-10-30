@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ch'at vum ch'at rovsari carcir ch'at tsan'ah ch'irez,  baseb action&quot;</strong>
-  <i>-- &quot;The path to success is to take massive, determined action&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;10x tatsow nama a myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in minion language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Irish Coffee</h4>
+<h4 align="center">Flying Dutchman</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/sywsqw1439906999.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/mwko4q1582482903.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Whipped cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +64,7 @@
 
 
 <p align="center">
-Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cream; serve hot.
+In an old-fashioned glass almost filled with ice cubes, combine the gin and triple sec. Stir well.
 </p>
 
 ----
@@ -172,14 +164,14 @@ Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cr
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 602: Stars Versus Pillars from Webb - ©️ NASA @ 2024-10-29</h4>
+<h4 align="center">NGC 7635: The Bubble Nebula - ©️ Chad Leader @ 2024-10-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2410/NGC602_Webb_960.jpg" alt="NGC 602: Stars Versus Pillars from Webb image" />
+<img src="https://apod.nasa.gov/apod/image/2410/BubbleRed_Leader_960.jpg" alt="NGC 7635: The Bubble Nebula image" />
 
 </p>
 
-<h5 align="center">The stars are destroying the pillars. More specifically, some of the newly formed stars in the image center are emitting light so energetic that is evaporating the gas and dust in the surrounding pillars. Simultaneously, the pillars themselves are still trying to form new stars. The whole setting is the star cluster NGC 602, and this new vista was taken by the Webb Space Telescope in multiple infrared colors. In comparison, a roll-over image shows the same star cluster in visible light, taken previously by the Hubble Space Telescope. NGC 602 is located near the perimeter of the Small Magellanic Cloud (SMC), a small satellite galaxy of our Milky Way galaxy.  At the estimated distance of the SMC, the featured picture spans about 200 light-years. A tantalizing assortment of background galaxies are also visible -- mostly around the edges -- that are at least hundreds of millions of light-years beyond.</h5>
+<h5 align="center">What created this huge space bubble? Blown by the wind from a star, this tantalizing, head-like apparition is cataloged as NGC 7635, but known simply as the Bubble Nebula. The featured striking view utilizes a long exposure to reveal the intricate details of this cosmic bubble and its environment. Although it looks delicate, the 10 light-year diameter bubble offers evidence of violent processes at work. Seen here above and right of the Bubble's center, a bright hot star is embedded in the nebula's reflecting dust. A fierce stellar wind and intense radiation from the star, which likely has a mass 10 to 20 times that of the Sun, has blasted out the structure of glowing gas against denser material in a surrounding molecular cloud. The intriguing Bubble Nebula lies a mere 11,000 light-years away toward the boastful constellation Cassiopeia.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -192,90 +184,90 @@ Heat the coffee, whiskey and sugar; do not boil. Pour into glass and top with cr
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
