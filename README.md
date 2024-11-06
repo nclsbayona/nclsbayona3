@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;mi toca eat da kaylay phidue a nace mud rifpi nunu grinding oebun hoe kapee mud breeko duhgin mud naw.&quot;</strong>
-  <i>-- &quot;My mind seems to have become a kind of machine for grinding general laws out of large collections of facts.&quot; in minion language --</i>
+  <strong align="center">Someone once said: &quot;Wesa all works in progress&quot;</strong>
+  <i>-- &quot;We are all works in progress&quot; in gungan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Apello</h4>
+<h4 align="center">French Negroni</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/uptxtv1468876415.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Other / Unknown</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grapefruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Apple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Maraschino cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +72,9 @@
 
 
 <p align="center">
-Stirr. Grnish with maraschino cherry.
+Add ice to a shaker and pour in all ingredients.
+Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
+Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
 </p>
 
 ----
@@ -172,14 +174,14 @@ Stirr. Grnish with maraschino cherry.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Milky Way over Easter Island - ©️ Josh Dury @ 2024-11-05</h4>
+<h4 align="center">Comet Tsuchinshan-Atlas over the Dolomites - ©️ Alessandra Masi @ 2024-11-06</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/IslandMoai_Dury_960.jpg" alt="Milky Way over Easter Island image" />
+<img src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg" alt="Comet Tsuchinshan-Atlas over the Dolomites image" />
 
 </p>
 
-<h5 align="center">Why were the statues on Easter Island built?  No one is sure.  What is sure is that over 900 large stone statues called moais exist there.  The Rapa Nui (Easter Island) moais stand, on average, over twice as tall as a person and have over 200 times as much mass.  It is thought that the unusual statues were created about 600 years ago in the images of local leaders of a vibrant and ancient civilization.  Rapa Nui has been declared by UNESCO to a World Heritage Site. Pictured here, some of the stone giants were imaged last month under the central band of our Milky Way galaxy.  Previously unknown moais are still being discovered.    Alternative Multi-APOD Front Page: MyUniverseHub.com</h5>
+<h5 align="center">Comet Tsuchinshan-Atlas is now headed back to the outer Solar System.  The massive dusty snowball put on quite a show during its trip near the Sun, resulting in many impressive pictures from planet Earth during October.  The featured image was taken in mid-October and shows a defining visual feature of the comet -- its impressive anti-tail. The image captures Comet C/2023 A3 (Tsuchinshan–ATLAS) with impressively long dust and ion tails pointing up and away from the Sun, while the strong anti-tail -- composed of more massive dust particles -- trails the comet and points down and (nearly) toward the recently-set Sun. In the foreground is village of Tai di Cadore, Italy, with the tremendous Dolomite Mountains in the background.  Another comet, C/2024 S1 (ATLAS), once a candidate to rival Comet Tsuchinshan-Atlas in brightness, broke up last week during its close approach to our Sun.    Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</h5>
 
 ----
 
@@ -192,65 +194,65 @@ Stirr. Grnish with maraschino cherry.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
@@ -258,24 +260,24 @@ Stirr. Grnish with maraschino cherry.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
