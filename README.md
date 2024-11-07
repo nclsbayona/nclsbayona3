@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Wesa all works in progress&quot;</strong>
-  <i>-- &quot;We are all works in progress&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Ghorgh tlhih are talented tlhih ruch whatever 'oh is until your fingers regh qoj your eyes are 'eh to pum out of your nach.&quot;</strong>
+  <i>-- &quot;When you are talented you do it whatever it is until your fingers bleed or your eyes are ready to fall out of your head.&quot; in klingon language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">French Negroni</h4>
+<h4 align="center">Amaretto Stone Sour Alternative</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/x8lhp41513703167.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wutxqr1472720012.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Other / Unknown</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sour mix</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lillet</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tequila</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Add splash </td>
         </tr>
     </tbody>
 </table>
@@ -72,9 +72,7 @@
 
 
 <p align="center">
-Add ice to a shaker and pour in all ingredients.
-Using a bar spoon, stir 40 to 45 revolutions or until thoroughly chilled.
-Strain into a martini glass or over ice into a rocks glass. Garnish with orange twist.
+Shake sour mix, tequila and amaretto with ice. Strain into highball glass. Add a splash of OJ. Garnish with orange slice and a cherry.
 </p>
 
 ----
@@ -174,14 +172,14 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet Tsuchinshan-Atlas over the Dolomites - ©️ Alessandra Masi @ 2024-11-06</h4>
+<h4 align="center">Shell Galaxies in Pisces - ©️ George Williams @ 2024-11-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/CometA3Dolomites_Masi_960.jpg" alt="Comet Tsuchinshan-Atlas over the Dolomites image" />
+<img src="https://apod.nasa.gov/apod/image/2411/NGC474_S1_Crop1024.jpg" alt="Shell Galaxies in Pisces image" />
 
 </p>
 
-<h5 align="center">Comet Tsuchinshan-Atlas is now headed back to the outer Solar System.  The massive dusty snowball put on quite a show during its trip near the Sun, resulting in many impressive pictures from planet Earth during October.  The featured image was taken in mid-October and shows a defining visual feature of the comet -- its impressive anti-tail. The image captures Comet C/2023 A3 (Tsuchinshan–ATLAS) with impressively long dust and ion tails pointing up and away from the Sun, while the strong anti-tail -- composed of more massive dust particles -- trails the comet and points down and (nearly) toward the recently-set Sun. In the foreground is village of Tai di Cadore, Italy, with the tremendous Dolomite Mountains in the background.  Another comet, C/2024 S1 (ATLAS), once a candidate to rival Comet Tsuchinshan-Atlas in brightness, broke up last week during its close approach to our Sun.    Growing Gallery: Comet Tsuchinshan-ATLAS in 2024</h5>
+<h5 align="center">This spectacular intergalactic skyscape features Arp 227, a curious system of galaxies from the 1966 Atlas of Peculiar Galaxies. Some 100 million light-years distant within the boundaries of the constellation Pisces, Arp 227 consists of the two galaxies prominent above and left of center, the shell galaxy NGC 474 and its blue, spiral-armed neighbor NGC 470. The readily apparent shells and star streams of NGC 474 are likely tidal features originating from the accretion of another smaller galaxy during close gravitational encounters that began over a billion years ago. The large galaxy on the bottom righthand side of the deep image, NGC 467, appears to be surrounded by faint shells and streams too, evidence of another merging galaxy system. Intriguing background galaxies are scattered around the field that also includes spiky foreground stars. Of course, those stars lie well within our own Milky Way Galaxy. The telescopic field of view spans 25 arc minutes or just under 1/2 degree on the sky.</h5>
 
 ----
 
@@ -194,40 +192,40 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/30.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
@@ -238,21 +236,21 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
@@ -260,13 +258,13 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -274,10 +272,10 @@ Strain into a martini glass or over ice into a rocks glass. Garnish with orange 
 <img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
 </td>
 </tr>
 </table>
