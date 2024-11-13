@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Dha opposite of courage in our society is not cowardice. Isa conformity&quot;</strong>
-  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in gungan language --</i>
+  <strong align="center">Someone once said: &quot;Sui soon sui cin estel yourself,  cin will know how na guin-.&quot;</strong>
+  <i>-- &quot;As soon as you trust yourself, you will know how to live.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Absolut Summertime</h4>
+<h4 align="center">Bleeding Surgeon</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/trpxxs1472669662.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/usuvvr1472719118.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Soft Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Absolut Citron</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet and sour</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda water</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange</td>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 slice </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Surge</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 glass </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-Add all ingredients except lemon to shaker filled with ice. Cover and shake vigorously. Strain contents into ice filled collins glass. Garnish with lemon.
+Pour Shot of Rum over slice of orange. Fill the remaining space in glass half way full of surge or similar drink. Finish off glass with cranberry juice. Be carefull, warm surge may foam over the glass.
 </p>
 
 ----
@@ -176,14 +172,14 @@ Add all ingredients except lemon to shaker filled with ice. Cover and shake vigo
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 6888: The Crescent Nebula - ©️ Team ARO @ 2024-11-12</h4>
+<h4 align="center">Barred Spiral Galaxy NGC 1365 from Webb - ©️ NASA @ 2024-11-13</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/Ngc6888Hoo_Aro_960.jpg" alt="NGC 6888: The Crescent Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2411/JWSTMIRI_ngc1365_1024.png" alt="Barred Spiral Galaxy NGC 1365 from Webb image" />
 
 </p>
 
-<h5 align="center">How was the Crescent Nebula created?  Looking like an emerging space cocoon, the Crescent Nebula, visible in the center of the featured image, was created by the brightest star in its center.  A leading progenitor hypothesis has the Crescent Nebula beginning to form about 250,000 years ago.  At that time, the massive central star had evolved to become a Wolf-Rayet star (WR 136), shedding its outer envelope in a strong stellar wind, ejecting the equivalent of our Sun's mass every 10,000 years.  This wind impacted surrounding gas left over from a previous phase, compacting it into a series of complex shells, and lighting it up.  The Crescent Nebula, also known as NGC 6888, lies about 4,700 light-years away in the constellation of Cygnus.  Star WR 136 will probably undergo a supernova explosion sometime in the next million years.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
+<h5 align="center">A mere 56 million light-years distant toward the southern constellation Fornax, NGC 1365 is an enormous barred spiral galaxy about 200,000 light-years in diameter. That's twice the size of our own barred spiral Milky Way. This sharp image from the James Webb Space Telescope's Mid-Infrared Instrument (MIRI) reveals stunning details of this magnificent spiral in infrared light. Webb's field of view stretches about 60,000 light-years across NGC 1365, exploring the galaxy's core and bright newborn star clusters. The intricate network of dusty filaments and bubbles is created by young stars along spiral arms winding from the galaxy's central bar. Astronomers suspect the gravity field of NGC 1365's bar plays a crucial role in the galaxy's evolution, funneling gas and dust into a star-forming maelstrom and ultimately feeding material into the active galaxy's central, supermassive black hole.</h5>
 
 ----
 
@@ -196,10 +192,10 @@ Add all ingredients except lemon to shaker filled with ice. Cover and shake vigo
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
@@ -207,46 +203,46 @@ Add all ingredients except lemon to shaker filled with ice. Cover and shake vigo
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -254,32 +250,32 @@ Add all ingredients except lemon to shaker filled with ice. Cover and shake vigo
 <img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
