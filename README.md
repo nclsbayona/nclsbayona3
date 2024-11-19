@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nu aukoti ja've permission kia isar kam kash status nuo nun&quot;</strong>
-  <i>-- &quot;I give myself permission to do what is right for me&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;If u're really truthful gee yourself,  soong do wonderful guidance.&quot;</strong>
+  <i>-- &quot;If you're really truthful with yourself, it's a wonderful guidance.  &quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Lord And Lady</h4>
+<h4 align="center">Banana Strawberry Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/quwrys1468923219.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 lb frozen </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tia maria</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 frozen </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup plain </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to taste<br></td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +76,7 @@
 
 
 <p align="center">
-Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cubes. Stir well.
+Blend all together in a blender until smooth.
 </p>
 
 ----
@@ -164,14 +176,14 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Stars and Dust in the Pacman Nebula - ©️ Malcolm Loro @ 2024-11-18</h4>
+<h4 align="center">Undulatus Clouds over Las Campanas Observatory - ©️ Yuri Beletsky @ 2024-11-19</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/BokMan_Loro_960.jpg" alt="Stars and Dust in the Pacman Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg" alt="Undulatus Clouds over Las Campanas Observatory image" />
 
 </p>
 
-<h5 align="center">Stars can create huge and intricate dust sculptures from the dense and dark molecular clouds from which they are born.  The tools the stars use to carve their detailed works are high energy light and fast stellar winds.  The heat they generate evaporates the dark molecular dust as well as causing ambient hydrogen gas to disperse and glow.   Pictured here, a new open cluster of stars designated IC 1590 is nearing completion around the intricate interstellar dust structures in the emission nebula  NGC 281, dubbed the Pac-man Nebula because of its overall shape.  The dust cloud just above center is classified as a  Bok Globule as it may gravitationally collapse and form a star -- or stars. The Pacman Nebula lies about 10,000 light years away toward the constellation of Cassiopeia.</h5>
+<h5 align="center">What's happening with these clouds?  While it may seem that these long and thin clouds are pointing toward the top of a hill, and that maybe a world-famous observatory is located there, only part of that is true. In terms of clouds, the formation is a chance superposition of impressively periodic undulating air currents in Earth's lower atmosphere. Undulatus, a type of Asperitas cloud, form at the peaks where the air is cool enough to cause the condensation of opaque water droplets.  The wide-angle nature of the panorama creates the illusion that the clouds converge over the hill.  In terms of land, there really is a world-famous observatory at the top of that peak: the Carnegie Science's Las Campanas Observatory in the Atacama Desert of Chile.  The two telescope domes visible are the 6.5-meter Magellan Telescopes.  The featured coincidental vista was a surprise but was captured by the phone of a quick-thinking photographer in late September.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -184,90 +196,90 @@ Pour the rum and Tia Maria into an old-fashioned glass almost filled with ice cu
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
