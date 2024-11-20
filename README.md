@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;If u're really truthful gee yourself,  soong do wonderful guidance.&quot;</strong>
-  <i>-- &quot;If you're really truthful with yourself, it's a wonderful guidance.  &quot; in huttese language --</i>
+  <strong align="center">Always remember: </strong>
+  <i>Mistakes don't make you less capable ...</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Banana Strawberry Shake</h4>
+<h4 align="center">Egg-Nog - Classic Cooked</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vqquwx1472720634.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/quxsvt1468875505.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Shake</h5>
+<h5 align="center">Optional alcohol - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberries</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 lb frozen </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 frozen </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 cup </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Yoghurt</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup plain </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Salt</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp </td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 qt </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Honey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"> to taste<br></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vanilla extract</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +76,7 @@
 
 
 <p align="center">
-Blend all together in a blender until smooth.
+In large saucepan, beat together eggs, sugar and salt, if desired. Stir in 2 cups of the milk. Cook over low heat, stirring constantly, until mixture is thick enough to coat a metal spoon and reaches 160 degrees F. Remove from heat. Stir in remaining 2 cups milk and vanilla. Cover and regfigerate until thoroughly chilled, several hours or overnight. Just before serving, pour into bowl or pitcher. Garnish or add stir-ins, if desired. Choose 1 or several of: Chocolate curls, cinnamon sticks, extracts of flavorings, flavored brandy or liqueur, fruit juice or nectar, ground nutmeg, maraschino cherries, orange slices, peppermint sticks or candy canes, plain brandy, run or whiskey, sherbet or ice-cream, whipping cream, whipped. Serve immediately.
 </p>
 
 ----
@@ -176,14 +176,14 @@ Blend all together in a blender until smooth.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Undulatus Clouds over Las Campanas Observatory - ©️ Yuri Beletsky @ 2024-11-19</h4>
+<h4 align="center">Earthset from Orion - ©️ NASA @ 2024-11-20</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/ParallelClouds_Beletsky_960.jpg" alt="Undulatus Clouds over Las Campanas Observatory image" />
+<img src="https://apod.nasa.gov/apod/image/2411/earthset-snap01.png" alt="Earthset from Orion image" />
 
 </p>
 
-<h5 align="center">What's happening with these clouds?  While it may seem that these long and thin clouds are pointing toward the top of a hill, and that maybe a world-famous observatory is located there, only part of that is true. In terms of clouds, the formation is a chance superposition of impressively periodic undulating air currents in Earth's lower atmosphere. Undulatus, a type of Asperitas cloud, form at the peaks where the air is cool enough to cause the condensation of opaque water droplets.  The wide-angle nature of the panorama creates the illusion that the clouds converge over the hill.  In terms of land, there really is a world-famous observatory at the top of that peak: the Carnegie Science's Las Campanas Observatory in the Atacama Desert of Chile.  The two telescope domes visible are the 6.5-meter Magellan Telescopes.  The featured coincidental vista was a surprise but was captured by the phone of a quick-thinking photographer in late September.   Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">ght billion people are about to disappear in this snapshot from space taken on 2022 November 21. On the sixth day of the Artemis I mission, their home world is setting behind the Moon's bright edge as viewed by an external camera on the outbound Orion spacecraft. Orion was headed for a powered flyby that took it to within 130 kilometers of the lunar surface. Velocity gained in the flyby maneuver was used to reach a distant retrograde orbit around the Moon. That orbit is considered distant because it's another 92,000 kilometers beyond the Moon, and retrograde because the spacecraft orbited in the opposite direction of the Moon's orbit around planet Earth. Orion entered its distant retrograde orbit on November 25. Swinging around the Moon, Orion reached a maximum distance (just over 400,000 kilometers) from Earth on November 28, exceeding a record set by Apollo 13 for most distant spacecraft designed for human space exploration. The Artemis II mission, carrying 4 astronauts around the moon and back again, is scheduled to launch no earlier than September 2025.</h5>
 
 ----
 
@@ -196,24 +196,24 @@ Blend all together in a blender until smooth.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/21.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -221,65 +221,65 @@ Blend all together in a blender until smooth.
 <img src="https://cdn.animality.xyz/redpanda/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
 </td>
 </tr>
 </table>
