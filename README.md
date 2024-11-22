@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vei vah ehe'ah carcir ch'itt'suvreco tta hsizo g'et vei vah get.&quot;</strong>
-  <i>-- &quot;What you become is far more important than what you get.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Ae progress na- still progress&quot;</strong>
+  <i>-- &quot;Small progress is still progress&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Whisky Mac</h4>
+<h4 align="center">Jam Donut</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yvvwys1461867858.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/uuytrp1474039804.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Shot</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2/3 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz Green Ginger </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chambord raspberry liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/3 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 pinches</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +72,7 @@
 
 
 <p align="center">
-Pour both of the ingredients into a wine goblet with no ice.
+Coat the rim of a shot glass with sugar using sugar syrup to stick. Add the Chambord raspberry liqueur to the shot glass, and carefully layer the Baileys Irish Cream on top. Serve.
 </p>
 
 ----
@@ -164,14 +172,14 @@ Pour both of the ingredients into a wine goblet with no ice.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Elephant's Trunk in Cepheus - ©️ Giorgio Ferrari @ 2024-11-21</h4>
+<h4 align="center">The Medusa Nebula - ©️ Bruno Rota Sargi @ 2024-11-22</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/LDN1105ElephantTrunk1024.jpg" alt="The Elephant's Trunk in Cepheus image" />
+<img src="https://apod.nasa.gov/apod/image/2411/MEDUSA_NEBULA_FINAL_BRS_SIGNED1024.jpg" alt="The Medusa Nebula image" />
 
 </p>
 
-<h5 align="center">Like an illustration in a galactic Just So Story, the Elephant's Trunk Nebula winds through the emission region and young star cluster complex IC 1396, in the high and far off constellation of Cepheus. Also known as vdB 142, this cosmic elephant's trunk is over 20 light-years long. The detailed telescopic view features the bright swept-back ridges and pockets of cool interstellar dust and gas that abound in the region. But the dark, tendril-shaped clouds contain the raw material for star formation and hide protostars within. Nearly 3,000 light-years distant, the relatively faint IC 1396 complex covers a large region on the sky, spanning over 5 degrees. This rendition spans a 1 degree wide field of view though, about the angular size of 2 full moons.</h5>
+<h5 align="center">Braided and serpentine filaments of glowing gas suggest this nebula's popular name, The Medusa Nebula. Also known as Abell 21, this Medusa is an old planetary nebula some 1,500 light-years away in the constellation Gemini. Like its mythological namesake, the nebula is associated with a dramatic transformation. The planetary nebula phase represents a final stage in the evolution of low mass stars like the sun as they transform themselves from red giants to hot white dwarf stars and in the process shrug off their outer layers. Ultraviolet radiation from the hot star powers the nebular glow. The Medusa's transforming star is the faint one near the center of the overall bright crescent shape. In this deep telescopic view, fainter filaments clearly extend below and to the left. The Medusa Nebula is estimated to be over 4 light-years across.</h5>
 
 ----
 
@@ -184,10 +192,10 @@ Pour both of the ingredients into a wine goblet with no ice.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
@@ -195,79 +203,79 @@ Pour both of the ingredients into a wine goblet with no ice.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/28.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/8.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/8.png" width="180"/>
 </td>
 </tr>
 </table>
