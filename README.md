@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot; {You} âcnâwan furðor further {than} êower smêagan&quot;</strong>
-  <i>-- &quot;You know more than you think&quot; in oldenglish language --</i>
+  <strong align="center">Someone once said: &quot;Cin know more than cin think&quot;</strong>
+  <i>-- &quot;You know more than you think&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bloody Mary</h4>
+<h4 align="center">Ace</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/t6caa21582485702.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/l3cd7f1504818306.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 shots </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dash </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Heavy cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Worcestershire sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tabasco sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 drops </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 wedge </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Egg White</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 Fresh</td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +76,7 @@
 
 
 <p align="center">
-Stirring gently, pour all ingredients into highball glass. Garnish.
+Shake all the ingredients in a cocktail shaker and ice then strain in a cold glass.
 </p>
 
 ----
@@ -180,14 +176,14 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Horsehead Nebula - ©️ Alex Lin (Chilescope)  @ 2024-11-25</h4>
+<h4 align="center">The Sombrero Galaxy from Webb and Hubble - ©️ NASA @ 2024-11-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/Horsehead_Lin_960.jpg" alt="The Horsehead Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2411/Sombrero_WebbHubble_960.jpg" alt="The Sombrero Galaxy from Webb and Hubble image" />
 
 </p>
 
-<h5 align="center">One of the most identifiable nebulas in the sky, the Horsehead Nebula in Orion, is part of a large, dark, molecular cloud.  Also known as Barnard 33, the unusual shape was first discovered on a photographic plate in the late 1800s.  The red glow originates from hydrogen gas predominantly behind the nebula, ionized by the nearby bright star Sigma Orionis.  The darkness of the Horsehead is caused mostly by thick dust, although the lower part of the Horsehead's neck casts a shadow to the left.  Streams of gas leaving the nebula are funneled by a strong magnetic field.  Bright spots in the Horsehead Nebula's base are young stars just in the process of forming.  Light takes about 1,500 years to reach us from the Horsehead Nebula.  The featured image was taken from the Chilescope Observatory in the mountains of Chile.</h5>
+<h5 align="center">This floating ring is the size of a galaxy.  In fact, it is a galaxy -- or at least part of one: the photogenic Sombrero Galaxy is one of the largest galaxies in the nearby Virgo Cluster of Galaxies.  The dark band of dust that obscures the mid-section of the Sombrero Galaxy in visible light (bottom panel) actually glows brightly in infrared light (top panel).  The featured image shows the infrared glow in false blue, recorded recently by the space-based James Webb Space Telescope (JWST) and released yesterday,  pictured above an archival image taken by NASA's Hubble Space Telescope in visible light. The Sombrero Galaxy, also known as M104, spans about 50,000 light years and lies 28 million light years away.  M104 can be seen with a small telescope in the direction of the constellation Virgo.</h5>
 
 ----
 
@@ -200,35 +196,35 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -236,32 +232,32 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 <img src="https://cdn.animality.xyz/dolphin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -269,18 +265,18 @@ Stirring gently, pour all ingredients into highball glass. Garnish.
 <img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
