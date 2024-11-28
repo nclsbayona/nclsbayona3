@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;'oh’s nuqjatlh tlhih qeq in private 'e' tlhih will qu' rewarded for in public&quot;</strong>
-  <i>-- &quot;It’s what you practice in private that you will be rewarded for in public&quot; in klingon language --</i>
+  <strong align="center">Someone once said: &quot;Ao issi worthy se deserving hen respect&quot;</strong>
+  <i>-- &quot;You are worthy and deserving of respect&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Queen Charlotte</h4>
+<h4 align="center">Coke and Drops</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vqruyt1478963249.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Non alcoholic - Soft Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Red wine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 drops </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +64,7 @@
 
 
 <p align="center">
-Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon-lime soda, stir, and serve.
+Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.
 </p>
 
 ----
@@ -164,14 +164,14 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Meteor and the Comet - ©️ Wang Hao;Processing: Song Wentao @ 2024-11-27</h4>
+<h4 align="center">NGC 206 and the Star Clouds of Andromeda - ©️ Roberto Marinoni @ 2024-11-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/MeteorComet_WangHao_960.jpg" alt="The Meteor and the Comet image" />
+<img src="https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg" alt="NGC 206 and the Star Clouds of Andromeda image" />
 
 </p>
 
-<h5 align="center">How different are these two streaks?  The streak on the upper right is Comet Tsuchinshan-Atlas showing an impressive dust tail. The comet is a large and dirty iceberg that entered the inner Solar System and is shedding gas and dust as it is warmed by the Sun's light. The streak on the lower left is a meteor showing an impressive evaporation trail.  The meteor is a small and cold rock that entered the Earth's atmosphere and is shedding gas and dust as it is warmed by molecular collisions.  The meteor was likely once part of a comet or asteroid -- perhaps later composing part of its tail.  The meteor was gone in a flash and was only caught by coincidence during a series of exposures documenting the comet's long tail. The featured image was captured just over a month ago from Sichuan Province in China.   Gallery: Comet Tsuchinshan-ATLAS in 2024</h5>
+<h5 align="center">The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.</h5>
 
 ----
 
@@ -184,24 +184,24 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -209,62 +209,62 @@ Pour red wine and grenadine into a collins glass over ice cubes. Fill with lemon
 <img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
