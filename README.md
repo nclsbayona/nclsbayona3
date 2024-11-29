@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ao issi worthy se deserving hen respect&quot;</strong>
-  <i>-- &quot;You are worthy and deserving of respect&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Tu're jri inspiration&quot;</strong>
+  <i>-- &quot;You're an inspiration&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Coke and Drops</h4>
+<h4 align="center">Kiwi Martini</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/yrtxxp1472719367.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/bmxmyq1630407098.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Soft Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coca-Cola</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 dl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 drops </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kiwi</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +84,9 @@
 
 
 <p align="center">
-Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. Granish with a lemon slice on the rim of the glass.
+The kiwi martini is a very fun vodka cocktail and it is one of the best drinks that makes use of fresh fruit. Though there are a few recipes floating around, this is one of the easiest and it is an absolutely delightful green martini to drink.
+
+For this recipe, you'll simply muddle slices of kiwi with simple syrup, then shake it with vodka. It's a drink that anyone can mix up in minutes and a perfect cocktail to show off your favorite vodka.
 </p>
 
 ----
@@ -164,14 +186,14 @@ Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 206 and the Star Clouds of Andromeda - ©️ Roberto Marinoni @ 2024-11-28</h4>
+<h4 align="center">Messier 4 - ©️ Steve Crouch @ 2024-11-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2411/NGC206_APOD1024.jpg" alt="NGC 206 and the Star Clouds of Andromeda image" />
+<img src="https://apod.nasa.gov/apod/image/2411/m4_STXL16200_RC14_LRGB1024.jpg" alt="Messier 4 image" />
 
 </p>
 
-<h5 align="center">The large stellar association cataloged as NGC 206 is nestled within the dusty arms of the neighboring Andromeda galaxy along with the galaxy's pinkish star-forming regions. Also known as M31, the spiral galaxy is a mere 2.5 million light-years away. NGC 206 is found at the center of this sharp and detailed close-up of the southwestern extent of Andromeda's disk. The bright, blue stars of NGC 206 indicate its youth. In fact, its youngest massive stars are less than 10 million years old. Much larger than the open or galactic clusters of young stars in the disk of our Milky Way galaxy, NGC 206 spans about 4,000 light-years. That's comparable in size to the giant stellar nurseries NGC 604 in nearby spiral M33 and the Tarantula Nebula in the Large Magellanic Cloud.</h5>
+<h5 align="center">Messier 4 can be found west of bright red-giant star Antares, alpha star of the constellation Scorpius. M4 itself is only just visible from dark sky locations, even though the globular cluster of 100,000 stars or so is a mere 5,500 light-years away. Still, its proximity to prying telescopic eyes makes it a prime target for astronomical explorations. Recent studies have included Hubble observations of M4's pulsating cepheid variable stars, cooling white dwarf stars, and ancient, pulsar orbiting exoplanet PSR B1620-26 b. This sharp image was captured with a small telescope on planet Earth. At M4's estimated distance it spans about 50 light-years across the core of the globular star cluster.</h5>
 
 ----
 
@@ -184,54 +206,54 @@ Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/26.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/10.png" width="180"/>
@@ -239,35 +261,35 @@ Take a glass, pour the Coke in the glass, then you take 7 drops of lemon juice. 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
