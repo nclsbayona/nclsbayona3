@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Whenever īlon’re zūgagon,  ziry’s kesrio syt īlon don’t gīmigon enough. Lo īlon understood enough,  īlon would dōrī sagon zūgagon&quot;</strong>
-  <i>-- &quot;Whenever we’re afraid, it’s because we don’t know enough. If we understood enough, we would never be afraid&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Never waste a minute o' yer precious life thinkin' about people ye dern't like.&quot;</strong>
+  <i>-- &quot;Never waste a minute of your precious life thinking about people you don't like.&quot; in pirate language --</i>
 
 </p>
 
@@ -168,14 +168,14 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">NGC 300: A Galaxy of Stars - ©️ Daniel Stern @ 2024-12-02</h4>
+<h4 align="center">Ice Clouds over a Red Planet - ©️ NASA @ 2024-12-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/Ngc300_Stern_960.jpg" alt="NGC 300: A Galaxy of Stars image" />
+<img src="https://apod.nasa.gov/apod/image/2412/MarsClouds_Perseverance_960.jpg" alt="Ice Clouds over a Red Planet image" />
 
 </p>
 
-<h5 align="center">This galaxy is unusual for how many stars it seems that you can see. Stars are so abundantly evident in this deep exposure of the spiral galaxy NGC 300 because so many of these stars are bright blue and grouped into resolvable bright star clusters.  Additionally, NGC 300 is so clear because it is one of the closest spiral galaxies to Earth, as light takes only about 6 million years to get here.  Of course, galaxies are composed of many more faint stars than bright, and even more of a galaxy's mass is attributed to unseen dark matter.  NGC 300 spans nearly the same amount of sky as the full moon and is visible with a small telescope toward the southern constellation of the Sculptor. The featured image was captured in October from Rio Hurtado, Chile and is a composite of over 20 hours of exposure.</h5>
+<h5 align="center">If you could stand on Mars -- what might you see?  You might look out over a vast orange landscape covered with rocks under a dusty orange sky, with a blue-tinted Sun setting over the horizon, and odd-shaped water clouds hovering high overhead. This was just the view captured last March by NASA's rolling explorer,  Perseverance. The orange coloring is caused by rusted iron in the Martian dirt, some of which is small enough to be swept up by winds into the atmosphere. The blue tint near the setting Sun is caused by blue light being preferentially scattered out from the Sun by the floating dust. The light-colored clouds on the right are likely composed of water-ice and appear high in the Martian atmosphere.  The shapes of some of these clouds are unusual for Earth and remain a topic of research.</h5>
 
 ----
 
@@ -188,54 +188,54 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/frog/18.png" width="180"/>
@@ -243,35 +243,35 @@ layered erin first, then sambuca and then avocart(should sit in middle of other 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
 </td>
 </tr>
 </table>
