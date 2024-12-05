@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Se opposite hen courage isse īlva society iksos daor cowardice. Ziry iksos conformity&quot;</strong>
-  <i>-- &quot;The opposite of courage in our society is not cowardice... it is conformity&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Pohshau na' wuh aikum,  fai'ei kauk kuv du din-tor,  du'll solektra among wuh yel.&quot;</strong>
+  <i>-- &quot;Shoot for the moon, because even if you miss, you'll land among the stars.&quot; in vulcan language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Passion Fruit Martini</h4>
+<h4 align="center">Affair</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/h5za6y1582477994.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Strawberry schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Full Glass</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -84,7 +68,7 @@
 
 
 <p align="center">
-Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.
+Pour schnapps, orange juice, and cranberry juice over ice in a highball glass. Top with club soda and serve.
 </p>
 
 ----
@@ -184,14 +168,14 @@ Pour all ingredients into a glass and stir. Garnish with half a passion fruit pi
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Driveway Analemma - ©️ Nick Wright @ 2024-12-04</h4>
+<h4 align="center">Stereo Jupiter near Opposition - ©️ Marco Lorenzi @ 2024-12-05</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/7QB_MOemCqs?rel=0" alt="Driveway Analemma image" />
+<img src="https://apod.nasa.gov/apod/image/2412/2023-11-17-1617_1632-Jupiter_Stereo1200.png" alt="Stereo Jupiter near Opposition image" />
 
 </p>
 
-<h5 align="center">Does the Sun return to the same spot on the sky every day?  No.  A more visual answer is an analemma, a composite of sky images taken at the same time and from the same place over a year.  At completion, you can see that the Sun makes a figure 8 on the sky.  The featured unusual analemma does not, however, picture the Sun directly: it was created by looking in the opposite direction. All that was required was noting where the shadow of an edge of a house was in the driveway every clear day at the same time.  Starting in March in Falcon, Colorado, USA, the photographer methodically marked the shadow's 1 pm location. In one frame you can even see the photographer himself.  Although this analemma will be completed in 2025, you can start drawing your own driveway analemma -- using no fancy equipment -- as soon as today.</h5>
+<h5 align="center">Jupiter looks sharp in these two rooftop telescope images. Both were captured last year on November 17 from Singapore, planet Earth, about two weeks after Jupiter's 2023 opposition. Climbing high in midnight skies the giant planet was a mere 33.4 light-minutes from Singapore. That's about 4 astronomical units away. Jupiter's planet girdling dark belts and light zones are visible in remarkable detail, along with the giant world's whitish oval vortices. Its signature Great Red Spot is prominent in the south. Jupiter rotates rapidly on its axis once every 10 hours. So, based on video frames taken only 15 minutes apart, these images form a stereo pair. Look at the center of the pair and cross your eyes until the separate images come together to see the 3D effect. Of course Jupiter is now not far from its 2024 opposition. Planet Earth is set to pass between the Solar System's ruling gas giant and the Sun on December 7.</h5>
 
 ----
 
@@ -204,90 +188,90 @@ Pour all ingredients into a glass and stir. Garnish with half a passion fruit pi
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/31.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
