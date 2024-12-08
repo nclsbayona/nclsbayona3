@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ziry'll feel magical skori ziry iksos working&quot;</strong>
-  <i>-- &quot;It'll feel magical when it's working&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;Kia zmir tave visas visuom kash patogus; kia fasona tave visas visuom zmir tu kash kietas.&quot;</strong>
+  <i>-- &quot;To forget the whole world is easy; to make the whole world forget you is hard.&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">California Lemonade</h4>
+<h4 align="center">Amaretto fizz</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/q5z4841582484168.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/92h3jz1582474310.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blended whiskey</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Juice of 1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">White Wine</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">15 cl</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange Peel</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/4 tsp</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +84,7 @@
 
 
 <p align="center">
-Shake all ingredients (except carbonated water) with ice and strain into a collins glass over shaved ice. Fill with carbonated water and stir. Decorate with slices of orange and lemon. Add the cherry and serve with a straw.
+Mix Amaretto, orange juice and sparkling wine in a jug. Add a strip orange zest to each glass, if you like.
 </p>
 
 ----
@@ -176,14 +184,14 @@ Shake all ingredients (except carbonated water) with ice and strain into a colli
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rocket Engine Fireplace - ©️ NASA @ 2024-12-07</h4>
+<h4 align="center">Aurora around Saturn's North Pole - ©️ NASA @ 2024-12-08</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/NASARocketEngineFireplaceSnap600.png" alt="Rocket Engine Fireplace image" />
+<img src="https://apod.nasa.gov/apod/image/2412/SaturnAurora_Hubble_960.jpg" alt="Aurora around Saturn's North Pole image" />
 
 </p>
 
-<h5 align="center">You might not think a close up view of rocket engines producing 8.8 million pounds of thrust would be relaxing, but here it can be. In fact, you can get a warm and cozy feeling just spending a few moments watching NASA's holiday rocket engine fireplace. The video features a loop of the Space Launch System rocket's RS-25 main engines throttled up and running flanked by solid rocket boosters and framed by a stone fireplace. The accompanying audio track mixes the drastically muted sounds of the rocket engines firing with the more familiar sounds of a burning, crackling wood fire. AI elements are included in the composed video along with an image and logo from the Artemis I mission. The Artemis I uncrewed mission to the Moon and back again launched in November 2022 on a Space Launch System rocket.</h5>
+<h5 align="center">Are Saturn's auroras like Earth's?  To help answer this question, the Hubble Space Telescope and the Cassini spacecraft monitored Saturn's North Pole simultaneously during Cassini's final orbits around the gas giant in September 2017.  During this time, Saturn's tilt caused its North Pole to be clearly visible from Earth. The featured image is a composite of ultraviolet images of auroras and optical images of Saturn's clouds and rings, all taken by Hubble.  Like on Earth, Saturn's northern auroras can make total or partial rings around the pole. Unlike on Earth, however, Saturn's auroras are frequently spirals -- and more likely to peak in brightness just before midnight and dawn.  In contrast to Jupiter's auroras, Saturn's auroras appear better related to connecting Saturn's internal magnetic field to the nearby, variable, solar wind.  Saturn's southern auroras were similarly imaged back in 2004 when the planet's South Pole was clearly visible to Earth.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -196,90 +204,90 @@ Shake all ingredients (except carbonated water) with ice and strain into a colli
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/23.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/32.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/redpanda/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/21.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/17.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
