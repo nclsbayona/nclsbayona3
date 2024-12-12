@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;The moment,  the clock indicates...Eternity indicate,  but what does?&quot;</strong>
-  <i>-- &quot;The clock indicates the moment...but what does eternity indicate?&quot; in yoda language --</i>
+  <strong align="center">Someone once said: &quot;Challenge yourself na rad- i man a beautiful nad min -o everyone.&quot;</strong>
+  <i>-- &quot;Challenge yourself to find the good and beautiful thing inside of everyone.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rum Milk Punch</h4>
+<h4 align="center">Balmoral</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/w64lqm1504888810.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vysuyq1441206297.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,16 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Scotch</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cup </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Powdered sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dry Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +72,7 @@
 
 
 <p align="center">
-Shake all ingredients (except nutmeg) with ice and strain into a collins glass. Sprinkle nutmeg on top and serve.
+In a mixing glass half-filled with ice cubes, combine all of the ingredients. Stir well. Strain into a cocktail glass.
 </p>
 
 ----
@@ -168,14 +172,14 @@ Shake all ingredients (except nutmeg) with ice and strain into a collins glass. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Shells and Jets of Galaxy Centaurus A - ©️ NASA @ 2024-12-11</h4>
+<h4 align="center">Phaethon's Brood - ©️ Mikiya Sato @ 2024-12-12</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/CenAShellsJets_Olsen_1080.jpg" alt="The Shells and Jets of Galaxy Centaurus A image" />
+<img src="https://apod.nasa.gov/apod/image/2412/MSato_Phaethon-and-Geminids-v2.jpg" alt="Phaethon's Brood image" />
 
 </p>
 
-<h5 align="center">What's the closest active galaxy to planet Earth? That would be Centaurus A, cataloged as NGC 5128, which is only 12 million light-years distant. Forged in a collision of two otherwise normal galaxies, Centaurus A shows several distinctive features including a dark dust lane across its center, outer shells of stars and gas, and jets of particles shooting out from a supermassive black hole at its center.  The featured image captures all of these in a composite series of visible light images totaling over 310 hours captured over the past 10 years with a homebuilt telescope operating in Auckland, New Zealand. The brightness of Cen A's center from low-energy radio waves to high-energy gamma rays underlies its designation as an active galaxy.    Astrophysicists: Browse 3,500+ codes in the Astrophysics Source Code Library</h5>
+<h5 align="center">Based on its well-measured orbit, 3200 Phaethon (sounds like FAY-eh-thon) is recognized as the source of the meteoroid stream responsible for the annual Geminid meteor shower. Even though most meteor shower parents are comets, 3200 Phaethon is a known and closely tracked near-Earth asteroid with a 1.4 year orbital period. Rocky and sun-baked, its perihelion or closest approach to the Sun is well within the orbit of innermost planet Mercury. In this telescopic field of view, the asteroid's rapid motion against faint background stars of the heroic constellation Perseus left a short trail during the two minute total exposure time. The (faint) parallel streaks of its meteoric children flashed much more quickly across the scene. The family portrait was recorded near the Geminid meteor shower's very active peak on 2017 December 13. That was just three days before 3200 Phaethon's historic close approach to planet Earth. This year, the night of December 13 should again see the peak of the Geminid meteor shower, but faint meteors will be washed out by the bright light of the nearly full moon.  Watch: The 2024 Geminid Meteor Shower</h5>
 
 ----
 
@@ -188,90 +192,90 @@ Shake all ingredients (except nutmeg) with ice and strain into a collins glass. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/19.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
