@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vah are ch'a vit'can (bah accusative) vuhn&quot;</strong>
-  <i>-- &quot;You are a capable human&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Yeri make a difference she the rhaesheser ki disse existing she anna&quot;</strong>
+  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Almond Chocolate Coffee</h4>
+<h4 align="center">Passion Fruit Martini</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/jls02c1493069441.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/6trfve1582473527.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dark Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 shot</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">8 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Full Glass</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +84,7 @@
 
 
 <p align="center">
-Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
+Pour all ingredients into a glass and stir. Garnish with half a passion fruit piece.
 </p>
 
 ----
@@ -168,14 +184,14 @@ Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">The Local Fluff - ©️ NASA @ 2024-12-22</h4>
+<h4 align="center">Christmas Tree Aurora - ©️ Jingyi Zhang @ 2024-12-23</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/LocalCloud_ibex_960.jpg" alt="The Local Fluff image" />
+<img src="https://apod.nasa.gov/apod/image/2412/AuroraTree_Zhang_960.jpg" alt="Christmas Tree Aurora image" />
 
 </p>
 
-<h5 align="center">The stars are not alone.  In the disk of our Milky Way Galaxy, about 10 percent of visible matter is in the form of gas called the interstellar medium (ISM).  The ISM is not uniform and shows patchiness even near our Sun.  It can be quite difficult to detect the local ISM because it is so tenuous and emits so little light.  This mostly hydrogen gas, however, absorbs some very specific colors that can be detected in the light of the nearest stars.  A working map of the local ISM within 20 light-years, based on ongoing observations and particle detections from the Earth-orbiting Interstellar Boundary Exporer satellite  (IBEX), is shown here.  These observations indicate that our Sun is moving through a Local Interstellar Cloud as this cloud flows outwards from the Scorpius-Centaurus Association star forming region.  Our Sun may exit the Local Cloud, also called the Local Fluff, during the next 10,000 years.  Much remains unknown about the local ISM, including details of its distribution, its origin, and how it affects the Sun and the Earth. Unexpectedly, IBEX spacecraft measurements indicate that the direction from which neutral interstellar particles flow through our Solar System is changing.   APOD Year in Review: Night Sky Network Presentation for 2024</h5>
+<h5 align="center">It was December and the sky lit up like a Christmas tree. Shimmering, the vivid green, blue, and purple auroral colors that formed the tree-like apparition were caused by high atmospheric oxygen and nitrogen reacting to a burst of incoming electrons.  Collisions caused the orbital electrons of atoms and molecules to jump into excited energy states and emit visible light when returning to their normal state. The featured image was captured in Djúpivogur, Iceland during the last month of 2023. Our Sun is currently in its most energetic phase of its 11-year cycle, with its high number of active regions and sunspots likely to last into next year. Of course, the Sun has been near solar maximum during this entire year, with its outbursts sometimes resulting in spectacular Earthly auroras.    Image Processors: Take NASA's Astrophoto Challenge</h5>
 
 ----
 
@@ -188,24 +204,24 @@ Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -213,7 +229,7 @@ Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
 <img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/whale/9.png" width="180"/>
@@ -221,43 +237,43 @@ Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
@@ -265,13 +281,13 @@ Pour in order into coffee cup. Top with whipped creme and chocolate shcvings.
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
