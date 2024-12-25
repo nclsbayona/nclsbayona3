@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Doe greatest discovery of all tee-tocky sa da do person can change their future by merely changing their attitude.&quot;</strong>
-  <i>-- &quot;The greatest discovery of all time is that a person can change their future by merely changing their attitude.&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Everythin' has cracks - that's how th' light gets in&quot;</strong>
+  <i>-- &quot;Everything has cracks - that's how the light gets in&quot; in pirate language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Banana Daiquiri</h4>
+<h4 align="center">GG</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/k1xatq1504389300.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vyxwut1468875960.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Optional alcohol - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,28 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Banana</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tsp </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cherry</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 shots </td>
         </tr>
     </tbody>
 </table>
@@ -80,7 +60,7 @@
 
 
 <p align="center">
-Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled cocktail glass.
+Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.
 </p>
 
 ----
@@ -180,14 +160,14 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled c
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Fox Fur, Cone, and Christmas Tree - ©️ Tim White @ 2024-12-24</h4>
+<h4 align="center">Diamond Dust Sky Eye - ©️ Jaroslav Fous @ 2024-12-25</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/ConeTree_White_960.jpg" alt="Fox Fur, Cone, and Christmas Tree image" />
+<img src="https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_960.jpg" alt="Diamond Dust Sky Eye image" />
 
 </p>
 
-<h5 align="center">What do the following things have in common: a cone, the fur of a fox, and a Christmas tree?  Answer: they all occur in the constellation of the Unicorn (Monoceros).  Considered as a star forming region and cataloged as NGC 2264, the complex jumble of cosmic gas and dust is about 2,700 light-years distant and mixes reddish emission nebulae excited by energetic light from newborn stars with dark interstellar dust clouds. The featured image spans an angle larger than a full moon, covering over 50 light-years at the distance of NGC 2264. Its cast of cosmic characters includes the Fox Fur Nebula, whose convoluted pelt lies just to the left of the image center, bright variable star S Mon visible just to the right of the Fox Fur, and the Cone Nebula near the image top.  With the Cone Nebula at the peak, the shape of the general glow of the region give it the nickname of the Christmas Tree Cluster, where stars are tree ornaments.   Explore Your Universe: Random APOD Generator</h5>
+<h5 align="center">Why is there a huge eye in the sky? Diamond dust. That is an informal term for small ice crystals that form in the air and flitter to the ground. Because these crystals are geometrically shaped, they can together reflect light from the Sun or Moon to your eyes in a systematic way, causing huge halos and unusual arcs to appear. And sometimes, together the result can seem like a giant eye looking right back at you. In the featured image taken in the Ore Mountains of the Czech Republic last week, a bright Moon rising through ice fog-filled air resulted in many of these magnificent sky illusions to be visible simultaneously.  Besides Moon dogs, tangent arcs, halos, and a parhelic circle, light pillars above distant lights are visible on the far left, while Jupiter and Mars can be found just inside the bottom of the 22-degree halo.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
 
 ----
 
@@ -200,24 +180,24 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled c
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -225,21 +205,21 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled c
 <img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -247,43 +227,43 @@ Pour all ingredients into shaker with ice cubes. Shake well. Strain in chilled c
 <img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
