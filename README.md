@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Everythin' has cracks - that's how th' light gets in&quot;</strong>
-  <i>-- &quot;Everything has cracks - that's how the light gets in&quot; in pirate language --</i>
+  <strong align="center">Someone once said: &quot;Nayc solus vurel is defeated akay rohakar has been accepted as. As a reality.&quot;</strong>
+  <i>-- &quot;No one ever is defeated until defeat has been accepted as a reality.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">GG</h4>
+<h4 align="center">Mountain Bramble</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vyxwut1468875960.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/stwiva1619704025.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Optional alcohol - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,32 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Galliano</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 1/2 shots </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar Syrup</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">0.75 oz</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ground</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soda Water</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Top</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Mint</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Garnish with</td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +84,7 @@
 
 
 <p align="center">
-Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger ale and thats all there is to it. You now have a your very own GG.
+Muddle the blackberries in a tumbler glass. Mix the Gin, lemon juice and sugar syrup in a shaker and strain over chopped ice. Top with Soda water and garnish with more blackberries and some mint
 </p>
 
 ----
@@ -160,14 +184,14 @@ Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Diamond Dust Sky Eye - ©️ Jaroslav Fous @ 2024-12-25</h4>
+<h4 align="center">Grand Spiral NGC 5643 - ©️ NASA @ 2024-12-26</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/IceHalos_Fous_960.jpg" alt="Diamond Dust Sky Eye image" />
+<img src="https://apod.nasa.gov/apod/image/2412/Hubble_NGC5643_potw2450a1024.jpg" alt="Grand Spiral NGC 5643 image" />
 
 </p>
 
-<h5 align="center">Why is there a huge eye in the sky? Diamond dust. That is an informal term for small ice crystals that form in the air and flitter to the ground. Because these crystals are geometrically shaped, they can together reflect light from the Sun or Moon to your eyes in a systematic way, causing huge halos and unusual arcs to appear. And sometimes, together the result can seem like a giant eye looking right back at you. In the featured image taken in the Ore Mountains of the Czech Republic last week, a bright Moon rising through ice fog-filled air resulted in many of these magnificent sky illusions to be visible simultaneously.  Besides Moon dogs, tangent arcs, halos, and a parhelic circle, light pillars above distant lights are visible on the far left, while Jupiter and Mars can be found just inside the bottom of the 22-degree halo.    Your Sky Surprise: What picture did APOD feature on your birthday? (post 1995)</h5>
+<h5 align="center">Viewed face-on, grand spiral galaxy NGC 5643 has a festive appearance in this colorful cosmic portrait. Some 55 million light-years distant, the galaxy extends for over 100,000 light-years, seen within the boundaries of the southern constellation Lupus. Its inner 40,000 light-years are shown in sharp detail in this composite of Hubble Space Telescope image data. The galaxy's magnificent spiral arms wind from a yellowish central region dominated by light from old stars, while the spiral arms themselves are traced by dust lanes, young blue stars and reddish star forming regions. The bright compact core of NGC 5643 is also known as a strong emitter of radio waves and X-rays. In fact, NGC 5643 is one of the closest examples of the Seyfert class of active galaxies, where vast amounts of dust and gas are thought to be falling into a central massive black hole.</h5>
 
 ----
 
@@ -180,90 +204,90 @@ Pour the Galliano liqueur over ice. Fill the remainder of the glass with ginger 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/20.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/axolotl/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/6.png" width="180"/>
 </td>
 </tr>
 </table>
