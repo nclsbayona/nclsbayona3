@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;People gee goals succeed because they know konchee they’re koona&quot;</strong>
-  <i>-- &quot;People with goals succeed because they know where they’re going&quot; in huttese language --</i>
+  <strong align="center">Someone once said: &quot;Ha na- ú- a sprint,  ha na- a marathon. Er step at a anand&quot;</strong>
+  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Vodka Lemon</h4>
+<h4 align="center">Michelada</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/mql55h1643820632.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,28 +48,28 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">7 cl</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon Peel</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 Slice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Ice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">cubes</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Worcestershire Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soy Sauce</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
         </tr>
         <tr>
             <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
@@ -84,7 +84,9 @@
 
 
 <p align="center">
-The vodka lemon is prepared directly in a highball glass or in a large tumbler: put 6-7 ice cubes in the glass, pour the vodka, lemonade and mix with a bar spoon. Finally decorate with a slice of lemon and, if you prefer, add a few mint leaves. Your vodka lemon is ready to be served.
+Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
+Served In a chilled, salt-rimmed glass
+
 </p>
 
 ----
@@ -184,14 +186,14 @@ The vodka lemon is prepared directly in a highball glass or in a large tumbler: 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Planet Earth at Twilight - ©️ NASA @ 2024-12-27</h4>
+<h4 align="center">A December Winter Night - ©️ Włodzimierz Bubak @ 2024-12-28</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/ISS002-E-7377_1024c.jpg" alt="Planet Earth at Twilight image" />
+<img src="https://apod.nasa.gov/apod/image/2412/bubak-poland1024.jpg" alt="A December Winter Night image" />
 
 </p>
 
-<h5 align="center">No sudden, sharp boundary marks the passage of day into night in this gorgeous view of ocean and clouds over our fair planet Earth. Instead, the shadow line or terminator is diffuse and shows the gradual transition to darkness we experience as twilight. With the Sun illuminating the scene from the right, the cloud tops reflect gently reddened sunlight filtered through the dusty troposphere, the lowest layer of the planet's nurturing atmosphere. A clear high altitude layer, visible along the dayside's upper edge, scatters blue sunlight and fades into the blackness of space. This picture was taken from the International Space Station orbiting at an altitude of 211 nautical miles. Of course from home, you can check out the Earth Now.</h5>
+<h5 align="center">Orion seems to come up sideways, climbing over a distant mountain range in this deep skyscape. The wintry scene was captured from southern Poland on the northern hemisphere's long solstice night. Otherwise unseen nebulae hang in the sky, revealed by the camera modified to record red hydrogen-alpha light. The nebulae lie near the edge of the Orion molecular cloud and join the Hunter's familiar belt stars and bright giants Betelgeuse and Rigel. Eye of Taurus the Bull, yellowish Aldebaran anchors the V-shaped Hyades star cluster near top center. Still, near opposition in planet Earth's sky, the Solar System's ruling gas giant Jupiter is the brightest celestial beacon above this horizon's snowy peaks.</h5>
 
 ----
 
@@ -204,90 +206,90 @@ The vodka lemon is prepared directly in a highball glass or in a large tumbler: 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
 </td>
 </tr>
 </table>
