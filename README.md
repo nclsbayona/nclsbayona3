@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ha na- ú- a sprint,  ha na- a marathon. Er step at a anand&quot;</strong>
-  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Ar viskas meo patogus tu'd buti bored&quot;</strong>
+  <i>-- &quot;If everything was easy you'd be bored&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Michelada</h4>
+<h4 align="center">Rum Screwdriver</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/u736bd1605907086.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,32 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Beer</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Tomato Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lime Juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 tblsp</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Hot Sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Worcestershire Sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Soy Sauce</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Dash</td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top"></td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
         </tr>
     </tbody>
 </table>
@@ -84,9 +64,7 @@
 
 
 <p align="center">
-Mix the beer with tomato juice, freshly squeezed lime juice, and Worcestershire sauce, teriyaki sauce, soy sauce, or hot sauce.
-Served In a chilled, salt-rimmed glass
-
+Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.
 </p>
 
 ----
@@ -186,14 +164,14 @@ Served In a chilled, salt-rimmed glass
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A December Winter Night - ©️ Włodzimierz Bubak @ 2024-12-28</h4>
+<h4 align="center">Methane Bubbles Frozen in Lake Baikal - ©️ Kristina Makeeva @ 2024-12-29</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/bubak-poland1024.jpg" alt="A December Winter Night image" />
+<img src="https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_960.jpg" alt="Methane Bubbles Frozen in Lake Baikal image" />
 
 </p>
 
-<h5 align="center">Orion seems to come up sideways, climbing over a distant mountain range in this deep skyscape. The wintry scene was captured from southern Poland on the northern hemisphere's long solstice night. Otherwise unseen nebulae hang in the sky, revealed by the camera modified to record red hydrogen-alpha light. The nebulae lie near the edge of the Orion molecular cloud and join the Hunter's familiar belt stars and bright giants Betelgeuse and Rigel. Eye of Taurus the Bull, yellowish Aldebaran anchors the V-shaped Hyades star cluster near top center. Still, near opposition in planet Earth's sky, the Solar System's ruling gas giant Jupiter is the brightest celestial beacon above this horizon's snowy peaks.</h5>
+<h5 align="center">What are these bubbles frozen into Lake Baikal? Methane.  Lake Baikal, a UNESCO World Heritage Site in Russia, is the world's largest (by volume), oldest, and deepest lake, containing over 20% of the world's fresh water. The lake is also a vast storehouse of methane, a greenhouse gas that, if released, could potentially increase the amount of infrared light absorbed by Earth's atmosphere, and so increase the average temperature of the entire planet. Fortunately, the amount of methane currently bubbling out is not climatologically important. It is not clear what would happen, though, were temperatures to significantly increase in the region, or if the water level in Lake Baikal were to drop.  Pictured, bubbles of rising methane froze during winter into the exceptionally clear ice covering the lake.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -206,90 +184,90 @@ Served In a chilled, salt-rimmed glass
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/1.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/12.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
