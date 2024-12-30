@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Ar viskas meo patogus tu'd buti bored&quot;</strong>
-  <i>-- &quot;If everything was easy you'd be bored&quot; in sith language --</i>
+  <strong align="center">Someone once said: &quot;I whole ambar na- a series -o miracles,  but mín're so used na hain mín nall- hain ordinarui things.&quot;</strong>
+  <i>-- &quot;The whole world is a series of miracles, but we're so used to them we call them ordinary things.&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rum Screwdriver</h4>
+<h4 align="center">410 Gone</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/4c85zq1511782093.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,12 +48,8 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz</td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +60,7 @@
 
 
 <p align="center">
-Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve.
+Mix together and enjoy!
 </p>
 
 ----
@@ -164,14 +160,14 @@ Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Methane Bubbles Frozen in Lake Baikal - ©️ Kristina Makeeva @ 2024-12-29</h4>
+<h4 align="center">M27: The Dumbbell Nebula - ©️ Christopher Stobie @ 2024-12-30</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/BaikalBubbles_Makeeva_960.jpg" alt="Methane Bubbles Frozen in Lake Baikal image" />
+<img src="https://apod.nasa.gov/apod/image/2412/M27_Stobie_960.jpg" alt="M27: The Dumbbell Nebula image" />
 
 </p>
 
-<h5 align="center">What are these bubbles frozen into Lake Baikal? Methane.  Lake Baikal, a UNESCO World Heritage Site in Russia, is the world's largest (by volume), oldest, and deepest lake, containing over 20% of the world's fresh water. The lake is also a vast storehouse of methane, a greenhouse gas that, if released, could potentially increase the amount of infrared light absorbed by Earth's atmosphere, and so increase the average temperature of the entire planet. Fortunately, the amount of methane currently bubbling out is not climatologically important. It is not clear what would happen, though, were temperatures to significantly increase in the region, or if the water level in Lake Baikal were to drop.  Pictured, bubbles of rising methane froze during winter into the exceptionally clear ice covering the lake.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
+<h5 align="center">Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.    APOD Year in Review: Night Sky Network Presentation for 2024</h5>
 
 ----
 
@@ -184,90 +180,90 @@ Pour rum into a highball glass over ice cubes. Add orange juice, stir, and serve
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/9.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
 </td>
 </tr>
 </table>
