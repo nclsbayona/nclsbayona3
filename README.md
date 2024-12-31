@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;I whole ambar na- a series -o miracles,  but mín're so used na hain mín nall- hain ordinarui things.&quot;</strong>
-  <i>-- &quot;The whole world is a series of miracles, but we're so used to them we call them ordinary things.&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Hash vo (a shortened variant of vos,  ki may be used when the next word starts ma a consonant.) wait ha leaders; hash anna alone,  voj to voj.&quot;</strong>
+  <i>-- &quot;Do not wait for leaders; do it alone, person to person.&quot; in dothraki language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">410 Gone</h4>
+<h4 align="center">Cranberry Cordial</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xtuyqv1472669026.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/qtspsx1472667392.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Homemade Liqueur</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,8 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2-3 oz</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberries</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 kg chopped </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sugar</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3/4 L </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 L </td>
         </tr>
     </tbody>
 </table>
@@ -60,7 +68,7 @@
 
 
 <p align="center">
-Mix together and enjoy!
+Place the chopped cranberries in a 2 liter jar that has a tight-fitting lid. Add the sugar and rum. Adjust the lid securely and place the jar in a cool, dark place. Invert the jar and shake it every day for six weeks. Strain the cordial into bottles and seal with corks.
 </p>
 
 ----
@@ -160,14 +168,14 @@ Mix together and enjoy!
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">M27: The Dumbbell Nebula - ©️ Christopher Stobie @ 2024-12-30</h4>
+<h4 align="center">The Twisted Disk of NGC 4753 - ©️ NASA @ 2024-12-31</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2412/M27_Stobie_960.jpg" alt="M27: The Dumbbell Nebula image" />
+<img src="https://apod.nasa.gov/apod/image/2412/NGC4753_HubbleReinartz_960.jpg" alt="The Twisted Disk of NGC 4753 image" />
 
 </p>
 
-<h5 align="center">Is this what will become of our Sun? Quite possibly.  The first hint of our Sun's future was discovered inadvertently in 1764. At that time, Charles Messier was compiling a list of diffuse objects not to be confused with comets. The 27th object on Messier's list, now known as M27 or the Dumbbell Nebula, is a planetary nebula, one of the brightest planetary nebulas on the sky and visible with binoculars toward the constellation of the Fox (Vulpecula). It takes light about 1000 years to reach us from M27, featured here in colors emitted by sulfur (red), hydrogen (green) and oxygen (blue). We now know that in about 6 billion years, our Sun will shed its outer gases into a planetary nebula like M27, while its remaining center will become an X-ray hot white dwarf star.  Understanding the physics and significance of M27 was well beyond 18th century science, though. Even today, many things remain mysterious about planetary nebulas, including how their intricate shapes are created.    APOD Year in Review: Night Sky Network Presentation for 2024</h5>
+<h5 align="center">What do you think this is?  Here’s a clue: it's bigger than a bread box. Much bigger. The answer is that pictured NGC 4753 is a twisted disk galaxy, where unusual dark dust filaments provide clues about its history. No one is sure what happened, but a leading model holds that a relatively normal disk galaxy gravitationally ripped apart a dusty satellite galaxy while its precession distorted the plane of the accreted debris as it rotated.  The cosmic collision is hypothesized to have started about a billion years ago.  NGC 4753 is seen from the side, and possibly would look like a normal spiral galaxy from the top.  The bright orange halo is composed of many older stars that might trace dark matter. The featured Hubble image was recently reprocessed to highlight ultraviolet and red-light emissions.    APOD Year in Review: NASA Night Sky Network Presentation for 2024</h5>
 
 ----
 
@@ -180,90 +188,90 @@ Mix together and enjoy!
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/7.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/17.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/24.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fish/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
