@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Rah vah've nan'eo eaten bohn crying vah don t rsah vei vez tastes ch'acacah.&quot;</strong>
-  <i>-- &quot;If you've never eaten while crying you don t know what life tastes like.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;All cin baur na- i plan,  i roadmap,  a i huor na press bo na cín destination&quot;</strong>
+  <i>-- &quot;All you need is the plan, the roadmap, and the courage to press on to your destination&quot; in sindarin language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Negroni</h4>
+<h4 align="center">Fuzzy Asshole</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qgdu971561574065.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Coffee / Tea</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Campari</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Stir into glass over ice, garnish and serve.
+fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Stir into glass over ice, garnish and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Solar Analemma 2024 - ©️ Betul Turksoy @ 2025-01-02</h4>
+<h4 align="center">Eclipse Pair - ©️ Josh Dury @ 2025-01-03</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/solaranalemma2024-4-5BetulT1024.jpeg" alt="Solar Analemma 2024 image" />
+<img src="https://apod.nasa.gov/apod/image/2501/APODEclipsePair1024.jpg" alt="Eclipse Pair image" />
 
 </p>
 
-<h5 align="center">Recorded during 2024, this year-spanning series of images reveals a pattern in the seasonal drift of the Sun's daily motion through planet Earth's sky. Known to some as an analemma, the figure-eight curve was captured in exposures taken only at 1pm local time on clear days from Kayseri, Turkiye. Of course the Sun's position on the 2024 solstice dates was at the top and bottom of the curve. They correspond to the astronomical beginning of summer and winter in the north. The points along the curve half-way between the solstices, but not the figure-eight curve crossing point, mark the 2024 equinoxes and the start of spring and fall. Regional peaks and dormant volcano Mount Erciyes lie along the southern horizon in the 2024 timelapse skyscape.</h5>
+<h5 align="center">clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the full and new phases of the Moon, separated by just over 14 days, create a lunar and a solar eclipse. But only rarely is the alignment at both new moon and full moon phases during a single eclipse season close enough to produce a pair with both total (or a total and an annular) lunar and solar eclipses. More often, partial eclipses are part of any eclipse season. In fact, the last eclipse season of 2024 produced this fortnight-separated eclipse pair: a partial lunar eclipse on 18 September and an annular solar eclipse on 2 October. The time-lapse composite images were captured from Somerset, UK (left) and Rapa Nui planet Earth. The 2025 eclipse seasons will see a total lunar eclipse on 14 March paired with a partial solar eclipse on 29 March, and a total lunar eclipse on 8 September followed by a partial solar eclipse on 21 September.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Stir into glass over ice, garnish and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/16.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/5.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/0.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
 </td>
 </tr>
 </table>
