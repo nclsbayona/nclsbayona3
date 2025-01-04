@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;All cin baur na- i plan,  i roadmap,  a i huor na press bo na cín destination&quot;</strong>
-  <i>-- &quot;All you need is the plan, the roadmap, and the courage to press on to your destination&quot; in sindarin language --</i>
+  <strong align="center">Someone once said: &quot;Tu'll xauti zo qo&quot;</strong>
+  <i>-- &quot;You'll find a way&quot; in sith language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Fuzzy Asshole</h4>
+<h4 align="center">Nutty Irishman</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/wrvpuu1472667898.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xspupx1441248014.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Coffee / Tea</h5>
+<h5 align="center">Alcoholic - Shake</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,12 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coffee</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Baileys irish cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Peach schnapps</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Frangelico</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Milk</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
     </tbody>
 </table>
@@ -64,7 +68,7 @@
 
 
 <p align="center">
-fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. Stir and drink while hot.
+Serve over ice
 </p>
 
 ----
@@ -164,14 +168,14 @@ fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Eclipse Pair - ©️ Josh Dury @ 2025-01-03</h4>
+<h4 align="center">Welcome to Perihelion - ©️ Barden Ridge Observatory @ 2025-01-04</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/APODEclipsePair1024.jpg" alt="Eclipse Pair image" />
+<img src="https://apod.nasa.gov/apod/image/2501/20242112SolNeg1024.jpg" alt="Welcome to Perihelion image" />
 
 </p>
 
-<h5 align="center">clipses tend to come in pairs. Twice a year, during an eclipse season that lasts about 34 days, Sun, Moon, and Earth can nearly align. Then the full and new phases of the Moon, separated by just over 14 days, create a lunar and a solar eclipse. But only rarely is the alignment at both new moon and full moon phases during a single eclipse season close enough to produce a pair with both total (or a total and an annular) lunar and solar eclipses. More often, partial eclipses are part of any eclipse season. In fact, the last eclipse season of 2024 produced this fortnight-separated eclipse pair: a partial lunar eclipse on 18 September and an annular solar eclipse on 2 October. The time-lapse composite images were captured from Somerset, UK (left) and Rapa Nui planet Earth. The 2025 eclipse seasons will see a total lunar eclipse on 14 March paired with a partial solar eclipse on 29 March, and a total lunar eclipse on 8 September followed by a partial solar eclipse on 21 September.</h5>
+<h5 align="center">rth's orbit around the Sun is not a circle, it's an ellipse. The point along its elliptical orbit where our fair planet is closest to the Sun is called perihelion. This year perihelion is today, January 4, at 13:28 UTC, with the Earth about 147 million kilometers from the Sun. For comparison, at aphelion on last July 3 Earth was at its farthest distance from the Sun, some 152 million kilometers away. But distance from the Sun doesn't determine Earth's seasons. It's only by coincidence that the beginning of southern summer (northern winter) on the December solstice - when this H-alpha picture of the active Sun was taken - is within 14 days of Earth's perihelion date. And it's only by coincidence that Earth's perihelion date is within 11 days of the historic perihelion of NASA's Parker Solar Probe. Launched in 2018, the Parker Solar Probe flew within 6.2 million kilometers of the Sun's surface on 2024 December 24, breaking its own record for closest perihelion for a spacecraft from planet Earth.</h5>
 
 ----
 
@@ -184,90 +188,90 @@ fill coffe mug half full of coffee. Fill the other half full of Peach Schnapps. 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/23.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/20.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/21.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/11.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/22.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/19.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/11.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/1.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
