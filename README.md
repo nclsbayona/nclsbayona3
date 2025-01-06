@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Vah k'ir ch'a difference can ch'at ch'un'bi by simply existing can hah&quot;</strong>
-  <i>-- &quot;You make a difference in the world by simply existing in it&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Motir laam brokar gar obstacles bal vaabir something about them. Gar'll find val morut't ge'sol te kot gar mirdir val ganar.&quot;</strong>
+  <i>-- &quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot; in mandalorian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Bora Bora</h4>
+<h4 align="center">Amaretto Shake</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xwuqvw1473201811.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Non alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,20 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">10 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate ice-cream</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Passion fruit juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">6 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lemon juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Grenadine</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
         </tr>
     </tbody>
 </table>
@@ -72,7 +68,7 @@
 
 
 <p align="center">
-Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish with 1 slice of pineapple and one cherry.
+Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.
 </p>
 
 ----
@@ -172,14 +168,14 @@ Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish 
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Rocket Launch as Seen from the International Space Station - ©️ NASA @ 2025-01-05</h4>
+<h4 align="center">Colliding Spiral Galaxies from Webb and Hubble - ©️ NASA @ 2025-01-06</h4>
 <p align="center">
 
-<img src="https://www.youtube.com/embed/B1R3dTdcpSU?rel=0" alt="Rocket Launch as Seen from the International Space Station image" />
+<img src="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg" alt="Colliding Spiral Galaxies from Webb and Hubble image" />
 
 </p>
 
-<h5 align="center">Have you ever seen a rocket launch -- from space?  A close inspection of the featured time-lapse video will reveal a rocket rising to Earth orbit as seen from the International Space Station (ISS).  The Russian Soyuz-FG rocket was launched in November 2018 from the Baikonur Cosmodrome in Kazakhstan, carrying a Progress MS-10 (also 71P) module to bring needed supplies to the ISS.  Highlights in the 90-second video (condensing about 15-minutes) include city lights and clouds visible on the Earth on the lower left, blue and gold bands of atmospheric airglow running diagonally across the center, and distant stars on the upper right that set behind the Earth. A lower stage can be seen falling back to Earth as the robotic supply ship fires its thrusters and begins to close on the ISS, a space laboratory that celebrated its 25th anniversary in 2023. Astronauts who live aboard the Earth-orbiting ISS conduct, among more practical duties, numerous science experiments that expand human knowledge and enable future commercial industry in low Earth orbit.</h5>
+<h5 align="center">Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
 
 ----
 
@@ -192,21 +188,21 @@ Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish 
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
@@ -214,68 +210,68 @@ Prepare in a blender or shaker, serve in a highball glass on the rocks. Garnish 
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/18.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/11.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
 </td>
 </tr>
 </table>
