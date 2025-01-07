@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Motir laam brokar gar obstacles bal vaabir something about them. Gar'll find val morut't ge'sol te kot gar mirdir val ganar.&quot;</strong>
-  <i>-- &quot;Stand up to your obstacles and do something about them. You'll find they haven't half the strength you think they have.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Aōha glaeson iksos already nykeā miracle hen chance waiting syt ao naejot shape its destiny&quot;</strong>
+  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in valyrian language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Amaretto Shake</h4>
+<h4 align="center">Rum Runner</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/xk79al1493069655.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Ordinary Drink</h5>
+<h5 align="center">Alcoholic - Punch / Party Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,24 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Chocolate ice-cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 scoops </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+        </tr>
+        <tr>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +76,7 @@
 
 
 <p align="center">
-Combine all ingredients in a blender and blend at high speed until smooth. Serve in chilled glass garnished with bittersweet chocolate shavings.
+Mix all ingredients in glass &amp; add ice.
 </p>
 
 ----
@@ -168,14 +176,14 @@ Combine all ingredients in a blender and blend at high speed until smooth. Serve
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Colliding Spiral Galaxies from Webb and Hubble - ©️ NASA @ 2025-01-06</h4>
+<h4 align="center">A New Year's Aurora and SAR Arc - ©️ Alessandra Masi @ 2025-01-07</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/CollidingGalaxies_WebbHubble_1080.jpg" alt="Colliding Spiral Galaxies from Webb and Hubble image" />
+<img src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg" alt="A New Year's Aurora and SAR Arc image" />
 
 </p>
 
-<h5 align="center">Billions of years from now, only one of these two galaxies will remain.  Until then, spiral galaxies NGC 2207 and IC 2163 will slowly pull each other apart, creating tides of matter, sheets of shocked gas, lanes of dark dust, bursts of star formation, and streams of cast-away stars.  The featured image in scientifically assigned colors is a composite of Hubble exposures in visible light and Webb exposures in infrared light. Astronomers predict that NGC 2207, the larger galaxy on the right, will eventually incorporate IC 2163, the smaller galaxy on the left.  In the most recent encounter that about peaked 40 million years ago, the smaller galaxy is swinging around counter-clockwise and is now slightly behind the larger galaxy.  The space between stars is so vast that when galaxies collide, the stars in them usually do not collide.   Jigsaw Challenge: Astronomy Puzzle of the Day</h5>
+<h5 align="center">It was a new year, and the sky was doubly red.  The new year meant that the Earth had returned to its usual place in its orbit on January 1, a place a few days before its closest approach to the Sun.  The first of the two red skyglows, on the left, was a red aurora, complete with vertical rays, caused by a blast from the Sun pushing charged particles into Earth's atmosphere.  The second red glow, most prominent on the far right, was possibly a SAR arc caused by a river of charged particles flowing across Earth's atmosphere.  Although both appear red, the slight color difference is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher SAR arc was possibly emitted more purely by atmospheric oxygen. The featured image was taken on January 1 from near Pieve di Cadore in Italy.   Portal Universe: Random APOD Generator</h5>
 
 ----
 
@@ -188,10 +196,10 @@ Combine all ingredients in a blender and blend at high speed until smooth. Serve
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
@@ -199,79 +207,79 @@ Combine all ingredients in a blender and blend at high speed until smooth. Serve
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/2.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/14.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/hedgehog/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
 </td>
 </tr>
 </table>
