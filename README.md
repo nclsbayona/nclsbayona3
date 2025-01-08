@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Aōha glaeson iksos already nykeā miracle hen chance waiting syt ao naejot shape its destiny&quot;</strong>
-  <i>-- &quot;Your life is already a miracle of chance waiting for you to shape its destiny&quot; in valyrian language --</i>
+  <strong align="center">Someone once said: &quot;10x engineers are do myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in huttese language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Rum Runner</h4>
+<h4 align="center">Belgian Blue</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vqws6t1504888857.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/jylbrq1582580066.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Punch / Party Drink</h5>
+<h5 align="center">Alcoholic - Soft Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,24 +48,20 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Malibu rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blackberry brandy</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Coconut liqueur</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Orange juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 cl </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Pineapple juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cranberry juice</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">3-4 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sprite</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Fill with </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +72,7 @@
 
 
 <p align="center">
-Mix all ingredients in glass &amp; add ice.
+Just pour all ingredients in the glass and stir...
 </p>
 
 ----
@@ -176,14 +172,14 @@ Mix all ingredients in glass &amp; add ice.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">A New Year's Aurora and SAR Arc - ©️ Alessandra Masi @ 2025-01-07</h4>
+<h4 align="center">Supernova Remnants Big and Small - ©️ Stéphane Vetter(Nuits sacrées) @ 2025-01-08</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/AuroraSar_Masi_960.jpg" alt="A New Year's Aurora and SAR Arc image" />
+<img src="https://apod.nasa.gov/apod/image/2501/Supernovas_Vetter_960.jpg" alt="Supernova Remnants Big and Small image" />
 
 </p>
 
-<h5 align="center">It was a new year, and the sky was doubly red.  The new year meant that the Earth had returned to its usual place in its orbit on January 1, a place a few days before its closest approach to the Sun.  The first of the two red skyglows, on the left, was a red aurora, complete with vertical rays, caused by a blast from the Sun pushing charged particles into Earth's atmosphere.  The second red glow, most prominent on the far right, was possibly a SAR arc caused by a river of charged particles flowing across Earth's atmosphere.  Although both appear red, the slight color difference is likely due to the aurora being emitted by both oxygen and nitrogen, whereas the higher SAR arc was possibly emitted more purely by atmospheric oxygen. The featured image was taken on January 1 from near Pieve di Cadore in Italy.   Portal Universe: Random APOD Generator</h5>
+<h5 align="center">What happens after a star explodes?  A huge fireball of hot gas shoots out in all directions.  When this gas slams into the existing interstellar medium, it heats up so much it glows. Two different supernova remnants (SNRs) are visible in the featured image, taken at the Oukaïmeden Observatory in Morocco.  The blue soccer ball-looking nebula toward the upper left is SNR G179.0+02.6, which appears to be the smaller one.  This supernova, about 11,000 light years distant, detonated about 50,000 years ago. Although composed mostly of hydrogen gas, the blue light is emitted by a trace amount of oxygen.  The seemingly larger SNR, dominating the lower right of the frame, is the Spaghetti Nebula, cataloged as Simeis 147 and sh2-240.  This supernova, only about 3,000 light years away, exploded about 40,000 years ago. Comparatively, even though they appear different sizes, both supernova remnants are not only roughly the same age, but about the same size, too.</h5>
 
 ----
 
@@ -196,68 +192,68 @@ Mix all ingredients in glass &amp; add ice.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/4.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/duck/22.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/18.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bird/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/4.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/redpanda/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/koala/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/kangaroo/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/18.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/lion/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/frog/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/6.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/axolotl/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/capybara/4.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/lion/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/frog/23.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/18.png" width="180"/>
 </td>
 </tr>
 <tr>
@@ -265,21 +261,21 @@ Mix all ingredients in glass &amp; add ice.
 <img src="https://cdn.animality.xyz/hedgehog/3.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/squirrel/13.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/horse/1.png" width="180"/>
 </td>
 </tr>
 </table>
