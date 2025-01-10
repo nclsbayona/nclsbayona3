@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;There carcir nah ch'anrutot rovsari can ch'at ch'un'bi,  nor vun'rcin'co tsuhsar.&quot;</strong>
-  <i>-- &quot;There is no absolute success in the world, only constant progress.&quot; in cheunh language --</i>
+  <strong align="center">Someone once said: &quot;Hah carcir nah ch'a sprint,  hah carcir ch'a marathon. In'a til mah ch'a csact'i&quot;</strong>
+  <i>-- &quot;It is not a sprint, it is a marathon. One step at a time&quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Zippy's Revenge</h4>
+<h4 align="center">Kir</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/1sqm7n1485620312.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/apneom1504370294.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Cocktail</h5>
+<h5 align="center">Alcoholic - Ordinary Drink</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,12 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cassis</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 part </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Rum</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Kool-Aid</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">4 oz Grape </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Champagne</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">5 parts </td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +64,7 @@
 
 
 <p align="center">
-Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the sugar in the Kool-Aid... serve cold
+Add the crème de cassis to the bottom of the glass, then top up with wine.
 </p>
 
 ----
@@ -168,14 +164,14 @@ Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the suga
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Peculiar Galaxies of Arp 273 - ©️ Dave Doctor @ 2025-01-09</h4>
+<h4 align="center">Young Stars, Dark Nebulae - ©️ Long Xin @ 2025-01-10</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/Image171a.jpg" alt="Peculiar Galaxies of Arp 273 image" />
+<img src="https://apod.nasa.gov/apod/image/2501/B209V773Tau_1024.png" alt="Young Stars, Dark Nebulae image" />
 
 </p>
 
-<h5 align="center">The colorful, spiky stars are in the foreground of this image taken with a small telescope on planet Earth. They lie well within our own Milky Way Galaxy. But the two eye-catching galaxies in the frame lie far beyond the Milky Way, at a distance of over 300 million light-years. The galaxies' twisted and distorted appearance is due to mutual gravitational tides as the pair engage in close encounters. Cataloged as Arp 273 (also as UGC 1810), these galaxies do look peculiar, but interacting galaxies are now understood to be common in the universe. Closer to home, the large spiral Andromeda Galaxy is known to be some 2 million light-years away and inexorably approaching the Milky Way.  In fact the far away peculiar galaxies of Arp 273 may offer an analog of the far future encounter of Andromeda and Milky Way. Repeated galaxy encounters on a cosmic timescale ultimately result in a merger into a single galaxy of stars. From our perspective, the bright cores of the Arp 273 galaxies are separated by only a little over 100,000 light-years.</h5>
+<h5 align="center">An unassuming region in the constellation Taurus holds these dark and dusty nebulae. Scattered through the scene, stars in multiple star systems are forming within their natal Taurus molecular cloud complex some 450 light-years away. Millions of years young and still going through stellar adolescence, the stars are variable in brightness and in the late phases of their gravitational collapse. Known as T-Tauri class stars they tend to be faint and take on a yellowish hue in the image. One of the brightest T-Tauri stars in Taurus, V773 (aka HD283447) is near the center of the telescopic frame that spans over 1 degree. Toward the top is the dense, dark marking on the sky cataloged as Barnard 209.</h5>
 
 ----
 
@@ -188,90 +184,90 @@ Mix Kool-Aid to taste then add Rum and ammaretto. shake well to disolve the suga
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/19.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/18.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/cat/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/33.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/bird/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/panda/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/7.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/21.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/20.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/17.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/1.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/23.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/0.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/24.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/2.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/22.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/4.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/4.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/7.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/8.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/12.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/12.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/7.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/6.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/13.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/11.png" width="180"/>
 </td>
 </tr>
 </table>
