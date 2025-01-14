@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Nayc kurshi,  bic is said,  liser drashaar brokar manda unless its roots reach daab brokar haran.&quot;</strong>
-  <i>-- &quot;No tree, it is said, can grow to heaven unless its roots reach down to hell.&quot; in mandalorian language --</i>
+  <strong align="center">Someone once said: &quot;Ch'at ttin't ch'a hisban'ch'ah carcir ch'at vsabah can tomorrow.&quot;</strong>
+  <i>-- &quot;To plant a garden is to believe in tomorrow.  &quot; in cheunh language --</i>
 
 </p>
 
@@ -26,14 +26,14 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Green Goblin</h4>
+<h4 align="center">Tipperary</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/qxprxr1454511520.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/b522ek1521761610.jpg" alt="Drink image" />
 
 </p>
 
-<h5 align="center">Alcoholic - Beer</h5>
+<h5 align="center">Alcoholic - Cocktail</h5>
 
 <h5 align="center">Necessary ingredients</h5>
 <table align="center">
@@ -48,16 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Cider</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint hard </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Irish Whiskey</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Lager</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 pint </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz</td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Blue Curacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 shot </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Green Chartreuse</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz</td>
         </tr>
     </tbody>
 </table>
@@ -68,7 +68,7 @@
 
 
 <p align="center">
-Cider First, Lager then Curacao
+Stir over ice. Strain into chilled glass. Cut a wide swath of orange peel, and express the orange oils over the drink. Discard orange twist.
 </p>
 
 ----
@@ -168,14 +168,14 @@ Cider First, Lager then Curacao
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Comet ATLAS Before Sunrise - ©️ Petr Horalek /Institute of Physics in Opava @ 2025-01-13</h4>
+<h4 align="center">North Star: Polaris and Surrounding Dust - ©️ Davide Coverta @ 2025-01-14</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/CometAtlas_Horalek_960_inset.jpg" alt="Comet ATLAS Before Sunrise image" />
+<img src="https://apod.nasa.gov/apod/image/2501/PolarisIfn_Coverta_960.jpg" alt="North Star: Polaris and Surrounding Dust image" />
 
 </p>
 
-<h5 align="center">Comet ATLAS is really bright now, but also really close to the Sun. Outside the glow of the Sun, Comet C/2024 G3 (ATLAS) would be one of the more remarkable comet sights of recent years, reflecting about as much sunlight to Earth as Comet Tsuchinshan-ATLAS did in October, and now rivaling even planet Venus. But the giant snowball is now so close to the Sun that it can only be seen through the light of the early morning dawn or the early evening dusk. Today, Comet ATLAS is at perihelion -- its closest ever to the Sun.  Although the future brightness of comets is notoriously hard to predict, there is hope that Comet ATLAS will survive its close pass near the Sun and remain bright enough to be seen with the unaided eye over the next few days -- and possibly a good camera comet for weeks. The featured image was taken early yesterday morning near Tornaľa, Slovakia.   Tomorrow: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</h5>
+<h5 align="center">Why is Polaris called the North Star? First, Polaris is the nearest bright star toward the north spin axis of the Earth.  Therefore, as the Earth turns, stars appear to revolve around Polaris, but Polaris itself always stays in the same northerly direction -- making it the North Star.  Since no bright star is near the south spin axis of the Earth, there is currently no bright South Star.  Thousands of years ago, Earth's spin axis pointed in a slightly different direction so that Vega was the North Star.  Although Polaris is not the brightest star on the sky, it is easily located because it is nearly aligned with two stars in the cup of the Big Dipper. Polaris is near the center of the five-degree wide featured image, a digital composite of hundreds of exposures that brings out faint gas and dust of the Integrated Flux Nebula (IFN) all over the frame. The surface of Cepheid Polaris slowly pulsates, causing the famous star to change its brightness by a few percent over the course of a few days.    Today: Zoom APOD Lecture hosted by the Amateur Astronomers of Association of New York</h5>
 
 ----
 
@@ -188,90 +188,90 @@ Cider First, Lager then Curacao
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/2.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/17.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/24.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/0.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/13.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/34.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/22.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/20.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/7.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/koala/18.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/whale/12.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/dolphin/0.png" width="180"/>
 </td>
 <td>
 <img src="https://cdn.animality.xyz/kangaroo/15.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/rabbit/11.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/15.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/13.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/23.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/14.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/11.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/8.png" width="180"/>
+<img src="https://cdn.animality.xyz/penguin/18.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/axolotl/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/capybara/12.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/hedgehog/5.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/turtle/2.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/narwhal/5.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/12.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/0.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/14.png" width="180"/>
 </td>
 </tr>
 </table>
