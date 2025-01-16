@@ -15,8 +15,8 @@
 
 <p align="center">
 
-  <strong align="center">Someone once said: &quot;Surrender tor ra nam-tor. Kal-tor hal-tor t' ra vesh'. Ma odva svi' ra dungi nam-tor.&quot;</strong>
-  <i>-- &quot;Surrender to what is. Let go of what was. Have faith in what will be.&quot; in vulcan language --</i>
+  <strong align="center">Someone once said: &quot;10x engineers are a myth&quot;</strong>
+  <i>-- &quot;10x engineers are a myth&quot; in gungan language --</i>
 
 </p>
 
@@ -26,10 +26,10 @@
 <details name="info">
 <summary>Maybe you're looking for a drink? 🍹</summary>
 <br />
-<h4 align="center">Orgasm</h4>
+<h4 align="center">Artillery</h4>
 <p align="center">
 
-<img src="https://www.thecocktaildb.com/images/media/drink/vr6kle1504886114.jpg" alt="Drink image" />
+<img src="https://www.thecocktaildb.com/images/media/drink/g1vnbe1493067747.jpg" alt="Drink image" />
 
 </p>
 
@@ -48,24 +48,16 @@
     </thead>
     <tbody>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Creme de Cacao</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz white </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Sweet Vermouth</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 tsp </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Amaretto</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Gin</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 1/2 oz </td>
         </tr>
         <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Triple sec</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Vodka</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1/2 oz </td>
-        </tr>
-        <tr>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Light cream</td>
-            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">1 oz </td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">Bitters</td>
+            <td style="padding-left: 1em; padding-right: 1em; text-align: center; vertical-align: top">2 dashes </td>
         </tr>
     </tbody>
 </table>
@@ -76,7 +68,7 @@
 
 
 <p align="center">
-Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
+Stir all ingredients with ice, strain into a cocktail glass, and serve.
 </p>
 
 ----
@@ -176,14 +168,14 @@ Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 <summary>Maybe you're looking to see something about our universe? 🔭</summary>
 
 <br />
-<h4 align="center">Wolf Moon Engulfs Mars - ©️ Imran Sultan @ 2025-01-15</h4>
+<h4 align="center">M83: The Southern Pinwheel - ©️ NASA @ 2025-01-16</h4>
 <p align="center">
 
-<img src="https://apod.nasa.gov/apod/image/2501/MoonMars_Sultan_960.jpg" alt="Wolf Moon Engulfs Mars image" />
+<img src="https://apod.nasa.gov/apod/image/2501/noirlab2429a_1024.jpg" alt="M83: The Southern Pinwheel image" />
 
 </p>
 
-<h5 align="center">Does the Moon ever engulf Mars? Yes, but only in the sense that it moves in front, which happens on rare occasions.  This happened just yesterday, though, as seen from some locations in North America and western Africa.  This occultation was notable not only because the Moon was a fully lit Wolf Moon, but because Mars was near its largest and brightest, moving to opposition -- the closest to the Earth in its orbit -- only tomorrow.  The engulfing, more formally called an occultation, typically lasting about an hour. The featured image was taken from near Chicago, Illinois, USA just as Earth's largest satellite was angularly moving away from the much more distant red planet. Our  Moon occasionally moves in front of all of the Solar System's planets.  Given the temporary alignment of orbital planes, the next time our Moon eclipses Mars will be a relatively soon February 9.   Growing Gallery: Moon-Mars Occultation in January 2025</h5>
+<h5 align="center">Beautiful and bright spiral galaxy M83 lies a some twelve million light-years away, near the southeastern tip of the very long constellation Hydra. Prominent spiral arms traced by dark dust lanes and blue star clusters lend this galaxy its popular name, The Southern Pinwheel.  Still, reddish star forming regions that dot this cosmic pinwheel's spiral arms have suggested another nickname, the Thousand-Ruby Galaxy. A mere 40,000 light-years across, smaller than the Milky Way, M83 is a member of a group of galaxies that includes active galaxy Centaurus A. In fact, the core of M83 itself is bright at x-ray energies, showing a high concentration of neutron stars and black holes left from an intense burst of star formation. This sharp color image also features spiky foreground Milky Way stars and distant background galaxies. The image data was captured with the Dark Energy Camera and Blanco 4-meter telescope at Cerro Tololo Inter-American Observatory.</h5>
 
 ----
 
@@ -196,90 +188,90 @@ Shake all ingredients with ice, strain into a chilled cocktail glass, and serve.
 <table align="center">
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/dog/19.png" width="180"/>
+<img src="https://cdn.animality.xyz/dog/21.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/duck/15.png" width="180"/>
+<img src="https://cdn.animality.xyz/duck/16.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fox/1.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/cat/27.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/bird/15.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/panda/24.png" width="180"/>
+<img src="https://cdn.animality.xyz/fox/10.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/redpanda/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/cat/29.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/koala/3.png" width="180"/>
+<img src="https://cdn.animality.xyz/bird/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/whale/15.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/dolphin/7.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/kangaroo/9.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/rabbit/16.png" width="180"/>
+<img src="https://cdn.animality.xyz/panda/14.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/lion/6.png" width="180"/>
+<img src="https://cdn.animality.xyz/redpanda/6.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/bear/14.png" width="180"/>
+<img src="https://cdn.animality.xyz/koala/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/frog/17.png" width="180"/>
-</td>
-</tr>
-<tr>
-<td>
-<img src="https://cdn.animality.xyz/penguin/3.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/axolotl/10.png" width="180"/>
-</td>
-<td>
-<img src="https://cdn.animality.xyz/capybara/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/whale/17.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/hedgehog/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/dolphin/9.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/turtle/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/kangaroo/10.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/narwhal/10.png" width="180"/>
+<img src="https://cdn.animality.xyz/rabbit/9.png" width="180"/>
 </td>
 </tr>
 <tr>
 <td>
-<img src="https://cdn.animality.xyz/squirrel/1.png" width="180"/>
+<img src="https://cdn.animality.xyz/lion/24.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/fish/5.png" width="180"/>
+<img src="https://cdn.animality.xyz/bear/8.png" width="180"/>
 </td>
 <td>
-<img src="https://cdn.animality.xyz/horse/0.png" width="180"/>
+<img src="https://cdn.animality.xyz/frog/19.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/penguin/10.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/axolotl/15.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/capybara/2.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/hedgehog/13.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/turtle/8.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/narwhal/6.png" width="180"/>
+</td>
+</tr>
+<tr>
+<td>
+<img src="https://cdn.animality.xyz/squirrel/9.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/fish/2.png" width="180"/>
+</td>
+<td>
+<img src="https://cdn.animality.xyz/horse/7.png" width="180"/>
 </td>
 </tr>
 </table>
